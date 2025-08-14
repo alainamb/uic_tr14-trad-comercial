@@ -116,7 +116,7 @@ El plagio de trabajos de otros estudiantes o de recursos en línea, así como la
 ---
 
 ## 📥 Descargar Políticas del Curso
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/overview/politicas.md) y descárgalo!
+¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/overview/politicas.md) y descárgalo!
 
 ### 🤖 Prompts de Estudio con IA
 Copia las políticas descargadas y prueba estos prompts:
