@@ -68,7 +68,7 @@ Esta unidad establece los cimientos conceptuales para todo el curso, proporcion�
 ---
 
 ## 📥 Descargar Resumen de la Unidad 1
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-comercial-publicitaria/blob/main/unidad1/unidad1-resumen.md) y descárgalo!
+¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad1/unidad1-resumen.md) y descárgalo!
 
 ### 🤖 Prompts de Estudio con IA
 Copia el resumen descargado de la unidad y prueba estos prompts:
