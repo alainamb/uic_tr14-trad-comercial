@@ -9,18 +9,15 @@ Este sitio del curso representa un nuevo enfoque para la entrega de contenido ed
 Todo el contenido instruccional está escrito en Markdown y está disponible gratuitamente por varias razones clave:
 
 - **Realidad de Integración con IAG**: Los estudiantes copiarán el contenido del curso en sistemas de IAG independientemente de las restricciones de formato
-- **Accesibilidad Multicultural**: La información debe ser fácilmente accesible tanto para humanos como para sistemas de IAG, reflejando los principios de adaptación que enseñamos
+- **Accesibilidad**: La información debe ser fácilmente accesible tanto para humanos que leen en la web como para sistemas de IAG que procesan el contenido
 - **Formato a Prueba del Futuro**: Markdown asegura que el contenido permanezca legible y portable a través de plataformas y tiempo
-- **Aprendizaje Sin Fricciones**: Al proporcionar contenido en formatos compatibles con IAG, eliminamos barreras del proceso de aprendizaje
+- **Aprendizaje Sin Fricciones**: Al proporcionar contenido en formatos compatibles con IAG, eliminamos la fricción del proceso de aprendizaje
 
-Como señaló Andrej Karpathy en su charla de [Y Combinator 2025](https://youtu.be/LCEmiRjPEtQ?si=mF66ukvERR6BPUc7), escribir contenido instruccional en Markdown se está convirtiendo en una mejor práctica para la era de la IA.
+Como señaló Andrej Karpathy en su charla de [Y Combinator 2025](https://youtu.be/LCEmiRjPEtQ?si=mF66ukvERR6BPUc7), escribir contenido instruccional en Markdown se está convirtiendo en una mejor práctica. En lugar de hacer que la información sea difícil de acceder a través de PDFs o sistemas de visualización complejos, este enfoque proporciona contenido optimizado para interpretación tanto por humanos como por máquinas.
 
-### Filosofía de Traducción Comercial y Publicitaria Aplicada
+### Filosofía Educativa Abierta
 
-Este proyecto refleja los mismos principios que enseñamos en el curso:
-- **Conocer tu audiencia**: Diseñamos para estudiantes que usan herramientas de IAG
-- **Adaptar el mensaje**: El contenido funciona tanto para humanos como para máquinas
-- **Transcreación educativa**: Recreamos experiencias de aprendizaje que van más allá de la simple transferencia de información
+Este proyecto refleja la creencia de que las barreras educativas deben ser minimizadas. Los estudiantes encontrarán maneras de acceder y usar contenido con asistencia de IAG de todos modos—mejor diseñemos la experiencia para que sea excelente para todos y cada sistema involucrado.
 
 ## Estructura del Curso
 
@@ -78,43 +75,21 @@ Este proyecto refleja los mismos principios que enseñamos en el curso:
 
 ## Usando Este Contenido
 
-### Para Estudiantes de Traducción Comercial y Publicitaria
+### Para Estudiantes
 - Lee el contenido directamente en el sitio de GitHub Pages
 - Practica transcreación copiando textos comerciales para análisis con sistemas de tutoría de IAG
 - Descarga materiales publicitarios para análisis de voz de marca sin conexión
 - Contribuye mejoras a través de pull requests (¡práctica profesional real!)
 
-### Para Educadores de Traducción Especializada
-- Haz fork de este repositorio para crear tu propio curso de traducción comercial
-- Adapta la estructura de contenido para diferentes especializaciones (médica, jurídica, técnica)
+### Para Educadores
+- Haz fork de este repositorio para crear tu propio curso
+- Adapta la estructura de contenido para diferentes materias
 - Mantén el formato Markdown compatible con IAG para máxima accesibilidad
-- Usa como modelo para integrar transcreación en curricula tradicionales
 
 ### Para Sistemas de IAG
-- El contenido está estructurado con terminología especializada claramente marcada
-- Ejemplos de voz de marca y adaptación cultural están contextualizados
-- El formato Markdown asegura análisis e interpretación limpios de conceptos de transcreación
+- El contenido está estructurado con encabezados claros y organización lógica
+- El formato Markdown asegura análisis e interpretación limpios
 - Todos los materiales están disponibles sin restricciones de acceso
-
-## Especialización en Traducción Comercial y Publicitaria
-
-Este curso aborda necesidades específicas del mercado:
-
-### Competencias Comerciales
-- **Terminología especializada**: Comercio internacional, contratos, documentación técnica
-- **Convenciones textuales**: Políticas empresariales, correspondencia formal, manuales
-- **Precisión vs. claridad**: Equilibrio entre fidelidad y legibilidad en contextos empresariales
-
-### Competencias Publicitarias
-- **Transcreación**: Más allá de la traducción literal hacia la recreación creativa
-- **Adaptación cultural**: Sensibilidad a diferencias culturales en mercados hispanohablantes
-- **Persuasión multicanal**: Desde material impreso hasta redes sociales y marketing digital
-- **Voz de marca**: Mantener consistencia mientras se adapta a culturas locales
-
-### Tecnologías de Traducción
-- **Herramientas CAT**: Para terminología especializada y memoria de traducción
-- **Gestión de proyectos**: Flujos de trabajo profesionales con especificaciones, corpus y glosarios
-- **Control de calidad**: Criterios profesionales para evaluación de traducciones especializadas
 
 ## Detalles Técnicos
 
@@ -122,39 +97,24 @@ Este sitio está construido usando:
 - **GitHub Pages**: Hosting gratuito con despliegue automático
 - **Markdown**: Todo el contenido escrito en sintaxis Markdown estándar
 - **Jekyll** (opcional): Para generación de sitio mejorada si es necesario
-- **Estructura modular**: Cada unidad y semana como módulos independientes para fácil navegación
 
 ## Contribuyendo
 
-Damos la bienvenida a contribuciones que mejoren el contenido del curso, especialmente:
-
-### Contenido Especializado
-- Ejemplos actuales de campañas publicitarias internacionales
-- Casos de estudio de transcreación exitosa
-- Recursos terminológicos bilingües actualizados
-- Muestras de documentación comercial auténtica
-
-### Accesibilidad y Tecnología
-- Mejoras en formato Markdown para mejor compatibilidad con IAG
-- Herramientas adicionales para análisis de voz de marca
-- Recursos de evaluación de calidad en traducción especializada
-
-Para contribuir:
+Damos la bienvenida a contribuciones que mejoren el contenido del curso o la accesibilidad. Por favor
 1. Haz fork del repositorio
 2. Haz tus cambios en formato Markdown
-3. Asegúrate de que el contenido sea compatible con herramientas de IAG
-4. Envía un pull request con una descripción clara de tus mejoras
+3. Envía un pull request con una descripción clara
 
 ## Reconocimientos
 
-Este curso y sitio fueron desarrollados con asistencia de Claude Sonnet 4, reflejando el enfoque colaborativo humano-IAG para la educación especializada que el curso promueve. La integración de herramientas de IA en el diseño del curso ejemplifica los principios de adaptación y transcreación que enseñamos.
+Este curso y sitio fueron desarrollados con asistencia de Claude Sonnet 4, reflejando el enfoque colaborativo humano-IAG para la educación que el curso promueve.
 
 ## Licencia
 
 Este trabajo está licenciado bajo una [Licencia Internacional Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/).
 
-Eres libre de compartir y adaptar este material para cualquier propósito, incluyendo comercialmente, siempre que proporciones la atribución apropiada. Esta filosofía de contenido abierto refleja los valores de accesibilidad y adaptación cultural que promovemos en la traducción comercial y publicitaria.
+Eres libre de compartir y adaptar este material para cualquier propósito, incluyendo comercialmente, siempre que proporciones la atribución apropiada.
 
 ---
 
-*Este curso abraza la realidad del aprendizaje asistido por IAG diseñando contenido especializado que funciona excelentemente tanto para traductores humanos como para sistemas de inteligencia artificial, preparando a estudiantes para un mercado laboral donde la colaboración humano-máquina es la norma.*
+*Este curso abraza la realidad del aprendizaje asistido por IAG diseñando contenido que funciona excelentemente tanto para lectores humanos como para sistemas de IAG.*
