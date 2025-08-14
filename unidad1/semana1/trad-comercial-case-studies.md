@@ -32,7 +32,7 @@ Al completar esta actividad, podrás:
 - **Acceso a contenido público** (sitio web, redes sociales, comunicados)
 
 **Empresas sugeridas:**
-- Netflix, Spotify, Airbnb, Uber, McDonald's, Coca-Cola, Apple, Microsoft, Amazon, Google, Samsung, Nike, Adidas, Zara, H&M, IKEA, Starbucks, KFC, Pizza Hut, Booking.com
+- Netflix, Mercado Libre, Coca-Cola, etc.
 
 ### Paso 1: Identificación de comunicaciónes (10 minutos)
 
