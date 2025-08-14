@@ -38,8 +38,10 @@ Este proyecto refleja la creencia de que las barreras educativas deben ser minim
 │   ├── unidad1-conclusion.md # Cierre y reflexión de la unidad
 │   ├── semana1/             # Fundamentos de traducción comercial
 │   │   ├── semana1-resumen.md
-│   │   ├── presentacion-introductoria.md
-│   │   └── proyecto-perfil-corporativo.md
+│   │   ├── exposicion-introductoria.md
+│   │   ├── trad-comercial-case-studies.md
+│   │   ├── tranquality-spex-esp.md
+│   │   └── trabajos-trad-comercial.md
 │   └── semana2/             # Voz de marca y perfiles de audiencia
 │       ├── semana2-resumen.md
 │       └── analisis-voz-marca.md
