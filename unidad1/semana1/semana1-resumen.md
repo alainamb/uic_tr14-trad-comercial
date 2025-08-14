@@ -37,8 +37,8 @@ Esta semana nos enfocamos en los fundamentos de la traducción comercial y publi
 
 ## Recursos para el Aprendizaje
 
-- Presentación sobre fundamentos de la traducción comercial y publicitaria
 - Guía de aprendizaje del curso TR14
+- Presentación sobre fundamentos de la traducción comercial y publicitaria
 - Ejemplos introductorios de textos comerciales y publicitarios
 - Casos de estudio de oportunidades profesionales en el mercado
 
