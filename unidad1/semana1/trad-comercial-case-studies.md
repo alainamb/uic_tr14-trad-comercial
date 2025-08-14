@@ -8,9 +8,9 @@ nav_order: 2
 
 # Casos de Estudio de Traducción Comercial
 
-**Tiempo estimado**: 45 minutos
+**Tiempo estimado**: 60 minutos
 
-**Modalidad**: Actividad de la clase
+**Modalidad**: Actividad en grupos pequeños
 
 En esta actividad colaborativa, analizarás las diferencias prácticas entre comunicaciones informativas y persuasivas de una misma empresa, identificando cómo cambian las especificaciones de trabajo para el traductor en cada contexto.
 
@@ -24,53 +24,69 @@ Al completar esta actividad, podrás:
 
 ## Instrucciones del caso de estudio
 
-### Paso 1: Selección de empresa (10 minutos)
+### Preparación: Selección de empresa (5 minutos)
 
-**Trabajando en grupos de 3-4 personas**, seleccionen una empresa que cumpla estos criterios:
+**Trabajando en grupos pequeños**, seleccionen una empresa que cumpla estos criterios:
 - **Presencia internacional** con comunicación en inglés y español
 - **Variedad de comunicaciones** (tanto informativas como publicitarias)
 - **Acceso a contenido público** (sitio web, redes sociales, comunicados)
 
 **Empresas sugeridas:**
-- Netflix, Mercado Libre, Coca-Cola, etc.
+- Netflix, Spotify, Airbnb, Uber, McDonald's, Coca-Cola, Apple, Microsoft, Amazon, Google, Samsung, Nike, Adidas, Zara, H&M, IKEA, Starbucks, KFC, Pizza Hut, Booking.com
 
-### Paso 2: Identificación de comunicación informativa (15 minutos)
+### Paso 1: Identificación de comunicaciónes (10 minutos)
+
+#### Comunicación informativa
 
 Busquen y seleccionen **un ejemplo de comunicación informativa** de su empresa elegida.
 
 **Tipos de comunicación informativa:**
-- Términos y condiciones de servicio
-- Políticas de privacidad o devoluciones
+- Comunicaciones internas
+- Políticas de devoluciones
 - Preguntas frecuentes (FAQ)
-- Comunicados de prensa sobre resultados financieros
 - Manuales de usuario o guías técnicas
 - Correos electrónicos de confirmación de pedido
-- Notificaciones de cambios en el servicio
 
-**Documenten:**
+**Anoten:**
 - **Fuente exacta** (URL, tipo de documento)
 - **Audiencia objetivo** (clientes existentes, medios, usuarios técnicos, etc.)
 - **Propósito principal** (informar, instruir, notificar, etc.)
 
-### Paso 3: Identificación de comunicación persuasiva (15 minutos)
+#### Comunicación persuasiva
 
 Busquen y seleccionen **un ejemplo de comunicación persuasiva** de la misma empresa.
 
 **Tipos de comunicación persuasiva:**
-- Anuncios publicitarios (digital, impreso, video)
-- Publicaciones en redes sociales promocionales
-- Landing pages de productos/servicios
-- Campañas de email marketing
 - Eslóganes y taglines
-- Descripciones de productos en e-commerce
+- Publicaciones en redes sociales promocionales
 - Contenido de blogs corporativos orientado a ventas
+- Anuncios publicitarios (digital, impreso, video)
+- Campañas de email marketing
 
-**Documenten:**
+**Anoten:**
 - **Fuente exacta** (URL, plataforma, tipo de contenido)
 - **Audiencia objetivo** (clientes potenciales, segmento específico, etc.)
 - **Propósito principal** (persuadir, vender, generar interés, etc.)
 
-### Paso 4: Análisis comparativo (15 minutos)
+### Paso 2: Especificaciones de traducción (15 minutos)
+
+**Consulta el marco de referencia:** Revisa las [Parámetros de Traducción Estandarizados](tranquality-spex-esp.md) para guiar tu análisis.
+
+Utilizando los parámetros del marco, analicen las diferencias en:
+
+**Para comunicación informativa:**
+- **Prioridades**: ¿Precisión? ¿Claridad? ¿Consistencia terminológica?
+- **Content correspondence**: ¿Qué tan literal debe ser la traducción?
+- **Riesgos principales**: ¿Qué errores serían más problemáticos?
+
+**Para comunicación persuasiva:**
+- **Prioridades**: ¿Impacto emocional? ¿Adaptación cultural? ¿Mantenimiento del efecto persuasivo?
+- **Content correspondence**: ¿Cuánta libertad para adaptar o transcreear?
+- **Riesgos principales**: ¿Pérdida de impacto? ¿Inadecuación cultural?
+
+### Paso 3: Análisis comparativo (15 minutos)
+
+**Pregunta clave:** ¿Cómo cambiarían las especificaciones para tu trabajo como traductor entre estos dos tipos de comunicación?
 
 Comparen ambos ejemplos analizando estos elementos:
 
@@ -85,25 +101,7 @@ Comparen ambos ejemplos analizando estos elementos:
 - **Motivación** para leer el texto (necesidad vs. interés)
 - **Contexto de lectura** (búsqueda de información vs. navegación casual)
 
-### Paso 5: Especificaciones de traducción (15 minutos)
-
-**Pregunta clave:** ¿Cómo cambiarían las especificaciones para tu trabajo como traductor entre estos dos tipos de comunicación?
-
-Analicen las diferencias en:
-
-**Para comunicación informativa:**
-- **Prioridades**: ¿Precisión? ¿Claridad? ¿Consistencia terminológica?
-- **Flexibilidad creativa**: ¿Qué tan literal debe ser la traducción?
-- **Investigación necesaria**: ¿Qué tipo de documentación de referencia necesitarían?
-- **Riesgos principales**: ¿Qué errores serían más problemáticos?
-
-**Para comunicación persuasiva:**
-- **Prioridades**: ¿Impacto emocional? ¿Adaptación cultural? ¿Mantenimiento del efecto persuasivo?
-- **Flexibilidad creativa**: ¿Cuánta libertad para adaptar o transcreear?
-- **Investigación necesaria**: ¿Conocimiento del mercado meta? ¿Competencia local?
-- **Riesgos principales**: ¿Pérdida de impacto? ¿Inadecuación cultural?
-
-## Presentación grupal (10 minutos por grupo)
+## Presentación grupal (15 minutos)
 
 Cada grupo presentará:
 
@@ -112,13 +110,6 @@ Cada grupo presentará:
 3. **Comunicación persuasiva**: Tipo, audiencia, propósito
 4. **Análisis comparativo**: 3 diferencias clave identificadas
 5. **Especificaciones de traducción**: Cómo cambiarían sus prioridades y métodos para cada tipo
-
-## Criterios de participación
-
-- **Contribución activa** al trabajo grupal y análisis
-- **Identificación efectiva** de ejemplos representativos
-- **Análisis fundamentado** de las diferencias encontradas
-- **Participación constructiva** en las presentaciones de otros grupos
 
 ## Reflexión post-actividad
 
@@ -150,5 +141,4 @@ Para profundizar en tu análisis después de la clase, prueba estos prompts con 
 
 ---
 
-**Próxima actividad:** [Proyecto de Traducción - Texto Comercial](proyecto-texto-comercial.md) donde aplicarás estos conceptos en una traducción práctica.
-
+**Próxima actividad:** [Búsqueda de Trabajos en Traducción Comercial](trabajos-trad-comercial.md) donde puedes explorar el mercado laboral real de la traducción comercial y publicitaria.
