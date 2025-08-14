@@ -77,31 +77,6 @@ El curso concluye con un proyecto integrador de evaluación por pares que te per
 ## Flujo de Trabajo Cada Semana
 **Las clases se imparten los jueves** con materiales disponibles para revisión previa. Las tareas deberán entregarse generalmente los martes siguientes a cada clase.
 
-## Enfoque Especializado: De la Información a la Persuasión
-
-Este curso te llevará desde la **traducción informativa comercial** hasta la **transcreación publicitaria**:
-
-### Comunicaciones Informativas
-Durante las semanas 3-8, desarrollarás competencias en:
-- **Documentación empresarial**: Políticas, memorandos, correos corporativos
-- **Contratos comerciales**: Terminología jurídica y convenciones textuales
-- **Correspondencia con proveedores**: Documentación comercial internacional
-- **Documentación técnica**: Manuales de usuario, especificaciones, servicio al cliente
-
-### Comunicaciones Publicitarias
-Durante las semanas 9-14, dominarás:
-- **Campañas publicitarias multicanal**: Desde material impreso hasta redes sociales
-- **Marketing digital**: SEO, hashtags, contenido web optimizado
-- **Email marketing**: Boletines informativos y campañas promocionales
-- **Transcreación creativa**: Eslóganes, lemas y textos que requieren adaptación cultural
-
-### Transcreación: Más Allá de la Traducción
-Aprenderás el concepto y la práctica de la **transcreación**, donde:
-- Recreas mensajes considerando aspectos culturales y emocionales
-- Mantienes el impacto persuasivo del original
-- Adaptas contenidos para diferentes mercados hispanohablantes
-- Equilibras fidelidad creativa con efectividad comercial
-
 ---
 
 ## 📥 Descargar Descripción General del Curso
