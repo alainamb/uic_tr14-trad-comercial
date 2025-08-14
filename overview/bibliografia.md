@@ -102,7 +102,7 @@ Accesible: Disponible en biblioteca universitaria y formato digital.
 ---
 
 ## 📥 Descargar Bibliografía
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-comercial-publicitaria/blob/main/overview/bibliography.md) y descárgalo!
+¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/overview/bibliografia.md) y descárgalo!
 
 ### 🤖 Prompts de Estudio con IA
 Copia la bibliografía descargada y prueba estos prompts:
