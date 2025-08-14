@@ -2,7 +2,7 @@
 
 ## Motivación
 
-Este sitio del curso representa un enfoque innovador para la entrega de contenido educativo especializado en traducción. En lugar de resistir la realidad de que los estudiantes utilizan cada vez más sistemas de IA generativa para apoyo al aprendizaje, este proyecto lo abraza estratégicamente, especialmente relevante para un curso que enseña sobre adaptación de mensajes para diferentes audiencias y culturas.
+Este sitio del curso representa un nuevo enfoque para la entrega de contenido educativo en la era de la IA. En lugar de luchar contra la realidad de que los estudiantes utilizan cada vez más sistemas de IA generativa para tutoría y apoyo al aprendizaje, este proyecto lo abraza.
 
 ### Diseñando para Consumo Humano y de IAG
 
