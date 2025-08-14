@@ -44,7 +44,7 @@ Esta semana nos enfocamos en los fundamentos de la traducción comercial y publi
 
 ## Evaluación
 
-- **Asistencia y participación** (2 puntos)
+- No hay evaluaciones esta semana.
 
 ---
 
