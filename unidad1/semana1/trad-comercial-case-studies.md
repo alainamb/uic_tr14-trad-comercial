@@ -76,12 +76,12 @@ Utilizando los parámetros del marco, analicen las diferencias en:
 
 **Para comunicación informativa:**
 - **Prioridades**: ¿Precisión? ¿Claridad? ¿Consistencia terminológica?
-- **Content correspondence**: ¿Qué tan literal debe ser la traducción?
+- **Corespondencia**: ¿Qué tan literal debe ser la traducción?
 - **Riesgos principales**: ¿Qué errores serían más problemáticos?
 
 **Para comunicación persuasiva:**
 - **Prioridades**: ¿Impacto emocional? ¿Adaptación cultural? ¿Mantenimiento del efecto persuasivo?
-- **Content correspondence**: ¿Cuánta libertad para adaptar o transcreear?
+- **Corespondencia**: ¿Cuánta libertad para adaptar o transcreear?
 - **Riesgos principales**: ¿Pérdida de impacto? ¿Inadecuación cultural?
 
 ### Paso 3: Análisis comparativo (15 minutos)
@@ -101,19 +101,45 @@ Comparen ambos ejemplos analizando estos elementos:
 - **Motivación** para leer el texto (necesidad vs. interés)
 - **Contexto de lectura** (búsqueda de información vs. navegación casual)
 
-## Presentación grupal (15 minutos)
+## Publicación grupal
 
-Cada grupo presentará:
+Cada grupo publicará su investigación en el **canal "Case Studies"** de nuestro Teams con el siguiete formato:
 
-1. **La empresa seleccionada** y justificación de la elección
-2. **Comunicación informativa**: Tipo, audiencia, propósito
-3. **Comunicación persuasiva**: Tipo, audiencia, propósito
-4. **Análisis comparativo**: 3 diferencias clave identificadas
-5. **Especificaciones de traducción**: Cómo cambiarían sus prioridades y métodos para cada tipo
+### Contenido del post
+
+**Línea de asunto:** "Análisis [Nombre de la Empresa] - Sus nombres"
+
+**Empresa seleccionada:** [Nombre de la empresa]
+**Justificación:** [Por qué eligieron esta empresa]
+
+**📋 Comunicación informativa**
+
+- Tipo: [Ej. FAQ, términos y condiciones, etc.]
+- Audiencia: [A quién se dirige]
+- Propósito: [Qué busca lograr]
+- Enlace: [URL del contenido]
+
+**📢 Comunicación persuasiva**
+
+- Tipo: [Ej. anuncio, landing page, etc.]
+- Audiencia: [A quién se dirige]
+- Propósito: [Qué busca lograr]
+- Enlace: [URL del contenido]
+
+**⚙️ Especificaciones de traducción**
+
+- Para comunicación informativa: [Prioridades, correspondencia y riesgos]
+- Para comunicación persuasiva: [Prioridades, correspondencia y riesgos]
+
+**🔍 Análisis comparativo - 3 diferencias clave**
+
+[Diferencia 1]
+[Diferencia 2]
+[Diferencia 3]
 
 ## Reflexión post-actividad
 
-Después de escuchar todas las presentaciones, considera:
+Después de revisar todas las publicaciones, considera:
 
 - ¿Qué patrones comunes observaste entre diferentes empresas?
 - ¿Cuáles fueron las diferencias más sorprendentes entre comunicación informativa y persuasiva?
