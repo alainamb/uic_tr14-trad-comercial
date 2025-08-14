@@ -81,7 +81,7 @@ El curso concluye con un proyecto integrador de evaluación por pares que te per
 
 ## 📥 Descargar Descripción General del Curso
 
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-comercial-publicitaria/blob/main/overview/overview.md) y descárgalo!
+¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/overview/overview.md) y descárgalo!
 
 ### 🤖 Prompts de Estudio con IA
 Copia la descripción general descargada y prueba estos prompts:
