@@ -95,7 +95,7 @@ Califica tu confianza (escala 1-5) en estas competencias de la Unidad 1:
 ---
 
 ## 📥 Descargar Conclusión de la Unidad 1
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-comercial-publicitaria/blob/main/unidad1/unidad1-conclusion.md) y descárgalo!
+¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad1/unidad1-conclusion.md) y descárgalo!
 
 ### 🤖 Prompts de Estudio con IA
 Copia la conclusión descargada y prueba estos prompts:
