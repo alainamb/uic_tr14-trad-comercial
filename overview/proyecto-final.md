@@ -169,7 +169,7 @@ Un documento breve donde reflexiones sobre:
 
 ## 📥 Descargar Información del Proyecto Final
 
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-comercial-publicitaria/blob/main/overview/proyecto-final.md) y descárgalo!
+¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/overview/proyecto-final.md) y descárgalo!
 
 ### 🤖 Prompts de Estudio con IA
 Copia la información del proyecto final y prueba estos prompts:
