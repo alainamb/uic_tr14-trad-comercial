@@ -131,7 +131,7 @@ A lo largo del semestre podemos discutir:
 
 ## 📥 Descarga esta Actividad
 
-Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-comercial-publicitaria/blob/main/unidad1/semana1/trabajos-trad-comercial.md) y descárgalo.
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad1/semana1/trabajos-trad-comercial.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IA
 
