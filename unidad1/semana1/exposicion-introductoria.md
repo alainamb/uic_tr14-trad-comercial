@@ -82,7 +82,7 @@ Después de completar la presentación y las encuestas, considera estas pregunta
 
 ## 📥 Descarga esta Actividad
 
-Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-comercial-publicitaria/blob/main/unidad1/semana1/exposicion-introductoria.md) y descárgalo.
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad1/semana1/exposicion-introductoria.md) y descárgalo.
 
 Para profundizar en los conceptos después de la clase, prueba estos prompts con tu herramienta de IA preferida:
 
