@@ -157,7 +157,7 @@ Esta actividad te prepara para:
 
 ## 📥 Descarga esta Actividad
 
-Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-comercial-publicitaria/blob/main/unidad1/semana1/casos-estudio-traduccion.md) y descárgalo.
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad1/semana1/trad-comercial-case-studies.md) y descárgalo.
 
 Para profundizar en tu análisis después de la clase, prueba estos prompts con tu herramienta de IA preferida:
 
