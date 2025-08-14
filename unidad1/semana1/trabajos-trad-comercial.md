@@ -145,4 +145,4 @@ Copia el contenido descargado de la actividad y prueba estos prompts:
 
 ---
 
-**¡Semana 1 Completa!** Continúa tu aprendizaje en: [Unidad 2: Comunicaciones Informativas](../../unidad2/unidad2-resumen.md)
+**¡Semana 1 Completa!** Continúa tu aprendizaje en: [Semana 2: Voz de Marca, Perfiles de Audiencia y Propósito Comunicativo](../semana2/semana2-resumen.md)
