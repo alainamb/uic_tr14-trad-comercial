@@ -91,7 +91,7 @@ Una vez descargado, copia todo el contenido del archivo y pégalo en ChatGPT/Cla
 
 ---
 
-### 🚀 ¿Listo para Comenzar?
+### 🚀 ¿Listas y listos para aprender más sobre el curso?
 Revisa la [Descripción General del Curso](overview/overview.md) incluyendo políticas y bibliografía, o comienza directamente con la [Unidad 1: Introducción a la Traducción Comercial y Publicitaria](unidad1/unidad1-resumen.md).
 
 ---
