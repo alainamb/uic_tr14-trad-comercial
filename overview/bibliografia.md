@@ -115,4 +115,4 @@ Copia la bibliografía descargada y prueba estos prompts:
 
 ---
 
-**¡Felicitaciones!** Has completado la sección de Descripción General del Curso. ¿Listo para sumergirte en la [Unidad 1: Introducción a la Traducción Comercial y Publicitaria](../unidad1/unidad1-resumen.md)?
+**¿Listas y listos para el primero desafío?** Comienza con [Unidad 1: Introducción a la Traducción Comercial y Publicitaria](../unidad1/unidad1-resumen.md) para iniciar tu viaje en el mundo de la traducción comercial.
