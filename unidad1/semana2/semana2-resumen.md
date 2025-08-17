@@ -71,4 +71,4 @@ Copia el contenido descargado de la semana y prueba estos prompts:
 
 ---
 
-**¿Listo para profundizar?** Explora las actividades específicas y recursos para esta semana, y prepárate para aplicar estos conceptos fundamentales en la [Unidad 2: Comunicaciones Informativas](../../unidad2/unidad2-resumen.md).
+**¿Listas y listos para profundizar?** Explora las actividades específicas y recursos para esta semana.
