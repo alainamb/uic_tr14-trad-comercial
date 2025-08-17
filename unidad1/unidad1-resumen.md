@@ -80,4 +80,4 @@ Copia el resumen descargado de la unidad y prueba estos prompts:
 
 ---
 
-**¿Listo para comenzar?** Inicia con la [Semana 1: Introducción a la Traducción Comercial y Publicitaria](semana1/semana1-resumen.md) para dominar los fundamentos de la traducción especializada empresarial.
+**¿Listas y listos para comenzar?** Inicia con la [Semana 1: Introducción a la Traducción Comercial y Publicitaria](semana1/semana1-resumen.md) para dominar los fundamentos de la traducción especializada empresarial.
