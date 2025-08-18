@@ -19,7 +19,6 @@ Esta semana nos enfocamos en los conceptos fundamentales que guían la traducci�
 - **Análisis de la voz de marca** en diferentes empresas internacionales
 - **Perfiles de audiencia**: Definición y componentes clave
 - **Buyer personas** y su aplicación estratégica en la traducción
-- **Propósito comunicativo** en textos empresariales y publicitarios
 - **Impacto de estos elementos** en las decisiones de traducción especializada
 
 ## Actividades en Clase
@@ -27,7 +26,7 @@ Esta semana nos enfocamos en los conceptos fundamentales que guían la traducci�
 ### Actividades bajo Conducción Docente (Jueves 9-11am)
 - Presentación sobre voz de marca y perfiles de audiencia: conceptos y aplicaciones
 - Análisis grupal: Ejemplos de voz de marca en empresas internacionales con presencia hispanohablante
-- Ejercicios prácticos: Creación de buyer personas para diferentes sectores empresariales y análisis del propósito comunicativo en textos comerciales
+- Ejercicios prácticos: Creación de buyer personas para diferentes sectores empresariales
 - Presentación del trabajo: Perfil Corporativo (proyecto de la semana)
 
 ## Actividades Independientes
