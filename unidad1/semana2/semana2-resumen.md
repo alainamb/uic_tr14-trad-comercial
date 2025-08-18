@@ -27,7 +27,7 @@ Esta semana nos enfocamos en los conceptos fundamentales que guían la traducci�
 ### Actividades bajo Conducción Docente (Jueves 9-11am)
 - Presentación sobre voz de marca y perfiles de audiencia: conceptos y aplicaciones
 - Análisis grupal: Ejemplos de voz de marca en empresas internacionales con presencia hispanohablante
-- Ejercicios prácticos: Identificación de elementos de voz de marca en textos reales, creación de buyer personas para diferentes sectores empresariales, y análisis del propósito comunicativo en textos comerciales
+- Ejercicios prácticos: Creación de buyer personas para diferentes sectores empresariales y análisis del propósito comunicativo en textos comerciales
 - Presentación del trabajo: Perfil Corporativo (proyecto de la semana)
 
 ## Actividades Independientes
