@@ -163,4 +163,4 @@ Copia el contenido descargado y prueba estos prompts:
 
 ---
 
-**¡Unidad 1 Completa!** Repasa lo que aprendiste en la [Conclusión de la Unidad 1](../unidad1-conclusion.md)
+**¡Unidad 1 Completa!** Repasa lo que has logrado en la [Conclusión de la Unidad 1](../unidad1-conclusion.md)
