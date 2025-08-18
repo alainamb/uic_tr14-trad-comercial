@@ -64,7 +64,7 @@ Utilicen el **Generador de HubSpot** para crear su buyer persona paso a paso:
 
 Una vez completado, **descarguen el "Resumen del Generador de buyer personas"** que se ve así:
 
-![Resumen del Generador de buyer personas - Ejemplo de formato](../referencias/HubSpot_Generador-Buyer-Personas.png)
+![Resumen del Generador de buyer personas - Ejemplo de formato](referencias/HubSpot_Generador-Buyer-Personas.png)
 
 *Figura: Ejemplo del resumen generado por la herramienta de HubSpot*
 
