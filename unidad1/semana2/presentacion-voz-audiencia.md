@@ -8,7 +8,7 @@ nav_order: 1
 
 # Presentación: Voz de Marca y Perfiles de Audiencia
 
-**Tiempo estimado**: 60 minutos
+**Tiempo estimado**: 30 minutos
 
 **Modalidad**: Presentación interactiva con encuestas
 
