@@ -163,4 +163,4 @@ Copia el contenido descargado y prueba estos prompts:
 
 ---
 
-**¡Unidad 1 Completa!** Continúa tu aprendizaje en: [Unidad 2: Comunicaciones Informativas](../../unidad2/unidad2-resumen.md)
+**¡Unidad 1 Completa!** Repasa lo que aprendiste en la [Conclusión de la Unidad 1](../unidad1-conclusion.md)
