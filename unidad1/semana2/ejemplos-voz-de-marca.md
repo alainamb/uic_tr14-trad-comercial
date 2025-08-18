@@ -98,7 +98,7 @@ Basándose en su análisis, ¿qué riesgos identifican en la adaptación transcu
 ### Pregunta 3: Implicaciones para Traducción
 Como traductor comercial, ¿qué elementos de voz de marca prioritizarían al traducir materiales de esta empresa? ¿Qué decisiones estratégicas serían más importantes?
 
-## Publicaciób Grupal
+## Publicación Grupal
 
 Cada grupo publicará su investigación en el **canal "Voz de Marca y Buyer Personas"** de nuestro Teams con la siguiete información:
 
