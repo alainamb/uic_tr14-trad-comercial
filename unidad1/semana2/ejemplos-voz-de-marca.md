@@ -102,7 +102,11 @@ Como traductor comercial, ¿qué elementos de voz de marca prioritizarían al tr
 
 Cada grupo publicará su investigación en el **canal "Voz de Marca y Buyer Personas"** de nuestro Teams con la siguiete información:
 
-1. **Empresa seleccionada** y justificación
+### Contenido del Post
+
+**Línea de asunto**: "Voz de Marca de [Nombre de Empresa] - [Nombres del equipo]"
+
+1. **Empresa seleccionada** y por qué
 2. **3 adaptaciones más significativas** observadas
 3. **1 recomendación** para mejorar la adaptación de voz de marca
 4. **Implicaciones clave** para traductores especializados
