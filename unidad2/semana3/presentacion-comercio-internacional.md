@@ -21,6 +21,37 @@ El comercio internacional opera bajo sistemas específicos de terminología, pro
 
 Un traductor sin estos fundamentos puede producir textos técnicamente correctos pero comercialmente inadecuados o incluso problemáticos desde una perspectiva legal.
 
+## Responsabilidad Legal del Traductor Comercial
+
+### Las Consecuencias Reales de los Errores de Traducción
+
+Según la investigación de Jody Byrne en "[Caveat Translator: Understanding the Legal Consequences of Errors in Professional Translation](https://www.jostrans.org/article/view/7291/6601)", los errores de traducción pueden tener consecuencias significativas tanto para traductores como para clientes. En el ámbito comercial, estos errores pueden resultar en:
+
+- **Pérdidas financieras sustanciales** por malinterpretación de términos contractuales
+- **Problemas regulatorios** por documentación incorrecta
+- **Responsabilidad civil** del traductor bajo las leyes de negligencia profesional
+- **Daños reputacionales** para empresas y traductores
+
+### Marco Legal de Responsabilidad
+
+#### Tipos de Responsabilidad Legal
+1. **Incumplimiento de contrato**: Relacionado con acuerdos formales entre traductor y cliente
+2. **Responsabilidad extracontractual**: Basada en el deber de cuidado profesional hacia terceros
+
+#### Deber de Cuidado Profesional
+Según el caso Caparo Industries plc v Dickman [1990], el deber de cuidado del traductor existe cuando:
+
+1. La información se proporciona con un propósito específico
+2. Este propósito se comunica al momento de la contratación
+3. El traductor sabe que la información será utilizada para el propósito especificado
+4. Se espera que la información se use sin verificación independiente
+
+#### Implicaciones para Traductores Comerciales
+- Los traductores especializados enfrentan estándares más altos de responsabilidad
+- Es crucial obtener información clara sobre el propósito de cada traducción
+- La documentación debe cumplir con prácticas profesionales estándar
+- Se recomienda incluir cláusulas de limitación de responsabilidad en contratos
+
 ## Principios Empresariales Fundamentales
 
 ### Actividad Económica y Sectores Productivos
@@ -31,16 +62,19 @@ Las actividades económicas se clasifican tradicionalmente en tres sectores que 
 - **Actividades**: Extracción de recursos naturales, agricultura, pesca, minería
 - **Documentos típicos**: Certificados de origen, licencias de exportación, informes de calidad
 - **Desafíos de traducción**: Terminología técnica especializada por industria
+- **Riesgo legal**: Certificaciones sanitarias incorrectas pueden resultar en bloqueo aduanal
 
 #### Sector Secundario
 - **Actividades**: Manufactura, construcción, procesamiento industrial
 - **Documentos típicos**: Especificaciones técnicas, manuales de operación, contratos de manufactura
 - **Desafíos de traducción**: Terminología técnica, medidas y estándares industriales
+- **Riesgo legal**: Especificaciones incorrectas pueden causar defectos de producto y responsabilidad civil
 
 #### Sector Terciario
 - **Actividades**: Servicios financieros, logística, comercio, tecnología
 - **Documentos típicos**: Contratos de servicios, acuerdos de nivel de servicio, documentación de procesos
 - **Desafíos de traducción**: Conceptos abstractos de servicios, jerga empresarial
+- **Riesgo legal**: Términos contractuales mal traducidos pueden crear obligaciones no intencionadas
 
 ### Bienes vs. Servicios en el Comercio
 
@@ -50,11 +84,13 @@ La distinción entre bienes tangibles y servicios intangibles afecta directament
 - Documentación física: Facturas, certificados, manuales
 - Regulación aduanal: Clasificación arancelaria, permisos de importación
 - Logística: Documentos de embarque, seguros de carga
+- **Consideración legal**: Descripciones incorrectas pueden resultar en reclasificación arancelaria costosa
 
 **Servicios Intangibles**:
 - Documentación contractual: Acuerdos de servicios, términos y condiciones
 - Regulación profesional: Licencias, certificaciones, estándares de calidad
 - Entrega digital: Documentación de procesos, reportes de desempeño
+- **Consideración legal**: Términos de servicio mal traducidos pueden crear expectativas contractuales problemáticas
 
 ## Comercio Internacional: Estructura y Procesos
 
@@ -86,6 +122,41 @@ El comercio internacional es el intercambio de bienes, servicios y capital entre
 6. **Distribución local** → Documentación de entrega, certificados de recepción
 
 ## Marcos Regulatorios Clave
+
+### Regulaciones Europeas y Traducciones Obligatorias
+
+#### Resolución C411 de la Unión Europea
+La Resolución C411 establece que **la documentación técnica de productos debe traducirse al idioma del país donde se vende el producto**. Esta regulación reconoce que:
+
+> "las instrucciones de operación para bienes de consumo técnicos frecuentemente se perciben como inadecuadas tanto porque son poco claras como porque presentan dificultades de idioma como resultado de traducciones defectuosas"
+
+**Implicaciones críticas**:
+- Un producto solo se considera completo cuando incluye manual de operación traducido
+- Instrucciones inadequadas pueden ser factor para considerar productos defectuosos
+- Documentación debe ser clara, precisa y fácilmente comprensible
+
+#### Declaración CE de Conformidad
+Para vender productos en la Unión Europea, las empresas deben:
+- Producir una declaración CE de conformidad
+- **Traducir la declaración al idioma requerido por cada país miembro**
+- Asegurar que manuales traducidos no contengan errores que impidan uso seguro del producto
+
+**Consecuencia legal**: Si el manual traducido contiene errores que impiden uso seguro, **todo el producto se considera defectuoso y debe retirarse del mercado**.
+
+#### Casos Reales de Consecuencias Legales
+
+**Caso de la Máquina de Pan (Alemania, 1996)**:
+- Máquina de pan producía humos tóxicos por defecto de producto
+- Instrucciones en inglés indicaban que el "steam" (vapor) era normal
+- Traductor alemán confundió "steam" (Dampf) con "smoke" (Rauch)
+- Usuarios continuaron usando máquina venenosa creyendo que el humo era normal
+- Instituto Regional de Salud encontró que la traducción incorrecta fue responsable
+- Fabricante pagó compensaciones y retiró producto del mercado
+
+**Lecciones clave**:
+- Errores "básicos" pueden tener consecuencias graves
+- La traducción incorrecta puede exacerbar problemas del producto
+- El traductor puede ser considerado responsable por incumplimiento del deber de cuidado
 
 ### Sistema Armonizado (SA)
 
@@ -155,13 +226,33 @@ Los documentos comerciales forman ecosistemas donde información inconsistente p
 ### Adaptación Cultural vs. Estandarización
 Algunos elementos requieren adaptación cultural mientras otros deben mantener estandarización internacional.
 
+### Mejores Prácticas para Minimizar Riesgo Legal
+
+#### Al Aceptar Proyectos:
+1. **Obtener información clara sobre el propósito** de la traducción
+2. **Documentar cualquier limitación** en conocimiento especializado
+3. **Establecer cláusulas de limitación** de responsabilidad en contratos
+4. **Mantener registros detallados** de decisiones de traducción problemáticas
+
+#### Durante la Traducción:
+1. **Investigar terminología especializada** usando fuentes autoritativas
+2. **Consultar con expertos** cuando sea necesario
+3. **Documentar decisiones de traducción** para términos ambiguos
+4. **Verificar coherencia** entre documentos relacionados
+
+#### Al Entregar:
+1. **Mantener archivos fuente y meta** por tiempo prolongado
+2. **Incluir notas explicativas** para decisiones de traducción complejas
+3. **Recomendar revisión legal** cuando sea apropiado
+4. **Seguir estándares profesionales** como DIN 2345 "Translation Contracts"
+
 ---
 
-## 📥 Descarga esta Presentación
+## Descarga esta Presentación
 
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad2/semana3/presentacion-comercio-internacional.md) y descárgalo.
 
-### 🤖 Prompts de Estudio con IA
+### Prompts de Estudio con IA
 
 Copia el contenido descargado y prueba estos prompts:
 
@@ -170,6 +261,8 @@ Copia el contenido descargado y prueba estos prompts:
 - "Crea ejemplos de cómo el Sistema Armonizado afecta las decisiones de traducción de descripciones de productos"
 - "¿Qué consideraciones especiales debo tener al traducir documentos regulatorios vs. contractuales?"
 - "Analiza las diferencias terminológicas entre marcos regulatorios de diferentes países para [producto específico]"
+- "¿Cómo puedo protegerme legalmente como traductor comercial especializado?"
+- "Explica el caso de la máquina de pan alemana y sus lecciones para traductores técnicos"
 
 ---
 
