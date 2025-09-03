@@ -32,6 +32,12 @@ Al completar este análisis, podrás:
 
 ## Análisis del Texto Fuente: Life at NetApp
 
+### Contexto empresarial
+
+**NetApp** es una compañía multinacional con sede en California que desarrolla soluciones de gestión de datos híbridos y multicloud. Su enfoque en cultura corporativa inclusiva y programas de diversidad los ha posicionado como un empleador de elección en el sector tecnológico. Para esta tarea, trabajarás con contenido dirigido a su fuerza laboral actual y candidatos potenciales.
+
+**Conexión con el semestre:** Volveremos a trabajar con contenido de NetApp en la **Semana 7** cuando nos enfoquemos en *Documentación Técnica y Servicio al Cliente*. Esto te permitirá comparar las estrategias comunicativas de NetApp cuando se dirige a audiencias internas versus externas, observando cómo adaptan su tono, terminología y enfoque según el público objetivo.
+
 ### Instrucciones de Análisis
 
 Revisa el contenido de [Life at NetApp](life-at-netapp.md) y completa la siguiente tabla de análisis:
