@@ -134,8 +134,6 @@ Basándote en el contenido de "Life at NetApp", **imagina qué otros tipos de co
 
 ## Publicación de Análisis
 
-### Foro de Preparación
-
 Publica tu análisis preliminar en el canal **"Comunicaciones Internas"** de Teams:
 
 **Línea de asunto**: "Análisis Pre-Traducción NetApp - [Tu nombre]"
