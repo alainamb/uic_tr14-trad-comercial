@@ -10,113 +10,133 @@ nav_order: 2
 
 **Tiempo estimado**: 40 minutos
 
-**Modalidad**: Análisis de recursos especializados
+**Modalidad**: Análisis del texto fuente para traducción
 
-Esta actividad te permite profundizar en las mejores prácticas y consideraciones específicas para la traducción de materiales de comunicación interna, explorando tanto la perspectiva de empresas de traducción especializadas como las estrategias para mantener la cultura corporativa a través del proceso de localización.
+Esta actividad te permite analizar en detalle el contenido de NetApp que traducirás esta semana, identificando elementos clave como audiencia, propósito, terminología especializada y tono corporativo que influirán en tus decisiones de traducción.
 
 ## Objetivos de la actividad
 
 Al completar este análisis, podrás:
-- **Identificar** desafíos específicos en la traducción de comunicaciones internas
-- **Analizar** estrategias profesionales para mantener la cultura corporativa
-- **Evaluar** mejores prácticas en la gestión de proyectos de traducción interna
-- **Reconocer** diferencias entre traducción de materiales internos y externos
+- **Identificar** la audiencia específica y propósito comunicativo del texto
+- **Analizar** terminología corporativa y elementos culturales clave
+- **Evaluar** el tono y registro apropiados para la traducción
+- **Planificar** estrategias de traducción basadas en el análisis del texto fuente
 
-## Recurso 1: Mantenimiento de la Cultura Corporativa
+## Contexto: Recursos sobre Traducción Corporativa
 
-### Artículo Principal: Bureau Works
+### Perspectivas Profesionales (Lectura Rápida)
 
-**Enlace**: [How to Translate Corporate Communication While Staying True to Company Culture](https://www.bureauworks.com/blog/how-to-translate-corporate-communication-while-staying-true-to-company-culture-fc)
+**[Bureau Works](https://www.bureauworks.com/blog/how-to-translate-corporate-communication-while-staying-true-to-company-culture-fc)** enfatiza que mantener la cultura corporativa en traducción requiere entender profundamente los valores organizacionales y adaptar el mensaje sin perder la autenticidad de la marca empleadora. Bureau Works es una plataforma de gestión de traducción que trabaja con empresas multinacionales en proyectos de localización corporativa.
 
-**Fuente**: Bureau Works es una plataforma de gestión de traducción que trabaja con empresas multinacionales en proyectos de localización corporativa.
+**[ILS Translations](https://www.ilstranslations.com/wp-content/uploads/2018/11/ILS-internal.pdf)** destaca que las comunicaciones internas requieren consideraciones específicas de audiencia (empleados actuales vs. candidatos potenciales) y que el tono debe reflejar tanto la personalidad corporativa como las expectativas culturales del mercado objetivo. ILS Translations es una empresa especializada en traducción corporativa con enfoque en comunicaciones internas y materiales de recursos humanos.
 
-### Preguntas de Análisis - Recurso 1
+## Análisis del Texto Fuente: Life at NetApp
 
-Mientras revises el artículo de Bureau Works, identifica:
+### Instrucciones de Análisis
 
-#### Sobre Cultura Corporativa
-1. **Definición de cultura corporativa** según el artículo
-2. **Elementos específicos** que deben preservarse en la traducción
-3. **Estrategias concretas** recomendadas para mantener la autenticidad cultural
+Revisa el contenido de [Life at NetApp](life-at-netapp.md) y completa la siguiente tabla de análisis:
 
-#### Sobre el Proceso de Traducción
-4. **Pasos del proceso** mencionados para traducción corporativa
-5. **Herramientas o metodologías** sugeridas
-6. **Roles y responsabilidades** de los diferentes actores (traductores, revisores, clientes)
+#### Tabla de Análisis Textual
 
-#### Sobre Desafíos Específicos
-7. **Obstáculos principales** identificados en la traducción corporativa
-8. **Soluciones propuestas** para superar estos desafíos
-9. **Métricas de éxito** mencionadas para evaluar la efectividad
+| **Elemento** | **Análisis** | **Implicaciones para Traducción** |
+|---|---|---|
+| **Audiencia Primaria** | [¿Quién leería este contenido?] | [¿Cómo adaptar para audiencia mexicana?] |
+| **Propósito Comunicativo** | [¿Qué busca lograr el texto?] | [¿Qué función debe cumplir en español?] |
+| **Tono Corporativo** | [¿Formal, inspiracional, casual?] | [¿Qué tono funciona en español mexicano?] |
+| **Terminología de Valores** | [Lista 5 términos clave] | [¿Traducción directa o adaptación?] |
+| **Terminología de HR/Diversidad** | [Lista 5 términos especializados] | [¿Equivalencias establecidas en español?] |
+| **Elementos Culturales** | [Referencias culturales específicas] | [¿Qué adaptar para contexto mexicano?] |
 
-## Recurso 2: Perspectiva Especializada en Comunicaciones Internas
+### Preguntas de Análisis Específico
 
-### Documento Técnico: ILS Translations
+#### 1. Audiencia Objetivo
+**¿Quién específicamente aplicaría para trabajar en NetApp?**
 
-**Enlace**: [Internal Communications Translation Guide](https://www.ilstranslations.com/wp-content/uploads/2018/11/ILS-internal.pdf)
+Considera estos factores:
+- **Perfil profesional**: ¿Qué tipo de experiencia y formación buscan?
+- **Valores personales**: ¿Qué características personales valoran?
+- **Etapa de carrera**: ¿Se dirigen a profesionales junior, senior, o ambos?
+- **Diversidad demográfica**: ¿Cómo se refleja su compromiso con la inclusión?
 
-**Fuente**: ILS Translations es una empresa especializada en traducción corporativa con enfoque en comunicaciones internas y materiales de recursos humanos.
+#### 2. Terminología Crítica
+**Identifica y analiza estos tipos de términos:**
 
-### Preguntas de Análisis - Recurso 2
+##### Nombres de Programas
+- NetAbled
+- VIBE (Visionaries Inspiring Black Excellence)
+- Proud @ NetApp
+- UNIDOS @ NetApp
+- Women in Technology
+- NetApp Cares
 
-Al revisar el documento PDF de ILS Translations, enfócate en:
+**Pregunta**: ¿Qué estrategia usarás para cada nombre de programa? ¿Traducción, adaptación, o mantenimiento del original con explicación?
 
-#### Sobre Tipología de Materiales
-1. **Tipos de documentos internos** mencionados
-2. **Características distintivas** de cada tipo de material
-3. **Audiencias específicas** para diferentes comunicaciones internas
+##### Conceptos de Valores Corporativos
+- "high-achieving culture"
+- "own their careers"
+- "build belonging"
+- "growth mindset"
+- "fixed-mindset quicksand"
 
-#### Sobre Estrategias de Traducción
-4. **Enfoques metodológicos** recomendados para materiales internos
-5. **Consideraciones de tono y registro** específicas
-6. **Adaptaciones culturales** necesarias para diferentes mercados
+**Pregunta**: ¿Cómo traducirás estos conceptos manteniendo su impacto motivacional en español?
 
-#### Sobre Gestión de Proyectos
-7. **Flujos de trabajo** sugeridos para proyectos de comunicación interna
-8. **Plazos típicos** y consideraciones de tiempo
-9. **Control de calidad** y procesos de revisión específicos
+##### Terminología de Diversidad e Inclusión
+- "inclusion and belonging"
+- "business resource groups"
+- "invisible and visible disabilities"
+- "LGBTQIA+ community and allies"
+- "operational excellence"
 
-## Reflexión Crítica
+**Pregunta**: ¿Qué terminología está ya establecida en español mexicano para estos conceptos? ¿Dónde necesitas investigar más?
 
-### Preguntas de Análisis Profundo
+#### 3. Adaptación Cultural
+**Elementos culturales a considerar:**
 
-#### Sobre las Fuentes
-1. **Credibilidad y perspectiva**: ¿Cómo influye el hecho de que ambas fuentes sean empresas de traducción en la información presentada?
-2. **Complementariedad**: ¿En qué aspectos se complementan estas perspectivas? ¿En cuáles difieren?
-3. **Aplicabilidad**: ¿Qué tan aplicables son estas recomendaciones al contexto mexicano/latinoamericano?
+- **Referencia al CEO**: ¿Cómo se presenta el liderazgo en culturas corporativas mexicanas?
+- **Voluntariado corporativo**: ¿Cómo se perciben estos programas en México?
+- **Diversidad e inclusión**: ¿Qué diferencias hay en cómo se comunican estos temas?
+- **"Work-life balance"**: ¿Cómo se expresa este concepto en español empresarial mexicano?
 
-#### Sobre la Práctica Profesional
-4. **Competencias necesarias**: Basándote en ambos recursos, ¿qué habilidades específicas necesita desarrollar un traductor especializado en comunicaciones internas?
-5. **Retos del mercado**: ¿Qué desafíos del mercado laboral mexicano no abordan estos recursos?
-6. **Oportunidades de especialización**: ¿Qué nichos de especialización identificas en este campo?
+## Actividad de Planificación de Traducción
 
-## Conexión con NetApp
+### Tabla de Estrategias de Traducción
 
-### Preparación para la Tarea
+Completa esta tabla con tus planes iniciales:
 
-Los insights obtenidos de estos recursos te preparan directamente para tu tarea de traducción de materiales de NetApp. Considera:
+| **Sección del Texto** | **Estrategia Principal** | **Justificación** | **Posibles Desafíos** |
+|---|---|---|---|
+| **Introducción/Valores** | [Adaptación/Traducción directa] | [¿Por qué esta estrategia?] | [¿Qué dificultades prevés?] |
+| **Nombres de Programas BRG** | [¿Mantener/Adaptar/Explicar?] | [¿Cuál es tu lógica?] | [¿Cómo resolver ambigüedades?] |
+| **Estadísticas de Impacto** | [¿Cómo presentarás los números?] | [¿Contexto mexicano?] | [¿Formato de tabla?] |
+| **Sección de Conexión Social** | [¿Adaptar redes/mantener enlaces?] | [¿Audiencia mexicana?] | [¿Hashtags en inglés/español?] |
 
-#### Aplicación Específica
-- **Cultura corporativa de NetApp**: ¿Cómo se manifiesta en sus materiales internos?
-- **Audiencia objetivo**: ¿Quiénes son los empleados y empleadas que leen estos materiales?
-- **Tono organizacional**: ¿Qué personalidad corporativa deben reflejar tus traducciones?
+## Actividad Opcional: Comunicaciones Internas Relacionadas
 
-#### Estrategias a Implementar
-- **Metodología de trabajo**: ¿Cuál de las estrategias analizadas aplicarás?
-- **Control de calidad**: ¿Qué procesos de revisión implementarás?
-- **Adaptación cultural**: ¿Qué elementos adaptarás para el contexto mexicano?
+### Pregunta de Reflexión
 
-## Publicación de Reflexiones
+Basándote en el contenido de "Life at NetApp", **imagina qué otros tipos de comunicaciones internas** relacionadas con estos temas se publicarían y traducirían en una empresa como NetApp:
 
-### Foro de Discusión
+**Ejemplos a considerar:**
+- Anuncios sobre nuevos miembros en los business resource groups
+- Boletines mensuales de NetApp Cares con historias de voluntariado
+- Políticas actualizadas sobre diversidad e inclusión
+- Invitaciones a eventos de los diferentes grupos de empleados
+- Reportes trimestrales de progreso en iniciativas ESG
+- Comunicados sobre cambios de liderazgo o estructura organizacional
 
-Publica tus conclusiones principales en el canal **"Comunicaciones Internas"** de Teams:
+**Pregunta de discusión**: ¿Cómo cambiarían las consideraciones de traducción entre este texto de reclutamiento y las comunicaciones internas dirigidas a empleados actuales?
 
-**Línea de asunto**: "Análisis de Recursos - [Tu nombre]"
+## Publicación de Análisis
 
-1. **Hallazgo más relevante** de cada recurso
-2. **Una estrategia específica** que planeas implementar en tu trabajo con NetApp
-3. **Una pregunta** que te surgió y que te gustaría discutir con la clase
+### Foro de Preparación
+
+Publica tu análisis preliminar en el canal **"Comunicaciones Internas"** de Teams:
+
+**Línea de asunto**: "Análisis Pre-Traducción NetApp - [Tu nombre]"
+
+1. **3 términos más desafiantes** identificados y tu estrategia inicial para cada uno
+2. **1 elemento cultural** que requiere adaptación y tu propuesta
+3. **1 pregunta específica** sobre el texto que te gustaría discutir antes de traducir
 
 ---
 
@@ -128,12 +148,12 @@ Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_
 
 Copia el contenido descargado y prueba estos prompts:
 
-- "Ayúdame a analizar las diferencias entre las estrategias de Bureau Works e ILS Translations para traducción de comunicaciones internas"
-- "¿Cómo puedo aplicar las mejores prácticas de traducción corporativa al contexto específico de empresas tecnológicas como NetApp?"
-- "Explica los retos específicos de mantener cultura corporativa en traducciones del inglés al español mexicano"
-- "¿Qué competencias profesionales necesito desarrollar como traductor especializado en comunicaciones internas?"
-- "Crea una checklist de control de calidad para mi proyecto de traducción de NetApp basada en estos recursos"
+- "Ayúdame a analizar la audiencia objetivo del contenido 'Life at NetApp' para optimizar mi traducción al español mexicano"
+- "¿Cuáles son las mejores estrategias para traducir nombres de programas de diversidad e inclusión del inglés al español?"
+- "Explica las diferencias culturales que debo considerar al traducir contenido de employer branding de una empresa estadounidense para audiencia mexicana"
+- "¿Cómo puedo mantener el tono inspiracional y motivacional del texto original en mi traducción al español?"
+- "Crea una guía de terminología para traducir conceptos de recursos humanos y diversidad corporativa"
 
 ---
 
-**Próxima actividad**: [Tarea: Traducción de Comunicación Interna](tarea-traduccion-comunicacion-interna.md) donde aplicarás estas estrategias a materiales reales de NetApp.
+**Próxima actividad**: [Tarea: Traducción de Comunicación Interna](tarea-traduccion-comunicacion-interna.md) donde aplicarás este análisis a tu proyecto de traducción de NetApp.
