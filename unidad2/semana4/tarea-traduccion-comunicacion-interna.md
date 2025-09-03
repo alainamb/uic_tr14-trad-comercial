@@ -119,7 +119,7 @@ La traducción será evaluada usando criterios adaptados del **Marco MQM (Multid
 
 #### Efectividad comunicativa global
 
-Considerando tus puntuaciones de Correspondencia General y Legibilidad, puedes determinar si tu traducción es efectiva, mayormente efectiva, algo inefectiva o inefectiva/incompleta.
+Considerando tus puntuaciones de correspondencia y legibilidad, puedes determinar si tu traducción es efectiva, mayormente efectiva, algo inefectiva o inefectiva/incompleta.
 
 | **Nivel** | **Correspondencia** | **Legibilidad** | **Descripción** |
 |-----------|-------------------|-----------------|-----------------|
