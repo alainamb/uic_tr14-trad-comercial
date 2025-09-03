@@ -103,8 +103,6 @@ Considera estos factores:
 - **Diversidad e inclusión**: ¿Qué diferencias hay en cómo se comunican estos temas?
 - **"Work-life balance"**: ¿Cómo se expresa este concepto en español empresarial mexicano?
 
-## Actividad de Planificación de Traducción
-
 ### Tabla de Estrategias de Traducción
 
 Completa esta tabla con tus planes iniciales:
