@@ -54,7 +54,7 @@ Traducirás materiales dirigidos a empleadas y empleados de NetApp, una empresa 
 
 ### 1. Traducción completa (Archivo .md)
 
-**Archivo:** `PrimerosApellidos_life-at-netapp-es.md`
+**Archivo:** `PrimerosApellidos_life-at-netapp.md`
 
 - **Traducción completa** del contenido de "Life at NetApp"
 - **Formato markdown** conservado exactamente como el original
