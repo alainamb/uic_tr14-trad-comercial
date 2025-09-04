@@ -130,10 +130,6 @@ Cada grupo publicará su análisis en el canal "Comunicaciones Internas" de nues
 
 Nectar es un software especializado en comunicación y reconocimiento de empleados, lo que nos permite entender cómo se gestionan las comunicaciones internas en organizaciones con sistemas maduros.
 
-#### Preguntas de Análisis
-
-Después de revisar la página de Nectar, reflexionen sobre:
-
 ### Gestión en Empresas con Sistemas Maduros
 
 **Características identificadas**
