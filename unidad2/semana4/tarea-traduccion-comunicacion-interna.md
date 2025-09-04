@@ -29,7 +29,6 @@ Traducirás materiales dirigidos a empleadas y empleados de NetApp, una empresa 
 
 #### Instrucciones de formato
 
-- **Descarga** [el archivo markdown (.md)](./life-at-netapp.md) del repositorio
 - **Mantén el formato** markdown original en tu traducción
 - **Conserva la estructura** de encabezados, listas y tablas
 - **Adapta únicamente el contenido textual**, manteniendo todos los elementos de formato
