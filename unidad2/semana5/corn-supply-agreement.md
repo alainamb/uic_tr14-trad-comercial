@@ -62,9 +62,17 @@ This Corn Supply Agreement ("Agreement") is entered into on January 15, 2025, be
 
 **IN WITNESS WHEREOF**, the parties have executed this Agreement as of the date first written above.
 
-| CARGILL, INCORPORATED | GRUMA, S.A.B. DE C.V. |
-| --------- | --------- |
-| By: _________________________<br>Name: Sarah M. Johnson<br>Title: Vice President, Grain Trading<br>Date: January 15, 2025 | By: _________________________<br>Name: Roberto González Barrera <br>Title: Director General <br>Date: January 15, 2025 |
+**CARGILL, INCORPORATED**
+By: _________________________
+Name: Sarah M. Johnson
+Title: Vice President, Grain Trading
+Date: January 15, 2025
+
+**GRUMA, S.A.B. DE C.V.**
+By: _________________________
+Name: Roberto González Barrera
+Title: Director General
+Date: January 15, 2025
 
 ---
 
