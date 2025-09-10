@@ -37,14 +37,14 @@ Estudien el contrato con el que trabajarán: [corn-supply-agreement.md](corn-sup
 - **Grupo de 2 estudiantes**: Cada estudiante trabajará con una parte diferente (2 partes total)
 - **Grupo de 3 estudiantes**: Cada estudiante trabajará con una parte diferente (3 partes total)
 
-### 2. Identificar la Selección de Texto
+### 2. Identificar la Sección de Texto
 
 - Seleccionen una sección completa del contrato (por ejemplo: *1. Product Specifications* o *2. Delivery Terms*)
 - Expliquen por qué eligieron esa sección específica (qué la hace interesante o desafiante desde el punto de vista de la traducción)
 
 ### 3. Análisis Terminológico
 
-Identifiquen al menos 1 término en la selección, investiguen el término y encuentren el equivalente en español.
+Identifiquen al menos 1 término en la sección, investiguen el término y encuentren el equivalente en español.
 
 **Formato requerido para esta sección**:
 
@@ -54,11 +54,11 @@ Identifiquen al menos 1 término en la selección, investiguen el término y enc
 
 ### 4. Producir la Traducción
 
-Proporcionen la traducción meta a la que llegaron para la selección completa.
+Proporcionen la traducción meta a la que llegaron para la sección completa.
 
 ### 5. Explicar la Toma de Decisiones de Traducción
 
-¿Qué desafíos de traducción presentó la selección y cómo los superaron? Compartan las fuentes que siguieron para guiar su trabajo.
+¿Qué desafíos de traducción presentó la sección y cómo los superaron? Compartan las fuentes que siguieron para guiar su trabajo.
 
 ## Formato del Entregable
 
@@ -79,7 +79,7 @@ Presenten al equipo y lo que se propusieron aprender al completar esta tarea. Es
 
 ### 3. Análisis
 
-Cada estudiante del grupo debe contribuir con una sección de análisis para la selección específica con la que trabajó. Los grupos deben presentar su análisis de manera consistente siguiendo el formato establecido arriba.
+Cada estudiante del grupo debe contribuir con una sección de análisis para la sección específica con la que trabajó. Los grupos deben presentar su análisis de manera consistente siguiendo el formato establecido arriba.
 
 ### 4. Conclusiones
 
@@ -95,7 +95,7 @@ Incluyan todas las fuentes que consultaron al realizar su análisis.
 
 | **Criterio** | **Puntos** | **Descripción** |
 |---|---|---|
-| **Selección de texto por estudiante** | 2 | Investigación exhaustiva de terminología con justificación sólida |
+| **Sección de texto por estudiante** | 2 | Investigación exhaustiva de terminología con justificación sólida |
 | **Análisis terminológico por estudiante** | 2 | Investigación exhaustiva de terminología con justificación sólida |
 | **Traducción fundamentada por estudiante** | 2 | Traducción coherente con explicación clara de decisiones |
 | **Toma de decisiones por estudante** | 2 | Uso apropiado de fuentes confiables y documentación adecuada |
@@ -130,7 +130,7 @@ Ambos son importantes. Selecciona el enfoque que más te interese pero justifica
 
 **¿Cómo me organizo para el trabajo en equipo?**
 
-Cada estudiante debe contribuir con un análisis completo de su selección. Pueden colaborar en introducción, conclusiones y formato final.
+Cada estudiante debe contribuir con un análisis completo de su sección. Pueden colaborar en introducción, conclusiones y formato final.
 
 **¿Las fuentes deben ser académicas?**
 
@@ -162,9 +162,9 @@ No necesariamente. Fuentes institucionales, gubernamentales y profesionales espe
 ## Preparación para Evaluación
 
 Antes de entregar, verifica que tu trabajo incluya:
-- [ ] Selección claramente identificada con justificación
+- [ ] Sección claramente identificada con justificación
 - [ ] Tabla terminológica completa siguiendo el formato requerido
-- [ ] Traducción completa de la selección
+- [ ] Traducción completa de la sección
 - [ ] Análisis reflexivo de decisiones de traducción
 - [ ] Introducción que explique intereses del equipo
 - [ ] Conclusiones substantivas sobre aprendizajes
