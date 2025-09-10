@@ -117,18 +117,23 @@ Incluyan todas las fuentes que consultaron al realizar su análisis.
 ## Preguntas Frecuentes
 
 **¿Puedo usar recursos en línea como DeepL para verificar?**
+
 Sí, pero documenta todas las fuentes consultadas y explica por qué elegiste una traducción sobre otra.
 
 **¿Qué hago si encuentro términos contradictorios en diferentes fuentes?**
+
 Excelente - documenta esta situación en tu análisis y explica cómo resolviste la contradicción.
 
 **¿Debo enfocarme en términos técnicos o en aspectos legales?**
+
 Ambos son importantes. Selecciona el enfoque que más te interese pero justifica tu elección.
 
 **¿Cómo me organizo para el trabajo en equipo?**
+
 Cada estudiante debe contribuir con un análisis completo de su selección. Pueden colaborar en introducción, conclusiones y formato final.
 
 **¿Las fuentes deben ser académicas?**
+
 No necesariamente. Fuentes institucionales, gubernamentales y profesionales especializadas son apropiadas y a menudo más actualizadas.
 
 ## Consejos para el Éxito
