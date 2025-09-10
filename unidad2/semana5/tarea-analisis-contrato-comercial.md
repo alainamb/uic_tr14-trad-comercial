@@ -163,7 +163,7 @@ Antes de entregar, verifica que tu trabajo incluya:
 - [ ] Análisis reflexivo de decisiones de traducción
 - [ ] Introducción que explique intereses del equipo
 - [ ] Conclusiones substantivas sobre aprendizajes
-- [ ] Fuentes citadas correctamente en formato APA
+- [ ] Fuentes citadas en una manera consistente
 - [ ] **Para equipos**: Identificación clara de quién contribuyó cada análisis
 
 ---
