@@ -28,6 +28,8 @@ Según la investigación de Socorro Trujillo (2016), los textos comerciales pued
 | **Documentos Financieros** | • **Características**: Relacionados con requisitos bancarios y control de pagos<br>• **Ejemplos**: Cartas de crédito, declaraciones de transacciones exteriores, medios de pago<br>• **Función**: Garantizar seguridad financiera en transacciones internacionales<br>• **Desafío traductor**: Precisión en terminología financiera y bancaria |
 | **Documentos Contractuales** | • **Características**: Establecen obligaciones legales entre partes comerciales<br>• **Ejemplos**: Contratos de compraventa, acuerdos de distribución, términos de servicio<br>• **Función**: Crear marco legal vinculante para relaciones comerciales<br>• **Desafío traductor**: Equivalencia legal y coherencia jurídica entre sistemas |
 
+La investigación completa de Socorro Trujillo está disponible en español e inglés en la carpeta de [referencias](https://github.com/alainamb/uic_tr14-trad-comercial/tree/main/unidad2/semana5/referencias).
+
 ## Convenciones Textuales de Contratos Comerciales
 
 ### Estructura Híbrida de Documentos Mercantiles
