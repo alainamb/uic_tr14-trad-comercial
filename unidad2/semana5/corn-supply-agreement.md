@@ -8,8 +8,6 @@ nav_order: 4
 
 # Corn Supply Agreement
 
-**CORN SUPPLY AGREEMENT**
-
 This Corn Supply Agreement ("Agreement") is entered into on January 15, 2025, between Cargill, Incorporated, a Minnesota corporation with its principal place of business at 15407 McGinty Road West, Wayzata, Minnesota 55391, United States ("Supplier"), and Gruma, S.A.B. de C.V., a Mexican corporation with its principal place of business at Río de la Plata No. 407, Colonia Cuauhtémoc, México, D.F. 06500, México ("Purchaser").
 
 ## 1. Product Specifications
