@@ -39,7 +39,7 @@ Estudien el contrato con el que trabajarán: [corn-supply-agreement.md](corn-sup
 
 ### 2. Identificar la Selección de Texto
 
-- Seleccionen 2-3 oraciones relacionadas y agrupadas del contrato
+- Seleccionen una sección completa del contrato (por ejemplo: 1. Product Specifications o 2. Delivery Terms)
 - Expliquen por qué eligieron esa selección específica (qué la hace interesante o desafiante desde el punto de vista de la traducción)
 
 ### 3. Análisis Terminológico
