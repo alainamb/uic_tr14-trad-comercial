@@ -38,6 +38,7 @@ Como escribe Socorro Trujillo, los contratos comerciales presentan una naturalez
 
 #### Parte Formularia (Short Form)
 **Ubicación**: Generalmente en el anverso o primera página
+
 **Características**:
 - **Lenguaje bloque**: Estructuras simplificadas por limitaciones de espacio
 - **Nominalización abundante**: Preferencia por sustantivos sobre verbos
@@ -49,6 +50,7 @@ Como escribe Socorro Trujillo, los contratos comerciales presentan una naturalez
 
 #### Parte Normativa (Long Form)
 **Ubicación**: Generalmente en el reverso o páginas posteriores
+
 **Características**:
 - **Lenguaje jurídico formal**: Registro legal especializado
 - **Estructura de cláusulas**: Organización sistemática de obligaciones
