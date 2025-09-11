@@ -63,7 +63,7 @@ Además de binomios, los contratos incluyen:
 ### Textos paralelos
 
 #### T-MEC - Textos Finales Oficiales
-**URL**: [gob.mx/t-mec/acciones-y-programas/textos-finales-del-tratado-entre-mexico-estados-unidos-y-canada-t-mec-202730](gob.mx/t-mec/acciones-y-programas/textos-finales-del-tratado-entre-mexico-estados-unidos-y-canada-t-mec-202730)
+**URL**: [gob.mx/t-mec/acciones-y-programas/textos-finales-del-tratado-entre-mexico-estados-unidos-y-canada-t-mec-202730](https://www.gob.mx/t-mec/acciones-y-programas/textos-finales-del-tratado-entre-mexico-estados-unidos-y-canada-t-mec-202730)
 
 **Especialización**: Marco regulatorio comercial México-Estados Unidos-Canadá
 
