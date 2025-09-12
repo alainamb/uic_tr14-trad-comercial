@@ -24,7 +24,7 @@ Para esta tarea, que también constituye su primer examen parcial, trabajarán c
 
 No traducirán el contrato completo. En su lugar, trabajarán en grupos de hasta tres personas para identificar pasajes desafiantes en el contrato, investigar terminología, proponer traducciones basadas en investigación sobre las convenciones lingüísticas típicamente utilizadas en este tipo de contratos, y explicar sus decisiones de traducción.
 
-Es importante recordar que las personas solicitantes de traducción pueden volver a nosotras como traductoras en cualquier momento para que expliquemos nuestras decisiones de traducción, por lo que saber hacerlo es una habilidad importante que deben perfeccionar.
+Es importante recordar que las personas solicitantes de traducción pueden volver a nosotras como traductores en cualquier momento para que expliquemos nuestras decisiones de traducción, por lo que saber hacerlo es una habilidad importante que deben desarrollar.
 
 ## Actividades de la Tarea
 
