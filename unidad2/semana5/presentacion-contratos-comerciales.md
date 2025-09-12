@@ -82,13 +82,15 @@ Los contratos comerciales también se caracterizan por la **intertextualidad** (
 ### Desafíos Específicos Estados Unidos-México
 
 #### Diferencias de Sistemas Legales
-**Common Law vs. Civil Law**:
+**Common Law vs. Civil Law**
 - **Estados Unidos**: Sistema de precedentes judiciales (case law)
 - **México**: Sistema de código civil escrito
 - **Implicación**: Conceptos legales pueden no tener equivalencias directas
 
+Lee el resumen y la introducción del capítulo "[Families of Law]"(https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad2/semana5/referencias/Dammer_Albaneses_FamiliesOfLaw_2025.pdf.pdf) de Dammer y Albanese (2005) para que aprendas sobre los diferentes tipos de tradiciones jurídicas que existen en el mundo y que deben interactuar cuando se realizan intercambios entre dos regiones, prestando especial atención a las diferencias entre los sistemas de derecho común y derecho civil.
+
 #### Variaciones Regionales Terminológicas
-**Terminología comercial**:
+**Terminología comercial**
 - **México**: "Sociedad Anónima" vs. **Estados Unidos**: "Corporation"
 - **México**: "Procurador" vs. **Estados Unidos**: "Attorney"
 - **México**: "Despacho aduanal" vs. **Estados Unidos**: "Customs clearance"
