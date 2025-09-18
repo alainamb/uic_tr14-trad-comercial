@@ -33,9 +33,9 @@ Examinarás dos versiones de un acuerdo de servicios independientes:
 
 Estos documentos representan un caso real de adaptación contractual donde el contenido fue modificado para cumplir con requisitos legales mexicanos y expectativas culturales empresariales diferentes.
 
+Los dos documentos están disponibles [aquí](https://github.com/alainamb/uic_tr14-trad-comercial/tree/main/unidad2/semana6/referencias).
 
 ### Marco de Análisis
-Los dos documentos están disponibles [aquí](https://github.com/alainamb/uic_tr14-trad-comercial/tree/main/unidad2/semana6/referencias).
 
 Tu análisis debe enfocarse en cuatro áreas principales:
 
