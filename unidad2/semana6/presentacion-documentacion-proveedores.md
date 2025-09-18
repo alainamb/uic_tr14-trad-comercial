@@ -135,12 +135,13 @@ Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_
 
 Copia el contenido descargado y prueba estos prompts:
 
-- "Ayúdame a identificar las diferencias clave entre un NDA legítimo y uno que contenga cláusulas problemáticas"
-- "¿Cuáles son las señales de alerta más importantes en contratos de servicios independientes para profesionales de la traducción?"
-- "Explica cómo el sesgo de normalidad afecta la toma de decisiones profesionales y cómo contrarrestarlo"
-- "¿Qué estrategias puedo usar para analizar documentos comerciales complejos antes de firmarlos?"
-- "Crea una guía de mejores prácticas para proteger mis intereses al revisar contratos de proveedores"
-- "¿Cómo las diferencias entre la ley mexicana y estadounidense afectan los contratos de traducción?"
+- "Ayúdame a analizar las diferencias estructurales y lingüísticas entre NDAs, ICAs y órdenes de compra en documentación comercial"
+- "¿Cuáles son las características que distinguen un documento comercial legítimo de uno que contiene cláusulas problemáticas?"
+- "Explica cómo la evolución histórica de los documentos comerciales ha afectado la complejidad del lenguaje utilizado"
+- "¿Qué estrategias de análisis documental puedo usar para identificar patrones comunes en la documentación con proveedores?"
+- "Crea una guía para reconocer elementos de organización, características lingüísticas y contenido clave en contratos comerciales"
+- "¿Cómo las diferencias culturales y jurisdiccionales afectan la interpretación de documentación comercial internacional?"
+- "Analiza las diferencias entre el propósito declarado y las 'señales de alerta' en cada tipo de documento comercial"
 
 ---
 
