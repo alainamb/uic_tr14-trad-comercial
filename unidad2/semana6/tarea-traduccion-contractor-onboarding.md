@@ -25,7 +25,7 @@ Después de haber firmado todos los acuerdos necesarios (ICAs, NDAs y sus equiva
 
 ### Archivo para traducir
 
-**Descarga el archivo** [intro-to-quality-reviews.md](https://github.com/alainamb/uic_tr14-comercial-publicitaria/blob/main/unidad2/semana6/intro-to-quality-reviews.md) para trabajar con una copia local
+**Descarga el archivo** [intro-to-quality-reviews.md](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad2/semana6/intro-to-quality-reviews.md) para trabajar con una copia local
 
 #### Instrucciones de formato
 
