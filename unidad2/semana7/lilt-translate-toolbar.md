@@ -12,7 +12,7 @@ LILT Translate is a computer-aided translation (CAT) editor used to localize doc
 
 ## File tab
 
-[image]
+![Lilt File Tab](https://raw.githubusercontent.com/alainamb/uic_tr14-trad-comercial/main/unidad2/semana7/imagenes/Lilt_FileTab.png)
 
 The `File` tab provides several actions to help manage documents.
 
@@ -29,7 +29,7 @@ The `File` tab provides several actions to help manage documents.
 
 The `Edit` tab contains a list of commonly used actions to help speed up your work within LILT Translate.
 
-[image]
+![Lilt Edit Tab](https://raw.githubusercontent.com/alainamb/uic_tr14-trad-comercial/main/unidad2/semana7/imagenes/Lilt_EditTab.png)
 
 * **Undo (shortcut `Ctrl` + `Z`):** Undo the last edits that were made in the segment editor.
 
@@ -39,7 +39,7 @@ The `Edit` tab contains a list of commonly used actions to help speed up your wo
 
 * **Find and Replace (`Ctrl` + `H`):** Search for text in all typing areas of the document. Includes the option to require the whole word to match, require the case to match, and to search through the entire Project instead of just the document.
 
-[image]
+![Lilt Find and Replace](https://raw.githubusercontent.com/alainamb/uic_tr14-trad-comercial/main/unidad2/semana7/imagenes/Lilt_FindAndReplace.png)
 
 * **Highlight to change case (`Shift` + `F3`):** Changes the case of the currently selected section of target text.
 
@@ -47,7 +47,7 @@ The `Edit` tab contains a list of commonly used actions to help speed up your wo
 
 The `View` tab options affect how segments are displayed in LILT Translate.
 
-[image]
+![Lilt View Tab](https://raw.githubusercontent.com/alainamb/uic_tr14-trad-comercial/main/unidad2/semana7/imagenes/Lilt_ViewTab.png)
 
 * **Segments:**
   * Filter segments by status:
@@ -67,8 +67,6 @@ The `View` tab options affect how segments are displayed in LILT Translate.
   * Both these filter sections compound with each other.
   * To remove a filter, click the filter again.
 
-[image]
-
 * **Previous segment (`Ctrl` + `Up Arrow`):** Navigate up through the document, segment by segment.
 
 * **Next segment (`Ctrl` + `Down Arrow`):** Navigate down through the document, segment by segment.
@@ -77,17 +75,17 @@ The `View` tab options affect how segments are displayed in LILT Translate.
 
 * **Split view:** With split view disabled (the default setting), target text is displayed beneath the source text. If split view is enabled, target text is displayed to the right of the source text. Split view helps increase proofreading speed.
 
-[image]
+![Lilt Split View](https://raw.githubusercontent.com/alainamb/uic_tr14-trad-comercial/main/unidad2/semana7/imagenes/Lilt_SplitView.png)
 
 * **Show invisible characters:** When enabled, displays characters that are normally invisible (such as spaces, tabs, right-to-left marks, and left-to-right marks) in both the source and target text.
 
-[image]
+![Lilt Show Invisible Characters](https://raw.githubusercontent.com/alainamb/uic_tr14-trad-comercial/main/unidad2/semana7/imagenes/Lilt_InvisibleCharacters.png)
 
 ## Insert tab
 
 The `Insert` tab has a range of tools for interacting with text in the segment editor.
 
-[image]
+![Lilt Insert Tab](https://raw.githubusercontent.com/alainamb/uic_tr14-trad-comercial/main/unidad2/semana7/imagenes/Lilt_InsertTab.png)
 
 * **Suggested phrase (`Enter`):** Insert the suggested word into the target text field.
 
@@ -111,7 +109,7 @@ The `Insert` tab has a range of tools for interacting with text in the segment e
 
 The `Tag` tab provides tools for manipulating tags within the segment editor.
 
-[image]
+![Lilt Tags Tab](https://raw.githubusercontent.com/alainamb/uic_tr14-trad-comercial/main/unidad2/semana7/imagenes/Lilt_TagsTab.png)
 
 * **Show source tags:** Toggles whether tags in the source text are displayed.
 
@@ -135,7 +133,7 @@ The `Tag` tab provides tools for manipulating tags within the segment editor.
 
 The `Settings` tab contains a variety of ways for you to customize the behavior of LILT Translate to suit your needs. These settings are set on a per-account basis, with changes persisting across documents and Projects.
 
-[image]
+![Lilt Settings Tab](https://raw.githubusercontent.com/alainamb/uic_tr14-trad-comercial/main/unidad2/semana7/imagenes/Lilt_SettingsTab.png)
 
 * **Forward Overwrite Confirmed Segments and Backward Overwrite Confirmed Segments:** When enabled and a segment is confirmed, LILT uses the segment's target text to fill and replace the target text of other segments with matching source content forward/backward in the document. Overwrite Confirmed Segments always occurs for unconfirmed segments.
 
