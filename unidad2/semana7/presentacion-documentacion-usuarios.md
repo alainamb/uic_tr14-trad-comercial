@@ -228,7 +228,7 @@ Para el ejemplo que selecciones, analiza los siguientes elementos:
 
 **Dónde**: Canal "Documentación para Usuarios" en nuestro Teams
 
-**Formato de publicación**
+**Formato de publicación:**
 
 > **Línea de asunto**: "Análisis de [Tipo de Producto] - [Sus nombres]"
 >
