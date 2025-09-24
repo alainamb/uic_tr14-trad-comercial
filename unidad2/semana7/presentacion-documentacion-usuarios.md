@@ -38,17 +38,13 @@ La documentación para usuarios representa uno de los géneros más complejos en
 
 ## Actividad 1: Análisis de Experto - Gestión Terminológica Empresarial
 
-### Recurso Principal: Entrevista con Monika Aeschbacher
-
 Escucharemos la experiencia de Monika Aeschbacher, Arquitecta de Contenido Global en NetApp, quien gestiona terminología para más de 10,000 empleados y empleadas en una empresa tecnológica multinacional. 
 
+### 🎧 Escucha: Entrevista con Monika Aeschbacher, "She Who Names All Things NetApp"
 
-
-### 🎧 Escucha: Entrevista con Monika Aeschbacher
-
-**[Reproducir entrevista en SoundCloud ↗](https://soundcloud.com/locessentials/industry-expert-qa-with-monika-aeschbacher-she-who-names-all-things-netapp-june-28-2018)**
-
-*Duración: ~30 minutos | Entrevistadora: Alaina Brandt | Entrevistada: Monike Aeschabacher, NetApp Global Content Architect*
+> **[Reproducir entrevista en SoundCloud ↗](https://soundcloud.com/locessentials/industry-expert-qa-with-monika-aeschbacher-she-who-names-all-things-netapp-june-28-2018)**
+> 
+> *Duración: ~30 minutos | Entrevistadora: Alaina Brandt | Entrevistada: Monike Aeschabacher, NetApp Global Content Architect*
 
 <details>
 <summary>📝 Transcripción Completa de la Entrevista</summary>
