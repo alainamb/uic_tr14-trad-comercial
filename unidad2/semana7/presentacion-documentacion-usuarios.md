@@ -191,15 +191,9 @@ Mientras escuchas la entrevista, presta atención específica a estos temas rela
 
 **Opciones de Documentación a Analizar**
 
-**Documentación para Consumidores**
-- Manual de usuario de electrodoméstico (refrigerador, lavadora, microondas)
-- Guía de instalación de software (aplicación móvil, programa de computadora)
-- Instructivo de producto tecnológico (smartphone, tablet, smart TV)
-
-**Documentación Técnica Especializada**
-- Manual de equipo industrial (herramientas, maquinaria)
-- Documentación de software empresarial (plataformas de gestión, CRM)
-- Protocolos de mantenimiento técnico (equipos médicos, sistemas de seguridad)
+| **Documentación para Consumidores** | **Documentación Técnica Especializada** |
+|-------------------------------------|-----------------------------------------|
+| • Manual de usuario de electrodoméstico (refrigerador, lavadora, microondas)<br>• Guía de instalación de software (aplicación móvil, programa de computadora)<br>• Instructivo de producto tecnológico (smartphone, tablet, smart TV) | • Manual de equipo industrial (herramientas, maquinaria)<br>• Documentación de software empresarial (plataformas de gestión, CRM)<br>• Protocolos de mantenimiento técnico (equipos médicos, sistemas de seguridad) |
 
 **Valor agregado**: Si encuentras un par inglés/español del mismo manual, será especialmente valioso para el análisis comparativo.
 
@@ -234,44 +228,30 @@ Para el ejemplo que selecciones, analiza los siguientes elementos:
 
 **Dónde**: Canal "Documentación para Usuarios" en nuestro Teams
 
-**Formato de publicación**:
+**Formato de publicación**
 
-**Línea de asunto**: "Análisis de [Tipo de Producto] - [Tu nombre]"
-
-**Contenido requerido**:
-1. **Producto y empresa**: Nombre del producto y fabricante
-2. **Tipo de documentación**: Manual, guía, instructivo, etc.
-3. **Enlace o referencia**: Si es posible, enlace al documento analizado
-4. **Hallazgo lingüístico clave**: Una observación específica sobre uso del lenguaje
-5. **Hallazgo terminológico**: Ejemplo de gestión terminológica (positivo o área de mejora)
-6. **Hallazgo estructural**: Observación sobre organización de la información
-7. **Recomendación**: Una sugerencia específica para mejorar la traducción/localización
-
-**Ejemplo de análisis**:
-> **Análisis de Manual de Microondas Samsung - María González**
-> 
-> Producto: Microondas Samsung MS14K6000AS
-> Tipo: Manual de usuario impreso y PDF
-> 
-> **Hallazgo lingüístico**: Uso consistente de imperativo directo ("Presione", "Coloque") que facilita acciones rápidas
-> 
-> **Hallazgo terminológico**: Inconsistencia entre "Sensor Cook" (inglés) y "Cocción por Sensor" (español) en diferentes secciones
-> 
-> **Hallazgo estructural**: Secciones de seguridad destacadas visualmente pero ubicadas después de instrucciones de uso
-> 
-> **Recomendación**: Estandarizar traducción de funciones de interfaz y reposicionar información de seguridad al inicio
+> **Línea de asunto**: "Análisis de [Tipo de Producto] - [Sus nombres]"
+>
+> **Contenido requerido**:
+> 1. **Producto y empresa**: Nombre del producto y fabricante
+> 2. **Tipo de documentación**: Manual, guía, instructivo, etc.
+> 3. **Enlace o referencia**: Si es posible, enlace al documento analizado
+> 4. **Hallazgo lingüístico clave**: Una observación específica sobre uso del lenguaje
+> 5. **Hallazgo terminológico**: Ejemplo de gestión terminológica (positivo o área de mejora)
+> 6. **Hallazgo estructural**: Observación sobre organización de la información
+> 7. **Recomendación**: Una sugerencia específica para mejorar la traducción/localización
 
 ## Actividad 3: Síntesis - Competencias del Traductor de Documentación
 
 ### Reflexión Grupal
 
-Basándose en la entrevista y los análisis individuales, identifiquemos las competencias específicas necesarias para especializarse en traducción de documentación para usuarios.
+Basándose en la entrevista y los análisis de los ejemplos, identifiquemos las competencias específicas necesarias para especializarse en traducción de documentación para usuarios.
 
 #### 🗳️ Encuesta de Síntesis - Poll Everywhere
 
 **Pregunta**: De las competencias discutidas hoy, ¿cuál consideras más importante desarrollar para tu especialización futura?
 
-**Competencias a evaluar**:
+**Opciones a considerar**:
 - **Gestión terminológica**: Crear y mantener bases de datos de términos
 - **Colaboración interdisciplinaria**: Trabajar con equipos técnicos y de producto
 - **Análisis de usabilidad**: Entender cómo las personas utilizan la documentación
@@ -280,12 +260,14 @@ Basándose en la entrevista y los análisis individuales, identifiquemos las com
 ### Conexiones con Casos Reales
 
 **Relación con NetApp**: Los principios que Monika describe para tecnología empresarial se aplican también a documentación para consumidores:
+
 - La consistencia terminológica reduce confusión
 - Los nombres descriptivos facilitan la comprensión
 - La colaboración entre departamentos mejora la calidad final
 - Los procesos sistemáticos son escalables
 
 **Implicaciones para tu práctica profesional**:
+
 - Desarrollar sensibilidad para identificar inconsistencias terminológicas
 - Construir relaciones profesionales con equipos de producto
 - Crear procesos reproducibles para proyectos similares
