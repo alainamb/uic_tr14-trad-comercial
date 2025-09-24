@@ -64,16 +64,16 @@ Mientras escuchas la entrevista, presta atención específica a estos temas rela
 - Adaptarse a cambios terminológicos frecuentes por adquisiciones empresariales
 - Balancear velocidad de entrega con precisión terminológica
 
-### Industry Expert Q&A with Monika Aeschbacher - She Who Names All Things NetApp | June 28, 2018
+### 🎧 Escucha: Entrevista con Monika Aeschbacher
 
-<div class="audio-embed">
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2175989532&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/locessentials" title="LocEssentials" target="_blank" style="color: #cccccc; text-decoration: none;">LocEssentials</a> · <a href="https://soundcloud.com/locessentials/industry-expert-qa-with-monika-aeschbacher-she-who-names-all-things-netapp-june-28-2018" title="Industry Expert Q&amp;A with Monika Aeschbacher - She Who Names All Things NetApp | June 28, 2018" target="_blank" style="color: #cccccc; text-decoration: none;">Industry Expert Q&amp;A with Monika Aeschbacher - She Who Names All Things NetApp | June 28, 2018</a></div>
+**[Reproducir entrevista en SoundCloud ↗](https://soundcloud.com/locessentials/industry-expert-qa-with-monika-aeschbacher-she-who-names-all-things-netapp-june-28-2018)**
+
+*Duración: ~30 minutos | Entrevistadora: Alaina Brandt | Entrevistada: Monike Aeschabacher, NetApp Global Content Architect*
 
 <details>
 <summary>📝 Transcripción Completa de la Entrevista</summary>
 
-[Alaina:
-My name is Alaina and this is a Localization Industry Expert Q&A.
+[**Alaina:** My name is Alaina and this is a Localization Industry Expert Q&A.<br>
 So we are very fortunate to be joined by Monika Aeschbacher, who is the global content architect with NetApp. At NetApp, Monika is responsible for terminology alignment, governance, and she manages a centralized term database that is used by customers and a network of 10,000 employees. She has a bachelor of translation in German, French and Spanish from the Zurich School of Applied Linguistics and a master of business administration from Santa Clara University. And in speaking Monika with Edith Bendermacher, she spoke of your role as one of sort of a terminology steward, which I thought was a really interesting way of talking about terminology. So we are very happy to have you here today and we thank you for your time.
 Monika:
 Thank you, Alaina. Coming back to terminology steward, I've been called many names, so sometimes I call myself the watchdog of terminology, sometimes the guardian angel of terminology. Recently requester of terminology called me, “She who is the namer of all things at NetApp.” While this title was a little bit long, I rather liked it. 
