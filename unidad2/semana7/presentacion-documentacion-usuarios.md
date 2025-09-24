@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Presentación - Documentación para Usuarios y Gestión Terminológica
+title: Presentación - Documentación para Usuarios
 parent: Semana 7
 grand_parent: Unidad 2
 nav_order: 1
 ---
 
-# Presentación: Documentación para Usuarios y Gestión Terminológica
+# Presentación: Documentación para Usuarios
 
 **Tiempo estimado**: 50 minutos
 
@@ -26,15 +26,9 @@ La documentación para usuarios representa uno de los géneros más complejos en
 
 ### Tipos de Documentación para Usuarios
 
-#### Documentación para Consumidores
-- **Manuales de productos**: Electrodomésticos, tecnología personal, automóviles
-- **Guías de instalación**: Software, aplicaciones móviles, equipos domésticos
-- **Documentación de seguridad**: Advertencias, precauciones, procedimientos de emergencia
-
-#### Documentación Técnica Especializada
-- **Manuales de equipos industriales**: Maquinaria, herramientas profesionales
-- **Documentación de software empresarial**: Plataformas, sistemas de gestión
-- **Protocolos de mantenimiento**: Procedimientos técnicos, especificaciones
+| **Documentación para Consumidores** | **Documentación Técnica Especializada** |
+|-------------------------------------|-----------------------------------------|
+| • **Manuales de productos**: Electrodomésticos, tecnología personal, automóviless<br>• **Guías de instalación**: Software, aplicaciones móviles, equipos domésticos<br>• **Documentación de seguridad**: Advertencias, precauciones, procedimientos de emergencia | • **Manuales de equipos industriales**: Maquinaria, herramientas profesionales<br>• **Documentación de software empresarial**: Plataformas, sistemas de gestión<br>• **Protocolos de mantenimiento**: Procedimientos técnicos, especificaciones |
 
 ## Actividad 1: Análisis de Experto - Gestión Terminológica Empresarial
 
@@ -189,17 +183,13 @@ Mientras escuchas la entrevista, presta atención específica a estos temas rela
 - Adaptarse a cambios terminológicos frecuentes por adquisiciones empresariales
 - Balancear velocidad de entrega con precisión terminológica
 
-
-
-
-
 ## Actividad 2: Análisis de Documentación para Usuarios
 
-### Instrucciones de Investigación Individual
+### Instrucciones de Investigación
 
 **Tu tarea**: Encuentra un ejemplo real de documentación para usuarios que demuestre los principios discutidos en la entrevista.
 
-#### Opciones de Documentación a Analizar
+**Opciones de Documentación a Analizar**
 
 **Documentación para Consumidores**
 - Manual de usuario de electrodoméstico (refrigerador, lavadora, microondas)
