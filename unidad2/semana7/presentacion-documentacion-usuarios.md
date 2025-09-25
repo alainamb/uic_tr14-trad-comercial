@@ -103,9 +103,9 @@ Escucharemos la experiencia de Monika Aeschbacher, Arquitecta de Contenido Globa
 
 **Alaina:** It sounds like a very fun process for those who really enjoy translation and so any students that are listening to this clearly enjoy translation. It sounds like you must have some really fascinating discussions.
 
-**Monika:** Oh, absolutely. It's funny that you mentioned that, but I look forward to, I relish those meetings. Also for some people, terminology sounds like something that's pretty dry. You really should hear those discussions. 
+**Monika:** Oh, absolutely. It's funny that you mentioned that, but I look forward to, I relish those meetings. Also for some people, terminology sounds like something that's pretty dry. You really should hear those discussions. It's pretty interesting.
 
-**Alaina:** I bet it's pretty interesting. Yeah, I'm sure because people get really passionate about what they believe something should be called.
+**Alaina:** I bet. Yeah, I'm sure because people get really passionate about what they believe something should be called.
 
 **Monika:** So I can give you one example. We've been discussing for months if we should use “next generation”, such as in “next generation technology” only for certain products and not for other products, and we as editors we or terminologist say, it's not possible that you ban the use of a common term such as “next generation”. It's just not possible. Then there are people who think, oh yeah, yeah, this is because we don't want to just say everything is next generation and the debate is endless.
 
