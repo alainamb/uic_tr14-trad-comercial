@@ -95,7 +95,7 @@ Escucharemos la experiencia de Monika Aeschbacher, Arquitecta de Contenido Globa
 
 **Alaina:** Very interesting. It sounds like with the systems that you have in place, you're able to avoid that redundancy that a student mentioned earlier and also that your system is very intentional.
 
-**Monika:** Absolutely, yes. We have processes in place so we can avoid that. We have, for example, abbreviations that mean two different things. We actually discard any abbreviations that are only consistently of two letters because these are very confusing. So yes.
+**Monika:** Absolutely, yes. We have processes in place so we can avoid that. We have, for example, abbreviations that mean two different things. We actually discard any abbreviations that consist only of two letters because these are very confusing. So yes.
 
 **Alaina:** Interesting. So what does a typical terminology meeting look like for you?
 
