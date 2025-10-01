@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tarea: Traducción de Comunicado de Prensa
+title: Tarea - Traducción de Comunicado de Prensa
 parent: Semana 8
 grand_parent: Unidad 2
 nav_order: 3
@@ -201,4 +201,4 @@ Copia el contenido descargado y prueba estos prompts para preparación grupal:
 
 ---
 
-**¡Unidad 2 Completa!** La próxima semana comenzaremos: [Unidad 3: Comunicaciones Publicitarias](../../unidad3/unidad3-resumen.md)
+**¡Unidad 2 Completa!** Repasa lo que has logrado en la [Conclusión de la Unidad 2](../unidad2-conclusion.md)
