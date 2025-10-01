@@ -1,3 +1,11 @@
+---
+layout: default
+title: Tarea: Traducción de Comunicado de Prensa
+parent: Semana 8
+grand_parent: Unidad 2
+nav_order: 3
+---
+
 # Tarea: Traducción de Comunicado de Prensa
 
 **Puntos:** 3
