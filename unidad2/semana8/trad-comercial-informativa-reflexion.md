@@ -210,4 +210,4 @@ Copia el contenido descargado y prueba estos prompts:
 
 ---
 
-**Próxima actividad**: [Tarea: Proyecto de Traducción Comercial](tarea-proyecto-traduccion-comercial.md)
+**Próxima actividad**: [Tarea: Traducción de Comunicado de Prensa](tarea-traduccion-comunicado-prensa.md)
