@@ -105,7 +105,31 @@ La publicidad moderna se originó con las técnicas introducidas con la publicid
 
 ## Actividad: Conceptualizando el Marketing y la Publicidad
 
+WIPO Pearl es una base de datos terminológica multilingüe de la Organización Mundial de la Propiedad Intelectual que ofrece mapas conceptuales visuales para explorar terminología especializada en diferentes dominios. Para esta actividad, exploraremos los mapas conceptuales para el dominio de "Administration/Administración" y el subdominio de "Commerce/Comercio" de WIPO Pearl.
 
+![Busqueda en WIPO Pearl](https://raw.githubusercontent.com/alainamb/uic_tr14-trad-comercial/main/unidad3/semana9/imagenes/WIPO-Pearl-Search.png)
+
+1. Accede al mapa conceptual en inglés y español:
+  - [https://wipopearl.wipo.int/en/conceptmap](https://wipopearl.wipo.int/en/conceptmap)
+  - [https://wipopearl.wipo.int/es/conceptmap](https://wipopearl.wipo.int/es/conceptmap)
+
+2. Selecciona el dominio y el subdominio
+  - Para inglés: Administration > Commerce
+  - Para español: Administración > Comercio
+
+3. Explora los conceptos relacionados
+  - Por ejemplo, en inglés: word of mouth, guerrilla marketing
+  - Por ejemplo, en español: segmentación del mercado, empresa a consumidor (B2C)
+
+Al concluir con tu exploración, publica una reflexión breve (150-200 palabras) en Teams que incluya:
+
+- Un concepto nuevo que descubriste en cualquiera de los dos idiomas
+- Una comparación terminológica interesante entre inglés y español (¿hay equivalencia directa? ¿falsos amigos potenciales?)
+- Una conexión práctica con la traducción publicitaria: ¿Cómo podría este conocimiento terminológico ayudarte en un proyecto de traducción real?
+
+Por ejemplo:
+
+> "Descubrí el término 'ambient advertising' (publicidad ambiental) en el mapa en inglés, que se refiere a anuncios colocados en lugares inusuales donde la audiencia no espera publicidad. En español, el equivalente podría ser 'publicidad de ambiente' o simplemente mantener el anglicismo. Esto me hizo pensar en que para traducir textos sobre estrategias publicitarias innovadoras, necesito conocer no solo los términos, sino también el concepto detrás de cada tipo de publicidad para poder adaptar o transcrearlo correctamente según el contexto de la campaña."
 
 ## Síntesis: Lo Esencial para Traductores
 
