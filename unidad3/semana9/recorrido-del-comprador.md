@@ -34,4 +34,17 @@ A la hora de diseñar una campaña publicitaria existen diferentes estrategias e
 | **Publicidad B2C (Business-to-Consumer)** | Está enfocada al consumidor final. Este tipo de publicidad se orienta a las empresas que venden productos para la población general, por tanto, pretenden satisfacer una necesidad final. |
 | **Publicidad B2B (Business-to-Business)** | Es aquella cuyo objetivo son las empresas. El proceso de compra es más complejo y no hay tantos potenciales clientes. Requiere un mensaje más técnico y específico. |
 
-*Las clasificaciones de publicidad en esta sección están basadas en información de [AulaCreactiva](https://www.aulacreactiva.com/tipos-de-publicidad-en-la-actualidad/), [Comunicare](https://www.comunicare.es/como-se-clasifica-la-publicidad-tipos-y-objetivos/) y [CEUPE](https://www.ceupe.com/blog/clasificacion-de-la-publicidad-en-los-medios.html). Para explorar otros sistemas de clasificación y ejemplos adicionales, consulta estas fuentes.*
+*Las clasificaciones de publicidad en esta sección están basadas en información de [AulaCreactiva](https://www.aulacreactiva.com/tipos-de-publicidad-en-la-actualidad/), [Comunicare](https://www.comunicare.es/como-se-clasifica-la-publicidad-tipos-y-objetivos/) y [CEUPE]
+
+## 🗳️ Actividad: Identificación de Tipos y Objetivos
+
+**Encuestas en Poll Everywhere**: [pollev.com/alainabrandt831](https://pollev.com/alainabrandt831)
+
+### Parte 1: Análisis de Ejemplos
+Observa los ejemplos publicitarios que se proyectarán en clase y responde:
+- ¿Qué tipo de publicidad es según el medio?
+- ¿Qué tipo de publicidad es según el objetivo?
+- ¿Es B2C o B2B?
+- ¿Cuál de los 10 principios básicos se aplica más claramente?
+
+(https://www.ceupe.com/blog/clasificacion-de-la-publicidad-en-los-medios.html). Para explorar otros sistemas de clasificación y ejemplos adicionales, consulta estas fuentes.*
