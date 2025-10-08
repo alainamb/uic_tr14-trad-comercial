@@ -43,7 +43,7 @@ La **publicidad** es "la práctica y las técnicas empleadas para llamar la aten
 
 ### La Relación entre Marketing y Publicidad
 
-El marketing es un concepto más amplio y dentro de sus estrategias se englobaría la publicidad. Piensa en el marketing como el paraguas estratégico, y la publicidad como una de las herramientas tácticas que utiliza.
+El marketing es un concepto más amplio y dentro de sus estrategias se englobaría la publicidad. Las diferences clave entre estos dos conceptos según [Asana](https://asana.com/es/resources/marketing-vs-advertising-difference) sigue:
 
 **Diferencias clave**
 
@@ -54,9 +54,9 @@ El marketing es un concepto más amplio y dentro de sus estrategias se englobar�
 | **Objetivos** | A medio y largo plazo: posicionamiento, fidelización | A corto plazo: generar conciencia, impulsar ventas inmediatas |
 | **Actividades** | Las 4 P's: Producto, Precio, Plaza, Promoción | Principalmente la "Promoción": anuncios, campañas |
 
-**Fuente:** [Asana](https://asana.com/es/resources/marketing-vs-advertising-difference)
-
 ## Las 4 P's del Marketing Mix
+
+**[HubSpot](https://blog.hubspot.es/marketing/introduccion-al-marketing)**, una plataforma líder en software de marketing, explica que "las 4 P's —producto, precio, plaza y promoción— constituyen los pilares sobre los cuales se construyen las campañas de marketing y las decisiones estratégicas de una empresa."
 
 ### 1. Producto (Product)
 El bien o servicio que se ofrece, incluyendo su diseño, calidad, características y beneficios. Es el elemento central, ya que sin un producto que satisfaga necesidades, el resto de las estrategias no tendrán impacto.
@@ -69,8 +69,6 @@ Los canales a través de los cuales el producto llega al consumidor: tiendas fí
 
 ### 4. Promoción (Promotion)
 En esta última P se engloban todas las acciones de difusión destinadas a dar a conocer un producto o servicio, de manera que los consumidores tomen conciencia de su existencia y se hagan una buena imagen del mismo. Es aquí donde se ubica la publicidad, pero esta no es la única opción posible.
-
-**Fuente:** [HubSpot](https://blog.hubspot.es/marketing/introduccion-al-marketing)
 
 ## Principios Fundamentales de la Publicidad
 
@@ -92,8 +90,6 @@ Para que una campaña publicitaria esté bien planteada y pueda cumplir su objet
 8. **Generar conexión emocional**: Resonar con los valores y aspiraciones del público
 9. **Incluir llamado a la acción**: Indicar claramente qué se espera que haga el consumidor
 10. **Medir resultados**: Evaluar la efectividad de la campaña
-
-**Fuente:** [Comunicare](https://www.comunicare.es/principio-de-publicidad/)
 
 ## Evolución Histórica: Perspectiva Breve
 
