@@ -1,5 +1,3 @@
-Here's the updated page with a B2B vs B2C section and an integrated Poll Everywhere discussion question:
-
 ---
 layout: default
 title: El Recorrido del Comprador
@@ -38,21 +36,7 @@ Aunque algunos modelos incluyen más etapas, nos enfocaremos en las tres princip
 | **Etapa** | **Descripción** | **Características comunicativas** | **Ejemplos de textos** |
 | --------- | ----------------| --------------------------------- | ---------------------- |
 | **1. Conciencia (Awareness)** | La persona **identifica un problema o necesidad** pero aún no conoce las soluciones disponibles. | - Contenido educativo e informativo<br>- Enfoque en el problema, no en productos específicos<br>- Tono accesible y no invasivo<br>- Genera confianza estableciendo la marca como fuente confiable | - Artículos de blog sobre problemas comunes<br>- Posts en redes sociales educativos<br>- Videos informativos<br>- Infografías explicativas<br> |
-
-#### 2. Consideración (*Consideration*)
-La persona **ya definió su problema y está evaluando diferentes soluciones** o enfoques para resolverlo.
-
-**Características comunicativas:**
-- Contenido comparativo y analítico
-- Enfoque en tipos de soluciones, no marcas específicas
-- Tono informativo pero más específico
-- Establece criterios de evaluación
-
-**Ejemplos de textos:**
-- Guías de compra
-- Comparaciones de tipos de productos
-- Webinars explicativos
-- Casos de estudio
+| **2. Consideración (Consideration)** | La persona **ya definió su problema y está evaluando diferentes soluciones** o enfoques para resolverlo. | - Contenido comparativo y analítico<br>- Enfoque en tipos de soluciones, no marcas específicas<br>- Tono informativo pero más específico<br>- Establece criterios de evaluación | - Guías de compra<br>- Comparaciones de tipos de productos<br>- Webinars explicativos<br>- Casos de estudio |
 
 #### 3. Decisión (*Decision*)
 La persona **está lista para comprar y está eligiendo entre opciones específicas** (marcas, modelos, proveedores).
