@@ -72,7 +72,7 @@ En esta última P se engloban todas las acciones de difusión destinadas a dar a
 
 ## Principios Fundamentales de la Publicidad
 
-> "[E]l principio de publicidad fundamental es captar la atención de la audiencia." - Comunicare
+> "[E]l principio de publicidad fundamental es captar la atención de la audiencia." - [Comunicare](https://www.comunicare.es/principio-de-publicidad)
 
 No importa lo bien hecho que esté el anuncio, las emociones que transmita o la increíble estrategia que se haya desarrollado si el anuncio no consigue llamar la atención de los espectadores.
 
