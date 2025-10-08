@@ -93,7 +93,7 @@ Para que una campaña publicitaria esté bien planteada y pueda cumplir su objet
 9. **Incluir llamado a la acción**: Indicar claramente qué se espera que haga el consumidor
 10. **Medir resultados**: Evaluar la efectividad de la campaña
 
-**Fuente:** [Comunicare](https://www.comunicare.es/principio-de-publicidad/).*
+**Fuente:** [Comunicare](https://www.comunicare.es/principio-de-publicidad/)
 
 ## Evolución Histórica: Perspectiva Breve
 
