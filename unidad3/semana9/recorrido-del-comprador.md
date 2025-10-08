@@ -37,40 +37,7 @@ Aunque algunos modelos incluyen más etapas, nos enfocaremos en las tres princip
 | --------- | ----------------| --------------------------------- | ---------------------- |
 | **1. Conciencia (Awareness)** | La persona **identifica un problema o necesidad** pero aún no conoce las soluciones disponibles. | - Contenido educativo e informativo<br>- Enfoque en el problema, no en productos específicos<br>- Tono accesible y no invasivo<br>- Genera confianza estableciendo la marca como fuente confiable | - Artículos de blog sobre problemas comunes<br>- Posts en redes sociales educativos<br>- Videos informativos<br>- Infografías explicativas<br> |
 | **2. Consideración (Consideration)** | La persona **ya definió su problema y está evaluando diferentes soluciones** o enfoques para resolverlo. | - Contenido comparativo y analítico<br>- Enfoque en tipos de soluciones, no marcas específicas<br>- Tono informativo pero más específico<br>- Establece criterios de evaluación | - Guías de compra<br>- Comparaciones de tipos de productos<br>- Webinars explicativos<br>- Casos de estudio |
-
-#### 3. Decisión (*Decision*)
-La persona **está lista para comprar y está eligiendo entre opciones específicas** (marcas, modelos, proveedores).
-
-**Características comunicativas:**
-- Contenido persuasivo y específico de producto
-- Enfoque en diferenciadores competitivos
-- Tono convincente con llamados a la acción claros
-- Elimina objeciones finales
-
-**Ejemplos de textos:**
-- Demostraciones de producto
-- Testimonios de clientes
-- Ofertas promocionales
-- Garantías y políticas de devolución
-
-## Tipos de Publicidad según Características
-
-Antes de mapear textos al recorrido del comprador, revisemos los principales tipos de publicidad. Según [Indeed México](https://mx.indeed.com/orientacion-profesional/como-encontrar-empleo/tipos-publicidad-caracteristicas), la publicidad puede clasificarse según diferentes criterios:
-
-### Por Objetivo
-- **Publicidad informativa**: Dar a conocer un producto o servicio
-- **Publicidad persuasiva**: Convencer al público de comprar
-- **Publicidad de recordatorio**: Mantener presencia de marca
-
-### Por Medio
-- **Publicidad impresa**: Revistas, periódicos, folletos
-- **Publicidad digital**: Redes sociales, sitios web, email
-- **Publicidad audiovisual**: TV, radio, streaming
-- **Publicidad exterior**: Vallas, transporte público
-
-### Por Audiencia
-- **Publicidad B2C** (Business to Consumer): Dirigida al consumidor final
-- **Publicidad B2B** (Business to Business): Dirigida a otras empresas
+| **3. Decisión (Decision)** | La persona **está lista para comprar y está eligiendo entre opciones específicas** (marcas, modelos, proveedores). | - Contenido persuasivo y específico de producto<br>- Enfoque en diferenciadores competitivos<br>- Tono convincente con llamados a la acción claros<br>- Elimina objeciones finales | - Demostraciones de producto<br>- Testimonios de clientes<br>- Ofertas promocionales<br>- Garantías y políticas de devolución |
 
 ## B2B vs. B2C: Dos Recorridos Diferentes
 
@@ -105,17 +72,36 @@ El marketing de empresa a empresa (B2B) y el marketing de empresa a consumidor (
 
 Las empresas B2B deben demostrar al cliente las ventajas de su producto o servicio, mientras que las empresas B2C tienen que crear una conexión emocional con sus clientes para diferenciarse de la competencia.
 
-**Consideraciones B2B:**
+**Consideraciones B2B**
 - **Tono profesional y técnico**: Mantener credibilidad y autoridad
 - **Terminología especializada precisa**: Los lectores son expertos en su campo
 - **Enfoque en datos y resultados**: ROI, eficiencia, métricas de rendimiento
 - **Documentación extensa**: White papers, casos de estudio, especificaciones técnicas
 
-**Consideraciones B2C:**
+**Consideraciones B2C**
 - **Tono conversacional y accesible**: Crear conexión personal
 - **Lenguaje emocional y aspiracional**: Deseos, necesidades, estilo de vida
 - **Mensajes concisos y directos**: Captar atención rápidamente
 - **Llamados a la acción inmediatos**: Comprar ahora, descargar, suscribirse
+
+## Tipos de Publicidad según Características
+
+El uso de tipos de texto varia según la etapa en el recorrido del comprador en dónde está la o el client y el estilo que refleja depende si el enfoque de la campaña de marketing es dirigida a consumidores o negocios. En un momento haremos una actividad en que mapeamos textos al recorrido del comprador. Primero, revisemos los principales tipos de publicidad. Según [Indeed México](https://mx.indeed.com/orientacion-profesional/como-encontrar-empleo/tipos-publicidad-caracteristicas), la publicidad puede clasificarse según diferentes criterios:
+
+### Por Objetivo
+- **Publicidad informativa**: Dar a conocer un producto o servicio
+- **Publicidad persuasiva**: Convencer al público de comprar
+- **Publicidad de recordatorio**: Mantener presencia de marca
+
+### Por Medio
+- **Publicidad impresa**: Revistas, periódicos, folletos
+- **Publicidad digital**: Redes sociales, sitios web, email
+- **Publicidad audiovisual**: TV, radio, streaming
+- **Publicidad exterior**: Vallas, transporte público
+
+### Por Audiencia
+- **Publicidad B2C** (Business to Consumer): Dirigida al consumidor final
+- **Publicidad B2B** (Business to Business): Dirigida a otras empresas
 
 ## Actividad: Mapeo de Textos Publicitarios
 
@@ -130,12 +116,12 @@ Para cada tipo de texto publicitario presentado, vota en qué etapa del recorrid
 - **Consideración**
 - **Decisión**
 
-### Textos para Mapear
-
 Después de cada votación, discutiremos:
 - ¿Por qué este texto se ubica en esta etapa?
 - ¿Qué estrategias comunicativas utiliza?
 - ¿Qué implicaciones tiene esto para la traducción?
+
+### Textos a Mapear
 
 #### Texto 1: Post de Instagram sobre "5 señales de que necesitas actualizar tu software"
 **Etapa:** [Vote en Poll Everywhere]
@@ -179,8 +165,6 @@ Después de cada votación, discutiremos:
 
 ### Pregunta de Discusión: B2B vs. B2C
 
-**🗳️ Poll Everywhere**: [pollev.com/alainabrandt831](https://pollev.com/alainabrandt831)
-
 Imagina que cada uno de los textos anteriores existe en dos versiones: una para **audiencia B2B** y otra para **audiencia B2C**.
 
 **Pregunta de discusión:** ¿Cómo cambiarían las estrategias de comunicación y traducción entre las dos versiones?
@@ -198,41 +182,11 @@ Imagina que cada uno de los textos anteriores existe en dos versiones: una para 
 
 ## Consideraciones de Traducción por Etapa
 
-### Conciencia
-**Prioridades de traducción:**
-- Claridad y accesibilidad máximas
-- Adaptación cultural de problemas y necesidades
-- Terminología comprensible para audiencia general
-- Tono que genera confianza sin vender directamente
-
-**Desafíos comunes:**
-- Problemas que no existen igual en la cultura meta
-- Referencias culturales que no resuenan
-- Nivel de conocimiento técnico asumido
-
-### Consideración
-**Prioridades de traducción:**
-- Precisión en comparaciones y criterios
-- Terminología técnica estandarizada
-- Estructura lógica clara para evaluación
-- Equilibrio entre información y persuasión
-
-**Desafíos comunes:**
-- Diferentes criterios de evaluación entre culturas
-- Terminología técnica sin equivalentes directos
-- Normas de comparación competitiva
-
-### Decisión
-**Prioridades de traducción:**
-- Llamados a la acción efectivos culturalmente
-- Eliminación de objeciones específicas del mercado
-- Urgencia apropiada según cultura
-- Credibilidad en garantías y testimonios
-
-**Desafíos comunes:**
-- Tácticas persuasivas que no funcionan igual
-- Expectativas diferentes sobre garantías
-- Normas de privacidad y datos personales
+| **Etapa** | **Prioridades** | **Desafíos** |
+| --------- | --------------- | ------------ |
+| Conciencia | - Claridad y accesibilidad máximas<br>- Adaptación cultural de problemas y necesidades<br>- Terminología comprensible para audiencia general<br>- Tono que genera confianza sin vender directamente | - Problemas que no existen igual en la cultura meta<br>- Referencias culturales que no resuenan<br>- Nivel de conocimiento técnico asumido |
+| Consideración | - Precisión en comparaciones y criterios<br>- Terminología técnica estandarizada<br>- Estructura lógica clara para evaluación<br>- Equilibrio entre información y persuasión | - Diferentes criterios de evaluación entre culturas<br>- Terminología técnica sin equivalentes directos<br>- Normas de comparación competitiva |
+| Decisión | - Llamados a la acción efectivos culturalmente<br>- Eliminación de objeciones específicas del mercado<br>- Urgencia apropiada según cultura<br>- Credibilidad en garantías y testimonios | - Tácticas persuasivas que no funcionan igual<br>- Expectativas diferentes sobre garantías<br>- Normas de privacidad y datos personales |
 
 ## Síntesis: Lo Esencial para Traductores
 
