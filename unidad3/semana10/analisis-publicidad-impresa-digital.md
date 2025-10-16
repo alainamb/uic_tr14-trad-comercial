@@ -105,7 +105,7 @@ Esta actividad te invita a investigar cómo las marcas globales adaptan sus camp
 
 #### Campañas con Transcreación Notable
 
-**Corona - "México Manda"**
+**Corona - "México Manda" o "Desfronterízate"**
 - Campaña específica para México que celebra expresiones lingüísticas locales
 - Compara con campañas de Corona en EE.UU. (playa, relajación)
 
