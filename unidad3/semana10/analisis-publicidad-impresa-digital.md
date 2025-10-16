@@ -1,47 +1,183 @@
 ---
 layout: default
 title: Análisis de Campañas y Anuncios
-parent: Semana 9
+parent: Semana 10
 grand_parent: Unidad 3
 nav_order: 2
 ---
 
-# Análisis de Campañas y Anuncios
+# Análisis de Publicidad Impresa y Digital
 
-[Introduction]
+**Tiempo estimado**: 90 minutos (en clase y trabajo independiente)
 
-## Actividad 1: "Campaigns of the World"
+**Modalidad**: Exploración individual con compartir en Teams
 
-The site "[Campaigns of the World](https://campaignsoftheworld.com/)" collects unique and creative advertisement campaigns from around the world. Go to the site and do some exploration. Find an ad campaign that speaks to you - preferably with the types of print and digital media we're exploring this week. Then do a post in our Ad Campaigns channel on team about what you found.
+Ahora que entendemos los tipos de textos publicitarios y los flujos de trabajo transcreativo, es momento de analizar ejemplos reales de campañas publicitarias. En esta sesión, explorarás campañas creativas internacionales y analizarás cómo las marcas adaptan (o no) sus mensajes para diferentes mercados culturales.
 
-Your post should address the prompts in the post template below.
+## Actividad 1: Explorando "Campaigns of the World" 📢
+
+**Requerido: Publicación en Teams**
+
+El sitio **[Campaigns of the World](https://campaignsoftheworld.com/)** recopila campañas publicitarias únicas y creativas de todo el mundo. Tu tarea es explorar el sitio, encontrar una campaña que te llame la atención, y compartir tu análisis con el grupo.
+
+### Instrucciones
+
+1. **Explora el sitio** [Campaigns of the World](https://campaignsoftheworld.com/)
+2. **Selecciona una campaña** que incluya los tipos de publicidad impresa o digital que exploramos esta semana (anuncios impresos, comerciales, banners digitales, etc.)
+3. **Publica tu análisis** en el canal "Ad Campaigns" de Teams usando la plantilla de abajo
+
+### 📝 Plantilla para tu Publicación en Teams
+
+Copia esta plantilla y complétala para tu post:
 
 ```
-Subject: Illustrative Title for the Post
+Asunto: [Título ilustrativo para tu publicación]
 
-Description: Share details about the company/product for which the campaign was designed
+Descripción de la campaña:
+Comparte detalles sobre la empresa/producto para la cual se diseñó la campaña.
+[Tu respuesta aquí]
 
-Callout text: Name any key taglines associated with the ad
+Eslogan o texto clave:
+Menciona cualquier eslogan o texto destacado asociado con el anuncio.
+[Tu respuesta aquí]
 
-Critical Analysis
-- Why did you pick the campaign?
-- Do a linguistic analysis of the tagline. What about the campaign is emotionally resonant?  What challenges would this campaign present in translation?
-- Give the transcreation a shot. What are some potential options for the transcreation of the ad?
+Análisis Crítico:
 
-Link: Share a link to the post you found on Campaigns of the World
+1. ¿Por qué elegiste esta campaña?
+[Tu respuesta aquí]
+
+2. Análisis lingüístico del eslogan/texto:
+   - ¿Qué elementos hacen que la campaña sea emocionalmente resonante?
+   - ¿Qué desafíos presentaría esta campaña en traducción/transcreación?
+[Tu respuesta aquí]
+
+3. Propuesta de transcreación:
+   - ¿Cómo transcrearias el eslogan o mensaje principal al español mexicano?
+   - Ofrece 2-3 opciones con justificación breve
+[Tu respuesta aquí]
+
+Enlace: [URL de la campaña en Campaigns of the World]
 ```
 
-## Actividad 2: Analyzing transcreated ad campaigns
+### Aspectos a Considerar en tu Análisis
 
-Pick a product that has well-recognized ads. Find examples of the ads that they use in different markets, such as in English-, Spanish- and French-speaking markets. What is the link among the ads? Is there a central concept that is shared while the actual campaigns are targeted to the specific market? Is there no link between the ads at all?
+Al analizar tu campaña, reflexiona sobre:
 
-Share about what you found with the class.
+- **Componentes visuales y lingüísticos**: ¿Cómo interactúan el texto y las imágenes?
+- **Tono y registro**: ¿Es formal, casual, humorístico, inspiracional?
+- **Referencias culturales**: ¿Hay juegos de palabras, alusiones culturales, o expresiones idiomáticas?
+- **Audiencia objetivo**: ¿B2B o B2C? ¿Qué demografía?
+- **Etapa del recorrido del comprador**: ¿Conciencia, consideración o decisión?
+- **Desafíos de traducción**: ¿Qué haría que esta campaña fuera difícil de transcreir?
 
-### Some suggested campaigns you could analyse
+### Ejemplos de Campañas que Podrías Analizar
 
-- Corona - Por qué decimos 'mande' campaign
-- Redbull Gives You Wings
-- Nike and Just Do It
-- Hershey's HerShe Project
-- Etc.
+- Campañas con juegos de palabras visuales
+- Anuncios que utilizan humor cultural específico
+- Campañas que evocan emociones fuertes (nostalgia, aspiración, orgullo)
+- Publicidad que desafía estereotipos o normas sociales
+- Anuncios minimalistas con texto muy limitado
 
+---
+
+## Actividad 2: Análisis de Transcreación Internacional (Opcional) 🌍
+
+**Modalidad**: Exploración independiente con presentación opcional en clase
+
+Esta actividad te invita a investigar cómo las marcas globales adaptan sus campañas para diferentes mercados lingüísticos y culturales. Es una oportunidad para ver la transcreación profesional en acción.
+
+### Instrucciones
+
+1. **Selecciona una marca** con presencia internacional y campañas publicitarias reconocibles
+2. **Encuentra ejemplos** de sus anuncios en diferentes mercados (ej. mercados angloparlantes, hispanohablantes, francófonos)
+3. **Analiza las conexiones y diferencias** entre las versiones
+4. **Prepara observaciones** para compartir con la clase
+
+### Preguntas Guía para tu Análisis
+
+- **¿Existe un concepto central compartido?** ¿Las campañas mantienen la misma idea base mientras adaptan la ejecución?
+- **¿Qué elementos se mantienen constantes?** ¿Logo, colores, música, estructura narrativa?
+- **¿Qué elementos cambian?** ¿Texto, talento, escenarios, referencias culturales?
+- **¿La estrategia es traducción, localización o transcreación?** Según el espectro de FIT
+- **¿Es efectiva la adaptación?** ¿Resuena auténticamente en cada mercado?
+
+### Campañas Sugeridas para Analizar
+
+#### Campañas con Transcreación Notable
+
+**Corona - "Por qué decimos 'mande'" (México)**
+- Campaña específica para México que celebra expresiones lingüísticas locales
+- Compara con campañas de Corona en EE.UU. (playa, relajación)
+
+**Red Bull - "Te da alas" / "Gives You Wings"**
+- Eslogan traducido literalmente pero campañas visuales muy diferentes por región
+- Analiza comerciales de Europa vs. Latinoamérica vs. Asia
+
+**Nike - "Just Do It"**
+- Uno de los eslóganes más reconocibles globalmente
+- ¿Cómo se adapta el mensaje en diferentes culturas? ¿Se traduce o se mantiene en inglés?
+
+**Hershey's - "HerShe" Project**
+- Campaña sobre empoderamiento femenino
+- ¿Cómo funciona en mercados con diferentes niveles de conciencia sobre equidad de género?
+
+**McDonald's - "I'm Lovin' It"**
+- Eslogan global pero menús y anuncios muy localizados
+- Compara comerciales de diferentes países
+
+**Dove - "Real Beauty" / "Belleza Real"**
+- Campaña global sobre estándares de belleza
+- ¿Cómo se adaptan las definiciones de "belleza real" culturalmente?
+
+### Dónde Buscar Ejemplos
+
+- **YouTube**: Busca "[Brand Name] commercial [Country]" o "[Brand Name] anuncio [País]"
+- **Sitios web oficiales**: Muchas marcas tienen sitios separados por región
+- **Redes sociales**: Facebook, Instagram, TikTok de las marcas en diferentes países
+- **Archive.org**: Para campañas históricas
+- **Ads of the World**: [adsoftheworld.com](https://www.adsoftheworld.com/)
+
+### Formato de Presentación Opcional
+
+Si decides compartir tus hallazgos en clase, considera incluir:
+
+1. **Introducción breve**: Marca y campaña analizada
+2. **Ejemplos visuales**: Capturas de pantalla o videos cortos
+3. **Análisis comparativo**: Similitudes y diferencias entre mercados
+4. **Evaluación**: ¿Fue exitosa la transcreación? ¿Por qué sí o no?
+5. **Lecciones aprendidas**: ¿Qué te enseñó esto sobre transcreación profesional?
+
+---
+
+## Síntesis: Aprendiendo de Campañas Reales
+
+Analizar campañas publicitarias reales te permite:
+
+- **Ver transcreación profesional en acción**: Observar cómo agencias de renombre resuelven desafíos complejos
+- **Identificar patrones de éxito**: ¿Qué estrategias funcionan consistentemente?
+- **Aprender de errores**: Algunas campañas fallan por transcreación inadecuada
+- **Desarrollar tu criterio profesional**: Afinar tu habilidad para evaluar calidad de transcreación
+- **Inspirarte creativamente**: Descubrir soluciones innovadoras que puedes adaptar
+
+Cada campaña que analizas te prepara mejor para enfrentar tus propios desafíos transcreativo en el proyecto de esta semana.
+
+---
+
+## 📥 Descarga este Archivo
+
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-comercial-publicitaria/blob/main/unidad3/semana10/analisis-contrastivo.md) y descárgalo.
+
+### 🤖 Prompts de Estudio con IAG
+
+Copia el contenido descargado y prueba estos prompts:
+
+- "Ayúdame a analizar esta campaña de [marca] según el modelo de análisis crítico del curso"
+- "¿Qué desafíos de transcreación presenta este eslogan [pega el eslogan] y cómo lo resolverías?"
+- "Compara las campañas de [marca] en México vs. EE.UU. - ¿qué estrategia transcreativa usaron?"
+- "Genera 3 opciones de transcreación para este anuncio [pega el texto] justificando cada una"
+- "¿Cómo puedo mejorar mi análisis crítico de campañas publicitarias usando conceptos del curso?"
+- "Explica por qué esta campaña [describe la campaña] funcionaría o no funcionaría en el mercado mexicano"
+
+---
+
+**Próxima actividad**: [Trabajo Asignado - Transcreación de Material Publicitario](tarea-transcreacion-coca-cola.md)
