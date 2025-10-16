@@ -38,9 +38,7 @@ Cada equipo debe elegir **uno de los siguientes anuncios de Coca-Cola** para tra
 
 ### Opción 1: "Plants Make Us Happy"
 
-![Plants Make Us Happy - Ad 1](https://raw.githubusercontent.com/alainamb/uic_tr14-trad-comercial/main/unidad3/semana10/imagenes/coca-cola-plants-1.jpg)
-
-![Plants Make Us Happy - Ad 2](https://raw.githubusercontent.com/alainamb/uic_tr14-trad-comercial/main/unidad3/semana10/imagenes/coca-cola-plants-2.jpg)
+![Plants Make Us Happy Ads](https://raw.githubusercontent.com/alainamb/uic_tr14-trad-comercial/main/unidad3/semana10/imagenes/Plants-Make-Us-Happy-Coke-Ad.png)
 
 **Campaña**: PlantBottle™ - Botellas ecológicas con materiales de origen vegetal
 
@@ -56,7 +54,7 @@ Cada equipo debe elegir **uno de los siguientes anuncios de Coca-Cola** para tra
 
 ### Opción 2: "Solve Your Thirst"
 
-![Solve Your Thirst](https://raw.githubusercontent.com/alainamb/uic_tr14-trad-comercial/main/unidad3/semana10/imagenes/coca-cola-solve-thirst.jpg)
+![Solve Your Thirst](https://raw.githubusercontent.com/alainamb/uic_tr14-trad-comercial/main/unidad3/semana10/imagenes/Solve-Your-Thirst-Coke-Ad.jpg)
 
 **Campaña**: #ChooseHappiness - Diversidad de productos Coca-Cola
 
@@ -72,7 +70,7 @@ Cada equipo debe elegir **uno de los siguientes anuncios de Coca-Cola** para tra
 
 ### Opción 3: "Einstein"
 
-![Einstein](https://raw.githubusercontent.com/alainamb/uic_tr14-trad-comercial/main/unidad3/semana10/imagenes/coca-cola-einstein.jpg)
+![Einstein](https://raw.githubusercontent.com/alainamb/uic_tr14-trad-comercial/main/unidad3/semana10/imagenes/Einstein-Coke-Ad.jpg)
 
 **Campaña**: La fórmula secreta de Coca-Cola
 
@@ -87,7 +85,7 @@ Cada equipo debe elegir **uno de los siguientes anuncios de Coca-Cola** para tra
 
 ### Opción 4: "New Long Can"
 
-![New Long Can - Giraffe](https://raw.githubusercontent.com/alainamb/uic_tr14-trad-comercial/main/unidad3/semana10/imagenes/coca-cola-giraffe.jpg)
+![New Long Can - Giraffe](https://raw.githubusercontent.com/alainamb/uic_tr14-trad-comercial/main/unidad3/semana10/imagenes/New-Long-Can-Coke-Ad.jpg)
 
 **Campaña**: Lanzamiento de lata alargada
 
@@ -102,7 +100,7 @@ Cada equipo debe elegir **uno de los siguientes anuncios de Coca-Cola** para tra
 
 ### Opción 5: "They Don't Make 'Em Like They Used To"
 
-![They Don't Make 'Em Like They Used To](https://raw.githubusercontent.com/alainamb/uic_tr14-trad-comercial/main/unidad3/semana10/imagenes/coca-cola-vintage.jpg)
+![They Don't Make 'Em Like They Used To](https://raw.githubusercontent.com/alainamb/uic_tr14-trad-comercial/main/unidad3/semana10/imagenes/Not-Like-They-Used-To-Coke-Ad.jpg)
 
 **Campaña**: Nostalgia y tradición - "Original Taste Since 1886"
 
