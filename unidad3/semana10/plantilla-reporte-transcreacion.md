@@ -415,3 +415,5 @@ Copia el contenido descargado y prueba estos prompts:
 ---
 
 **Agradecimiento especial a Ben Karl por compartir su experiencia profesional en transcreación, que hizo posible esta plantilla académica basada en mejores prácticas de la industria.**
+
+**¡Semana 10 Completa!** La próxima semana exploraremos: [Redes sociales y contenido web + Examen Parcial 2](../semana11/semana11-resumen.md)
