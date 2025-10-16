@@ -113,9 +113,17 @@ Esta actividad te invita a investigar cómo las marcas globales adaptan sus camp
 - Eslogan traducido literalmente pero campañas visuales muy diferentes por región
 - Analiza comerciales de Europa vs. Latinoamérica vs. Asia
 
+**OXXO - "Fill in the blank"**
+- Anuncios panorámicos con frases como "Voy al ____, ¿quieren algo?" o "Me traes algo del ____"
+- Propone una frase adicional para la campaña
+
 **Nike - "Just Do It"**
 - Uno de los eslóganes más reconocibles globalmente
 - ¿Cómo se adapta el mensaje en diferentes culturas? ¿Se traduce o se mantiene en inglés?
+
+**Gandhi - "Frases para leer"**
+- Frases irreverentes en carteleras amarillas como "LEER DA SUEÑOS" y "MI SIGNO ES LEO"
+- ¿Para qué público fue diseñado esta campaña? ¿Qué impacto tuvo?
 
 **Hershey's - "HerShe" Project**
 - Campaña sobre empoderamiento femenino
