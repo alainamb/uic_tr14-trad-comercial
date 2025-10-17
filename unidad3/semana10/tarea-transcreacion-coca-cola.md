@@ -134,8 +134,8 @@ Las secciones principales son:
 
 ### Documento Principal: Reporte de Transcreación
 
-- **Archivo**: ApellidosEquipo_TranscreacionCocaCola.pdf
-  - Ejemplo: Garcia-Martinez-Lopez_TranscreacionCocaCola.pdf
+- **Archivo**: ApellidosEquipo_TranscreacionCocaCola.docx
+  - Ejemplo: Garcia-Martinez-Lopez_TranscreacionCocaCola.docx
 - **Extensión**: 4-6 páginas (sin incluir portada y referencias)
 - **Formato**: Arial o Calibri 11pt, interlineado 1.5, márgenes normales
 - **Contenido visual**: Incluye la imagen del anuncio original y mockups visuales de tus propuestas si es posible
