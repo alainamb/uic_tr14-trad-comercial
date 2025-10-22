@@ -146,17 +146,17 @@ Lista todas las fuentes consultadas en formato consistente, incluyendo:
 
 | **Criterio** | **Puntos** | **Descripción** |
 |--------------|------------|-----------------|
-| **Mejor Audiencia Potencial** | 1.0 | Identificación clara y fundamentada de la audiencia objetivo más prometedora para Whatnot en México, con parámetros relevantes y específicos |
-| **Concepto Central Sólido** | 1.0 | Extracción e identificación efectiva de un concepto central del material Labubu que sea adaptable y relevante para el mercado mexicano |
-| **Análisis SEO** | 1.0 | Investigación exhaustiva de palabras clave con datos de volumen de búsqueda, intención y herramientas documentadas. Mínimo 5-7 términos clave |
-| **Plan de Diseño** | 1.0 | Introducción clara que articula la visión de la campaña y cómo los tres textos trabajan juntos cohesivamente |
-| **Publicación de Blog** | 1.0 | Texto bien estructurado (400-600 palabras) con integración natural de palabras clave, encabezados optimizados y análisis de decisiones |
-| **Publicación Red Social 1** | 1.0 | Contenido adaptado apropiadamente a la plataforma específica, con hashtags relevantes y tono adecuado. Análisis de decisiones incluido |
-| **Publicación Red Social 2** | 1.0 | Contenido diferenciado de la primera publicación social, adaptado a segunda plataforma. Demuestra versatilidad cross-platform |
-| **Conclusiones** | 1.0 | Síntesis efectiva de hallazgos con insights valiosos para Whatnot. Articula valor de enfoque creativo vs. traducción tradicional |
-| **Obras Consultadas** | 1.0 | Referencias completas y bien documentadas de todas las fuentes consultadas en formato consistente |
-| **Profesionalismo General** | 1.0 | Presentación pulida y profesional, libre de errores, con formato consistente y consideración cuidadosa de identidad visual de Whatnot |
-| **Total** | **10.0** | |
+| **Mejor Audiencia Potencial** | 1 | Identificación clara y fundamentada de la audiencia objetivo más prometedora para Whatnot en México, con parámetros relevantes y específicos |
+| **Concepto Central Sólido** | 1 | Extracción e identificación efectiva de un concepto central del material Labubu que sea adaptable y relevante para el mercado mexicano |
+| **Análisis SEO** | 1 | Investigación exhaustiva de palabras clave con datos de volumen de búsqueda, intención y herramientas documentadas. Mínimo 5-7 términos clave |
+| **Plan de Diseño** | 1 | Introducción clara que articula la visión de la campaña y cómo los tres textos trabajan juntos cohesivamente |
+| **Publicación de Blog** | 1 | Texto bien estructurado (400-600 palabras) con integración natural de palabras clave, encabezados optimizados y análisis de decisiones |
+| **Publicación Red Social 1** | 1 | Contenido adaptado apropiadamente a la plataforma específica, con hashtags relevantes y tono adecuado. Análisis de decisiones incluido |
+| **Publicación Red Social 2** | 1 | Contenido diferenciado de la primera publicación social, adaptado a segunda plataforma. Demuestra versatilidad cross-platform |
+| **Conclusiones** | 1 | Síntesis efectiva de hallazgos con insights valiosos para Whatnot. Articula valor de enfoque creativo vs. traducción tradicional |
+| **Obras Consultadas** | 1 | Referencias completas y bien documentadas de todas las fuentes consultadas en formato consistente |
+| **Profesionalismo General** | 1 | Presentación pulida y profesional, libre de errores, con formato consistente y consideración cuidadosa de identidad visual de Whatnot |
+| **Total** | **10** | |
 
 ## Preguntas para Reflexión
 
