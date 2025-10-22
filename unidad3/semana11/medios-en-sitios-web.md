@@ -123,7 +123,7 @@ Cuando trabajas con contenido web, debes prestar atención especial a:
 
 ### Herramientas y Recursos
 
-Para profundizar en localización SEO, consulta la **[Guía Rápida de Localización SEO](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad3/semana11/referencias/LocalizaciónSEO_QuickStartGuide.pdf)** disponible en nuestro repositorio. Esta guía cubre:
+Para profundizar en localización SEO, consulta la **[Guía Rápida de Localización SEO](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad3/semana11/referencias/Localización%20SEO_QuickStartGuide_2026-1.pdf)** disponible en nuestro repositorio. Esta guía cubre:
 
 - Checklist completo de elementos SEO a considerar
 - Optimización con Yoast SEO (plugin de WordPress)
