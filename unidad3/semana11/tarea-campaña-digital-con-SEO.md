@@ -37,4 +37,4 @@ Copia el contenido descargado y prueba estos prompts:
 
 ---
 
-**Próxima página**: [Source text for assignment](for-translation.md)
+**¡Semana 11 Completa!** La próxima semana exploraremos: [Boletines informativos y correos electrónicos promocionales](../semana12/semana12-resumen.md)
