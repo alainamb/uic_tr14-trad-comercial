@@ -61,6 +61,7 @@ https://lnkd.in/eCpiFyiR
 There’s Labubu. There’s Lafufu. And then there’s whatever this is... @cobblerconcierge
 
 **Video - closed captions:**
+
 This isn't the weirdest thing we've been asked to fix. He<br> 
 said he wanted to join a Labubus. I said, I'll see what I<br>
 can do. So to help him achieve his goal of hanging with the<br>
