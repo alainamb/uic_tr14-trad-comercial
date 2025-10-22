@@ -70,7 +70,7 @@ Identifica el concepto central del material de Labubu que usarás como inspiraci
 
 #### Análisis SEO
 
-Completa tu análisis SEO investigando palabras clave y términos de búsqueda relevantes para el mercado mexicano. Usa las herramientas y métodos descritos en la **[Guía Rápida de Localización SEO](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad3/semana11/referencias/LocalizaciónSEO_QuickStartGuide.pdf)**.
+Completa tu análisis SEO investigando palabras clave y términos de búsqueda relevantes para el mercado mexicano. Usa las herramientas y métodos descritos en la **[Guía Rápida de Localización SEO](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad3/semana11/referencias/Localización%20SEO_QuickStartGuide_2026-1.pdf)**.
 
 **Tabla de análisis SEO**:
 
@@ -186,7 +186,7 @@ Considera estas preguntas conforme trabajas en el proyecto:
 
 ### Lecturas Complementarias
 - "[Predictions for how the language industry might evolve in the next 5 to 10 years](https://locessentials.com/blog/2024/09/19/predictions-for-how-the-language-industry-might-evolve-in-the-next-5-to-10-years)" - Contexto sobre diseño de contenido market-specific
-- [Guía Rápida de Localización SEO](referencias/LocalizaciónSEO_QuickStartGuide.pdf) - Checklist completo de elementos SEO
+- [Guía Rápida de Localización SEO](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad3/semana11/referencias/Localización%20SEO_QuickStartGuide_2026-1.pdf) - Checklist completo de elementos SEO
 
 ---
 
