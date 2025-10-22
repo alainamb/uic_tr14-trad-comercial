@@ -31,7 +31,7 @@ Many sellers have taken it upon themselves to incorporate Labubus into their own
 
 While Labubu continues to make a name for itself, we don’t expect this trend to fade anytime soon. If you’re looking to broaden your audience and find new ways to engage with your buyers, check out these **[sellers](https://www.whatnot.com/search?query=labubu&searchVertical=LIVESTREAM&referringSource=autocomplete)** who have jumped on the trend.
 
-### Related articles**
+### Related articles
 - [The New Era of Coin Collecting Is Live](https://blog.teamwhatnot.com/unitedstates/coinscategory)
 - [From Shopfront to Stream: What New Data Says About Small Businesses Going Live](https://blog.teamwhatnot.com/unitedstates/smallbusinesslive)
 - [The New Basecamp for Outdoor Sellers Is Live – on Whatnot](https://blog.teamwhatnot.com/unitedstates/outdoor)
