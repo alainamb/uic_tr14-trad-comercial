@@ -62,18 +62,20 @@ There’s Labubu. There’s Lafufu. And then there’s whatever this is... @cobb
 
 **Video - closed captions:**
 
-This isn't the weirdest thing we've been asked to fix. He<br> 
-said he wanted to join a Labubus. I said, I'll see what I<br>
-can do. So to help him achieve his goal of hanging with the<br>
-Labubu fam. We're going to create what we call a D ring.<br>
-Now we're trimming it. The measurements are really crucial<br>
-because we want it to look as if it already had this already<br>
-attached. The cementing allows it to hold fastened to the<br>
-folding that's going to happen when we reattach it to the new<br>
-ring and then hand stitch it to the Now, this is going to get<br>
-hand stitched. We have to hand stitch it because if you use<br>
-any machinery, you could damage the soft nature of the fur.<br>
-Each one of them now. May the other Labubus accept him.<br>
+```
+This isn't the weirdest thing we've been asked to fix. He
+said he wanted to join a Labubus. I said, I'll see what I
+can do. So to help him achieve his goal of hanging with the
+Labubu fam. We're going to create what we call a D ring.
+Now we're trimming it. The measurements are really crucial
+because we want it to look as if it already had this already
+attached. The cementing allows it to hold fastened to the
+folding that's going to happen when we reattach it to the new
+ring and then hand stitch it to the Now, this is going to get
+hand stitched. We have to hand stitch it because if you use
+any machinery, you could damage the soft nature of the fur.
+Each one of them now. May the other Labubus accept him.
+```
 
 **Source:** [https://www.facebook.com/RealWhatnot](https://www.facebook.com/RealWhatnot)
 **Video:**
