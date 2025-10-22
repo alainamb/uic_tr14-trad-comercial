@@ -28,11 +28,6 @@ Defining a typology of types of content related to web content and social networ
 
 **Additional Content Types that are Displayed on the Web:** Infografías, videos (con subtítulos), podcasts, landing pages, ebooks/downloadables, links to social accounts
 
-**Discussion Questions**
-- Q1
-- Q2
-- Q3
-
 ### Typology 2. Tabla Comprensiva: Tipos de Anuncios para Sitios Web
 
 | **Tipo de Anuncio** | **Descripción** | **Propósito** | **Desafíos** | **Dónde Encontrarlo** |
@@ -56,11 +51,6 @@ Defining a typology of types of content related to web content and social networ
 | **Anuncios en Redes Sociales** | Publicaciones promocionadas en plataformas sociales | Segmentación demográfica precisa, social proof | Algoritmos cambiantes, requiere contenido constante | Facebook, Instagram, LinkedIn, TikTok, X |
 | **Sponsored Content** | Publireportajes o contenido editorial patrocinado por marca específica | Brand awareness, posicionamiento como autoridad | Debe ser claramente identificado como patrocinado | Medios digitales, blogs especializados |
 
-**Discussion Questions**
-- Q1
-- Q2
-- Q3
-
 ### Lecturas Recomendadas
 
 - [46 Parts of a Website: From Header to Footer and Everything in Between](https://wordpress.com/blog/2025/03/25/parts-of-a-website) via WordPress.com
@@ -75,11 +65,12 @@ Defining a typology of types of content related to web content and social networ
 - "[La historia de cómo México se conectó por primera vez a internet: una carrera de tropiezos y maravillas entre la UNAM y el ITESM](https://www.xataka.com.mx/historia-de-la-tecnologia/)" via Xataka México  - Comprehensive history of internet in Mexico that covers the rivalry between the ITESM and UNAM to be the first to be connected
 - "[Día del Internet: ¿Quién es Tim Berners-Lee, el inventor del www?](https://www.elfinanciero.com.mx/tech/2022/05/17/)"
 
-## Topic 2: SEO / readability scores: An explainer
+### Discusion & Activities
+- Question/Activity (About the charts) - Targeted statement
+- Review one of the Recommended Readings. Prepare a summary of the reading to share with the class.
+- Q3 (Reflective) - Short reflective question
 
-[information]
-
-## Topic 3: SEO checklist for page contents and blog articles
+## Topic 2: SEO / readability for page contents and blog articles: Explainer and Checklist
 
 [information]
 
