@@ -1,4 +1,10 @@
-
+---
+layout: default
+title: Project - Labubus on Whatnot
+parent: Semana 11
+grand_parent: Unidad 3
+nav_order: 4
+---
 
 # Project: Labubus on Whatnot
 
