@@ -5,6 +5,7 @@
 ## Text 1: Blog post - 2027-06-2025
 
 | **Blog:** | News & Whatnot |
+| --------- | -------------- |
 | **Meta-description:** | <meta property="og:description" content="Today, Labubus are flying off the shelves and onto our backpacks, handbags, major auctions, and wherever else our hearts desire. While these fuzzy monsters are increasingly difficult to purchase in-store, we’ve seen a massive demand for them across Whatnot."> |
 
 **Categories:** Community - Latest - and Whatnot
