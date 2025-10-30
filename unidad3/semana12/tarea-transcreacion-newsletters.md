@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Tarea - Transcreación de Newsletters
+title: Tarea - Transcreación de Newsletter
 parent: Semana 12
 grand_parent: Unidad 3
 nav_order: 3
 ---
 
-# Tarea: Transcreación de Newsletters de Matthew Hussey
+# Tarea: Transcreación de Newsletter de Matthew Hussey
 
 **Valor**: 3 puntos
 
@@ -18,7 +18,7 @@ nav_order: 3
 
 Matthew Hussey envía newsletters semanales a su comunidad con consejos prácticos sobre relaciones, autoestima y vida amorosa. Estos emails combinan contenido inspiracional con pasos de acción concretos, manteniendo su voz característica de honestidad directa y empatía genuina.
 
-Tu desafío esta semana es transcrear dos de sus newsletters del inglés al español mexicano, manteniendo no solo el mensaje sino también el **impacto emocional** y la **cohesión de voz** entre ambos emails. El objetivo no es traducir literalmente sino recrear la experiencia del lector—que alguien en México sienta la misma conexión, motivación y claridad que siente la audiencia angloparlante original.
+Tu desafío esta semana es transcrear uno de sus newsletters del inglés al español mexicano, manteniendo no solo el mensaje sino también el **impacto emocional** y la **cohesión de voz** en el email. El objetivo no es traducir literalmente sino recrear la experiencia del lector—que alguien en México sienta la misma conexión, motivación y claridad que siente la audiencia angloparlante original.
 
 ## Selección de Newsletters
 
