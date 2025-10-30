@@ -8,7 +8,7 @@ nav_order: 2
 
 # Transcreación de Email Marketing: Desafíos Lingüísticos y Culturales
 
-**Tiempo estimado**: 60 minutos
+**Tiempo estimado**: 45 minutos
 
 **Modalidad**: Análisis conceptual seguido de exploración de marca y actividad práctica
 
@@ -98,13 +98,11 @@ Una herramienta de IA entrenada en su filosofía y enfoque. Explora cómo respon
 **[Vista Previa en Google Books](https://books.google.com.mx/books/about/Love_Life_How_to_raise_your_standards_fi.html?id=PhbJEAAAQBAJ&redir_esc=y)**  
 Lee la introducción y primeros capítulos disponibles. Observa su estructura argumental y tono escrito versus su tono en video/audio.
 
----
-
-## Actividad: Análisis de Voz de Marca - Matthew Hussey
+### Actividad: Análisis de Voz de Marca - Matthew Hussey
 
 **Instrucciones**: Después de explorar los recursos anteriores (dedica al menos 30 minutos), completa este análisis de voz de marca usando el marco que desarrollaste en la Semana 2.
 
-### Marco de Análisis (Basado en Unidad 1, Semana 2)
+#### Marco de Análisis (Basado en Unidad 1, Semana 2)
 
 Completa esta tabla para identificar los elementos distintivos de la voz de Matthew Hussey:
 
@@ -117,21 +115,17 @@ Completa esta tabla para identificar los elementos distintivos de la voz de Matt
 | **Valores de Marca Centrales** | ¿Qué valores comunica consistentemente? (ej. autenticidad, empoderamiento, acción) | [Temas recurrentes o mensajes clave] |
 | **Elementos Culturales** | ¿Su voz es universal o culturalmente específica? ¿Referencias que hace? | [Contexto cultural de sus ejemplos] |
 
-### Preguntas Adicionales de Análisis
+#### Preguntas Adicionales de Análisis
 
 Reflexiona sobre estas preguntas mientras exploras su contenido:
 
 1. **Lenguaje característico**: ¿Qué palabras, frases o expresiones usa repetidamente que parecen ser "signature" de su marca?
-
 2. **Balance empático-directivo**: ¿Cómo equilibra la empatía (validar emociones) con la directividad (dar pasos de acción)? ¿Cuándo usa cada enfoque?
-
 3. **Audiencia implícita**: Aunque su contenido es para "todos", ¿quién parece ser su audiencia primaria? ¿Cómo se manifiesta esto en su lenguaje?
-
 4. **Adaptación al medio**: ¿Cambia su voz entre podcast (audio), video, texto escrito? ¿Qué elementos mantiene constantes?
-
 5. **Desafíos de transcreación**: Basándote en tu análisis, ¿qué elementos de su voz serán más desafiantes de mantener al transcreear al español mexicano?
 
-### Publicación en Teams
+#### Publicación en Teams
 
 Comparte tu análisis en el canal **"Email Marketing - Voz de Marca"** de Teams:
 
