@@ -22,7 +22,7 @@ Tu desafío esta semana es transcrear dos de sus newsletters del inglés al espa
 
 ## Selección de Newsletters
 
-Tienes tres newsletters para elegir. **Tu equipo debe seleccionar 2 de las 3 opciones**:
+Tienes tres newsletters para elegir. **Tu equipo debe seleccionar 1 de las 3 opciones**:
 
 ### Opción 1: "The Anxiety That's Stopping You From Living Your Life"
 **Tema central**: Cómo la ansiedad sobre el futuro nos impide vivir plenamente en el presente  
@@ -59,9 +59,9 @@ Usa estos materiales para entender el contexto visual y diseño original, pero t
 
 ## Entregables
 
-### 1. Dos Newsletters Transcreados (2 archivos .md)
+### 1. El Newsletter Transcreado (1 archivo .md)
 
-**Archivos**: 
+**Archivo**: 
 - `PrimerosApellidos_email1.md` (nombre si el primer email es transcreado)
 - `PrimerosApellidos_email2.md` (nombre si el segundo email es transcreado)
 - `PrimerosApellidos_email3.md` (nombre si el tercer email es transcreado)
@@ -81,7 +81,7 @@ Cada newsletter incluye:
 #### Consideraciones Críticas
 
 - **Formato markdown**: Mantén el formato markdown original (encabezados, énfasis, enlaces)  
-- **Cohesión entre emails**: Ambos newsletters deben sonar como si vinieran de la misma persona—usa vocabulario, frases y tono consistentes  
+- **Cohesión con su contenido**: El newsletter debe sonar como si viniera de Matthew Hussey—usa vocabulario, frases y tono consistentes  
 - **Resonancia cultural**: Adapta referencias, ejemplos o expresiones que no funcionarían en contexto mexicano  
 - **Longitud**: Puede variar ligeramente del original si mejora la claridad o impacto, pero sin desviarse significativamente
 
@@ -93,9 +93,9 @@ Cada newsletter incluye:
 
 #### Contenido Requerido
 
-**Sección 1: Emails Seleccionados y Estrategia de Consistencia** (2-3 oraciones)
-- ¿Qué 2 newsletters eligieron?
-- ¿Qué estrategia siguieron para mantener consistencia de voz entre ambos?
+**Sección 1: Email Seleccionado y Estrategia de Consistencia** (2-3 oraciones)
+- ¿Qué newsletter eligieron?
+- ¿Qué estrategia siguieron para mantener consistencia de voz en ello?
 
 **Sección 2: Workflow y Enfoque** (3-4 oraciones)
 - ¿Cómo organizaron el trabajo en equipo?
@@ -129,9 +129,7 @@ Cada newsletter incluye:
 
 | **Criterio** | **Puntos** | **Descripción** |
 |--------------|------------|-----------------|
-| **Newsletter 1 - Calidad de Transcreación** | 1 | **Voz de marca**: Mantiene el tono empático-directivo característico de Matthew Hussey<br>**Impacto emocional**: Genera la misma respuesta emocional que el original<br>**Resonancia cultural**: Se siente auténtico para audiencia mexicana<br>**Calidad técnica**: Línea de asunto efectiva, CTAs motivadores, formato preservado |
-| **Newsletter 2 - Calidad de Transcreación** | 1 | Mismos sub-criterios que Newsletter 1 |
-| **Consistencia entre Emails** | (evaluado en ambos) | Vocabulario, frases características y tono son coherentes entre ambos newsletters |
+| **Newsletter - Calidad de Transcreación** | 2 | **Voz de marca**: Mantiene el tono empático-directivo característico de Matthew Hussey<br>**Impacto emocional**: Genera la misma respuesta emocional que el original<br>**Resonancia cultural**: Se siente auténtico para audiencia mexicana<br>**Calidad técnica**: Línea de asunto efectiva, CTAs motivadores, formato preservado |
 | **Reflexión y Documentación** | 1 | **Reflexión estratégica**: Explica claramente decisiones de transcreación vs. traducción<br>**Tabla de estrategias**: Ejemplos concretos y justificaciones sólidas<br>**Registro de tiempo**: Completo y realista |
 | **Total** | **3** | |
 
@@ -154,9 +152,9 @@ Cada newsletter incluye:
 
 ### Sobre Cohesión
 
-Dado que transcreearás dos newsletters, la consistencia es crucial. Decisiones sobre vocabulario psicológico, nivel de formalidad, uso de "tú" o frases características deben mantenerse entre ambos emails. El lector debe reconocer inmediatamente que vienen de la misma voz.
+En la transcreación del newsletter, la consistencia es crucial. Decisiones sobre vocabulario psicológico, nivel de formalidad, uso de "tú" o frases características deben mantenerse en el email. El lector debe reconocer inmediatamente la voz del autor.
 
-**Estrategia sugerida**: Creen un mini glosario de términos clave y frases características que usarán consistentemente en ambos emails.
+**Estrategia sugerida**: Creen un mini glosario de términos clave y frases características que usarán consistentemente en el email.
 
 ### Sobre Longitud
 
@@ -192,7 +190,7 @@ Copia el contenido descargado y prueba estos prompts:
 - "Ayúdame a crear un mini-glosario de términos psicológicos clave de Matthew Hussey para mantener consistencia entre mis dos newsletters"
 - "Revisa esta transcreación [pega fragmento] - ¿mantiene la voz empática pero directiva de Matthew Hussey?"
 - "¿Cómo transcreo esta metáfora [pega ejemplo] para que resuene con audiencia mexicana?"
-- "Compara mis dos transcreaciones [pega fragmentos de ambos emails] - ¿son consistentes en tono y vocabulario?"
+- "Compara mi transcreacion [pega fragmentos de ambos emails] con la voz de marca de Matthew Hussey - ¿son consistentes en tono y vocabulario?"
 - "Esta línea de asunto [pega ejemplo] funciona en inglés - genera 3 opciones transcreadas efectivas para español mexicano"
 - "Identifica dónde debo usar transcreación vs. traducción en este fragmento [pega texto]"
 
