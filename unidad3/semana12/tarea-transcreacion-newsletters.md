@@ -51,9 +51,9 @@ Tienes tres newsletters para elegir. **Tu equipo debe seleccionar 1 de las 3 opc
 📄 [matthew-hussey-3-relationships-newsletters.md](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad3/semana12/matthew-hussey-3-relationships-newsletters.md)
 
 **Contenido en contexto visual (PDFs)**:  
-📄 [Newsletter 1 - Anxiety (PDF)](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad3/semana12/referencias/MatthewHussey-Anxiety.pdf)  
-📄 [Newsletter 2 - Larger Life (PDF)](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad3/semana12/referencias/MatthewHussey-LargerLife.pdf)  
-📄 [Newsletter 3 - Nervousness (PDF)](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad3/semana12/referencias/MatthewHussey-Nervousness.pdf)
+📄 [Newsletter 1 - Anxiety (PDF)](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad3/semana12/referencias/MatthewHussey-email1-anxiety.pdf)  
+📄 [Newsletter 2 - Larger Life (PDF)](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad3/semana12/referencias/MatthewHussey-email2-largerLife.pdf)  
+📄 [Newsletter 3 - Nervousness (PDF)](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad3/semana12/referencias/MatthewHussey-email3-nervousness.pdf)
 
 Usa estos materiales para entender el contexto visual y diseño original, pero trabaja con los archivos .md de Teams para tu transcreación.
 
