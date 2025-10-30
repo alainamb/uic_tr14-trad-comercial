@@ -116,9 +116,8 @@ Cada newsletter incluye:
 | **Fase del Proyecto** | **Completada por** | **Tiempo dedicado / persona** |
 |----------------------|--------------------|-----------------------------|
 | Análisis de voz de marca (actividad previa) | | |
-| Transcreación inicial Email 1 | | |
-| Transcreación inicial Email 2 | | |
-| Revisión de consistencia entre emails | | |
+| Transcreación inicial | | |
+| Revisión de consistencia con la voz de marca | | |
 | Refinamiento y pulido | | |
 | Documentación (reflexión) | | |
 
