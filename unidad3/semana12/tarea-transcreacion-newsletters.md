@@ -173,9 +173,6 @@ No—mantén los enlaces en su URL original. Solo traduce el texto del anchor qu
 **¿Cómo mantenemos el "P.S." al final?**  
 Puedes usar "P.D." (Posdata) que es el equivalente español estándar, o mantener "P.S." si tu equipo decide que suena más auténtico a la voz de Matthew.
 
-**¿Qué pasa si nuestros dos emails tienen estilos muy diferentes?**  
-Eso es normal—el contenido varía, pero la voz subyacente debe ser consistente. Enfócate en mantener el tono, vocabulario característico y nivel de formalidad, no en que ambos emails sean idénticos en estructura.
-
 ---
 
 ## 📥 Descarga este Archivo
@@ -189,7 +186,7 @@ Copia el contenido descargado y prueba estos prompts:
 - "Ayúdame a crear un mini-glosario de términos psicológicos clave de Matthew Hussey para mantener consistencia entre mis dos newsletters"
 - "Revisa esta transcreación [pega fragmento] - ¿mantiene la voz empática pero directiva de Matthew Hussey?"
 - "¿Cómo transcreo esta metáfora [pega ejemplo] para que resuene con audiencia mexicana?"
-- "Compara mi transcreacion [pega fragmentos de ambos emails] con la voz de marca de Matthew Hussey - ¿son consistentes en tono y vocabulario?"
+- "Compara mi transcreacion [pega fragmentos del email] con la voz de marca de Matthew Hussey - ¿es consistente en tono con el contenidos en inglés?"
 - "Esta línea de asunto [pega ejemplo] funciona en inglés - genera 3 opciones transcreadas efectivas para español mexicano"
 - "Identifica dónde debo usar transcreación vs. traducción en este fragmento [pega texto]"
 
