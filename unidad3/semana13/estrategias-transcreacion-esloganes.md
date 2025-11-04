@@ -97,7 +97,7 @@ El problema surge cuando **diferentes idiomas usan diferentes metáforas concept
 
 ---
 
-## Estrategias de Transcreación según Tipo de Desafío
+##  Más Desafíos y Algunas Estrategias de Transcreación
 
 ### Desafío 1: Juegos de Palabras
 
