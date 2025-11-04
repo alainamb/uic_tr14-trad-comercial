@@ -35,76 +35,11 @@ No todos los eslóganes tienen las mismas características, pero los más exitos
 | Cualidad | Principio | Por qué importa | Ejemplos |
 | -------- | --------- | --------------- | -------- |
 | Brevedad Estratégica | Entre 3-7 palabras es el rango ideal. Suficiente para comunicar un mensaje completo, pero lo suficientemente corto para recordarse fácilmente. | - Facilita memorización<br>- Funciona en formatos con espacio limitado (espectaculares, banners digitales)<br>- Más fácil de pronunciar y repetir | - "Just Do It" (3 palabras) - Nike<br>- "Think Different" (2 palabras) - Apple<br>- "Betcha Can't Eat Just One" (5 palabras) - Lay's<br>- "Melts in Your Mouth, Not in Your Hands" (8 palabras) - M&M's (exitoso a pesar de ser más largo porque la rima compensa) |
-
-### 2. Memorabilidad
-
-**Principio**: Debe quedarse en la mente del consumidor después de una sola exposición o muy pocas exposiciones.
-
-**Mecanismos de memorabilidad**:
-- Ritmo y musicalidad
-- Recursos retóricos (aliteración, rima, juegos de palabras)
-- Sorpresa o disrupción de expectativas
-- Conexión emocional fuerte
-
-**Ejemplos**:
-- "Plop, plop, fizz, fizz" - Alka-Seltzer (onomatopeya memorable)
-- "Rexona no te abandona" - Rexona (rima y promesa emocional)
-- "Got Milk?" - California Milk Processor Board (pregunta disruptiva)
-
-### 3. Claridad del Mensaje
-
-**Principio**: El eslogan debe comunicar algo específico sobre la marca, producto o beneficio - no solo sonar bien.
-
-**Qué evitar**:
-- Frases genéricas que podrían aplicarse a cualquier marca
-- Abstracción excesiva sin anclaje concreto
-- Complejidad que requiere explicación
-
-**Ejemplos efectivos**:
-- "The Ultimate Driving Machine" - BMW (beneficio específico: experiencia de manejo superior)
-- "When It Absolutely, Positively Has to Be There Overnight" - FedEx (promesa clara de velocidad)
-- "Finger-Lickin' Good" - KFC (descripción sensorial del producto)
-
-### 4. Diferenciación de Marca
-
-**Principio**: El eslogan debe posicionar la marca como única, diferente o superior a la competencia.
-
-**Estrategias de diferenciación**:
-- Enfatizar un atributo específico
-- Crear una categoría nueva
-- Definirse en contraste con otros
-- Apelar a un valor cultural específico
-
-**Ejemplos**:
-- "Think Different" - Apple (diferenciación por innovación y rebeldía)
-- "The Breakfast of Champions" - Wheaties (asociación con atletas)
-- "Have It Your Way" - Burger King (diferenciación vs. McDonald's en personalización)
-
-### 5. Resonancia Emocional
-
-**Principio**: Los mejores eslóganes no solo informan - evocan emociones que crean conexión con la marca.
-
-**Emociones frecuentemente evocadas**:
-- Aspiración ("Because You're Worth It")
-- Confianza ("You're in Good Hands" - Allstate)
-- Empoderamiento ("Just Do It")
-- Nostalgia ("They Don't Make 'Em Like They Used To. We Do." - Coca-Cola)
-- Alegría ("Open Happiness" - Coca-Cola)
-
-### 6. Adaptabilidad y Longevidad
-
-**Principio**: Un eslogan fuerte puede funcionar a través de diferentes medios, productos de la línea, y evoluciones de marca sin perder efectividad.
-
-**Características de adaptabilidad**:
-- No está vinculado a tendencias pasajeras
-- No menciona características específicas que puedan cambiar
-- Flexible en aplicación a diferentes contextos
-- Puede evolucionar sin perder esencia
-
-**Ejemplos de longevidad**:
-- "Just Do It" (Nike, 1988-presente: 36+ años)
-- "Because You're Worth It" (L'Oréal, 1973-presente: 51+ años, con variaciones como "Because I'm Worth It")
-- "The Happiest Place on Earth" (Disneyland, 1955-presente)
+| Memorabilidad | Debe quedarse en la mente de la audiencia después de una sola exposición o muy pocas exposiciones. | - Ritmo y musicalidad facilitan el recuerdo<br>- Recursos retóricos (aliteración, rima, juegos de palabras) aumentan retención<br>- Sorpresa o disrupción de expectativas genera impacto<br>- Conexión emocional fuerte crea vínculos duraderos | - "Plop, plop, fizz, fizz" - Alka-Seltzer (onomatopeya memorable)<br>- "Rexona no te abandona" - Rexona (rima y promesa emocional)<br>- "Got Milk?" - California Milk Processor Board (pregunta disruptiva) |
+| Claridad del Mensaje | El eslogan debe comunicar algo específico sobre la marca, producto o beneficio - no solo sonar bien. | - Evita frases genéricas aplicables a cualquier marca<br>- Previene abstracción excesiva sin anclaje concreto<br>- Elimina complejidad que requiere explicación<br>- Comunica valor o beneficio tangible | - "The Ultimate Driving Machine" - BMW (experiencia de manejo superior)<br>- "When It Absolutely, Positively Has to Be There Overnight" - FedEx (promesa clara de velocidad)<br>- "Finger-Lickin' Good" - KFC (descripción sensorial del producto) |
+| Diferenciación de Marca | El eslogan debe posicionar la marca como única, diferente o superior a la competencia. | - Enfatiza atributos específicos de la marca<br>- Crea o redefine una categoría<br>- Define la marca en contraste con competidores<br>- Apela a valores culturales específicos | - "Think Different" - Apple (innovación y rebeldía)<br>- "The Breakfast of Champions" - Wheaties (asociación con atletas)<br>- "Have It Your Way" - Burger King (personalización vs. McDonald's) |
+| Resonancia Emocional | Los mejores eslóganes no solo informan - evocan emociones que crean conexión profunda con la marca. | - Aspiración genera deseo de identificación<br>- Confianza construye lealtad<br>- Empoderamiento inspira acción<br>- Nostalgia crea vínculos afectivos<br>- Alegría asocia experiencias positivas | - "Because You're Worth It" - L'Oréal (aspiración)<br>- "You're in Good Hands" - Allstate (confianza)<br>- "Just Do It" - Nike (empoderamiento)<br>- "Open Happiness" - Coca-Cola (alegría) |
+| Adaptabilidad y Longevidad | Un eslogan fuerte funciona a través de diferentes medios, productos de la línea, y evoluciones de marca sin perder efectividad. | - No está vinculado a tendencias pasajeras<br>- No menciona características específicas que puedan cambiar<br>- Flexible en aplicación a diferentes contextos<br>- Puede evolucionar sin perder esencia | - "Just Do It" - Nike (1988-presente: 36+ años)<br>- "Because You're Worth It" - L'Oréal (1973-presente: 51+ años, evolucionó a "Because I'm Worth It")<br>- "The Happiest Place on Earth" - Disneyland (1955-presente) |
 
 ---
 
