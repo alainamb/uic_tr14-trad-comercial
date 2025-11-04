@@ -30,22 +30,11 @@ Aunque los términos a veces se usan indistintamente, tienen diferencias importa
 
 ## Características de Eslóganes Efectivos
 
-No todos los eslóganes tienen las mismas características, pero los más exitosos suelen compartir varias de estas cualidades:
+No todos los eslóganes tienen las mismas características, pero los más exitosos suelen compartir varias de estas cualidades.
 
-### 1. Brevedad Estratégica
-
-**Principio**: Entre 3-7 palabras es el rango ideal. Suficiente para comunicar un mensaje completo, pero lo suficientemente corto para recordarse fácilmente.
-
-**Por qué importa**:
-- Facilita memorización
-- Funciona en formatos con espacio limitado (espectaculares, banners digitales)
-- Más fácil de pronunciar y repetir
-
-**Ejemplos**:
-- "Just Do It" (3 palabras) - Nike
-- "Think Different" (2 palabras) - Apple
-- "Betcha Can't Eat Just One" (5 palabras) - Lay's
-- "Melts in Your Mouth, Not in Your Hands" (8 palabras) - M&M's (exitoso a pesar de ser más largo porque la rima compensa)
+| Cualidad | Principio | Por qué importa | Ejemplos |
+| -------- | --------- | --------------- | -------- |
+| Brevedad Estratégica | Entre 3-7 palabras es el rango ideal. Suficiente para comunicar un mensaje completo, pero lo suficientemente corto para recordarse fácilmente. | - Facilita memorización<br>- Funciona en formatos con espacio limitado (espectaculares, banners digitales)<br>- Más fácil de pronunciar y repetir | - "Just Do It" (3 palabras) - Nike<br>- "Think Different" (2 palabras) - Apple<br>- "Betcha Can't Eat Just One" (5 palabras) - Lay's<br>- "Melts in Your Mouth, Not in Your Hands" (8 palabras) - M&M's (exitoso a pesar de ser más largo porque la rima compensa) |
 
 ### 2. Memorabilidad
 
