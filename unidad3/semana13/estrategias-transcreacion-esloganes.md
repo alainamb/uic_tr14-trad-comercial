@@ -131,8 +131,6 @@ Si el juego de palabras no funciona y forzarlo crea confusión, mejor comunicar 
 
 **Principio**: **Un mensaje claro sin juego de palabras es mejor que un juego forzado que confunde.**
 
----
-
 ### Desafío 2: Referencias Culturales
 
 Las referencias culturales incluyen:
@@ -174,8 +172,6 @@ Comunicar el concepto subyacente sin la referencia cultural específica.
 **Ejemplo hipotético**:
 - **Original**: "Better than your grandma's recipe" (tradición casera estadounidense)
 - **Neutralizado**: "Sabor casero auténtico" (mantiene la idea de tradición sin la referencia específica a abuela)
-
----
 
 ### Desafío 3: Restricciones de Espacio
 
