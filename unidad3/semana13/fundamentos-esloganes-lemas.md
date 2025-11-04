@@ -18,37 +18,11 @@ Ahora que has analizado casos reales de éxitos y fracasos, es momento de constr
 
 Aunque los términos a veces se usan indistintamente, tienen diferencias importantes:
 
-### Eslogan (Tagline / Slogan)
-
-**Definición**: Frase breve asociada a una marca o campaña específica que comunica su propuesta de valor, personalidad o beneficio principal.
-
-**Características**:
-- Puede cambiar con el tiempo según evoluciona la estrategia de marca
-- Frecuentemente vinculado a campañas publicitarias específicas
-- Más comercial y orientado a persuasión
-- Generalmente aparece en materiales de marketing
-
-**Ejemplos**:
-- Nike: "Just Do It" (1988-presente)
-- Apple: "Think Different" (1997-2002)
-- McDonald's: "I'm Lovin' It" (2003-presente)
-- L'Oréal: "Because You're Worth It" (1973-presente, aunque ha tenido variaciones)
-
-### Lema (Motto)
-
-**Definición**: Declaración de principios, valores o misión de una organización que trasciende campañas individuales y representa su identidad fundamental.
-
-**Características**:
-- Permanente o de muy larga duración
-- Más institucional y menos comercial
-- Refleja valores organizacionales profundos
-- Frecuentemente usado por gobiernos, instituciones educativas, organizaciones
-
-**Ejemplos**:
-- Google: "Don't Be Evil" (lema corporativo interno, no eslogan publicitario)
-- Harvard: "Veritas" (Verdad)
-- Marines de EE.UU.: "Semper Fidelis" (Siempre Fiel)
-- México: "La Patria Es Primero" (lema nacional)
+| | Eslogan (Tagline / Slogan) | Lema (Motto) |
+| -- | ------------------------- | ----------- |
+| **Definición** | Frase breve asociada a una marca o campaña específica que comunica su propuesta de valor, personalidad o beneficio principal. | Declaración de principios, valores o misión de una organización que trasciende campañas individuales y representa su identidad fundamental. |
+| **Características** | - Puede cambiar con el tiempo según evoluciona la estrategia de marca<br>- Frecuentemente vinculado a campañas publicitarias específicas<br>- Más comercial y orientado a persuasión<br>- Generalmente aparece en materiales de marketing | - Permanente o de muy larga duración<br>- Más institucional y menos comercial<br>- Refleja valores organizacionales profundos<br>- Frecuentemente usado por gobiernos, instituciones educativas, organizaciones |
+| **Ejemplos** | - Nike: "Just Do It" (1988-presente)<br>- Apple: "Think Different" (1997-2002)<br>- McDonald's: "I'm Lovin' It" (2003-presente)<br>- L'Oréal: "Because You're Worth It" (1973-presente, aunque ha tenido variaciones) | - Google: "Don't Be Evil" (lema corporativo interno, no eslogan publicitario)<br>- Harvard: "Veritas" (Verdad)<br>- Marines de EE.UU.: "Semper Fidelis" (Siempre Fiel)<br>- México: "La Patria Es Primero" (lema nacional) |
 
 **Para este curso**: Nos enfocaremos principalmente en **eslóganes publicitarios**, ya que son los que más frecuentemente requieren transcreación para campañas de marketing internacional.
 
@@ -192,6 +166,20 @@ No te preocupes si un eslogan no encaja perfectamente en una sola categoría. Lo
 
 ---
 
+## Actividad de Análisis: Aplicando el Marco
+
+Ahora que tienes el marco teórico, vuelve a mirar los ejemplos de éxitos y fracasos de la actividad anterior:
+
+### Preguntas de Reflexión
+
+1. **Para los casos exitosos**: ¿Qué recursos retóricos usó la transcreación? ¿Qué función cumple el eslogan (descriptiva, emocional, aspiracional, etc.)? ¿Cómo preservaron o recrearon estos elementos en la transcreación?
+
+2. **Para los casos fallidos**: ¿Qué recursos retóricos se perdieron en la traducción? ¿Se mantuvo la función del eslogan? ¿Por qué la versión traducida no logró el mismo impacto?
+
+3. **Para los ejemplos que encontraste**: Analiza tus propios casos usando este marco. ¿Puedes identificar ahora con más precisión qué elementos específicos hicieron que un caso fuera exitoso o fallido?
+
+---
+
 ## Síntesis: Qué Hace que un Eslogan Funcione
 
 Basándonos en todo lo anterior, un eslogan efectivo generalmente:
@@ -213,20 +201,6 @@ Basándonos en todo lo anterior, un eslogan efectivo generalmente:
 - Manteniendo la brevedad dentro de restricciones de diseño
 
 Esto explica por qué la transcreación de eslóganes es tan compleja - debes manejar todos estos elementos simultáneamente.
-
----
-
-## Actividad de Análisis: Aplicando el Marco
-
-Ahora que tienes el marco teórico, vuelve a mirar los ejemplos de éxitos y fracasos de la actividad anterior:
-
-### Preguntas de Reflexión
-
-1. **Para los casos exitosos**: ¿Qué recursos retóricos usó la transcreación? ¿Qué función cumple el eslogan (descriptiva, emocional, aspiracional, etc.)? ¿Cómo preservaron o recrearon estos elementos en la transcreación?
-
-2. **Para los casos fallidos**: ¿Qué recursos retóricos se perdieron en la traducción? ¿Se mantuvo la función del eslogan? ¿Por qué la versión traducida no logró el mismo impacto?
-
-3. **Para los ejemplos que encontraste**: Analiza tus propios casos usando este marco. ¿Puedes identificar ahora con más precisión qué elementos específicos hicieron que un caso fuera exitoso o fallido?
 
 ---
 
