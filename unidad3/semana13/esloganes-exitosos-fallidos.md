@@ -203,7 +203,7 @@ Estas preguntas te preparan para las próximas actividades donde exploraremos lo
 
 ## 📥 Descarga esta Actividad
 
-Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-comercial-publicitaria/blob/main/unidad3/semana13/ejemplos-esloganes-exitosos-fallidos.md) y descárgalo.
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-comercial-publicitaria/blob/main/unidad3/semana13/esloganes-exitosos-fallidos.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IAG
 
