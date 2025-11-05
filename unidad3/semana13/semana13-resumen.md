@@ -34,7 +34,7 @@ Esta semana nos enfocamos en la transcreación de eslóganes, lemas y textos cre
 
 ### Tarea Asignada
 - **Transcreación de Eslóganes** (3 puntos)
-  - Seleccionar eslóganes en inglés de marcas reconocidas y proponer alternativas de transcreación para cada uno
+  - Seleccionar un eslógan en inglés de una nueva marca y proponer alternativas de transcreación para ello
   - Justificar las propuestas analizando aspectos lingüísticos, culturales y persuasivos
   - Evaluar la efectividad de las transcreaciones versus las traducciones literales
 - **Fecha de entrega**: Martes, 11 de noviembre
