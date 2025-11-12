@@ -59,7 +59,7 @@ To prove our new limited edition strawberry ghost pepper flavor won't actually k
 
 | Timestamp | Text |
 | --------- | ---- |
-| 0:00 | People thought our new death berry inferno sparkling water with ghost pepper flavor was so spicy it might actually kill them. |
+| 0:00 | People thought our new Deathberry Inferno sparkling water with ghost pepper flavor was so spicy it might actually kill them. |
 | 0:06 | So to prove you won't die, we tested it on the people we love the most. |
 | 0:09 | Our own moms. |
 | 0:11 | Yes, the actual mothers of Liquid Death employees. |
