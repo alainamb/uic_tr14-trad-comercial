@@ -75,7 +75,7 @@ Todo el contenido del curso está escrito en [**formato Markdown**](https://docs
 
 Para descargar cualquier lección como archivo markdown para usar con herramientas de IAG:
 
-1. **Visita nuestro repositorio del curso**: [github.com/alainamb/uic_tr18-trad-inversa-es-en](https://github.com/alainamb/uic_tr18-trad-inversa-es-en)
+1. **Visita nuestro repositorio del curso**: [github.com/alainamb/uic_tr18-trad-inversa-es-en](https://github.com/alainamb/uic_tr14-trad-comercial)
 2. **Navega a cualquier archivo de lección** (archivos que terminan en `.md`)
 3. **Haz clic en el nombre del archivo** para abrirlo
 4. **Haz clic en los tres puntos** en la esquina superior derecha
