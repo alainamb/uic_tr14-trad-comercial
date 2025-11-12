@@ -90,4 +90,4 @@ To prove our new limited edition strawberry ghost pepper flavor won't actually k
 
 ---
 
-**Note:** This content was curated from the Liquid Death website for translation and transcreation as part of an educational program.
+**Note:** This content was curated from the Liquid Death website for translation and transcreation within this educational program.
