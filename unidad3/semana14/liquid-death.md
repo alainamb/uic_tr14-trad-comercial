@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Liquid Death
-parent: Semana 13
+parent: Semana 14
 grand_parent: Unidad 3
 nav_order: 4
 ---
