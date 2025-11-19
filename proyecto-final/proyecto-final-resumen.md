@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Unidad 4
+title: Proyecto Final
 nav_order: 6
 has_children: true
 ---
 
-# Unidad 4: Conclusiones del Curso y Proyectos Finales
+# Proyecto Final: Traducción Professional Completa
 
 ## Bienvenida
 
