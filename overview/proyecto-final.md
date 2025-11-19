@@ -7,163 +7,83 @@ nav_order: 2
 
 # Proyecto Final: Traducción y Evaluación Profesionales - Ciclo Completo
 
-El proyecto final de evaluaciones por compañeros te dará la oportunidad de desarrollar habilidades críticas fundamentales para tu crecimiento profesional como traductor. A través de la revisión y análisis de los proyectos de tus compañeros, podrás identificar diferentes enfoques para resolver problemas de traducción, reconocer buenas prácticas y áreas de mejora, y proporcionar retroalimentación constructiva que contribuya al desarrollo de tus colegas.
+El proyecto final de este curso representa la culminación de tu aprendizaje en traducción comercial y publicitaria. Consta de dos componentes que demostrarán tanto tus habilidades técnicas de traducción como tu capacidad de análisis crítico profesional.
 
-## 🎯 Objetivo del Proyecto
+## 🎯 Objetivos del Proyecto
 
-**Demostrar competencias adquiridas** mediante la evaluación crítica de traducciones especializadas, aplicando criterios profesionales y proporcionando retroalimentación constructiva.
+**Demostrar competencias integrales** en traducción especializada mediante la producción de un proyecto profesional y la evaluación crítica del trabajo de colegas.
 
 Al finalizar este proyecto, podrás:
 
+- **Integrar conocimientos del curso** en un proyecto profesional de traducción comercial o publicitaria
+- **Aplicar metodologías profesionales** para análisis de audiencia, decisiones terminológicas y justificación de estrategias
 - **Evaluar críticamente traducciones especializadas** utilizando criterios profesionales
-- **Identificar fortalezas y áreas de mejora** en el trabajo de otros traductores
-- **Proporcionar retroalimentación constructiva**, específica y útil
-- **Reconocer diferentes enfoques y estrategias** para resolver problemas de traducción
-- **Reflexionar sobre tu propio proceso de aprendizaje** a partir de la observación del trabajo de otros
+- **Proporcionar retroalimentación constructiva** específica y útil para el desarrollo de colegas
+- **Reflexionar sobre tu proceso de aprendizaje** tanto como productor como evaluador de traducciones
 
-## 📋 Instrucciones Generales
+## 📋 Componentes del Proyecto
 
-Elaborarás **evaluaciones de tres proyectos de traducción** de tus compañeros y un **breve informe de reflexión**. Este enfoque de evaluación por pares te permitirá no solo demostrar tus propias habilidades analíticas, sino también desarrollar tu capacidad crítica al evaluar el trabajo de otros profesionales de la traducción.
+El proyecto final se divide en dos fases complementarias:
+
+### Fase 1: Tu Traducción (Tercer Parcial)
+Trabajarás en equipo para desarrollar un proyecto profesional de traducción comercial informativa o transcreación publicitaria de tu elección.
+
+**Entregables:**
+- **Contenido fuente:** PDF del contenido en contexto + archivo editable del texto
+- **Traducción/Transcreación:** Tu texto meta completo
+- **Reporte profesional:** Justificación, análisis de audiencia, decisiones terminológicas, reflexión
+
+### Fase 2: Evaluaciones (Examen Final)
+Evaluarás de manera individual tres proyectos de tus compañeras y compañeros, proporcionando retroalimentación específica y constructiva.
+
+**Entregables:**
+- **Tres evaluaciones detalladas:** Comentarios específicos en los textos + comentario general por proyecto
+- **Hoja de trabajo de reflexión:** Análisis de patrones observados y aprendizajes obtenidos
 
 ## 🗓️ Cronograma del Proyecto
 
-| **Fase** | **Actividad** | **Semana** | **Descripción** |
-|:---------|:--------------|:-----------|:----------------|
-| **Preparación** | Presentación de proyectos | Semana 15 | Presentaciones breves de proyectos del tercer parcial |
-| **Asignación** | Grupos de evaluación | Semana 16 | Asignación de tres proyectos para evaluar |
-| **Evaluación** | Análisis y retroalimentación | Semana 17 | Trabajo independiente de evaluación |
-| **Entrega** | Proyecto final completo | Semana 17 | Entrega de evaluaciones e informe de reflexión |
+| **Semana** | **Actividad** | **Componente** | **Descripción** |
+|:-----------|:--------------|:---------------|:----------------|
+| **Semana 15** | Desarrollo del proyecto | Traducción | Selección de contenido, investigación, traducción inicial |
+| **Semana 16** | Entrega y presentación | Traducción | Refinamiento, preparación de reporte, presentaciones breves en clase |
+| **Semana 17** | Evaluación de pares | Evaluaciones | Selección de proyectos, análisis crítico, retroalimentación detallada |
 
-**Total del Proyecto**: 10 puntos (10% de la calificación final)
+## 📊 Calificación
 
----
-
-## 📝 Proceso de Evaluación
-
-### Paso 1: Analizar Cada Proyecto
-Utilizarás la **rúbrica proporcionada** para evaluar sistemáticamente cada uno de los tres proyectos asignados. La evaluación debe ser:
-- **Objetiva**: Basada en criterios profesionales claros
-- **Específica**: Con ejemplos concretos del texto
-- **Constructiva**: Orientada al crecimiento profesional
-
-### Paso 2: Identificar Fortalezas y Áreas de Mejora
-Para cada traducción, identificarás:
-- **Fortalezas**: Aspectos bien ejecutados que demuestran competencia
-- **Áreas de mejora**: Elementos que podrían beneficiarse de refinamiento
-- **Estrategias efectivas**: Soluciones creativas a problemas de traducción
-
-### Paso 3: Redactar Comentarios Específicos y Detallados
-Tus comentarios deben:
-- **Ir más allá de "¡Buen trabajo!"**: Proporcionar análisis sustantivo
-- **Ser específicos**: Referenciar partes concretas del texto
-- **Demostrar comprensión**: De los desafíos de traducción comercial y publicitaria
-
-### Paso 4: Proporcionar Sugerencias Constructivas
-Las sugerencias deben:
-- **Ser accionables**: Que el traductor pueda implementar
-- **Estar fundamentadas**: En principios de traducción comercial/publicitaria
-- **Respetar el estilo**: Del traductor mientras sugieren mejoras
-
-### Paso 5: Elaborar Informe de Reflexión
-Un análisis reflexivo sobre lo aprendido del proceso de evaluación.
-
----
-
-## 📊 Entregables y Evaluación
-
-### Evaluaciones Detalladas (9 puntos)
-**3 puntos por cada evaluación (3 evaluaciones × 3 puntos = 9 puntos)**
-
-Revisión de tres proyectos asignados utilizando la rúbrica proporcionada, con comentarios específicos para cada criterio de evaluación.
-
-#### Criterios de Evaluación para Cada Proyecto:
-- **Calidad del análisis**: Profundidad y precisión del análisis
-- **Especificidad de comentarios**: Ejemplos concretos y referencias textuales
-- **Constructividad**: Orientación hacia el crecimiento profesional
-- **Comprensión de principios**: Aplicación de conceptos del curso
-
-#### Qué NO es Aceptable:
-- Comentarios genéricos como "¡Buen trabajo!"
-- Evaluaciones superficiales sin análisis sustantivo
-- Críticas destructivas sin sugerencias de mejora
-- Falta de comprensión de los conceptos del curso
-
-### Informe de Reflexión (1 punto)
-**Evaluación**: Incompleto y/o sin conciencia crítica (0 puntos) / Completo y con conciencia crítica (1 punto)
-
-Un documento breve donde reflexiones sobre:
-
-#### Contenido del Informe:
-1. **Diferentes enfoques observados** para resolver problemas de traducción comercial y publicitaria
-2. **Buenas prácticas identificadas** en los proyectos revisados que podrías adoptar
-3. **Aplicaciones para tu desarrollo profesional** basadas en lo observado
-4. **Aprendizajes obtenidos** del proceso de evaluación por pares
-5. **Reflexión sobre la traducción especializada** y sus desafíos únicos
-
----
-
-## 🎯 Rúbrica de Evaluación Detallada
-
-### Para Cada Evaluación Individual (3 puntos cada una)
-
-| **Criterio** | **Excelente (3 pts)** | **Satisfactorio (2 pts)** | **Necesita Mejora (1 pt)** | **Inadecuado (0 pts)** |
-|:-------------|:---------------------|:--------------------------|:---------------------------|:------------------------|
-| **Análisis** | Análisis profundo y preciso | Análisis adecuado | Análisis superficial | Sin análisis sustantivo |
-| **Especificidad** | Ejemplos concretos y detallados | Algunos ejemplos específicos | Ejemplos limitados | Comentarios genéricos |
-| **Constructividad** | Sugerencias útiles y accionables | Algunas sugerencias constructivas | Sugerencias vagas | Sin sugerencias constructivas |
-
-### Para el Informe de Reflexión (1 punto)
-
-| **Completo y con Conciencia Crítica (1 pt)** | **Incompleto y sin Conciencia Crítica (0 pts)** |
-|:----------------------------------------------|:------------------------------------------------|
-| - Reflexión profunda sobre diferentes enfoques<br>- Identificación clara de buenas prácticas<br>- Aplicación personal bien articulada<br>- Aprendizajes específicos del proceso<br>- Comprensión de la traducción especializada | - Reflexión superficial o ausente<br>- Identificación vaga de prácticas<br>- Aplicación personal poco clara<br>- Aprendizajes genéricos<br>- Comprensión limitada del campo |
-
----
-
-## 🛠️ Recursos para el Proyecto
-
-### Materiales de Apoyo:
-- **Proyectos del Tercer Parcial**: De compañeros asignados
-- **Rúbrica de evaluación**: Proporcionada por la profesora
-- **Conceptos del curso**: Voz de marca, transcreación, adaptación cultural
-- **Criterios profesionales**: Desarrollados a lo largo del curso
-
-### Herramientas de Evaluación:
-- **Lista de verificación**: Para asegurar evaluaciones completas
-- **Plantilla de comentarios**: Para estructurar retroalimentación
-- **Guía de reflexión**: Para el informe final
-
----
-
-## 📥 Nomenclatura y Entrega
-
-### Formato de Entrega:
-- **Evaluaciones**: Un documento por cada proyecto evaluado
-- **Informe de reflexión**: Documento separado
-- **Formato**: MS Word o PDF
-
-### Nomenclatura:
-- **Evaluaciones**: `Apellido_Evaluación_ProyectoX` (donde X = 1, 2, 3)
-- **Informe**: `Apellido_Evaluaciones_Reflexión`
-
-### Fecha de Entrega:
-**Martes, 9 de diciembre** (Semana 17)
+| **Componente** | **Instrumento** | **Puntos** | **Porcentaje** |
+|:---------------|:----------------|:-----------|:---------------|
+| **Tu Traducción** | Tercer Examen Parcial | 10 | 10% |
+| **Evaluaciones** | Examen Final | 10 | 10% |
+| **Total del Proyecto** | | **20** | **20%** |
 
 ---
 
 ## 🌟 Beneficios del Proyecto
 
-### Desarrollo Profesional:
-- **Habilidades críticas**: Esenciales para traductores senior
-- **Perspectiva del mercado**: Comprensión de diferentes enfoques
-- **Autoconciencia**: Identificación de fortalezas y áreas de crecimiento
-- **Networking profesional**: Construcción de relaciones con colegas
+### Desarrollo de Competencias Profesionales
+- **Habilidades técnicas:** Traducción/transcreación en contextos comerciales reales
+- **Pensamiento crítico:** Evaluación objetiva usando criterios profesionales
+- **Comunicación profesional:** Retroalimentación constructiva y documentación de metodología
+- **Perspectiva amplia:** Comprensión de diversos enfoques traductológicos
 
-### Preparación Laboral:
-- **Revisión de pares**: Habilidad valorada en agencias de traducción
-- **Mentoring**: Capacidad de guiar a traductores junior
-- **Control de calidad**: Competencia clave en gestión de proyectos
-- **Comunicación profesional**: Habilidades de retroalimentación constructiva
+### Preparación para el Mercado Laboral
+- **Portfolio profesional:** Proyecto completo documentado para mostrar a empleadores
+- **Experiencia de revisión:** Habilidad valorada en agencias de traducción
+- **Trabajo colaborativo:** Experiencia en equipos profesionales
+- **Competencias de mentoría:** Capacidad de guiar y desarrollar a otros traductores
+
+---
+
+## 📥 Información Detallada del Proyecto
+
+Para instrucciones completas sobre cada componente del proyecto final, consulta:
+
+### [Unidad: Proyecto Final](../proyecto-final/proyecto-final-intro.md)
+
+Esta unidad contiene:
+- **[Proyecto Final: Traducción](../proyecto-final/proyecto-final-traduccion.md)** - Instrucciones detalladas para tu proyecto de traducción
+- **[Proyecto Final: Evaluaciones](../proyecto-final/proyecto-final-evaluacion.md)** - Guía completa para evaluar proyectos de pares
+- **[Conclusiones del Proyecto Final](../proyecto-final/proyecto-final-conclusion.md)** - Reflexión sobre competencias desarrolladas
 
 ---
 
@@ -173,11 +93,12 @@ Un documento breve donde reflexiones sobre:
 
 ### 🤖 Prompts de Estudio con IA
 Copia la información del proyecto final y prueba estos prompts:
-- "¿Qué aspectos específicos debo buscar al evaluar traducciones publicitarias?"
-- "Genera ejemplos de retroalimentación constructiva para diferentes tipos de errores de traducción"
-- "¿Cómo puedo estructurar mi informe de reflexión para demostrar aprendizaje profundo?"
-- "Explica la diferencia entre crítica destructiva y constructiva en evaluación de traducciones"
-- "¿Qué preguntas debo hacerme al evaluar la efectividad de una transcreación?"
+- "Ayúdame a planificar mi cronograma personal para completar ambos componentes del proyecto final"
+- "¿Cómo puedo seleccionar un proyecto de traducción que demuestre mejor mis fortalezas?"
+- "Explica las diferencias entre evaluar traducciones informativas vs. persuasivas"
+- "¿Qué aspectos debo documentar en mi reporte para facilitar las evaluaciones de mis compañeras y compañeros?"
+- "Genera criterios de autoevaluación para mi proyecto antes de entregarlo"
+- "¿Cómo balanceo la crítica constructiva con el reconocimiento de fortalezas en evaluaciones?"
 
 ---
 
