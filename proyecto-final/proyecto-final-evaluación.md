@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Proyecto Final - Evaluaciones por Pares
-parent: Semana 17
-grand_parent: Unidad 4
-nav_order: 1
+title: Proyecto Final - Evaluaciones
+parent: Proyecto Final
+nav_order: 2
 ---
 
 # Proyecto Final: Evaluaciones por Pares
