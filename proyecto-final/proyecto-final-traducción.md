@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Proyecto Final: Traducción
+title: Proyecto Final - Traducción
 parent: Proyecto Final
 nav_order: 1
 ---
