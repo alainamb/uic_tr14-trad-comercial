@@ -2,7 +2,7 @@
 layout: default
 title: Proyectos Finales - Conclusiones
 parent: Proyecto Final
-nav_order: 4
+nav_order: 3
 ---
 
 # Conclusión de la Unidad 4: Proyectos Finales y Desarrollo Profesional
