@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Conclusión de la Unidad 4
-parent: Unidad 4
+title: Proyectos Finales - Conclusiones
+parent: Proyecto Final
 nav_order: 4
 ---
 
