@@ -11,7 +11,7 @@ nav_order: 2
 
 **Modalidad**: Evaluación individual de proyectos colaborativos
 
-**Fecha de entrega**: Martes, 9 de diciembre
+**Fecha de entrega**: Lunes, 8 de diciembre
 
 ## Descripción del Proyecto
 
