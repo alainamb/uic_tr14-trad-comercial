@@ -164,4 +164,4 @@ Copia las instrucciones descargadas del proyecto y prueba estos prompts:
 
 ---
 
-**¡Este es tu proyecto final!** Demuestra las competencias críticas y profesionales que has desarrollado a lo largo del curso. Para contexto adicional, revisa la [Conclusión de la Unidad 4](../unidad4-conclusion.md).
+**¡Este es tu proyecto final!** Demuestra las competencias críticas y profesionales que has desarrollado a lo largo del curso. Para contexto adicional, revisa las [Conclusiones del Proyecto Final](proyecto-final-conclusion.md).
