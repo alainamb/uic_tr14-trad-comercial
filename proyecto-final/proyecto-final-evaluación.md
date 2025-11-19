@@ -15,7 +15,7 @@ nav_order: 2
 
 ## Descripción del Proyecto
 
-El proyecto final de evaluaciones por pares te dará la oportunidad de desarrollar habilidades críticas fundamentales para tu crecimiento profesional como traductora o traductor. A través de la revisión y análisis de los proyectos de tus compañeras y compañeros, podrás identificar diferentes enfoques para resolver problemas de traducción, reconocer buenas prácticas y áreas de mejora, y proporcionar retroalimentación constructiva que contribuya al desarrollo de tus colegas.
+La evaluación de los proyectos finales de tus compañeras y compañeros del curso te dará la oportunidad de desarrollar habilidades críticas fundamentales para tu crecimiento profesional como traductora o traductor. A través de la revisión y análisis de una variedad de proyectos, podrás identificar diferentes enfoques para resolver problemas de traducción, reconocer buenas prácticas y áreas de mejora, y proporcionar retroalimentación constructiva que contribuya al desarrollo de tus colegas.
 
 ## Objetivos de Aprendizaje
 
@@ -31,7 +31,7 @@ Al finalizar este proyecto, podrás:
 
 - **Reflexionar sobre tu propio proceso de aprendizaje** a partir de la observación del trabajo de otras personas
 
-## Parte 2: Selección de textos para evaluar
+## Parte 1: Selección de textos para evaluar
 
 ### Instrucciones para seleccionar traducciones
 
@@ -39,27 +39,27 @@ Selecciona **3 traducciones** de compañeras o compañeros para evaluar.
 
 #### Reglas para la selección
 
-1. Revisa todas las publicaciones en el canal **Trad-Lit** para ver qué textos están disponibles
+1. Revisa todas las publicaciones en el canal **Proyectos Finales** para ver qué proyectos están disponibles
 2. Indica tu interés en evaluar un texto comentando en la publicación correspondiente
 4. **MUY IMPORTANTE - Distribución equitativa:** Si ves que una publicación ya tiene varios comentarios y otra no tiene ninguno, debes elegir la que no tiene comentarios para asegurar distribución equitativa
 
-**Objetivo:** Cada traducción debe tener aproximadamente el mismo número de evaluadores. Tu responsabilidad es contribuir a esta distribución justa.
+**Objetivo:** Cada proyecto debe tener aproximadamente el mismo número de evaluadores. Tu responsabilidad es contribuir a esta distribución justa.
 
 #### Criterios para la selección
 
 Al elegir qué traducciones evaluar, también considera:
 
 - **Equidad primero:** Prioriza textos con menos evaluadores registrados
-- **Diversidad de géneros:** Intenta evaluar diferentes tipos de textos (narrativa, poesía, ensayo)
-- **Variedad de autoras y autores:** Exponte a diferentes voces literarias mexicanas
-- **Interés personal:** Selecciona textos que te intriguen o desafíen
-- **Aprendizaje:** Elige traducciones que te ofrezcan oportunidades de aprendizaje sobre enfoques distintos al tuyo
+- **Diversidad de tipos:** Intenta evaluar tanto proyectos informativos como persuasivos
+- **Variedad de industrias:** Exponte a diferentes sectores empresariales
+- **Interés personal:** Selecciona proyectos que te intriguen o desafíen
+- **Aprendizaje:** Elige proyectos que te ofrezcan oportunidades de aprendizaje sobre enfoques distintos al tuyo
 
 ---
 
-## Parte 3: Evaluación de las traducciones
+## Parte 2: Evaluación de los proyectos
 
-### Proceso de evaluación para cada texto
+### Proceso de evaluación para cada proyecto
 
 Para cada una de las 3 traducciones seleccionadas:
 
