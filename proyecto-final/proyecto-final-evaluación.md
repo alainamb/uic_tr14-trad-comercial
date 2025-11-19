@@ -258,8 +258,6 @@ Tu comentario final debe ofrecer una evaluación holística:
 
 ---
 
----
-
 ## Estrategias para el éxito
 
 ### Antes de comenzar
