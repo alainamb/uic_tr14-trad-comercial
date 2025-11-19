@@ -31,11 +31,11 @@ Al finalizar este proyecto, podrás:
 
 - **Reflexionar sobre tu propio proceso de aprendizaje** a partir de la observación del trabajo de otras personas
 
-## Parte 1: Selección de textos para evaluar
+## Parte 1: Selección de proyectos para evaluar
 
-### Instrucciones para seleccionar traducciones
+### Instrucciones para seleccionar proyectos
 
-Selecciona **3 traducciones** de compañeras o compañeros para evaluar.
+Selecciona **3 proyectos**  para evaluar.
 
 #### Reglas para la selección
 
@@ -61,16 +61,17 @@ Al elegir qué traducciones evaluar, también considera:
 
 ### Proceso de evaluación para cada proyecto
 
-Para cada una de las 3 traducciones seleccionadas:
+Para cada uno de los 3 proyectos seleccionados:
 
 #### 1. Lectura preparatoria
 
-- Lee primero el **texto fuente en español** completo
-- Lee la **justificación** de quien tradujo (si está disponible)
-- Lee la **traducción al inglés** completa
+- Lee primero el **reporte del proyecto** completo para entender el contexto, audiencia y decisiones
+- Revisa el **contenido fuente en contexto** (PDF/capturas de pantalla)
+- Lee el **texto fuente editable** completo
+- Lee la **traducción** completa
 - Lee de nuevo secciones específicas según sea necesario
 
-#### 2. Comentarios específicos (mínimo 3 por traducción)
+#### 2. Comentarios específicos en el texto
 
 Utiliza la **función de comentarios de MS Word** para dejar retroalimentación específica a lo largo de la traducción.
 
@@ -83,127 +84,132 @@ Utiliza la **función de comentarios de MS Word** para dejar retroalimentación 
 
 #### 3. Comentario general (obligatorio)
 
-Al final del documento, deja un **comentario general** que evalúe la traducción como obra completa.
+Al final del documento de la traducción, deja un **comentario general** que evalúe el proyecto como obra completa.
 
 Este comentario debe abordar:
-- Calidad general de la traducción
-- Logros principales
+- Calidad general de la traducción/transcreación
+- Logros principales observados en el proyecto
 - Áreas de oportunidad
-- Efectividad de la voz y estilo
-- Experiencia lectora en inglés
+- Efectividad del enfoque para el tipo de contenido y audiencia meta
+- Experiencia lectora en español
 
 **Firma este comentario con tu nombre.**
 
 ---
 
-## Parte 4: Documentación de tu trabajo
+## Parte 3: Documentación de tu trabajo
 
 ### Hoja de trabajo de reflexión
 
-Después de completar las 3 evaluaciones, completa la **hoja de trabajo "Tercer parcial - Evaluaciones de compañeros"** disponible en Teams.
+Después de completar las 3 evaluaciones, completa la **hoja de trabajo "Proyectos Finales - Evaluaciones"** disponible en Teams.
 
 #### Estructura de la hoja de trabajo
 
 Para cada una de las 3 evaluaciones:
 
 **Información básica:**
-- Nombre de quien tradujo
-- Título del texto evaluado
+- Nombre(s) de quienes tradujeron
+- Título del proyecto evaluado
 
-**Reflexión sobre los comentarios** (párrafo extenso que aborde):
+**Reflexión sobre los comentarios** (párrafo de no más que 7 oraciones que aborde):
 
-1. **Patrones observados:** ¿Qué aspectos específicos llamaron tu atención repetidamente en esta traducción? ¿Por qué decidiste enfocarte en esos elementos?
+1. **Patrones observados:** ¿Qué aspectos específicos llamaron tu atención repetidamente en este proyecto? ¿Por qué decidiste enfocarte en esos elementos?
 
-2. **Criterios de evaluación:** ¿Qué criterios utilizaste para evaluar la calidad global del texto? ¿Cómo determinaste qué aspectos eran fortalezas y cuáles eran áreas de oportunidad?
+2. **Criterios de evaluación:** ¿Qué criterios utilizaste para evaluar la calidad del proyecto? ¿Cómo determinaste qué aspectos eran fortalezas y cuáles eran áreas de oportunidad?
 
-3. **Fortalezas identificadas:** ¿Cuáles fueron los logros más significativos de esta traducción? ¿Qué hizo que funcionara bien?
+3. **Fortalezas identificadas:** ¿Cuáles fueron los logros más significativos de este proyecto? ¿Qué aspectos funcionaron especialmente bien?
 
 4. **Áreas de oportunidad:** ¿Qué aspectos podrían mejorarse? ¿Por qué identificaste esos elementos específicamente?
 
-5. **Impacto de tu retroalimentación:** ¿Cómo podrían tus observaciones ayudar a quien tradujo a mejorar su práctica?
+5. **Impacto de tu retroalimentación:** ¿Cómo podrían tus observaciones ayudar a quienes tradujeron a mejorar su práctica profesional?
 
-6. **Tu aprendizaje:** ¿Qué aprendiste al analizar estos elementos específicos de la traducción?
+6. **Tu aprendizaje:** ¿Qué aprendiste al analizar este proyecto que puedes aplicar a tu propio trabajo de traducción?
 
 #### Preguntas generales (al final de la hoja)
 
-**Pregunta 1:** ¿Cuáles fueron los desafíos más comunes que observaste en las traducciones que evaluaste?
+**Pregunta 1:** ¿Cuáles fueron los desafíos más comunes que observaste en los proyectos que evaluaste? ¿Cómo se relacionan estos desafíos con los conceptos del curso?
 
-**Pregunta 2:** ¿Qué aprendiste al evaluar las traducciones de tus compañeras y compañeros que te será útil para tus propias traducciones futuras?
+**Pregunta 2:** ¿Qué aprendiste al evaluar los proyectos de tus compañeras y compañeros que te será útil para tus propios proyectos de traducción futuros?
 
 ### Entrega de la hoja de trabajo
 
-- Nombra tu archivo: `TuApellido_Tercer-parcial.docx`
+- Nombra tu archivo: `TuApellido_ProyectoFinal_Evaluaciones.docx`
 - Sube el archivo en la tarea correspondiente en Teams antes de la fecha límite
 
 ---
 
-## Guía para comentarios de calidad
+## Guía para Comentarios de Calidad
 
 ### Principio fundamental
 
 > Un simple "¡Buen trabajo!" no permite a quien tradujo aprender de tu perspectiva, mientras que comentarios detallados y específicos enriquecen su aprendizaje y contribuyen significativamente a su desarrollo profesional.
 
-Tu retroalimentación tiene un valor único. Cada persona que evalúa aporta una perspectiva distinta basada en su propia experiencia, sensibilidad lingüística y comprensión cultural.
+Tu retroalimentación tiene un valor único. Cada persona que evalúa aporta una perspectiva distinta basada en su propia experiencia, sensibilidad lingüística y comprensión del mercado mexicano.
 
 ### Tipos de comentarios específicos efectivos
 
 #### 🌟 Fortalezas y logros
 
-Identifica momentos donde la traducción sobresale:
+Identifica momentos donde el proyecto sobresale:
 
-- **Captura de matices:** "Esta traducción de 'ni modo' como 'oh well' captura perfectamente la resignación irónica sin perder el tono coloquial."
-- **Soluciones creativas:** "Excelente decisión de convertir esta metáfora visual en una táctil para que funcione en inglés."
-- **Preservación de musicalidad:** "El ritmo de esta frase en inglés replica el del original sin forzar la sintaxis."
-- **Manejo cultural:** "Esta adaptación de la referencia a Tepito funciona bien—introduces suficiente contexto sin interrumpir el flujo narrativo."
+**Para proyectos informativos:**
+- **Precisión terminológica:** "Excelente elección de 'gestión de inventario' en lugar de 'administración'—es el término estándar en México para este contexto empresarial."
+- **Claridad estructural:** "Esta reestructuración de la oración compleja mejora significativamente la legibilidad sin perder información."
+- **Tono profesional:** "El registro formal se mantiene consistente a lo largo del documento, apropiado para comunicación corporativa."
+
+**Para proyectos persuasivos:**
+- **Impacto emocional:** "Esta adaptación de 'Transform Your Sleep' como 'Transforma tus noches' captura la aspiración sin sonar cursi—muy efectivo."
+- **Resonancia cultural:** "La referencia al 'godín' en lugar de 'office worker' crea conexión inmediata con la audiencia mexicana."
+- **Creatividad:** "Adaptar este juego de palabras en inglés con uno completamente diferente pero igualmente efectivo en español demuestra verdadera destreza en transcreación."
 
 #### 🔍 Áreas de oportunidad
 
 Señala aspectos mejorables con tacto y especificidad:
 
-- **Claridad:** "Este pasaje podría beneficiarse de reestructuración—la sintaxis compleja oscurece el significado original."
-- **Naturalidad:** "Esta frase suena calcada del español. Considera: [sugerencia alternativa]."
-- **Consistencia:** "Usaste 'neighborhood' aquí pero 'barrio' en el párrafo anterior. ¿Fue intencional? Podría confundir al lector."
-- **Registro:** "El tono formal aquí contrasta con el resto del texto—el original es más coloquial."
+**Para proyectos informativos:**
+- **Terminología:** "Este término técnico podría beneficiarse de verificación—el uso estándar en documentación empresarial mexicana es [alternativa]."
+- **Coherencia:** "Usaste 'proveedor' aquí pero 'vendedor' en la sección anterior para el mismo concepto. ¿Fue intencional?"
+- **Convenciones locales:** "Las fechas deberían seguir el formato mexicano (día/mes/año) para este tipo de documento corporativo."
+
+**Para proyectos persuasivos:**
+- **Registro:** "Este término suena demasiado formal para el tono conversacional del original—considera [alternativa más coloquial]."
+- **Adaptación cultural:** "Esta referencia funcionaría en España pero puede no resonar con audiencia mexicana. Considera [adaptación local]."
+- **Voz de marca:** "El tono aquí se vuelve más conservador que el original—la marca cultiva personalidad irreverente que debería mantenerse."
 
 #### 💡 Sugerencias constructivas
 
 Ofrece alternativas con razonamiento:
 
-- **Opciones léxicas:** "Consideraste 'tenacious' en lugar de 'stubborn'? Tiene una connotación más positiva que parece ajustarse mejor al tono admirativo del original."
-- **Reestructuración:** "Podrías dividir esta oración larga en dos para mejorar la fluidez en inglés sin perder información."
-- **Manejo de modismos:** "Esta expresión idiomática no tiene equivalente directo. Quizás podrías transmitir la idea subyacente en lugar de traducir palabra por palabra."
+- **Opciones léxicas:** "¿Consideraste 'innovador' en lugar de 'novedoso'? Tiene una connotación más positiva en contexto de tecnología empresarial."
+- **Reestructuración:** "Podrías dividir este párrafo largo en dos para mejorar la escaneabilidad en formato web."
+- **Manejo de culturemas:** "Esta referencia a 'nine-to-five' podría adaptarse como 'horario de oficina' o 'jornada laboral' para ser más inclusivo del mercado mexicano donde horarios varían."
 
-#### 📖 Efectos literarios
+#### 📊 Efectividad del proyecto completo
 
-Comenta sobre elementos estilísticos:
+Comenta sobre elementos estratégicos:
 
-- **Voz narrativa:** "La voz infantil del narrador se mantiene consistentemente a través de tus elecciones léxicas simples y sintaxis directa."
-- **Imágenes:** "Esta traducción de la metáfora visual es ingeniosa—funciona en inglés sin sonar forzada."
-- **Ritmo:** "El ritmo rápido de este diálogo captura la urgencia del original."
+- **Análisis de audiencia:** "El buyer persona está bien definido—se nota que consideraron las motivaciones específicas de este segmento del mercado mexicano."
+- **Decisiones de traducción:** "La tabla terminológica muestra investigación exhaustiva y justificaciones sólidas basadas en uso real del sector."
+- **Metodología:** "El reporte demuestra proceso profesional claro desde análisis de brief hasta justificación de decisiones finales."
 
 ### Comentario general: Elementos clave
 
 Tu comentario final debe ofrecer una evaluación holística:
 
 #### Evalúa la experiencia completa
-- ¿Cómo se lee el texto de principio a fin?
-- ¿La traducción transmite la experiencia estética del original?
-- ¿Qué emociones provoca? ¿Son consistentes con el texto fuente?
+- ¿Cómo funciona el proyecto de principio a fin?
+- ¿La traducción/transcreación cumple su propósito comunicativo?
+- ¿Qué tan bien preparado está el proyecto para presentarse a un cliente?
 
-#### Analiza la voz narrativa
-- ¿Se mantiene consistente a lo largo del texto?
-- ¿Captura la personalidad de quien narra o del personaje principal?
-- ¿El registro es apropiado para el género y contexto?
-
-#### Considera el público meta
-- ¿Cómo podrían recibir este texto lectores angloparlantes que no conocen el original?
-- ¿Hay suficiente contexto cultural sin explicaciones excesivas?
-- ¿La traducción les permitiría disfrutar de la obra plenamente?
+#### Analiza la efectividad para audiencia meta
+- ¿El contenido resonaría con la audiencia mexicana identificada?
+- ¿El tono y registro son apropiados para el contexto?
+- ¿Hay suficiente adaptación cultural sin explicaciones excesivas?
 
 #### Resume fortalezas principales
-- ¿Qué hace que esta traducción sea especial o memorable?
+- ¿Qué hace que este proyecto sea especial o memorable?
 - ¿Cuáles son los logros más destacados?
-- ¿Qué elementos demuestran habilidad traductora avanzada?
+- ¿Qué elementos demuestran competencia profesional avanzada?
 
 #### Sugiere áreas de mejora
 - ¿Dónde podrían pequeños ajustes elevar la calidad?
@@ -212,43 +218,45 @@ Tu comentario final debe ofrecer una evaluación holística:
 
 ### Ejemplos de comentarios generales efectivos
 
-**Ejemplo 1 - Equilibrado y constructivo:**
-> "Esta traducción captura efectivamente la melancolía del cuento original con elecciones léxicas evocativas y un ritmo contemplativo. La voz de la narradora adolescente suena auténtica en inglés—particularmente impresionante en los diálogos. Las referencias culturales están bien manejadas, con suficiente contexto para lectores angloparlantes sin sobreexplicación. El mayor logro es mantener la ambigüedad poética del final. Sin embargo, algunos pasajes en la mitad del texto se vuelven sintácticamente complejos de manera que entorpece el flujo. Simplificar esas estructuras sin perder matices fortalecería la fluidez general. En conjunto, una traducción sólida que honra el espíritu del original." - [Tu nombre]
+**Ejemplo 1 - Proyecto Informativo:**
+> "Este proyecto de traducción de documentación técnica demuestra comprensión sólida de las convenciones empresariales mexicanas. La terminología es consistentemente precisa—se nota la investigación en recursos especializados del sector. El análisis de audiencia en el reporte contextualiza bien las decisiones sobre nivel técnico y tono formal. Las mayores fortalezas son la claridad estructural y coherencia terminológica. Un área de oportunidad sería revisar algunas convenciones de formato (fechas, unidades de medida) para asegurar alineación completa con estándares mexicanos. En conjunto, un proyecto profesional que cumpliría bien su propósito comunicativo con la audiencia corporativa identificada." - [Tu nombre]
 
-**Ejemplo 2 - Enfocado en logros específicos:**
-> "Lo más impresionante de esta traducción es cómo maneja el humor. El juego de palabras que depende de doble sentido en español se transformó creativamente en un juego de palabras equivalente en inglés—eso requiere verdadera destreza. El tono satírico se mantiene consistente, y las referencias a la burocracia universitaria mexicana se adaptaron inteligentemente para ser comprensibles sin notas al pie. Hay algunas inconsistencias menores en tiempo verbal en los últimos párrafos que merecen revisión, pero no afectan significativamente la experiencia lectora. Esta traducción demuestra comprensión profunda tanto del texto como de ambas culturas." - [Tu nombre]
+**Ejemplo 2 - Proyecto Persuasivo:**
+> "Esta transcreación de campaña de marketing captura efectivamente el espíritu aspiracional del original mientras lo hace resonar culturalmente para audiencia mexicana. Particularmente impresionante es el manejo de la voz de marca juvenil e innovadora—las adaptaciones creativas de juegos de palabras muestran verdadera destreza. El análisis de buyer persona es detallado y fundamenta bien las decisiones de tono y registro. El proyecto mantiene impacto emocional equivalente al original. Como oportunidad de mejora, algunas referencias específicas de producto podrían beneficiarse de mayor localización. El reporte demuestra proceso profesional sólido desde análisis inicial hasta justificación de decisiones finales. Un proyecto que inspira confianza profesional." - [Tu nombre]
 
 ---
 
-## Criterios de evaluación
+## Criterios de evaluación de TU trabajo como evaluador
 
 ### Puntuación total: 10 puntos
 
 | **Componente** | **Descripción** | **Puntos** |
 |----------------|-----------------|------------|
-| **Evaluación 1** | Calidad y profundidad de comentarios específicos (mín. 3) + comentario general completo y reflexivo | 3 puntos |
-| **Evaluación 2** | Calidad y profundidad de comentarios específicos (mín. 3) + comentario general completo y reflexivo | 3 puntos |
-| **Evaluación 3** | Calidad y profundidad de comentarios específicos (mín. 3) + comentario general completo y reflexivo | 3 puntos |
+| **Evaluación 1** | Rúbrica completa con comentarios específicos + comentario general reflexivo | 3 puntos |
+| **Evaluación 2** | Rúbrica completa con comentarios específicos + comentario general reflexivo | 3 puntos |
+| **Evaluación 3** | Rúbrica completa con comentarios específicos + comentario general reflexivo | 3 puntos |
 | **Hoja de trabajo** | Reflexiones completas para cada evaluación + respuestas a preguntas generales | 1 punto |
 
 ### Desglose detallado por evaluación (3 puntos cada una)
 
-**Comentarios específicos (1.5 puntos):**
-- Excelente: Mínimo 3 comentarios sustantivos, específicos, con razonamiento claro y sugerencias constructivas
-- Satisfactorio: 3 comentarios presentes pero algunos carecen de especificidad o profundidad
-- Básico: Comentarios vagos o superficiales ("buen trabajo", "esto está mal") sin elaboración
-- Insuficiente: Menos de 3 comentarios o comentarios que no aportan valor
+**Comentarios especificos:**
+- Excelente: Todos los criterios evaluados con puntuaciones justificadas y comentarios específicos que explican cada calificación
+- Satisfactorio: Rúbrica completa pero algunos comentarios carecen de especificidad o profundidad
+- Básico: Puntuaciones asignadas pero comentarios vagos ("buen trabajo", "esto necesita mejora") sin elaboración
+- Insuficiente: Rúbrica incompleta o comentarios que no aportan valor
 
-**Comentario general (1.5 puntos):**
-- Excelente: Evaluación holística bien desarrollada que aborda experiencia lectora, voz narrativa, fortalezas principales y áreas de oportunidad con especificidad
+**Comentario general:**
+- Excelente: Evaluación holística bien desarrollada que sintetiza fortalezas y áreas de oportunidad, demuestra comprensión del tipo de proyecto y sus objetivos específicos
 - Satisfactorio: Comentario general presente pero incompleto—omite elementos clave o carece de profundidad
-- Básico: Comentario muy breve o superficial que no ofrece evaluación significativa
+- Básico: Comentario muy breve o superficial que no ofrece evaluación significativa del proyecto completo
 - Insuficiente: Sin comentario general o comentario inadecuado
 
-**Hoja de trabajo (1 punto):**
-- Completa: Reflexiones sustantivas para cada evaluación + respuestas completas a preguntas generales
-- Parcial: Algunos elementos faltantes o respuestas superficiales
-- Insuficiente: Hoja de trabajo sustancialmente incompleta
+### Hoja de trabajo (1 punto)
+- Completa: Reflexiones sustantivas para cada evaluación que demuestran aprendizaje genuino + respuestas completas y reflexivas a preguntas generales
+- Parcial: Algunos elementos faltantes o respuestas superficiales que no demuestran análisis profundo
+- Insuficiente: Hoja de trabajo sustancialmente incompleta o reflexiones que no aportan valor
+
+---
 
 ---
 
@@ -256,20 +264,21 @@ Tu comentario final debe ofrecer una evaluación holística:
 
 ### Antes de comenzar
 
-- ✅ Prepara tu propia carpeta en el canal Trad-Lit con todos los archivos requeridos
-- ✅ Crea tu publicación en el canal con toda la información solicitada
-- ✅ Revisa las traducciones disponibles antes de registrarte
-- ✅ Selecciona textos diversos que te ofrezcan diferentes perspectivas de traducción
-- ✅ Registra tus selecciones en la base de datos antes de que se llenen los espacios
+- ✅ Completa tu propio proyecto de traducción y súbelo correctamente al canal
+- ✅ Revisa los proyectos disponibles en el canal Proyectos Finales
+- ✅ Selecciona proyectos diversos que te ofrezcan diferentes perspectivas
+- ✅ Registra tus selecciones comentando en las publicaciones
+- ✅ Descarga o accede a todos los archivos necesarios para cada proyecto
 
 ### Durante las evaluaciones
 
-- ✅ Lee cada texto completo antes de comenzar a comentar
+- ✅ Lee cada reporte completo antes de evaluar la traducción
 - ✅ Toma notas mientras lees sobre patrones que observas
 - ✅ Revisa qué comentarios ya dejaron otras personas antes de agregar los tuyos
+- ✅ Usa la rúbrica sistemáticamente para cada criterio
 - ✅ Sé específico—cita pasajes concretos en tus comentarios
 - ✅ Equilibra retroalimentación positiva con sugerencias constructivas
-- ✅ Pregúntate: "¿Este comentario ayudará a quien tradujo a mejorar?"
+- ✅ Pregúntate: "¿Este comentario ayudará a quien tradujo a mejorar profesionalmente?"
 
 ### Al escribir comentarios
 
@@ -279,21 +288,22 @@ Tu comentario final debe ofrecer una evaluación holística:
 - ✅ Ofrece alternativas cuando identifiques áreas de oportunidad
 - ✅ Explica tu razonamiento—no solo qué cambiar, sino por qué
 - ✅ Reconoce logros específicos con la misma atención que áreas mejorables
+- ✅ Conecta tus observaciones con conceptos del curso (voz de marca, buyer persona, especificaciones de traducción, etc.)
 
 ### Al completar la hoja de trabajo
 
 - ✅ Reflexiona honestamente sobre tu proceso de evaluación
-- ✅ Conecta tus observaciones con conceptos del curso
-- ✅ Identifica patrones entre las tres traducciones que evaluaste
-- ✅ Articula claramente qué aprendiste del proceso
+- ✅ Conecta tus observaciones con conceptos específicos del curso
+- ✅ Identifica patrones entre los tres proyectos que evaluaste
+- ✅ Articula claramente qué aprendiste del proceso que puedes aplicar a tu trabajo futuro
 - ✅ Revisa que todas las secciones estén completas antes de entregar
 
 ### Gestión de tiempo
 
 - ✅ No dejes todo para última hora—cada evaluación requiere tiempo y atención
-- ✅ Dedica al menos 45-60 minutos por traducción (lectura + comentarios)
+- ✅ Dedica al menos 60-90 minutos por proyecto (lectura completa + evaluación + comentarios)
 - ✅ Programa tiempo adicional para completar la hoja de trabajo reflexivamente
-- ✅ Revisa tu trabajo antes de entregar para asegurar calidad
+- ✅ Revisa tu trabajo antes de entregar para asegurar calidad profesional
 
 ---
 
@@ -302,55 +312,69 @@ Tu comentario final debe ofrecer una evaluación holística:
 ### Sobre la preparación
 
 **P: ¿Qué pasa si trabajé en grupo en la traducción?**  
-R: Todas las personas del grupo deben aparecer como traductoras en tu publicación del canal. Sin embargo, cada persona debe completar las evaluaciones de manera individual.
+R: Todas las personas del grupo deben aparecer como traductoras en la publicación del canal. Sin embargo, cada persona debe completar las evaluaciones de manera individual.
 
-**P: ¿Puedo evaluar la traducción de mi compañera o compañero de grupo?**  
-R: No, debes seleccionar traducciones de otras personas para mantener la objetividad.
+**P: ¿Puedo evaluar el proyecto de mi compañera o compañero de grupo?**  
+R: No, debes seleccionar proyectos de otras personas para mantener la objetividad.
+
+**P: ¿Tengo que evaluar tanto proyectos informativos como persuasivos?**
+R: No es obligatorio, pero es recomendable para exponerte a diferentes tipos de traducción comercial. La distribución equitativa es más importante que la variedad de tipos.
 
 ### Sobre la selección
 
-**P: ¿Qué hago si todos los textos que me interesan ya tienen 4 evaluadores?**  
-R: Explora otras opciones—esta es una oportunidad de exponerte a géneros o estilos que no habrías elegido inicialmente. A menudo, estas evaluaciones resultan ser las más instructivas.
+**P: ¿Qué hago si todos los proyectos que me interesan ya tienen muchos evaluadores?**  
+R: Explora otras opciones—esta es una oportunidad de exponerte a industrias o tipos de contenido que no habrías elegido inicialmente. A menudo, estas evaluaciones resultan ser las más instructivas.
 
 **P: ¿Puedo cambiar mi selección después de registrarme?**  
-R: Contacta a tu instructora lo antes posible si necesitas hacer un cambio. Los cambios solo se permiten en circunstancias excepcionales.
+R: Contacta a tu instructora lo antes posible si necesitas hacer un cambio. Los cambios solo se permiten en circunstancias excepcionales y deben hacerse temprano para no afectar la distribución equitativa.
 
 ### Sobre los comentarios
 
 **P: ¿Qué hago si ya hay muchos comentarios en el documento?**  
-R: Busca aspectos que aún no se hayan abordado. Puedes enfocarte en elementos diferentes: ritmo, registro, consistencia terminológica, efectos literarios, etc.
+R: Busca aspectos que aún no se hayan abordado. Puedes enfocarte en elementos diferentes: análisis del reporte, decisiones terminológicas, coherencia, resonancia cultural, etc. Siempre hay algo nuevo que aportar.
 
 **P: ¿Está bien estar en desacuerdo con un comentario de otra persona?**  
-R: Sí, pero hazlo respetuosamente. Puedes responder al comentario explicando tu perspectiva alternativa. Las diferencias de opinión enriquecen el aprendizaje.
+R: Sí, pero hazlo respetuosamente. Puedes responder al comentario explicando tu perspectiva alternativa fundamentada. Las diferencias de opinión profesionales enriquecen el aprendizaje.
 
 **P: ¿Qué tan crítico puedo ser?**  
-R: Sé honesto pero constructivo. El objetivo es ayudar a quien tradujo a mejorar, no desalentarle. Equilibra crítica con reconocimiento de fortalezas.
+R: Sé honesto pero constructivo. El objetivo es ayudar a quien tradujo a mejorar, no desalentar. Equilibra crítica específica con reconocimiento de fortalezas. Recuerda que estás evaluando trabajo de colegas en formación, no profesionales con años de experiencia.
+
+**P: ¿Debo comentar cada decisión en la tabla de terminología/decisiones del reporte?**
+R: No necesariamente. En la rúbrica, evalúa la calidad general de estas secciones. En comentarios específicos, enfócate en elementos particularmente efectivos o que necesitan mejora.
+
+### Sobre la rúbrica
+
+**P: ¿Qué hago si un proyecto tiene fortalezas en algunos criterios pero debilidades en otros?**
+R: Evalúa cada criterio independientemente según las descripciones en la rúbrica. Un proyecto puede tener puntuación alta en "Reporte" pero más baja en "Calidad de Traducción", por ejemplo. Esto proporciona retroalimentación más útil.
+
+**P: ¿Cómo decido entre puntuaciones intermedias (por ejemplo, entre 2 y 3)?**
+R: Lee cuidadosamente las descripciones en la rúbrica. Si el trabajo cumple la mayoría de criterios del nivel superior pero tiene algunas lagunas, generalmente corresponde al nivel más alto. Si cumple el nivel inferior pero muestra algunos elementos del superior, corresponde al nivel inferior. Tus comentarios específicos deben explicar tu razonamiento.
 
 ### Sobre la hoja de trabajo
 
 **P: ¿Qué tan extensas deben ser mis reflexiones?**  
-R: Cada reflexión sobre una evaluación debe ser un párrafo sustantivo (150-300 palabras) que aborde todas las preguntas guía.
+R: Cada reflexión sobre una evaluación debe ser un párrafo sustantivo (200-300 palabras) que aborde todas las preguntas guía. Las respuestas a las preguntas generales deben ser al menos un párrafo completo cada una.
 
-**P: ¿Las respuestas a las preguntas generales deben estar separadas?**  
-R: Sí, responde cada pregunta general por separado con al menos un párrafo completo para cada una.
+**P: ¿Puedo usar las mismas observaciones para varios proyectos si noté patrones similares?**
+R: Puedes mencionar patrones en las preguntas generales, pero cada reflexión individual debe enfocarse específicamente en ese proyecto. Cada uno tiene contexto, fortalezas y desafíos únicos.
 
 ---
 
-## 📥 Descarga las Instrucciones del Proyecto Final
+## 📥 Descarga las Instrucciones de Evaluación
 
-Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad4/semana17/proyecto-final.md) y descárgalo.
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/proyecto-final/proyecto-final-evaluacion.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IA
 
-Copia las instrucciones descargadas del proyecto y prueba estos prompts:
+Copia las instrucciones descargadas y prueba estos prompts:
 
-- "Ayúdame a crear una plantilla para evaluar sistemáticamente los proyectos de traducción de mis compañeros"
-- "¿Cómo puedo estructurar retroalimentación constructiva que sea específica y profesional?"
-- "Genera preguntas de reflexión para mi informe final sobre el proceso de evaluación por pares"
-- "¿Qué aspectos específicos debo buscar al evaluar [traducciones comerciales informativas/transcreación publicitaria]?"
-- "Crea un checklist para asegurarme de que mis evaluaciones cumplan con todos los criterios de calidad"
-- "Explica cómo documentar aprendizajes profesionales específicos obtenidos de evaluar trabajos de traducción"
+- "Ayúdame a entender las diferencias entre evaluar proyectos informativos vs. persuasivos en traducción comercial"
+- "¿Cómo puedo proporcionar retroalimentación específica y constructiva usando la rúbrica del curso?"
+- "Genera preguntas que puedo hacerme al evaluar [terminología/decisiones de transcreación/análisis de audiencia]"
+- "¿Qué aspectos específicos debo buscar al evaluar si una transcreación mantiene impacto emocional equivalente?"
+- "Explica cómo balancear crítica honesta con tono profesional y respetuoso en evaluaciones"
+- "¿Cómo documento aprendizajes específicos obtenidos de evaluar diferentes enfoques de traducción?"
 
 ---
 
-**¡Este es tu proyecto final!** Demuestra las competencias críticas y profesionales que has desarrollado a lo largo del curso. Para contexto adicional, revisa las [Conclusiones del Proyecto Final](proyecto-final-conclusion.md).
+**¡Proyecto Final Completo!** Repasa lo que has logrado en las [Conclusiones del Proyecto Final](proyecto-final-conclusion.md).
