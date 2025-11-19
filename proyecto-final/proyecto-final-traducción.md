@@ -3,7 +3,6 @@ layout: default
 title: Proyecto Final: Traducción
 parent: Proyecto Final
 nav_order: 1
-has_children: false
 ---
 
 # Proyecto Final: Traducción
