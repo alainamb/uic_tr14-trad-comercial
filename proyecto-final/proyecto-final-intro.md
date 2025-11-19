@@ -5,7 +5,7 @@ nav_order: 6
 has_children: true
 ---
 
-# Proyecto Final: Traducción Professional - Ciclo Completo
+# Proyecto Final: Traducción y Evaluación Profesionales - Ciclo Completo
 
 ## Bienvenida
 
