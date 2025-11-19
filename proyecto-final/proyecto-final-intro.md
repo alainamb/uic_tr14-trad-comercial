@@ -83,4 +83,4 @@ Copia el resumen descargado de la unidad y prueba estos prompts:
 
 ---
 
-**¿Listas y listos para el objetivo final?** Inicia con la [Proyecto Final: Traducción](proyecto-final-traducción.md) para prepararte para los proyectos culminantes.
+**¿Listas y listos para profundizar?** Explora las actividades específicas y recursos para este proyecto.
