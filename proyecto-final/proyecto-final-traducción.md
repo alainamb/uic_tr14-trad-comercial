@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Semana 15
-parent: Unidad 4
+title: Proyecto Final: Traducción
+parent: Proyecto Final
 nav_order: 1
 has_children: true
 ---
 
-# Semana 15: Repaso del Curso e Introducción a los Proyectos Finales
+# Proyecto Final: Traducción
 
 ## Resumen
 
