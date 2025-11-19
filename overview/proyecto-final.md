@@ -5,7 +5,7 @@ parent: Descripción General
 nav_order: 2
 ---
 
-# Proyecto Final: Evaluaciones por Compañeros
+# Proyecto Final: Traducción y Evaluación Profesionales - Ciclo Completo
 
 El proyecto final de evaluaciones por compañeros te dará la oportunidad de desarrollar habilidades críticas fundamentales para tu crecimiento profesional como traductor. A través de la revisión y análisis de los proyectos de tus compañeros, podrás identificar diferentes enfoques para resolver problemas de traducción, reconocer buenas prácticas y áreas de mejora, y proporcionar retroalimentación constructiva que contribuya al desarrollo de tus colegas.
 
