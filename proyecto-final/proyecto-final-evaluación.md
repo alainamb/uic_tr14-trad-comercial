@@ -73,7 +73,7 @@ Para cada uno de los 3 proyectos seleccionados:
 
 #### 2. Comentarios específicos en el texto
 
-Utiliza la **función de comentarios de MS Word** para dejar retroalimentación específica a lo largo de la traducción.
+Utiliza la **función de comentarios de MS Word** para dejar **2 comentarios específicos** a lo largo de cada una de las tres traducciones que estás evaluando.
 
 **IMPORTANTE:** Todos los evaluadores trabajarán en el mismo archivo simultáneamente, así que:
 - Evita duplicar comentarios que otras personas ya hayan dejado
@@ -84,7 +84,7 @@ Utiliza la **función de comentarios de MS Word** para dejar retroalimentación 
 
 #### 3. Comentario general (obligatorio)
 
-Al final del documento de la traducción, deja un **comentario general** que evalúe el proyecto como obra completa.
+Al final del documento de la traducción, deja **un comentario general** que evalúe el proyecto como obra completa.
 
 Este comentario debe abordar:
 - Calidad general de la traducción/transcreación
@@ -232,9 +232,9 @@ Tu comentario final debe ofrecer una evaluación holística:
 
 | **Componente** | **Descripción** | **Puntos** |
 |----------------|-----------------|------------|
-| **Evaluación 1** | Rúbrica completa con comentarios específicos + comentario general reflexivo | 3 puntos |
-| **Evaluación 2** | Rúbrica completa con comentarios específicos + comentario general reflexivo | 3 puntos |
-| **Evaluación 3** | Rúbrica completa con comentarios específicos + comentario general reflexivo | 3 puntos |
+| **Evaluación 1** | Rúbrica completa con 2 comentarios específicos + 1 comentario general reflexivo | 3 puntos |
+| **Evaluación 2** | Rúbrica completa con 2 comentarios específicos + 1 comentario general reflexivo | 3 puntos |
+| **Evaluación 3** | Rúbrica completa con 2 comentarios específicos + 1 comentario general reflexivo | 3 puntos |
 | **Hoja de trabajo** | Reflexiones completas para cada evaluación + respuestas a preguntas generales | 1 punto |
 
 ### Desglose detallado por evaluación (3 puntos cada una)
