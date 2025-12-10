@@ -49,7 +49,7 @@ Esta semana nos enfocamos en la traducción de correspondencia con proveedores, 
 
 ---
 
-## 📥 Descargar Contenido de la Semana 6
+## 📥 Descargar Contenido de la Semana 4
 ¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad2/semana4/semana4-resumen.md) y descárgalo!
 
 ### 🤖 Prompts de Estudio con IA
