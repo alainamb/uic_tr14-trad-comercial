@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Life at NetApp
-parent: Semana 4
+parent: Semana 7
 grand_parent: Unidad 2
 nav_order: 4
 ---
