@@ -191,4 +191,4 @@ Copia el contenido descargado y prueba estos prompts:
 
 ---
 
-**Unidad 3 completa.** Revisa tus logros en: [Conclusión de la Unidad 3](../unidad3-conclusion.md)
+**¡Unidad 3 completa!** Revisa tus logros en: [Conclusión de la Unidad 3](../unidad3-conclusion.md)
