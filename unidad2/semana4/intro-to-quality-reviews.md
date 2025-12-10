@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Introduction to Quality Reviews
-parent: Semana 6
+parent: Semana 4
 grand_parent: Unidad 2
 nav_order: 4
 ---
