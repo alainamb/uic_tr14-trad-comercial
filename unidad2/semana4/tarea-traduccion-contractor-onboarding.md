@@ -25,7 +25,7 @@ Después de haber firmado todos los acuerdos necesarios (ICAs, NDAs y sus equiva
 
 ### Archivo para traducir
 
-**Descarga el archivo** [intro-to-quality-reviews.md](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad2/semana6/intro-to-quality-reviews.md) para trabajar con una copia local
+**Descarga el archivo** [intro-to-quality-reviews.md](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad2/semana4/intro-to-quality-reviews.md) para trabajar con una copia local
 
 #### Instrucciones de formato
 
@@ -157,4 +157,4 @@ Copia el contenido descargado y prueba estos prompts para preparación grupal:
 
 ---
 
-**¡Semana 6 Completa!** La próxima semana exploraremos: [Documentación Técnica y Servicio al Cliente](../semana7/semana7-resumen.md)
+**¡Semana 4 Completa!** La próxima semana exploraremos: [Contratos Comerciales](../semana5/semana5-resumen.md)
