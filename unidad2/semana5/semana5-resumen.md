@@ -12,9 +12,7 @@ has_children: true
 
 Esta semana nos enfocamos en la traducción de contratos comerciales, explorando su estructura, terminología jurídica especializada y las convenciones textuales que los caracterizan. Aprenderemos a identificar los elementos clave de los contratos, a manejar la terminología legal bilingüe y a comprender los aspectos legales relevantes para la traducción. Además, realizaremos nuestro primer examen parcial para evaluar los conocimientos adquiridos hasta este punto.
 
-## Temas Cubiertos
-
-### Subtemas
+## Temas de la Semana
 - **Documentación negociable y no negociable**: Características y tipos
 - **Estructura y elementos** de los contratos comerciales
 - **Terminología jurídica** en contratos bilingües y sus particularidades
@@ -22,31 +20,22 @@ Esta semana nos enfocamos en la traducción de contratos comerciales, explorando
 - **Aspectos legales relevantes** para la traducción de documentos contractuales
 
 ## Actividades en Clase
-
-### Actividades bajo Conducción Docente (Jueves 9-11am)
 - Introducción a los contratos comerciales internacionales
 - Análisis grupal: La macroestructura de contratos comerciales
 - Ejercicios prácticos: Traducción de cláusulas contractuales
 - Presentación del primer examen parcial: Análisis de un Contrato Comercial
 
-## Actividades Independientes
-
-### Tarea Asignada
+### Tareas Asignadas y Evaluaciones
 - **Examen Parcial: Análisis de un Contrato Comercial** (10 puntos)
   - Seleccionar un fragmento de contrato comercial en inglés
   - Analizar su estructura, terminología especializada y fraseología típica
   - Proponer estrategias de traducción para los elementos más complejos
-- **Fecha de entrega**: Lunes, 15 de septiembre (no hay clases el 16 de septiembre)
+  - **Fecha de entrega**: Lunes, 15 de septiembre (no hay clases el 16 de septiembre)
+- **Asistencia y participación** (2 puntos)
 
 ## Recursos para el Aprendizaje
-
 - Lecturas selectas sobre traducción jurídica en el ámbito comercial
 - Glosarios de terminología jurídica bilingüe
-
-## Evaluación
-
-- **Examen Parcial: Análisis de un Contrato Comercial** (10 puntos)
-- **Asistencia y participación** (2 puntos)
 
 ---
 
