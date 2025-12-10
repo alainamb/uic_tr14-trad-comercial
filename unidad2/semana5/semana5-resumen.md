@@ -25,7 +25,7 @@ Esta semana nos enfocamos en la traducción de contratos comerciales, explorando
 - Ejercicios prácticos: Traducción de cláusulas contractuales
 - Presentación del primer examen parcial: Análisis de un Contrato Comercial
 
-### Tareas Asignadas y Evaluaciones
+## Tareas Asignadas y Evaluaciones
 - **Examen Parcial: Análisis de un Contrato Comercial** (10 puntos)
   - Seleccionar un fragmento de contrato comercial en inglés
   - Analizar su estructura, terminología especializada y fraseología típica
