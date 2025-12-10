@@ -12,9 +12,7 @@ has_children: true
 
 Esta semana nos enfocamos en los fundamentos teóricos de la publicidad y el marketing, explorando el recorrido del comprador y las diferencias entre comunicación B2C y B2B. También introducimos el concepto de transcreación como evolución natural de la traducción convencional para textos publicitarios que requieren adaptación cultural profunda.
 
-## Temas Cubiertos
-
-### Subtemas
+## Temas de la Semana
 - **Definición y evolución histórica** de la publicidad
 - **Principios fundamentales** de la publicidad
 - **Tipos de publicidad** según ámbito, audiencia, medio y orientación
@@ -24,32 +22,23 @@ Esta semana nos enfocamos en los fundamentos teóricos de la publicidad y el mar
 - **Introducción a la transcreación**: definición y alcance
 
 ## Actividades en Clase
-
-### Actividades bajo Conducción Docente (Jueves 9-11am)
 - Presentación sobre fundamentos de la publicidad y el marketing
 - Análisis grupal: El recorrido del comprador y su impacto en la creación de contenidos
 - Ejercicios prácticos: La diferencia entre traducción convencional y transcreación
 - Presentación del trabajo: Análisis de Campaña Publicitaria Internacional
 
-## Actividades Independientes
-
-### Tarea Asignada
+## Tareas Asignadas y Evaluaciones
 - **Análisis de Campaña Publicitaria Internacional** (3 puntos)
   - Seleccionar una campaña publicitaria de una marca internacional presente en mercados angloparlantes e hispanohablantes
   - Analizar cómo se ha adaptado la campaña para el mercado hispanohablante
   - Evaluar la efectividad de la adaptación y proponer mejoras si corresponde
   - Extensión: 3-4 páginas incluyendo imágenes de la campaña
-- **Fecha de entrega**: Martes, 14 de octubre
+  - **Fecha de entrega**: Martes, 14 de octubre
+- **Asistencia y participación** (2 puntos)
 
 ## Recursos para el Aprendizaje
-
 - Presentación sobre fundamentos de la publicidad y transcreación
 - Ejemplos de campañas publicitarias internacionales y sus adaptaciones
-
-## Evaluación
-
-- **Análisis de Campaña Publicitaria Internacional** (3 puntos)
-- **Asistencia y participación** (2 puntos)
 
 ---
 
