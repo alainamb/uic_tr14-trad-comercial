@@ -66,7 +66,7 @@ Características de boletines digitales (newsletters), estructura y elementos pe
 ### [Semana 13: Eslóganes, lemas y textos creativos](semana13/semana13-resumen.md)
 Definición y características de eslóganes, logotipos e imagotipos, adaptación cultural de eslóganes y lemas, recursos retóricos, metáforas lexicalizadas y transcreación, restricciones de espacio.
 
-### [Semana 14: Resumen - Traducción de textos publicitarios](semana14/semana14-resumen.md)
+### [Semana 14: Resumen y Proyecto de Transcreación Persuasiva](semana14/semana14-resumen.md)
 Aspectos morfosintácticos en textos publicitarios, construcciones verbales y efectividad persuasiva, análisis del discurso persuasivo, giro cultural, anglicismos de frecuencia, traducción de realias.
 
 ## Comenzando
