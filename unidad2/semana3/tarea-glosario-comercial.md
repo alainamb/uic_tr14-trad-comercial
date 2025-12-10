@@ -370,4 +370,4 @@ Copia el contenido descargado y prueba estos prompts:
 
 ---
 
-**Próxima semana**: [Semana 4: Comunicaciones Internas](../semana4/semana4-resumen.md) donde aplicarás este conocimiento terminológico a documentos empresariales internos.
+**¡Semana 3 Completa!** La próxima semana exploraremos: [Correspondencia con Proveedores](../semana4/semana4-resumen.md)
