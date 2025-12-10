@@ -12,40 +12,29 @@ has_children: true
 
 Esta semana nos enfocamos en la traducción de correspondencia con proveedores, explorando la documentación comercial internacional que facilita las relaciones empresariales. Aprenderemos a manejar diferentes tipos de documentos del proceso de incorporación de proveedores, desde cotizaciones hasta facturas, manteniendo la coherencia terminológica y adaptando la voz organizacional apropiada para cada contexto comunicativo.
 
-## Temas Cubiertos
-
-### Subtemas
+## Temas de la Semana
 - **Documentación negociable y no negociable**: Tipos y características específicas
 - **Registro e incorporación de proveedores** (vendor onboarding) y su documentación
 - **Cotizaciones, pedidos y órdenes de compra** como documentos centrales del proceso comercial
 - **Facturas, certificados y documentos de seguro** en el contexto comercial internacional
 
 ## Actividades en Clase
-
-### Actividades bajo Conducción Docente (Jueves 9-11am)
 - Introducción a la correspondencia con proveedores
 - Análisis grupal: Documentación para proveedores en diferentes sectores empresariales
 - Taller colaborativo: Identificación de la voz y la terminología específica de una organización en la correspondencia con proveedores
 - Presentación del trabajo: Documento de Incorporación de Proveedores
 
-## Actividades Independientes
-
-### Tarea Asignada
+## Tareas Asignadas y Evaluaciones
 - **Documento de Incorporación de Proveedores** (3 puntos)
   - Traducir un documento relacionado con el proceso de incorporación de proveedores (vendor onboarding)
   - Adaptar la voz a la organización y la audiencia, manteniendo coherencia terminológica
   - Elaborar un glosario específico con los términos clave de la organización y su proceso de incorporación de proveedores
-- **Fecha de entrega**: Martes, 23 de septiembre
-
+  - **Fecha de entrega**: Martes, 23 de septiembre
+- **Asistencia y participación** (2 puntos)
+- 
 ## Recursos para el Aprendizaje
-
 - Ejemplos de guías de procesos de onboarding de empresas multinacionales
 - Plantillas de este tipo de documentación en inglés y español
-
-## Evaluación
-
-- **Documento de Incorporación de Proveedores** (3 puntos)
-- **Asistencia y participación** (2 puntos)
 
 ---
 
