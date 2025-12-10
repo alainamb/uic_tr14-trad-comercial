@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Análisis de Acuerdos de Onboarding
-parent: Semana 6
+parent: Semana 4
 grand_parent: Unidad 2
 nav_order: 2
 ---
@@ -108,7 +108,7 @@ Publica tu análisis en el canal **"Documentación Proveedores"** de Teams:
 
 ## 📥 Descarga esta Actividad
 
-Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-comercial-publicitaria/blob/main/unidad2/semana6/analisis-acuerdos-onboarding.md) y descárgalo.
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-comercial-publicitaria/blob/main/unidad2/semana4/analisis-acuerdos-onboarding.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IA
 
