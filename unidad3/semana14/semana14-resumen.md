@@ -6,7 +6,7 @@ nav_order: 6
 has_children: true
 ---
 
-# Semana 14: Resumen - Traducción de textos publicitarios
+# Semana 14: Resumen y Traducción de textos publicitarios
 
 ## Resumen
 
