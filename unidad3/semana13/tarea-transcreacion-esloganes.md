@@ -297,4 +297,4 @@ Copia el contenido descargado y prueba estos prompts:
 
 ---
 
-**Semana 13 completa.** La próxima semana exploraremos: [Resumen - Proyecto de transcreación publicitaria](../semana14/semana14-resumen.md)
+**¡Semana 13 completa!** La próxima semana exploraremos: [Resumen y Proyecto de transcreación publicitaria](../semana14/semana14-resumen.md)
