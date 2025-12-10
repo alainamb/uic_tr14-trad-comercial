@@ -190,4 +190,4 @@ Copia el contenido descargado y prueba estos prompts:
 
 ---
 
-**Próximo tema**: [Semana 6: Correspondencia con Proveedores](../semana6/semana6-resumen.md)
+**¡Semana 5 Completa!** La próxima semana exploraremos: [Documentación Técnica y Servicio al Cliente](../semana6/semana6-resumen.md)
