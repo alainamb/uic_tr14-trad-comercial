@@ -47,26 +47,26 @@ El curso se estructura en **cuatro unidades temáticas** que ofrecen una progres
 ### Unidad 2: Comunicaciones Informativas
 **Semanas 3-8**
 - Semana 3: Fundamentos Teóricos de las Comunicaciones Empresariales Internacionales
-- Semana 4: Comunicaciones Internas (políticas, correos, memorandos, informes, presentaciones)
+- Semana 4: Correspondencia con Proveedores
 - Semana 5: Contratos Comerciales + Examen Parcial 1
-- Semana 6: Correspondencia con Proveedores
-- Semana 7: Documentación Técnica y Comunicaciones de Servicio al Cliente
-- Semana 8: Resumen - Traducción de Textos Comerciales
+- Semana 6: Documentación Técnica y Comunicaciones de Servicio al Cliente
+- Semana 7: Comunicaciones Internas (políticas, correos, memorandos, informes, presentaciones)
+- Semana 8: Resumen y Proyecto Comercial Informativo
 
 ### Unidad 3: Comunicaciones Publicitarias
 **Semanas 9-14**
 - Semana 9: Fundamentos Teóricos de la Publicidad y el Marketing (recorrido del comprador, empresas B2C y B2B)
 - Semana 10: Publicidad Impresa y Marketing Digital
-- Semana 11: Redes Sociales y Contenido Web + Examen Parcial 2
+- Semana 11: SEO, blogs y redes sociales + Examen Parcial 2
 - Semana 12: Boletines Informativos y Correos Electrónicos Promocionales
 - Semana 13: Eslóganes, Lemas y Textos Creativos
-- Semana 14: Resumen - Traducción de Textos Publicitarios
+- Semana 14: Resumen y Proyecto de Transcreación Persuasiva
 
 ### Unidad 4: Conclusiones del Curso y Proyectos Finales
 **Semanas 15-17**
-- Semana 15: Repaso del Curso e Introducción a los Proyectos Finales
-- Semana 16: Examen Parcial 3
-- Semana 17: Proyecto Final - Evaluaciones por Compañeros
+- Semana 15: Introducción a los Proyectos Finales
+- Semana 16: Proyecto Final - Traducción (Examen Parcial 3)
+- Semana 17: Proyecto Final - Evaluaciones por Compañeros (Examen Final)
 
 El curso concluye con un proyecto integrador de evaluación por pares que te permitirá desarrollar habilidades críticas fundamentales para tu crecimiento profesional mientras analizas el trabajo de tus compañeros y proporcionas retroalimentación constructiva.
 
