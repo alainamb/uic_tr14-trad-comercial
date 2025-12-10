@@ -12,7 +12,7 @@ has_children: true
 
 Esta semana nos enfocamos en los fundamentos teóricos del comercio internacional que son esenciales para la traducción comercial especializada. Exploraremos los principios empresariales, actividades económicas, tipos de mercado y la regulación del comercio internacional, estableciendo la base terminológica y conceptual necesaria para traducir documentos comerciales con precisión y coherencia.
 
-## Temas de la semana
+## Temas de la Semana
 - **Principios empresariales y comerciales** fundamentales
 - **Actividades económicas y sectores de ocupación** en el contexto global
 - **Bienes y servicios** como elementos centrales del comercio
