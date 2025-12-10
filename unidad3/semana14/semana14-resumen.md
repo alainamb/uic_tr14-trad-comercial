@@ -12,9 +12,7 @@ has_children: true
 
 Esta semana consolidamos los conocimientos de toda la unidad, enfocándonos en los aspectos morfosintácticos específicos de los textos publicitarios y el análisis del discurso persuasivo. Revisaremos conceptos clave como el giro cultural, el manejo de anglicismos y la traducción de realias, culminando con el proyecto integrador de transcreación publicitaria que demuestra el dominio de las competencias desarrolladas.
 
-## Temas Cubiertos
-
-### Subtemas
+## Temas de la Semana
 - **Aspectos morfosintácticos** en textos publicitarios
 - **Construcciones verbales** y su efectividad persuasiva
 - **Análisis del discurso persuasivo** (funciones expresiva y apelativa)
@@ -24,30 +22,21 @@ Esta semana consolidamos los conocimientos de toda la unidad, enfocándonos en l
 - **Restricciones de espacio y formato**
 
 ## Actividades en Clase
-
-### Actividades bajo Conducción Docente (Jueves 9-11am)
 - Revisión de conceptos clave de la unidad
 - Discusión grupal: Problemas recurrentes y estrategias efectivas
 - Taller colaborativo: guía sobre cómo resolver los desafíos de la traducción de textos publicitarios
 - Presentación del trabajo: Proyecto de Transcreación Publicitaria
 
-## Actividades Independientes
-
-### Tarea Asignada
+## Tareas Asignadas y Evaluaciones
 - **Proyecto de Transcreación Publicitaria** (3 puntos)
   - Realizar la transcreación completa de una campaña publicitaria breve
   - Elaborar un informe que incluya: análisis del texto original y justificación de decisiones creativas
   - El proyecto integra las habilidades desarrolladas a lo largo de la unidad
-- **Fecha de entrega**: Martes, 18 de noviembre
+  - **Fecha de entrega**: Martes, 18 de noviembre
+- **Asistencia y participación** (2 puntos)
 
 ## Recursos para el Aprendizaje
-
 - Compilación de los recursos de la unidad
-
-## Evaluación
-
-- **Proyecto de Transcreación Publicitaria** (3 puntos)
-- **Asistencia y participación** (2 puntos)
 
 ---
 
