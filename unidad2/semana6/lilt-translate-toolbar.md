@@ -1,7 +1,7 @@
 ---
 layout: default
 title: LILT Translate Toolbar
-parent: Semana 7
+parent: Semana 6
 grand_parent: Unidad 2
 nav_order: 4
 ---
