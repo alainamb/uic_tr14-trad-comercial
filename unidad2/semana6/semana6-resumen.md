@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Semana 7
+title: Semana 6
 parent: Unidad 2
-nav_order: 5
+nav_order: 4
 has_children: true
 ---
 
-# Semana 7: Documentación Técnica y Servicio al Cliente
+# Semana 6: Documentación Técnica y Servicio al Cliente
 
 ## Resumen
 
@@ -50,8 +50,8 @@ Esta semana nos enfocamos en la traducción de documentación técnica y comunic
 
 ---
 
-## 📥 Descargar Contenido de la Semana 7
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad2/semana7/semana7-resumen.md) y descárgalo!
+## 📥 Descargar Contenido de la Semana 6
+¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad2/semana6/semana6-resumen.md) y descárgalo!
 
 ### 🤖 Prompts de Estudio con IA
 Copia el contenido descargado de la semana y prueba estos prompts:
