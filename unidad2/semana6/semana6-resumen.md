@@ -12,9 +12,7 @@ has_children: true
 
 Esta semana nos enfocamos en la traducción de documentación técnica y comunicaciones de servicio al cliente, explorando manuales de usuario, guías técnicas y especificaciones de productos. Aprenderemos a aplicar principios de lenguaje claro, a considerar las diferencias culturales en las expectativas de los usuarios y a adaptar comunicaciones técnicas para diferentes mercados hispanohablantes manteniendo precisión y usabilidad.
 
-## Temas Cubiertos
-
-### Subtemas
+## Temas de la Semana
 - **Manuales de usuario y guías técnicas** y sus características distintivas
 - **Especificaciones técnicas de productos** y documentación especializada
 - **Comunicaciones con clientes**: Respuestas a consultas y reclamaciones
@@ -22,31 +20,22 @@ Esta semana nos enfocamos en la traducción de documentación técnica y comunic
 - **Características lingüísticas** específicas de la documentación técnica
 
 ## Actividades en Clase
-
-### Actividades bajo Conducción Docente (Jueves 9-11am)
 - Introducción a la documentación técnica y servicio al cliente
 - Análisis grupal: Guías de usuario y manuales técnicos en diferentes sectores
 - Ejercicios prácticos: Lenguaje claro y guías de estilo para documentación técnica
 - Presentación del trabajo: Traducción de Manual de Usuario
 
-## Actividades Independientes
-
-### Tarea Asignada
+## Tareas Asignadas y Evaluaciones
 - **Traducción de Manual de Usuario** (3 puntos)
   - Traducir un fragmento de manual de usuario o guía técnica del inglés al español
   - Adaptar el texto considerando las diferencias culturales y expectativas del usuario
   - Comentar los principales desafíos encontrados y soluciones aplicadas
-- **Fecha de entrega**: Martes, 30 de septiembre
+  - **Fecha de entrega**: Martes, 30 de septiembre
+- **Asistencia y participación** (2 puntos)
 
 ## Recursos para el Aprendizaje
-
 - Ejemplos de manuales de usuario y documentación técnica
 - Lecturas selectas sobre la comunicación técnica y el lenguaje claro
-
-## Evaluación
-
-- **Traducción de Manual de Usuario** (3 puntos)
-- **Asistencia y participación** (2 puntos)
 
 ---
 
