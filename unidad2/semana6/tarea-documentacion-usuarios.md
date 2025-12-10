@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tarea - Documentación para Usuarios
-parent: Semana 7
+parent: Semana 6
 grand_parent: Unidad 2
 nav_order: 3
 ---
@@ -185,7 +185,7 @@ La traducción será evaluada usando criterios adaptados del **Marco MQM (Multid
 
 ## 📥 Descarga esta Tarea
 
-Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad2/semana7/tarea-documentacion-usuarios.md) y descárgalo.
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad2/semana6/tarea-documentacion-usuarios.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IA
 
@@ -199,4 +199,4 @@ Copia el contenido descargado y prueba estos prompts para preparación grupal:
 
 ---
 
-**¡Semana 7 Completa!** La próxima semana exploraremos: [Resumen - Proyecto de traducción comercial](../semana8/semana8-resumen.md)
+**¡Semana 6 Completa!** La próxima semana exploraremos: [Comunicaciones Internas](../semana7/semana7-resumen.md)
