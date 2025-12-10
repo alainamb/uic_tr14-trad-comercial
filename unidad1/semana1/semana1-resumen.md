@@ -12,39 +12,29 @@ has_children: true
 
 Esta semana nos enfocamos en los fundamentos de la traducción comercial y publicitaria, explorando sus características distintivas, competencias necesarias y oportunidades en el mercado laboral. También establecemos la metodología del curso y comprendemos el perfil profesional del traductor especializado en estos ámbitos.
 
-## Temas Cubiertos
-
-### Subtemas
+## Temas de la Semana
 - **Definición y características** de la traducción comercial y publicitaria
 - **Tipos de textos** en la traducción comercial y publicitaria
 - **Competencias del traductor** comercial y publicitario
 - **Mercado laboral y oportunidades profesionales** en el sector empresarial
 
 ## Actividades en Clase
-
-### Actividades bajo Conducción Docente (Jueves 9-11am)
 - Presentación de la guía de aprendizaje y políticas del curso
 - Exposición introductoria: La traducción comercial y publicitaria como especialización profesional
 - Dinámica de presentación: Las y los estudiantes compartirán su experiencia previa y expectativas en el campo
 - Discusión grupal: Los desafíos y oportunidades en este campo especializado
 
-## Actividades Independientes
-
-### Tarea Asignada
+### Tareas Asignadas y Evaluaciones
 - **Revisión detallada de la guía de aprendizaje** (0 puntos - preparación)
 - **Familiarización con las políticas del curso** y criterios de evaluación
 - **Preparación conceptual** para la Semana 2 sobre voz de marca y perfiles de audiencia
+- **Asistencia y participación** (2 puntos)
 
 ## Recursos para el Aprendizaje
-
 - Guía de aprendizaje del curso TR14
 - Presentación sobre fundamentos de la traducción comercial y publicitaria
 - Ejemplos introductorios de textos comerciales y publicitarios
 - Casos de estudio de oportunidades profesionales en el mercado
-
-## Evaluación
-
-- No hay evaluaciones esta semana.
 
 ---
 
