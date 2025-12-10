@@ -2,11 +2,11 @@
 layout: default
 title: Semana 7
 parent: Unidad 2
-nav_order: 2
+nav_order: 5
 has_children: true
 ---
 
-# Semana 4: Comunicaciones Internas
+# Semana 7: Comunicaciones Internas
 
 ## Resumen
 
@@ -51,7 +51,7 @@ Esta semana nos enfocamos en la traducción de comunicaciones internas empresari
 ---
 
 ## 📥 Descargar Contenido de la Semana 4
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad2/semana4/semana4-resumen.md) y descárgalo!
+¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad2/semana7/semana7-resumen.md) y descárgalo!
 
 ### 🤖 Prompts de Estudio con IA
 Copia el contenido descargado de la semana y prueba estos prompts:
