@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tarea - Traducción de Contractor Onboarding
-parent: Semana 6
+parent: Semana 4
 grand_parent: Unidad 2
 nav_order: 3
 ---
@@ -143,7 +143,7 @@ Considerando tus puntuaciones de correspondencia y legibilidad, puedes determina
 
 ## 📥 Descarga esta Tarea
 
-Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-comercial-publicitaria/blob/main/unidad2/semana6/tarea-traduccion-contractor-onboarding.md) y descárgalo.
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-comercial-publicitaria/blob/main/unidad2/semana4/tarea-traduccion-contractor-onboarding.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IA
 
