@@ -12,9 +12,7 @@ has_children: true
 
 Esta semana nos enfocamos en los fundamentos teóricos del comercio internacional que son esenciales para la traducción comercial especializada. Exploraremos los principios empresariales, actividades económicas, tipos de mercado y la regulación del comercio internacional, estableciendo la base terminológica y conceptual necesaria para traducir documentos comerciales con precisión y coherencia.
 
-## Temas Cubiertos
-
-### Subtemas
+## Temas de la semana
 - **Principios empresariales y comerciales** fundamentales
 - **Actividades económicas y sectores de ocupación** en el contexto global
 - **Bienes y servicios** como elementos centrales del comercio
@@ -26,32 +24,23 @@ Esta semana nos enfocamos en los fundamentos teóricos del comercio internaciona
 - **Sistema armonizado e incoterms** como herramientas de estandarización
 
 ## Actividades en Clase
-
-### Actividades bajo Conducción Docente (Jueves 9-11am)
 - Presentación sobre fundamentos del comercio internacional
 - Discusión grupal: Análisis de la relación entre comercio internacional y traducción
 - Taller colaborativo: Análisis de ejemplos reales de textos comerciales y construcción de una tipología de textos comerciales
 - Presentación del trabajo: Glosario de Términos Comerciales
 
-## Actividades Independientes
-
-### Tarea Asignada
+## Tareas Asignadas y Evaluaciones
 - **Glosario de Términos Comerciales** (3 puntos)
   - Elaborar un glosario bilingüe o trilingüe (inglés-español-francés) de 10 términos especializados del comercio internacional
   - Incluir definición, contexto de uso y fuente de referencia para cada término en cada lengua
   - Identificar posibles dificultades de traducción
-- **Fecha de entrega**: Martes, 2 de septiembre
+  - **Fecha de entrega**: Martes, 2 de septiembre
+- **Asistencia y participación** (2 puntos)
 
 ## Recursos para el Aprendizaje
-
 - Presentación sobre comercio internacional
 - Ejemplos de documentos comerciales
 - Recursos terminológicos especializados en comercio internacional
-
-## Evaluación
-
-- **Glosario de Términos Comerciales** (3 puntos)
-- **Asistencia y participación** (2 puntos)
 
 ---
 
