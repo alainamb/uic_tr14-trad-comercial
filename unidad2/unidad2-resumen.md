@@ -65,7 +65,7 @@ Manuales de usuario, guías técnicas, especificaciones de productos, comunicaci
 ### [Semana 7: Comunicaciones Internas](semana7/semana7-resumen.md)
 Características de textos informativos empresariales, tipología de comunicaciones internas, políticas empresariales, correos electrónicos, memorandos, informes y presentaciones corporativas.
 
-### [Semana 8: Resumen - Proyecto de Traducción Comercial](semana8/semana8-resumen.md)
+### [Semana 8: Resumen y Proyecto Comercial Informativo](semana8/semana8-resumen.md)
 Terminología especializada, morfosintaxis en textos comerciales, léxico especializado, construcciones verbales comunes y estrategias para resolver desafíos de la comunicación informativa comercial.
 
 ## Comenzando
