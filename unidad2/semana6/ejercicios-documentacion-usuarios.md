@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ejercicios - Documentación para Usuarios
-parent: Semana 7
+parent: Semana 6
 grand_parent: Unidad 2
 nav_order: 2
 ---
@@ -145,7 +145,7 @@ Esta semana traducirás documentación para usuarios del software de traducción
 
 ## 📥 Descarga esta Actividad
 
-Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad2/semana7/ejercicios-documentacion-usuarios.md) y descárgalo.
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad2/semana6/ejercicios-documentacion-usuarios.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IA
 
