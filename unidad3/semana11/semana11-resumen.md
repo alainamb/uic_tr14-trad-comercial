@@ -6,15 +6,13 @@ nav_order: 3
 has_children: true
 ---
 
-# Semana 11: Redes sociales y contenido web + Examen Parcial 2
+# Semana 11: SEO, blogs y redes sociales + Examen Parcial 2
 
 ## Resumen
 
 Esta semana nos enfocamos en las características específicas del contenido para redes sociales y sitios web, explorando las campañas digitales y los elementos técnicos como SEO que influyen en la transcreación. También abordaremos las restricciones únicas de espacio y formato que presentan los medios digitales y realizaremos el segundo examen parcial del curso.
 
-## Temas Cubiertos
-
-### Subtemas
+## Temas de la Semana
 - **Características del contenido** para redes sociales y sitios web
 - **Campañas en las redes sociales**
 - **Medios en sitios web** (blogs, ads y pop-ups)
@@ -22,32 +20,23 @@ Esta semana nos enfocamos en las características específicas del contenido par
 - **Restricciones de espacio y formato** en medios digitales
 
 ## Actividades en Clase
-
-### Actividades bajo Conducción Docente (Jueves 9-11am)
 - Introducción a contenido para redes sociales y web
 - Análisis grupal: Campañas publicitarias en sitios web y redes sociales y su adaptación cultural
 - Ejercicios prácticos: SEO, hashtags y transcreación de publicaciones para sitios web y redes sociales
 - Presentación del segundo examen parcial: Adaptación de una Campaña Digital con SEO
 
-## Actividades Independientes
-
-### Tarea Asignada
+## Tareas Asignadas y Evaluaciones
 - **Examen Parcial: Adaptación de una Campaña Digital con SEO** (10 puntos)
   - Investigar los hashtags y los términos con los que se puede lograr SEO de contenidos publicitarios
   - Adaptar una serie de publicaciones para un sitio web y redes sociales
   - Mantener la coherencia con la voz de marca
-- **Fecha de entrega**: Martes, 28 de octubre
+  - **Fecha de entrega**: Martes, 28 de octubre
+- **Asistencia y participación** (2 puntos)
 
 ## Recursos para el Aprendizaje
-
 - Lecturas selectas sobre marketing vía sitios web y redes sociales para mercados hispanohablantes
 - Guía sobre la optimización para motores de búsqueda
 - Ejemplos de campañas exitosas
-
-## Evaluación
-
-- **Examen Parcial: Adaptación de una Campaña Digital con SEO** (10 puntos)
-- **Asistencia y participación** (2 puntos)
 
 ---
 
