@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Presentación - Documentación para Usuarios
-parent: Semana 7
+parent: Semana 6
 grand_parent: Unidad 2
 nav_order: 1
 ---
@@ -286,7 +286,7 @@ Mientras completas las actividades, considera:
 
 ## 📥 Descarga esta Presentación
 
-Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-comercial-publicitaria/blob/main/unidad2/semana7/presentacion-documentacion-usuarios.md) y descárgalo.
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-comercial-publicitaria/blob/main/unidad2/semana6/presentacion-documentacion-usuarios.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IA
 
