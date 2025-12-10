@@ -12,9 +12,7 @@ has_children: true
 
 Esta semana nos enfocamos en las características específicas de los boletines digitales (newsletters) y correos electrónicos promocionales, explorando la estructura y elementos persuasivos necesarios para comunicaciones de marketing directo efectivas. Analizaremos las técnicas culturalmente apropiadas y los aspectos legales relevantes para el marketing por correo electrónico en mercados hispanohablantes.
 
-## Temas Cubiertos
-
-### Subtemas
+## Temas de la Semana
 - **Características de boletines digitales** (newsletters)
 - **Estructura y elementos persuasivos** en correos electrónicos promocionales
 - **Técnicas de marketing directo** en diferentes culturas
@@ -22,31 +20,22 @@ Esta semana nos enfocamos en las características específicas de los boletines 
 - **Aspectos legales** en marketing por correo electrónico
 
 ## Actividades en Clase
-
-### Actividades bajo Conducción Docente (Jueves 9-11am)
 - Introducción a los boletines y correos electrónicos promocionales
 - Análisis grupal: Campañas de email marketing en inglés y español
 - Taller colaborativo: Creación de contenido persuasivo para comunicaciones digitales
 - Presentación del trabajo: Transcreación de Campaña de Email Marketing
 
-## Actividades Independientes
-
-### Tarea Asignada
+### Tareas Asignadas y Evaluaciones
 - **Transcreación de Campaña de Email Marketing** (3 puntos)
   - Adaptar una serie de correos electrónicos promocionales
   - Mantener la coherencia y progresión lógica de la campaña
   - Adaptar elementos persuasivos y llamados a la acción
-- **Fecha de entrega**: Martes, 4 de noviembre
+  - **Fecha de entrega**: Martes, 4 de noviembre
+- **Asistencia y participación** (2 puntos)
 
 ## Recursos para el Aprendizaje
-
 - Guía de redacción persuasiva para correos electrónicos
 - Recursos sobre normativas y mejores prácticas en marketing digital
-
-## Evaluación
-
-- **Transcreación de Campaña de Email Marketing** (3 puntos)
-- **Asistencia y participación** (2 puntos)
 
 ---
 
