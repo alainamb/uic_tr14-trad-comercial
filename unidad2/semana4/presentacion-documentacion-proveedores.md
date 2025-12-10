@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Presentación - Documentación con Proveedores
-parent: Semana 6
+parent: Semana 4
 grand_parent: Unidad 2
 nav_order: 1
 ---
@@ -129,7 +129,7 @@ Publica tu análisis en el canal "Documentación Proveedores" de Teams:
 
 ## 📥 Descarga esta Presentación
 
-Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-comercial-publicitaria/blob/main/unidad2/semana6/presentacion-documentacion-proveedores.md) y descárgalo.
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-comercial-publicitaria/blob/main/unidad2/semana4/presentacion-documentacion-proveedores.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IA
 
