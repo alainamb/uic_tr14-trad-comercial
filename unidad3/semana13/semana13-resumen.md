@@ -12,9 +12,7 @@ has_children: true
 
 Esta semana nos enfocamos en la transcreación de eslóganes, lemas y textos creativos, explorando las técnicas más especializadas de adaptación cultural y creativa. Analizaremos los recursos retóricos específicos para la creación de eslóganes efectivos y las estrategias para manejar metáforas lexicalizadas y restricciones de espacio en contextos publicitarios altamente creativos.
 
-## Temas Cubiertos
-
-### Subtemas
+## Temas de la Semana
 - **Definición y características** de eslóganes
 - **Logotipos, imagotipos, isotipos** e isologo
 - **Adaptación cultural** de eslóganes y lemas
@@ -30,24 +28,17 @@ Esta semana nos enfocamos en la transcreación de eslóganes, lemas y textos cre
 - Taller creativo: creación de propuestas alternativas para eslóganes
 - Presentación del trabajo: Transcreación de Eslóganes
 
-## Actividades Independientes
-
-### Tarea Asignada
+## Tareas Asignadas y Evaluaciones
 - **Transcreación de Eslóganes** (3 puntos)
   - Seleccionar un eslógan en inglés de una nueva marca y proponer alternativas de transcreación para ello
   - Justificar las propuestas analizando aspectos lingüísticos, culturales y persuasivos
   - Evaluar la efectividad de las transcreaciones versus las traducciones literales
-- **Fecha de entrega**: Martes, 11 de noviembre
+  - **Fecha de entrega**: Martes, 11 de noviembre
+- **Asistencia y participación** (2 puntos)
 
 ## Recursos para el Aprendizaje
-
 - Lecturas selectas sobre la transcreación de eslóganes
 - Colección de eslóganes internacionales y sus adaptaciones
-
-## Evaluación
-
-- **Transcreación de Eslóganes** (3 puntos)
-- **Asistencia y participación** (2 puntos)
 
 ---
 
