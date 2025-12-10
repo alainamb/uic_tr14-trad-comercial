@@ -4,14 +4,13 @@ title: Inicio
 nav_order: 1
 ---
 
-# TR14: Traducción Comercial y Publicitaria B>A (Inglés > Español) - Semestre 2026-1, Universidad Intercontinental
+# TR14: Traducción Comercial y Publicitaria B>A (Inglés > Español)
 
 Te damos la más cordial bienvenida a la asignatura de Traducción Comercial y Publicitaria B>A (Inglés-Español). Este curso está diseñado para brindarte las competencias necesarias para abordar la traducción de textos empresariales y publicitarios del inglés al español, un campo especializado con gran demanda en el mercado laboral actual.
 
 ## 📱 Comunicación del Curso
-**Clases**: Jueves, 9-11am, COMP003  
 **Profesora**: Alaina Brandt  
-**Correo**: alaina.brandt@universidad-uic.edu.mx  
+**LinkedIn**: [linkedin.com/in/alainambrandt/](https://www.linkedin.com/in/alainambrandt/)<br>
 **Plataforma**: Teams para preguntas rápidas y anuncios
 
 ## 🎯 Objetivos del Aprendizaje
