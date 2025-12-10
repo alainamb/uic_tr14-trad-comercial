@@ -48,11 +48,11 @@ Este proyecto refleja la creencia de que las barreras educativas deben ser minim
 ├── unidad2/                 # Comunicaciones Informativas (Semanas 3-8)
 │   ├── unidad2-resumen.md   # Textos comerciales informativos
 │   ├── semana3/             # Fundamentos del comercio internacional
-│   ├── semana4/             # Comunicaciones internas
+│   ├── semana4/             # Correspondencia con proveedores
 │   ├── semana5/             # Contratos comerciales + Examen Parcial 1
-│   ├── semana6/             # Correspondencia con proveedores
-│   ├── semana7/             # Documentación técnica y servicio al cliente
-│   └── semana8/             # Resumen - Proyecto de traducción comercial
+│   ├── semana6/             # Documentación técnica y servicio al cliente
+│   ├── semana7/             # Comunicaciones internas
+│   └── semana8/             # Resumen y Proyecto Comercial Informativo
 ├── unidad3/                 # Comunicaciones Publicitarias (Semanas 9-14)
 │   ├── unidad3-resumen.md   # Fundamentos de transcreación
 │   ├── semana9/             # Fundamentos teóricos de publicidad y marketing
@@ -60,12 +60,12 @@ Este proyecto refleja la creencia de que las barreras educativas deben ser minim
 │   ├── semana11/            # Redes sociales y contenido web + Examen Parcial 2
 │   ├── semana12/            # Boletines informativos y email marketing
 │   ├── semana13/            # Eslóganes, lemas y textos creativos
-│   └── semana14/            # Resumen - Proyecto de transcreación publicitaria
+│   └── semana14/            # Resumen y Proyecto de Transcreación Persuasiva
 └── unidad4/                 # Conclusiones y Proyectos Finales (Semanas 15-17)
     ├── unidad4-resumen.md   # Integración de conocimientos
-    ├── semana15/            # Repaso del curso e introducción a proyectos finales
-    ├── semana16/            # Examen Parcial 3
-    └── semana17/            # Proyecto Final: Evaluaciones por compañeros
+    ├── semana15/            # Introducción a proyectos finales
+    ├── semana16/            # Proyecto Final: Traducción (Examen Parcial 3)
+    └── semana17/            # Proyecto Final: Evaluaciones por compañeros (Examen Final)
 ```
 
 ### Navegación
