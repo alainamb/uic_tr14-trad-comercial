@@ -6,7 +6,7 @@ nav_order: 6
 has_children: true
 ---
 
-# Semana 8: Resumen y Proyecto de Traducción Comercial
+# Semana 8: Resumen y Proyecto Comercial Informativo
 
 ## Resumen
 
