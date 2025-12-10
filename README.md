@@ -1,4 +1,4 @@
-# TR14: Traducción Comercial y Publicitaria B>A (Inglés > Español) - Universidad Intercontinental
+# TR14: Traducción Comercial y Publicitaria B>A (Inglés > Español)
 
 ## Motivación
 
