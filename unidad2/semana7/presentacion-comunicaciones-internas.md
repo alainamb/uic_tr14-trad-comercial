@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Presentación - Comunicaciones Internas y Employer Branding
-parent: Semana 4
+parent: Semana 7
 grand_parent: Unidad 2
 nav_order: 1
 ---
