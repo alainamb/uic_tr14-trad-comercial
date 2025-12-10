@@ -145,4 +145,4 @@ Copia el contenido descargado y prueba estos prompts para preparación grupal:
 
 ---
 
-**¡Semana 4 Completa!** La próxima semana exploraremos: [Contratos Comerciales](../semana5/semana5-resumen.md)
+**¡Semana 7 Completa!** La próxima semana exploraremos: [Resumen - Proyecto de traducción comercial](../semana8/semana8-resumen.md)
