@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Semana 6
+title: Semana 4
 parent: Unidad 2
-nav_order: 4
+nav_order: 2
 has_children: true
 ---
 
-# Semana 6: Correspondencia con Proveedores
+# Semana 4: Correspondencia con Proveedores
 
 ## Resumen
 
@@ -50,7 +50,7 @@ Esta semana nos enfocamos en la traducción de correspondencia con proveedores, 
 ---
 
 ## 📥 Descargar Contenido de la Semana 6
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad2/semana6/semana6-resumen.md) y descárgalo!
+¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad2/semana4/semana4-resumen.md) y descárgalo!
 
 ### 🤖 Prompts de Estudio con IA
 Copia el contenido descargado de la semana y prueba estos prompts:
