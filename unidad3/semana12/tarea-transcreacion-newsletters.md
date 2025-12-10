@@ -192,4 +192,4 @@ Copia el contenido descargado y prueba estos prompts:
 
 ---
 
-**Semana 12 completa.** La próxima semana exploraremos: [Eslóganes, lemas y textos creativos](../semana13/semana13-resumen.md)
+**¡Semana 12 completa!** La próxima semana exploraremos: [Eslóganes, lemas y textos creativos](../semana13/semana13-resumen.md)
