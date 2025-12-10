@@ -53,17 +53,17 @@ Al finalizar esta unidad, podrás:
 ### [Semana 3: Fundamentos del Comercio Internacional](semana3/semana3-resumen.md)
 Principios empresariales y comerciales, actividades económicas, tipos de mercado, comercio internacional, exportación e importación, regulación del comercio internacional.
 
-### [Semana 4: Comunicaciones Internas](semana4/semana4-resumen.md)
-Características de textos informativos empresariales, tipología de comunicaciones internas, políticas empresariales, correos electrónicos, memorandos, informes y presentaciones corporativas.
+### [Semana 4: Correspondencia con Proveedores](semana4/semana4-resumen.md)
+Registro e incorporación de proveedores, cotizaciones, pedidos, órdenes de compra, facturas, certificados y documentos de seguro.
 
 ### [Semana 5: Contratos Comerciales + Examen Parcial 1](semana5/semana5-resumen.md)
 Documentación negociable y no negociable, estructura de contratos comerciales, terminología jurídica bilingüe, convenciones textuales y aspectos legales relevantes para la traducción.
 
-### [Semana 6: Correspondencia con Proveedores](semana6/semana6-resumen.md)
-Registro e incorporación de proveedores, cotizaciones, pedidos, órdenes de compra, facturas, certificados y documentos de seguro.
-
-### [Semana 7: Documentación Técnica y Servicio al Cliente](semana7/semana7-resumen.md)
+### [Semana 6: Documentación Técnica y Servicio al Cliente](semana6/semana6-resumen.md)
 Manuales de usuario, guías técnicas, especificaciones de productos, comunicaciones con clientes, adaptación cultural y características lingüísticas de la documentación técnica.
+
+### [Semana 7: Comunicaciones Internas](semana7/semana7-resumen.md)
+Características de textos informativos empresariales, tipología de comunicaciones internas, políticas empresariales, correos electrónicos, memorandos, informes y presentaciones corporativas.
 
 ### [Semana 8: Resumen - Proyecto de Traducción Comercial](semana8/semana8-resumen.md)
 Terminología especializada, morfosintaxis en textos comerciales, léxico especializado, construcciones verbales comunes y estrategias para resolver desafíos de la comunicación informativa comercial.
