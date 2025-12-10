@@ -12,40 +12,29 @@ has_children: true
 
 Esta semana nos enfocamos en las características distintivas de la publicidad impresa y el marketing digital, explorando sus formatos específicos y las estrategias de adaptación diferenciadas que requiere cada medio. Analizaremos la tipología de textos para cada formato y desarrollaremos competencias para la transcreación efectiva según las limitaciones y oportunidades de cada medio.
 
-## Temas Cubiertos
-
-### Subtemas
+## Temas de la Semana
 - **Publicidad impresa**: características y formatos
 - **Marketing digital**: características y formatos
 - **Tipología de textos** para medios impresos y marketing digital
 - **Estrategias de adaptación** para medios impresos vs. digitales
 
 ## Actividades en Clase
-
-### Actividades bajo Conducción Docente (Jueves 9-11am)
 - Introducción a textos publicitarios impresos y digitales
 - Análisis grupal: Contrastivo de publicidad impresa y marketing digital en inglés y español
 - Taller colaborativo: adaptación de mensajes para diferentes formatos
 - Presentación del trabajo: Transcreación de Material Publicitario
 
-## Actividades Independientes
-
-### Tarea Asignada
+## Tareas Asignadas y Evaluaciones
 - **Transcreación de Material Publicitario** (3 puntos)
   - Realizar la transcreación de un folleto del inglés al español
   - Adaptar elementos creativos considerando aspectos culturales
   - Redactar un comentario justificando las adaptaciones realizadas
-- **Fecha de entrega**: Martes, 21 de octubre
+  - **Fecha de entrega**: Martes, 21 de octubre
+- **Asistencia y participación** (2 puntos)
 
 ## Recursos para el Aprendizaje
-
 - Lecturas selectas sobre el marketing y la transcreación
 - Ejemplos de materiales de marketing en forma impreso y digital
-
-## Evaluación
-
-- **Transcreación de Material Publicitario** (3 puntos)
-- **Asistencia y participación** (2 puntos)
 
 ---
 
