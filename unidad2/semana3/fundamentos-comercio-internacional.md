@@ -6,7 +6,7 @@ grand_parent: Unidad 2
 nav_order: 1
 ---
 
-# Fundamentos del Comercio Internacional
+# Los Fundamentos del Comercio Internacional
 
 Esta presentación establece los conceptos fundamentales del comercio internacional que necesitas dominar para traducir documentos comerciales con precisión. Comprenderás la terminología especializada, los procesos comerciales básicos y los marcos regulatorios que dan forma a las comunicaciones empresariales internacionales.
 
@@ -266,4 +266,4 @@ Copia el contenido descargado y prueba estos prompts:
 
 ---
 
-**Próxima actividad**: [Discusión sobre Comercio y Traducción](discusion-comercio-traduccion.md) donde explorarás las conexiones entre estos conceptos fundamentales y tu futura práctica profesional.
+**Próxima actividad**: [Análisis de Contenido Informativo](analisis-contenido-informativo.md)
