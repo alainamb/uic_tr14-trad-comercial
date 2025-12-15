@@ -41,25 +41,23 @@ Los glosarios terminológicos son herramientas fundamentales en la traducción e
 
 ### Información Terminológica en el Glosario
 
-Siguiendo la metodología de diario terminológico, cada entrada debe incluir:
+Cada entrada del glosario debe unir la información terminológica requirida para un concepto especial y los nombres que se utiliza para denominar este concepto en los idiomas del glosario. Para los propósitos de este proyecto, cada entrada debe incluir:
 
 #### Información Básica
 - **Término en inglés**
 - **Término en español**
-- **Término en francés** (opcional)
-- **Campo temático**: Comercio internacional
+- **Término en francés (o algún otro idioma)** (opcional)
+- **Campo temático**: Area específica que se relaciona con el comercio internacional
 - **Origen del término**: Contexto donde encontraste el concepto (documento, clase, lectura, etc.)
 
 #### Análisis Terminológico
-- **Definición en inglés**: Definición precisa y técnicamente correcta
-- **Definición en español**: Definición equivalente y completa
-- **Definición en francés** (opcional): Definición equivalente y completa en francés
-- **Ejemplo de uso**: Oración que demuestre el uso del término en contexto profesional
+- **Definición**: Definición precisa y técnicamente correcta
+- **Ejemplo de uso**: Oración que demuestre el uso del término en un contexto profesional
 
 #### Análisis Crítico
-- **Preguntas y investigación**: ¿Qué dudas tuviste sobre el término? ¿Qué investigaste para resolverlas?
-- **Reflexión sobre problemas de traducción**: Dificultades de comprensión, denotación, connotación, variaciones regionales, etc.
-- **Fuentes consultadas**: Referencias bibliográficas completas de todos los recursos utilizados
+- **Preguntas e investigaciones**: ¿Qué preguntas tuviste sobre el término? ¿Qué investigaste para resolverlas?
+- **Reflexión sobre problemas de traducción**: Dificultades potenciales de comprensión, denotación, connotación, variaciones regionales, falsos amigos, implicaciones legales, etc.
+- **Fuentes consultadas**: Referencias bibliográficas completas en formato _Chicago Manual of Style_ de todos los recursos utilizados
 
 ### Estructura de Entrada Terminológica
 
@@ -67,73 +65,22 @@ Siguiendo la metodología de diario terminológico, cada entrada debe incluir:
 | ----- | ------ | --------| -------------------|
 | **Campo temático** | [Campo temático en inglés] | [Campo temático en español] | [Campo temático en francés] |
 | **Término** | [Término en inglés] | [Término en español] | [Término en francés - opcional] |
-| **Origen** | [Contexto donde encontraste el término - documento específico, clase, lectura, etc.] | [Contexto donde encontraste el término] | [Contexto donde encontraste el término] |
-| **Definición en inglés** | [Definición completa y precisa] | [Definición equivalente y completa] | [Definición equivalente y completa - opcional] |
-| **Ejemplo de uso** | [Oración en inglés que demuestre uso en contexto profesional] | [Oración en español que demuestre uso en contexto profesional] | [Oración en francés (si aplica) que demuestre uso en contexto profesional] | 
-| **Preguntas e investigación** | [¿Qué dudas tuviste? ¿Qué investigaste para resolverlas?] | [Dudas e investigaciónes] | [Dudas e investigaciónes] | 
-| **Reflexión sobre problemas de traducción** | [Análisis de dificultades potenciales: comprensión, denotación, connotación, variaciones regionales, falsos amigos, implicaciones legales, etc.] | [Análisis de dificultades potenciales] |  [Análisis de dificultades potenciales] |
-| **Fuentes consultadas** | [Referencias bibliográficas completas en formato _Chicago Manual of Style_] | [Referencias bibliográficas completas en formato _Chicago MOS_] | [Referencias bibliográficas completas en formato _Chicago MOS_] | 
+| **Origen** | [Contexto donde encontraste el término] | [Contexto donde encontraste el término] | [Contexto donde encontraste el término] |
+| **Definición en inglés** | [Definición completa y precisa] | [Definición completa y precisa] | [Definición completa y precisa] |
+| **Ejemplo de uso** | [Oración en inglés] | [Oración en español] | [Oración en francés] | 
+| **Preguntas e investigación** | [Preguntas e investigaciones] | [Preguntas e investigaciones] | [Preguntas e investigaciones] | 
+| **Reflexión sobre problemas de traducción** | [Análisis de dificultades potenciales] | [Análisis de dificultades potenciales] | [Análisis de dificultades potenciales] |
+| **Fuentes consultadas** | [Referencias bibliográficas] | [Referencias bibliográficas] | [Referencias bibliográficas] | 
 
-#### Ejemplo de Entrada Completa
+### Estructura del Documento Final
 
----
-
-**Término**: letter of credit
-
-**Término en español**: carta de crédito
-
-**Término en francés**: lettre de crédit
-
-**Campo temático**: Comercio internacional
-
-**Origen**: Documento de análisis en clase sobre financiamiento de exportaciones - "International Trade Finance Guidelines"
-
-**Definición en inglés**: A financial document issued by a bank that guarantees payment to a seller on behalf of a buyer, provided that the seller meets all terms and conditions specified in the letter of credit.
-
-**Definición en español**: Documento financiero emitido por un banco que garantiza el pago a un vendedor en nombre de un comprador, siempre que el vendedor cumpla con todos los términos y condiciones especificados en la carta de crédito.
-
-**Definición en francés**: Document financier émis par une banque qui garantit le paiement à un vendeur au nom d'un acheteur, à condition que le vendeur respecte tous les termes et conditions spécifiés dans la lettre de crédit.
-
-**Ejemplo de uso**: 
-- *Inglés*: "The exporter requested confirmation that the letter of credit would be irrevocable and confirmed by a bank in their country."
-- *Español*: "El exportador solicitó confirmación de que la carta de crédito sería irrevocable y confirmada por un banco de su país."
-- *Francés*: "L'exportateur a demandé la confirmation que la lettre de crédit serait irrévocable et confirmée par une banque de son pays."
-
-**Preguntas e investigación**: ¿Cuál es la diferencia entre "revocable" e "irrevocable"? ¿Qué significa "confirmada"? Investigué en fuentes del Banco Mundial y la Cámara de Comercio Internacional para entender las implicaciones legales y los diferentes tipos de cartas de crédito.
-
-**Reflexión sobre problemas de traducción**: En algunos contextos latinoamericanos se usa también "crédito documentario". Es crucial mantener la precisión legal ya que diferentes tipos (revocable/irrevocable, confirmada/no confirmada) tienen implicaciones legales distintas. El traductor debe verificar qué terminología prefiere el cliente y ser consistente en todo el documento. También es importante distinguir entre "letter of credit" y "standby letter of credit" ya que tienen funciones diferentes. En francés, existe variación entre "lettre de crédit" y "crédit documentaire" según la región francófona.
-
-**Fuentes consultadas**:
-- Cámara de Comercio Internacional. (2020). *ICC Guide to Documentary Credits*. ICC Publishing.
-- Banco Mundial. (2019). *Trade Finance Guide*. World Bank Publications.
-- WIPO Pearl Database. (2024). *Letter of Credit*. https://www.wipo.int/reference/en/wipopearl/
-- Chambre de Commerce Internationale. (2020). *Guide ICC des Crédits Documentaires*. ICC Publishing.
-
----
-
-## Recursos Terminológicos Recomendados
-
-### WIPO Pearl - Organización Mundial de la Propiedad Intelectual
-**URL**: [www.wipo.int/reference/en/wipopearl/](https://www.wipo.int/reference/en/wipopearl/)
-
-### Banco Mundial - Glosario
-**URL**: [datatopics.worldbank.org/consumption/glosario](https://datatopics.worldbank.org/consumption/glosario)
-
-### OMC - Glosario de Términos Comerciales
-**URL**: [www.wto.org/english/thewto_e/glossary_e/glossary_e.htm](https://www.wto.org/english/thewto_e/glossary_e/glossary_e.htm)
-
-## Estructura del Documento Final
-
-### Elementos Obligatorios
-
-#### Portada
+#### Información Administrativa
 - Título del glosario
 - Nombre(s) del estudiante o estudiantes
 - Curso: TR14: Traducción Comercial y Publicitaria B>A
 - Fecha de entrega
-- **Para equipos**: Identificación clara de quién contribuyó qué entradas
 
-#### Introducción (1-2 párrafos)
+#### Introducción (1 párrafo)
 - **¿Qué términos eligieron?** Lista breve de los términos incluidos
 - **¿Por qué los eligieron?** Relevancia para su formación profesional
 - **¿Cómo organizaron el trabajo?** (Especialmente importante para equipos)
@@ -142,8 +89,9 @@ Siguiendo la metodología de diario terminológico, cada entrada debe incluir:
 - Entradas terminológicas siguiendo el formato requerido
 - Organización alfabética o por categorías temáticas
 - Numeración o separación clara entre entradas
+- **Para equipos**: Identificación clara de quién contribuyó qué entradas
 
-#### Conclusión (1-2 párrafos)
+#### Conclusión (1 párrafo)
 - **¿Qué aprendieron?** Reflexiones sobre el proceso terminológico
 - **¿Qué dificultades encontraron?** Desafíos en la investigación o traducción
 - **¿Cómo aplicarán esto profesionalmente?** Relevancia para su carrera traductora
@@ -152,15 +100,15 @@ Siguiendo la metodología de diario terminológico, cada entrada debe incluir:
 - Todas las fuentes consultadas en formato APA
 - Separar fuentes digitales de fuentes impresas si es relevante
 
-## Criterios de Evaluación
+### Criterios de Evaluación
 
 ### Sistema de Puntuación
 
 | **Criterio** | **Puntos** | **Modalidad** | **Descripción** |
 |---|---|---|---|
-| **Primera entrada por estudiante** | 1.0 | Completo/Incompleto | Entrada terminológica completa siguiendo el formato requerido |
-| **Segunda entrada por estudiante** | 1.0 | Completo/Incompleto | Entrada terminológica completa siguiendo el formato requerido |
-| **Presentación pulida del documento** | 1.0 | Completo/Incompleto | Organización, introducción, conclusión y formato profesional |
+| **Información Básica** | 1.0 | Completo/Incompleto | Término, campo, origen en cada idioma |
+| **Análisis Terminológico** | 1.0 | Completo/Incompleto | Definición, ejemplo de uso en cada idioma |
+| **Análisis Crítico** | 1.0 | Completo/Incompleto | Preguntas e investigaciones, reflexiones, fuentes para cada idioma |
 | **Total** | **3.0** | | |
 
 ### Criterios para "Completo" por Entrada
@@ -248,6 +196,17 @@ Cada estudiante debe contribuir 2 entradas completas. Pueden dividir la responsa
 
 **¿Puedo incluir términos en otros idiomas además del francés?**
 Por ahora enfócate en inglés-español, con francés opcional si tienes competencia.
+
+## Recursos Terminológicos Recomendados
+
+### WIPO Pearl - Organización Mundial de la Propiedad Intelectual
+**URL**: [www.wipo.int/reference/en/wipopearl/](https://www.wipo.int/reference/en/wipopearl/)
+
+### Banco Mundial - Glosario
+**URL**: [datatopics.worldbank.org/consumption/glosario](https://datatopics.worldbank.org/consumption/glosario)
+
+### OMC - Glosario de Términos Comerciales
+**URL**: [www.wto.org/english/thewto_e/glossary_e/glossary_e.htm](https://www.wto.org/english/thewto_e/glossary_e/glossary_e.htm)
 
 ## Consejos Finales
 
