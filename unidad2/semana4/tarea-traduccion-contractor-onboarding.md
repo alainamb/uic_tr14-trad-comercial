@@ -20,7 +20,7 @@ Después de haber firmado todos los acuerdos necesarios (ICAs, NDAs y sus equiva
 
 ### Organización grupal
 - **Tamaño sugerido:** 2 o 3 personas
-- **Asignación:** Asignen roles teniendo en cuenta sus fortalezas y dando la oportunidad para practicar en roles nuevos (investigación terminológica, traducción, revisión)
+- **Asignación:** Asignen roles teniendo en cuenta sus fortalezas y dando la oportunidad de practicar en roles nuevos (investigación terminológica, traducción, revisión)
 
 ### Archivo para traducir
 
