@@ -8,13 +8,13 @@ nav_order: 3
 
 # Tarea: Traducción de Contractor Onboarding
 
-**Puntos:** 3
-
-**Modalidad:** Grupos de 3 personas (algunas excepciones de grupos de 2)
-
 ## Descripción del proyecto
 
 Después de haber firmado todos los acuerdos necesarios (ICAs, NDAs y sus equivalentes en español), ahora un contratista está siendo incorporado a un equipo para realizar trabajo de revisión de calidad de medio tiempo de contenido que ha sido traducido/localizado. El primer documento de capacitación que encuentran es la "Introduction to Quality Reviews". Traducirás este documento para que nuevos contratistas comprendan las expectativas generales sobre su trabajo en equipos internacionales de localización.
+
+**Valor**: 3 puntos
+
+**Modalidad**: Trabajo individual o en equipo
 
 ## Preparación para el proyecto
 
