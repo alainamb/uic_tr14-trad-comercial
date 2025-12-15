@@ -96,7 +96,7 @@ Cada entrada del glosario debe unir la información terminológica requirida par
 - **Proyecto individual**: Apellidos_GlosarioComercial.docx
   - Ejemplo: Hernandez_GlosarioComercial.docx
 - **Para equipos**: Apellidos1_Apellidos2_GlosarioComercial.docx
-  - Ejemplo: Hernandez_AguileraRodriguez_GlosarioComercial.docx
+  - Ejemplo: Brandt_GuerreraFlores_GlosarioComercial.docx
 
 ### Criterios de Evaluación
 
