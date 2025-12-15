@@ -10,13 +10,7 @@ nav_order: 4
 
 **Valor**: 3 puntos
 
-**Modalidad**: Trabajo en grupo
-
-**Formato de entrega**: MS Word (.docx)
-
-**Fecha de entrega**: Martes, 26 de agosto
-
-**Lugar de entrega**: Asignación "Perfil Corporativo" en Teams
+**Modalidad**: Trabajo individual o en equipo
 
 ## Descripción del Proyecto
 
@@ -30,15 +24,15 @@ Basándote en el trabajo realizado durante las actividades en clase, desarrollar
 
 ## Estructura del Reporte
 
-### 1. Portada Profesional
-Incluye todos los elementos de una portada corporativa:
+### 1. Información Administrativa
+Incluye todos estos elementos al principio del documento:
 - **Título atractivo y profesional** (ej. "Análisis de Voz de Marca y Audiencia: Estrategias de Localización para [Empresa] en el Mercado Mexicano")
 - **Fecha de elaboración**
-- **Tu nombre como autor/analista**
+- **Nombres del colaboradores**
 - **Empresa analizada**
-- **Contexto académico**: "Preparado para TR14: Traducción Comercial y Publicitaria B>A, Universidad Intercontinental"
+- **Contexto académico**: "Preparado para TR14: Traducción Comercial y Publicitaria (Inglés>Español)"
 
-### 2. Análisis de Voz de Marca (1-2 páginas)
+### 2. Análisis de Voz de Marca (1 página)
 
 Desarrolla y perfecciona el análisis iniciado en la actividad [Ejemplos de Voz de Marca](ejemplos-voz-de-marca.md):
 
@@ -53,7 +47,7 @@ Desarrolla y perfecciona el análisis iniciado en la actividad [Ejemplos de Voz 
 - Tabla de análisis de voz de marca (formato profesional)
 - Opcional: Screenshots de ejemplos comunicativos específicos
 
-### 3. Análisis de Buyer Personas (1-2 páginas)
+### 3. Análisis de Buyer Personas (1 página)
 
 Expande el trabajo desarrollado en [Ejercicios de Buyer Personas](ejercicios-buyer-personas.md):
 
@@ -93,14 +87,12 @@ Referencias en formato profesional:
 ## Entregables
 
 ### Documento Principal
-- **Archivo**: PrimerosApellidos_PerfilCorporativo.docx
-  - Por ejemplo:  Aguilera-Brandt_PerfilCorporativo.docx
-- **Extensión**: 4-6 páginas (sin incluir portada y referencias)
-- **Formato**: Arial 12pt, interlineado 1.5, márgenes normales
+- **Archivo**: Apellidos_PerfilCorporativo.docx
+  - Por ejemplo:  Brandt_GonzálezTorres_PerfilCorporativo.docx
 
 ### Archivo Adjunto
 - **Resumen del Generador de buyer personas** descargado de HubSpot
-- **Archivo**: PrimerosAppellidos_HubSpotBuyerPersona_HubSpot.pdf
+- **Archivo**: Appellidos_HubSpotBuyerPersona.pdf
 
 ## Criterios de Evaluación
 
@@ -133,17 +125,10 @@ Referencias en formato profesional:
 
 ## Preguntas Frecuentes
 
-**¿Puedo usar la misma empresa de las actividades en clase?**
-Sí, de hecho es un requisito para que puedas desarrollar un análisis más profundo.
-
-**¿Qué pasa si no terminé las actividades en clase?**
-Puedes completarlas como parte de esta tarea, pero asegúrate de que el análisis sea comprehensivo.
-
-**¿Puedo incluir información adicional que no cubrimos en clase?**
-Sí, siempre que sea relevante y agregue valor al análisis.
-
-**¿Cómo debo citar las actividades del curso?**
-Puedes referenciar las actividades como parte del curso TR14 en tu sección de obras consultadas.
+- **¿Puedo usar la misma empresa de las actividades en clase?** Sí, de hecho es un requisito para que puedas desarrollar un análisis más profundo.
+- **¿Qué pasa si no terminé las actividades en clase?** Puedes completarlas como parte de esta tarea, pero asegúrate de que el análisis sea comprehensivo.
+- **¿Puedo incluir información adicional que no cubrimos en clase?** Sí, siempre que sea relevante y agregue valor al análisis.
+- **¿Cómo debo citar las actividades del curso?** Puedes referenciar las actividades como parte del curso TR14 en tu sección de obras consultadas.
 
 ---
 
@@ -151,7 +136,7 @@ Puedes referenciar las actividades como parte del curso TR14 en tu sección de o
 
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad1/semana2/tarea-perfil-corporativo.md) y descárgalo.
 
-### 🤖 Prompts de Estudio con IA
+### 🤖 Prompts de Estudio con IAG
 
 Copia el contenido descargado y prueba estos prompts:
 
