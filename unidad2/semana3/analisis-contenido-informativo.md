@@ -148,7 +148,7 @@ Después de revisar las publicaciones de otros grupos, considera:
 
 ## 📥 Descarga esta Actividad
 
-Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad2/semana3/analisis-documentos-comerciales.md) y descárgalo.
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad2/semana3/analisis-contenido-informativo.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IA
 
@@ -162,4 +162,4 @@ Copia el contenido descargado y prueba estos prompts:
 
 ---
 
-**Próxima actividad**: [Tarea: Glosario de Términos Comerciales](tarea-glosario-comercial.md) donde aplicarás las observaciones de este análisis para crear un recurso terminológico especializado.
+**Próxima actividad**: [Discusión sobre Comercio y Traducción](discusion-comercio-traduccion.md)
