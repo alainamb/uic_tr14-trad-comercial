@@ -7,6 +7,7 @@ nav_order: 4
 ---
 
 # Tarea: Glosario de Términos Comerciales
+<br>
 
 **Valor**: 3 puntos
 
