@@ -82,7 +82,7 @@ Hay que descargar el archivo .md y abrirlo para ver el markdown crudo.
 
 ### 1. Traducción completa (Archivo .md)
 
-**Archivo:** `PrimerosApellidos_lilt-translate-toolbar.md`
+**Archivo:** `Apellidos_lilt-translate-toolbar.md`
 
 - **Traducción completa** del contenido de "LILT Translate Toolbar"
 - **Formato markdown** preservado exactamente como el original
@@ -92,7 +92,7 @@ Hay que descargar el archivo .md y abrirlo para ver el markdown crudo.
 
 ### 2. Documentación del proceso grupal (Documento MS Word)
 
-**Archivo:** `PrimerosApellidos_lilt-toolbar-reflexion.docx`
+**Archivo:** `Apellidos_lilt-toolbar-reflexión.docx`
 
 #### Información del equipo
 Nombres completos de todas las personas traductoras, con roles específicos asignados durante el proyecto.
@@ -135,11 +135,11 @@ Párrafo de 150-200 palabras que incluya:
 
 ### Formato de entrega
 - **Archivos:** 
-  - `PrimerosApellidos_lilt-translate-toolbar.md`
-  - `PrimerosApellidos_lilt-toolbar-reflexion.docx`
+  - `Apellidos_lilt-translate-toolbar.md`
+  - `Apellidos_lilt-toolbar-reflexión.docx`
 - **Nomenclatura:** Primer apellido de cada integrante, separados por guiones
-- **Ejemplo:** `Aguilera-Brandt-Morales_lilt-translate-toolbar.md`
-- **Entrega:** Una sola persona del equipo sube ambos archivos
+- **Ejemplo:** `HernándezMartínez_Brandt_lilt-translate-toolbar.md`
+- **Entrega:** Una sola persona del equipo entrega ambos archivos
 
 ## Criterios de evaluación
 
@@ -182,11 +182,11 @@ La traducción será evaluada usando criterios adaptados del **Marco MQM (Multid
 
 ---
 
-## 📥 Descarga esta Tarea
+## 📥 Descarga este Contenido
 
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad2/semana6/tarea-documentacion-usuarios.md) y descárgalo.
 
-### 🤖 Prompts de Estudio con IA
+### 🤖 Prompts de Estudio con IAG
 
 Copia el contenido descargado y prueba estos prompts para preparación grupal:
 
