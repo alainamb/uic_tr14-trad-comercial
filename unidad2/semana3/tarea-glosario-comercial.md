@@ -12,7 +12,7 @@ nav_order: 4
 
 Desarrollarás un glosario especializado de términos del comercio internacional siguiendo la metodología de diario terminológico. Este glosario debe demostrar tu comprensión de la terminología comercial especializada y tu habilidad para crear recursos terminológicos de calidad profesional que sirvan como herramienta de referencia tanto para tu propio uso como para otros traductores especializados.
 
-## Contexto Profesional
+**Contexto Profesional**
 
 Los glosarios terminológicos son herramientas fundamentales en la traducción especializada. Profesionalmente, los traductores comerciales:
 - **Mantienen glosarios personalizados** por cliente y sector industrial
