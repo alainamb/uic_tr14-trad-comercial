@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Análisis de Documentos Comerciales
+title: Análisis de Contenido Informativo
 parent: Semana 3
 grand_parent: Unidad 2
 nav_order: 3
 ---
 
-# Análisis de Documentos Comerciales
+# Análisis de Contenido Informativo
 
 **Tiempo estimado**: 45 minutos
 
