@@ -8,9 +8,9 @@ nav_order: 3
 
 # Tarea: Documentación para Usuarios
 
-**Puntos:** 3
+**Valor**: 3 puntos
 
-**Modalidad:** Grupos de 3 personas (algunas excepciones de grupos de 2)
+**Modalidad**: Trabajo individual o en equipo
 
 ## Descripción del proyecto
 
@@ -29,8 +29,7 @@ Adicionalmente, las limitaciones de caracteres representan un desafío significa
 ## Preparación para el proyecto
 
 ### Organización grupal
-- **Grupos asignados en clase:** No pueden cambiar de grupo sin autorización
-- **Tamaño máximo:** 3 personas (algunas excepciones de 2 personas)
+- **Tamaño sugerido:** 2 o 3 personas
 - **Asignación de roles:** Deben cambiar su rol del que tuvieron en la asignación anterior
 
 ### Archivo para traducir
