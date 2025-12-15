@@ -102,12 +102,10 @@ Cada entrada del glosario debe unir la información terminológica requirida par
 
 | **Criterio** | **Puntos** | **Modalidad** | **Descripción** |
 |---|---|---|---|
-| **Una entrada terminológica por estudiante** | 1.0 | Completo/Incompleto | Término, campo, origen en cada idioma |
-| **Análisis Terminológico** | 1.0 | Completo/Incompleto | Definición, ejemplo de uso en cada idioma |
-| **Análisis Crítico** | 1.0 | Completo/Incompleto | Preguntas e investigaciones, reflexiones, fuentes para cada idioma |
+| **Una entrada terminológica por estudiante** | 1.0 | Completo/Incompleto | Con todos los campos descritos en estas instrucciones |
+| **El reporte profesional** | 1.0 | Completo/Incompleto | Que demuestra análisis crítica en la introducción, conclusion y bibliografía |
+| **Trabajo profesional** | 1.0 | Completo/Incompleto | Sin errores tipograficas o de ortografía; que refleja una buena organización, especialmente en grupos |
 | **Total** | **3.0** | | |
-
-**Nota:** Se puede perder puntos 
 
 ---
 
@@ -148,35 +146,21 @@ Cada entrada del glosario debe unir la información terminológica requirida par
 
 ### Cronograma Sugerido
 
-**Para Trabajo Individual**
-- **Lunes-Martes**: Selección de 2 términos y investigación inicial
-- **Miércoles-Jueves**: Redacción completa de ambas entradas
-- **Viernes-Sábado**: Redacción de introducción y conclusión
-- **Domingo-Lunes**: Revisión final y preparación para entrega
-
-**Para Trabajo en Equipo**
-- **Lunes**: Formación de equipo y división de términos
-- **Martes-Miércoles**: Cada estudiante investiga y redacta sus 2 entradas
-- **Jueves**: Intercambio y revisión del trabajo de compañeros
-- **Viernes-Sábado**: Compilación final, introducción y conclusión colaborativas
-- **Domingo-Lunes**: Revisión final del equipo y preparación para entrega
+| **Para Trabajo Individual** | **Para Trabajo en Equipo** |
+| --------------------------- | -------------------------- |
+| - **Lunes-Martes**: Selección de término y investigación inicial<br>- **Miércoles-Jueves**: Redacción completa de la entrada<br>- **Viernes**: Redacción de introducción y conclusión<br>- **Lunes**: Revisión final y entrega del proyecto | - **Lunes**: Formación de equipo y selección de términos<br>- **Martes-Miércoles**: Cada estudiante investiga y redacta su entrada<br>- **Jueves-Viernes**: Intercambio y revisión; Redacción de introducción y conclusión<br>- **Lunes**: Compilación y revisión finales; entrega del proyecto |
 
 ### Preguntas Frecuentes
 
-**¿Puedo usar términos del análisis de documentos de clase?**
-Sí, siempre que proporciones investigación y análisis independientes.
+- **¿Puedo usar términos del análisis de documentos de clase?** Sí, siempre que proporciones investigación y análisis independientes.
 
-**¿Qué hago si encuentro definiciones contradictorias?**
-Perfecto - documenta esta situación en tu sección de "Preguntas e investigación" y explica cómo la resolviste.
+- **¿Qué hago si encuentro definiciones contradictorias?** Perfecto - documenta esta situación en tu sección de "Preguntas e investigación" y explica cómo la resolviste.
 
-**¿Las fuentes deben ser académicas?**
-No necesariamente. Fuentes institucionales y profesionales especializadas son apropiadas y a menudo más actualizadas.
+- **¿Las fuentes deben ser académicas?** No necesariamente. Fuentes institucionales y profesionales especializadas son apropiadas y a menudo más actualizadas.
 
-**¿Cómo nos organizamos para el trabajo en equipo?**
-Cada estudiante debe contribuir 2 entradas completas. Pueden dividir la responsabilidad de introducción, conclusión y formato final.
+- **¿Cómo nos organizamos para el trabajo en equipo?** Cada estudiante debe contribuir una entrada completa. Pueden dividir la responsabilidad de introducción, conclusión y formato final.
 
-**¿Puedo incluir términos en otros idiomas además del francés?**
-Por ahora enfócate en inglés-español, con francés opcional si tienes competencia.
+- **¿Puedo incluir términos en otros idiomas además del francés?** Sí, debes incluir el inglés y el español, y puedes incluir un tercer idioma como el francés según tus competencias.
 
 ### Consejos Finales
 
