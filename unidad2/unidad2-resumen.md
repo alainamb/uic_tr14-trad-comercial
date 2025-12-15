@@ -5,7 +5,7 @@ nav_order: 4
 has_children: true
 ---
 
-# Unidad 2: Comunicaciones Informativas
+# Unidad 2: Comunicaciones Informativas y la Traducción
 
 ## Bienvenida
 
