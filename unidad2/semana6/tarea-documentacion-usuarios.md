@@ -45,6 +45,15 @@ Antes de comenzar la traducción, es esencial que comprendas cómo el formato ma
 
 Hay que descargar el archivo .md y abrirlo para ver el markdown crudo.
 
+```
+NOTA SOBRE LA GESTIÓN DE ESTE PROYECTO: Normalmente, las tareas de esta clase tienen
+un límite de entre 800 y 900 palabras. Este proyecto requiere aproximadamente 1200 palabras.
+Esta extensión mayor toma en cuenta las repeticiones presentes en el contenido; por lo tanto,
+gestionar eficazmente estas repeticiones constituye un elemento clave del proyecto.
+Pueden completar el trabajo aprovechando las repeticiones estratégicamente,
+lo cual compensa el conteo más amplio sin incrementar la carga de trabajo.
+```
+
 #### Instrucciones de formato críticas
 
 - **Mantén el formato markdown** exactamente como aparece en el original
