@@ -44,7 +44,7 @@ El curso se estructura en **cuatro unidades temáticas** que ofrecen una progres
 - Semana 1: Introducción a la Traducción Comercial y Publicitaria
 - Semana 2: Voz de Marca, Perfiles de Audiencia y Propósito Comunicativo
 
-### Unidad 2: Comunicaciones Informativas
+### Unidad 2: Comunicaciones Informativas y la Traducción
 **Semanas 3-8**
 - Semana 3: Fundamentos Teóricos de las Comunicaciones Empresariales Internacionales
 - Semana 4: Correspondencia con Proveedores
@@ -53,7 +53,7 @@ El curso se estructura en **cuatro unidades temáticas** que ofrecen una progres
 - Semana 7: Comunicaciones Internas (políticas, correos, memorandos, informes, presentaciones)
 - Semana 8: Resumen y Proyecto Comercial Informativo
 
-### Unidad 3: Comunicaciones Publicitarias
+### Unidad 3: Comunicaciones Persuasivas y la Transcreación
 **Semanas 9-14**
 - Semana 9: Fundamentos Teóricos de la Publicidad y el Marketing (recorrido del comprador, empresas B2C y B2B)
 - Semana 10: Publicidad Impresa y Marketing Digital
@@ -71,11 +71,8 @@ El curso se estructura en **cuatro unidades temáticas** que ofrecen una progres
 El curso concluye con un proyecto integrador de evaluación por pares que te permitirá desarrollar habilidades críticas fundamentales para tu crecimiento profesional mientras analizas el trabajo de tus compañeros y proporcionas retroalimentación constructiva.
 
 ## Duración del Curso
-**17 semanas en total**  
+**4 meses en total**  
 **4 unidades** con un proyecto integrador de evaluación
-
-## Flujo de Trabajo Cada Semana
-**Las clases se imparten los jueves** con materiales disponibles para revisión previa. Las tareas deberán entregarse generalmente los martes siguientes a cada clase.
 
 ---
 
