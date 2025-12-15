@@ -121,4 +121,4 @@ Copia el contenido descargado y prueba estos prompts:
 
 ---
 
-**Próxima actividad**: [Análisis de Documentos Comerciales](analisis-documentos-comerciales.md) donde aplicarás los conceptos de esta discusión a ejemplos reales de textos comerciales.
+**Próxima actividad**: [Tarea: Glosario de Términos Comerciales](tarea-glosario-comercial.md)
