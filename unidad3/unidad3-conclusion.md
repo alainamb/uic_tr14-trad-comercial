@@ -5,7 +5,7 @@ parent: Unidad 3
 nav_order: 7
 ---
 
-# Conclusión de la Unidad 3: Comunicaciones Publicitarias
+# Conclusión de la Unidad 3: Comunicaciones Persuasivas y la Transcreación
 
 ## Lo Que Has Logrado
 
