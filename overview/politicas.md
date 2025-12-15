@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Políticas
+title: Políticas Sugeridas
 parent: Descripción General
 nav_order: 3
 ---
 
-# Políticas del Curso
+# Políticas Sugeridas para el Curso
 
 ## Asistencia y Participación
 
