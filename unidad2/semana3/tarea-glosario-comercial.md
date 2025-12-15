@@ -12,14 +12,6 @@ nav_order: 4
 
 Desarrollarás un glosario especializado de términos del comercio internacional siguiendo la metodología de diario terminológico. Este glosario debe demostrar tu comprensión de la terminología comercial especializada y tu habilidad para crear recursos terminológicos de calidad profesional que sirvan como herramienta de referencia tanto para tu propio uso como para otros traductores especializados.
 
-**Contexto Profesional**
-
-Los glosarios terminológicos son herramientas fundamentales en la traducción especializada. Profesionalmente, los traductores comerciales:
-- **Mantienen glosarios personalizados** por cliente y sector industrial
-- **Colaboran en bases terminológicas** de equipos y agencias
-- **Consultan recursos especializados** para verificar equivalencias
-- **Actualizan terminología** constantemente según evolución del sector
-
 ---
 
 ## Especificaciones para el Proyecto
@@ -31,13 +23,12 @@ Los glosarios terminológicos son herramientas fundamentales en la traducción e
 ### Modalidades de Trabajo
 
 #### Trabajo Individual
-- **2 términos especializados** del comercio internacional
-- Cada estudiante completa ambas entradas terminológicas
+- **Un término especializado** del comercio internacional
+- **Un reporte profesional** que presenta el trabajo terminologico
 
 #### Trabajo en Equipo (máximo 3 estudiantes)
-- **2 términos por estudiante** (4 términos para equipo de 2, 6 términos para equipo de 3)
-- Cada estudiante contribuye con 2 entradas terminológicas completas
-- **Responsabilidad compartida** por la presentación final del documento
+- **Un término especializado por estudiante** (2 términos para equipo de 2, 3 términos para equipo de 3)
+- **Responsabilidad compartida** por el reporte profesional
 
 ### Información Terminológica en el Glosario
 
@@ -85,7 +76,7 @@ Cada entrada del glosario debe unir la información terminológica requirida par
 - **¿Por qué los eligieron?** Relevancia para su formación profesional
 - **¿Cómo organizaron el trabajo?** (Especialmente importante para equipos)
 
-#### Cuerpo del Glosario
+#### Cuerpo del Glosario (1 tabla)
 - Entradas terminológicas siguiendo el formato requerido
 - Organización alfabética o por categorías temáticas
 - Numeración o separación clara entre entradas
@@ -100,54 +91,43 @@ Cada entrada del glosario debe unir la información terminológica requirida par
 - Todas las fuentes consultadas en formato APA
 - Separar fuentes digitales de fuentes impresas si es relevante
 
-### Criterios de Evaluación
+### Entregables
 
-### Sistema de Puntuación
+- **Proyecto individual**: Apellidos_GlosarioComercial.docx
+  - Ejemplo: Hernandez_GlosarioComercial.docx
+- **Para equipos**: Apellidos1_Apellidos2_GlosarioComercial.docx
+  - Ejemplo: Hernandez_AguileraRodriguez_GlosarioComercial.docx
+
+### Criterios de Evaluación
 
 | **Criterio** | **Puntos** | **Modalidad** | **Descripción** |
 |---|---|---|---|
-| **Información Básica** | 1.0 | Completo/Incompleto | Término, campo, origen en cada idioma |
+| **Una entrada terminológica por estudiante** | 1.0 | Completo/Incompleto | Término, campo, origen en cada idioma |
 | **Análisis Terminológico** | 1.0 | Completo/Incompleto | Definición, ejemplo de uso en cada idioma |
 | **Análisis Crítico** | 1.0 | Completo/Incompleto | Preguntas e investigaciones, reflexiones, fuentes para cada idioma |
 | **Total** | **3.0** | | |
 
-### Criterios para "Completo" por Entrada
+**Nota:** Se puede perder puntos 
 
-Una entrada se considera **Completa** cuando incluye:
-- [ ] Término claramente identificado en inglés y español (y francés si se incluye)
-- [ ] Campo temático y origen del término especificados
-- [ ] Definiciones precisas en inglés y español (y francés si se incluye)
-- [ ] Ejemplo de uso en contexto profesional en los idiomas correspondientes
-- [ ] Preguntas e investigación documentadas
-- [ ] Reflexión crítica sobre problemas de traducción (incluyendo consideraciones multilingües si aplica)
-- [ ] Fuentes consultadas en formato APA
-
-### Criterios para "Presentación Pulida"
-
-La presentación se considera **Completa** cuando incluye:
-- [ ] **Introducción**: Explicación de qué términos eligieron y por qué
-- [ ] **Organización clara**: Entradas bien estructuradas y fáciles de navegar
-- [ ] **Conclusión**: Reflexiones sobre aprendizajes del proyecto
-- [ ] **Formato profesional**: Consistencia en estilo, ortografía correcta
-- [ ] **Para equipos**: Identificación clara de quién contribuyó cada entrada
+---
 
 ## Recomendaciones para el Éxito
 
-### Para Trabajo Individual
-- **Dedica tiempo suficiente** a la investigación de cada término
-- **Documenta tu proceso** - las preguntas y reflexiones son tan importantes como las definiciones
-- **Busca términos que realmente te generen dudas** - esto enriquecerá tu análisis
-
 ### Para Trabajo en Equipo
-- **Dividan el trabajo equitativamente** - cada estudiante contribuye 2 entradas
+- **Dividan el trabajo equitativamente** - cada estudiante contribuye una entrada
 - **Coordinen el estilo** - mantengan consistencia en formato y presentación
 - **Revisen el trabajo de otros** - todos son responsables de la calidad final
-- **Identifiquen claramente** quién contribuyó cada entrada en la portada
+- **Identifiquen claramente** quién contribuyó cada entrada
+
+### Tu Trabajo Individual
+- **Dedica tiempo suficiente** a la investigación del término
+- **Documenta tu proceso** - las preguntas y reflexiones son tan importantes como las definiciones
+- **Trabaja con términos que realmente te generen dudas** - esto enriquecerá tu análisis
 
 ### Investigación Terminológica
 - **Comienza con fuentes institucionales** (WIPO, OMC, Banco Mundial)
 - **Verifica consistencia** comparando definiciones de múltiples fuentes confiables
-- **Documenta tu proceso de investigación** - qué buscaste, dónde, qué encontraste
+- **Documenta tus investigaciones** - qué buscaste, dónde, qué encontraste
 
 ### Análisis Crítico
 - **Piensa como traductor profesional** - ¿qué dificultades enfrentarías en la práctica?
@@ -155,32 +135,33 @@ La presentación se considera **Completa** cuando incluye:
 - **Identifica falsos amigos** o términos que pueden confundirse
 - **Evalúa implicaciones legales** cuando la precisión es crítica
 
-## Entregables
+### Recursos Terminológicos Recomendados
 
-### Archivo Principal
-- **Nomenclatura individual**: PrimerApellido_GlosarioComercial.docx
-  - Ejemplo: Hernandez_GlosarioComercial.docx
-- **Nomenclatura para equipos**: Apellido1_Apellido2_GlosarioComercial.docx
-  - Ejemplo: Hernandez_Rodriguez_GlosarioComercial.docx
-- **Formato**: Arial 12pt, interlineado 1.5, márgenes normales
-- **Extensión esperada**: 4-8 páginas (dependiendo del número de estudiantes)
+**WIPO Pearl - Organización Mundial de la Propiedad Intelectual**
+**URL**: [www.wipo.int/reference/en/wipopearl/](https://www.wipo.int/reference/en/wipopearl/)
 
-## Cronograma Sugerido
+**Banco Mundial - Glosario**
+**URL**: [datatopics.worldbank.org/consumption/glosario](https://datatopics.worldbank.org/consumption/glosario)
 
-#### Para Trabajo Individual
+**OMC - Glosario de Términos Comerciales**
+**URL**: [www.wto.org/english/thewto_e/glossary_e/glossary_e.htm](https://www.wto.org/english/thewto_e/glossary_e/glossary_e.htm)
+
+### Cronograma Sugerido
+
+**Para Trabajo Individual**
 - **Lunes-Martes**: Selección de 2 términos y investigación inicial
 - **Miércoles-Jueves**: Redacción completa de ambas entradas
 - **Viernes-Sábado**: Redacción de introducción y conclusión
 - **Domingo-Lunes**: Revisión final y preparación para entrega
 
-#### Para Trabajo en Equipo
+**Para Trabajo en Equipo**
 - **Lunes**: Formación de equipo y división de términos
 - **Martes-Miércoles**: Cada estudiante investiga y redacta sus 2 entradas
 - **Jueves**: Intercambio y revisión del trabajo de compañeros
 - **Viernes-Sábado**: Compilación final, introducción y conclusión colaborativas
 - **Domingo-Lunes**: Revisión final del equipo y preparación para entrega
 
-## Preguntas Frecuentes
+### Preguntas Frecuentes
 
 **¿Puedo usar términos del análisis de documentos de clase?**
 Sí, siempre que proporciones investigación y análisis independientes.
@@ -197,47 +178,35 @@ Cada estudiante debe contribuir 2 entradas completas. Pueden dividir la responsa
 **¿Puedo incluir términos en otros idiomas además del francés?**
 Por ahora enfócate en inglés-español, con francés opcional si tienes competencia.
 
-## Recursos Terminológicos Recomendados
+### Consejos Finales
 
-### WIPO Pearl - Organización Mundial de la Propiedad Intelectual
-**URL**: [www.wipo.int/reference/en/wipopearl/](https://www.wipo.int/reference/en/wipopearl/)
-
-### Banco Mundial - Glosario
-**URL**: [datatopics.worldbank.org/consumption/glosario](https://datatopics.worldbank.org/consumption/glosario)
-
-### OMC - Glosario de Términos Comerciales
-**URL**: [www.wto.org/english/thewto_e/glossary_e/glossary_e.htm](https://www.wto.org/english/thewto_e/glossary_e/glossary_e.htm)
-
-## Consejos Finales
-
-### Errores Comunes a Evitar
+**Errores Comunes a Evitar**
 - **No subestimar las reflexiones críticas** - son tan importantes como las definiciones
 - **Evitar definiciones superficiales** - dedica tiempo a entender realmente el concepto
 - **No omitir la documentación del proceso** - el "cómo investigaste" es crucial
 - **Para equipos**: Evitar inconsistencias de formato entre entradas de diferentes estudiantes
 
-### Señales de Calidad Profesional
+**Señales de Calidad Profesional**
 - **Pensamiento crítico** evidente en las reflexiones
 - **Investigación documentada** que muestre proceso real de búsqueda
 - **Análisis práctico** enfocado en problemas reales de traducción
 - **Organización clara** que facilite la consulta del glosario
 
-### Preparación para Evaluación
+**Conexión Profesional**
 
-Antes de entregar, verifica que cada entrada tenga:
-- [ ] Formato completo siguiendo el modelo proporcionado
-- [ ] Investigación documentada en "Preguntas e investigación"
-- [ ] Reflexión crítica sobre problemas de traducción
-- [ ] Fuentes confiables citadas correctamente
-- [ ] **Para equipos**: Identificación clara de contribuciones individuales
+Los glosarios terminológicos son herramientas fundamentales en la traducción especializada. Profesionalmente, los traductores comerciales:
+- **Mantienen glosarios personalizados** por cliente y sector industrial
+- **Colaboran en bases terminológicas** de equipos y agencias
+- **Consultan recursos especializados** para verificar equivalencias
+- **Actualizan terminología** constantemente según evolución del sector
 
 ---
 
-## 📥 Descarga esta Tarea
+## 📥 Descarga este Contenido
 
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad2/semana3/tarea-glosario-comercial.md) y descárgalo.
 
-### 🤖 Prompts de Estudio con IA
+### 🤖 Prompts de Estudio con IAG
 
 Copia el contenido descargado y prueba estos prompts:
 
