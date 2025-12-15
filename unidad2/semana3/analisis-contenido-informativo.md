@@ -3,7 +3,7 @@ layout: default
 title: Análisis de Contenido Informativo
 parent: Semana 3
 grand_parent: Unidad 2
-nav_order: 3
+nav_order: 2
 ---
 
 # Análisis de Contenido Informativo
