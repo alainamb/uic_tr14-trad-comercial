@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Presentación - Fundamentos del Comercio Internacional
+title: Fundamentos del Comercio Internacional
 parent: Semana 3
 grand_parent: Unidad 2
 nav_order: 1
 ---
 
-# Presentación: Fundamentos del Comercio Internacional
+# Fundamentos del Comercio Internacional
 
 Esta presentación establece los conceptos fundamentales del comercio internacional que necesitas dominar para traducir documentos comerciales con precisión. Comprenderás la terminología especializada, los procesos comerciales básicos y los marcos regulatorios que dan forma a las comunicaciones empresariales internacionales.
 
