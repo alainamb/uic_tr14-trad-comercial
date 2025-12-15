@@ -19,9 +19,8 @@ Después de haber firmado todos los acuerdos necesarios (ICAs, NDAs y sus equiva
 ## Preparación para el proyecto
 
 ### Organización grupal
-- **Grupos asignados en clase:** No pueden cambiar de grupo sin autorización
-- **Tamaño máximo:** 3 personas (algunas excepciones de 2 personas)
-- **Asignación:** Asignen roles teniendo en cuenta que deben cambiar su rol del que tuvieron la vez pasada (investigación terminológica, traducción, revisión)
+- **Tamaño sugerido:** 2 o 3 personas
+- **Asignación:** Asignen roles teniendo en cuenta sus fortalezas y dando la oportunidad para practicar en roles nuevos (investigación terminológica, traducción, revisión)
 
 ### Archivo para traducir
 
@@ -42,6 +41,14 @@ Después de haber firmado todos los acuerdos necesarios (ICAs, NDAs y sus equiva
 2. **Identificación de desafíos:** Detecten elementos terminológicos especializados de la industria de localización
 3. **Planificación estratégica:** Acuerden enfoques para términos técnicos específicos (quality reviews, workflows, rework, etc.)
 
+```
+NOTA IMPORTANTE PARA LA TRADUCCIÓN DE CONCEPTOS ESPECIALIZADOS: Para estudiantes de traducción, el campo de trabajo profesional
+en servicios lingüísticos al que se refiere este contenido puede parecer bastante fácil de traducir. Sin embargo, el contenido
+hace referencia a conceptos muy amplios y ambiguos, como "accuracy, consistency, and completeness", y al traducir estos conceptos
+al español hay que tener en mente cómo se relacionan con conceptos importantes no mencionados en este documento (cohesion, coherence),
+ para nombrar todos los conceptos de una manera complementaria.
+```
+
 ### Fase 2: Traducción colaborativa
 1. **Investigación terminológica:** Investiguen términos especializados de control de calidad en traducción y localización
 2. **Traducción inicial:** Traduzcan el contenido aplicando la terminología acordada
@@ -56,7 +63,7 @@ Después de haber firmado todos los acuerdos necesarios (ICAs, NDAs y sus equiva
 
 ### 1. Traducción completa (Archivo .md)
 
-**Archivo:** `PrimerosApellidos_intro-to-quality-reviews.md`
+**Archivo:** `Apellidos_intro-to-quality-reviews.md`
 
 - **Traducción completa** del contenido de "Introduction to Quality Reviews"
 - **Formato markdown** conservado exactamente como el original
@@ -64,8 +71,7 @@ Después de haber firmado todos los acuerdos necesarios (ICAs, NDAs y sus equiva
 - **Calidad profesional** apropiada para capacitación de contratistas
 
 ### 2. Documentación del proceso grupal (Documento MS Word)
-
-**Archivo:** `PrimerosApellidos_quality-reviews-reflexion.docx`
+**Archivo:** `Apellidos_reflexión-quality-reviews.docx`
 
 #### Información del equipo
 Los nombres completos de todas las traductoras y traductores, con roles específicos asignados durante el proyecto.
@@ -104,11 +110,11 @@ Párrafo de 150-200 palabras que incluya:
 
 ### Formato de entrega
 - **Archivos:** 
-  - `PrimerosApellidos_intro-to-quality-reviews.md`
-  - `PrimerosApellidos_quality-reviews-reflexion.docx`
-- **Nomenclatura:** Primer apellido de cada integrante, separados por guiones
-- **Ejemplo:** `Aguilera-Brandt-Morales_intro-to-quality-reviews.md`
-- **Entrega:** Una sola persona del equipo sube ambos archivos
+  - `Apellidos_intro-to-quality-reviews.md`
+  - `Apellidos_reflexión-quality-reviews.docx`
+- **Nomenclatura:** Apellidos de cada integrante, separados por guiones
+- **Ejemplo:** `Brandt_GuerreraFlores_intro-to-quality-reviews.md`
+- **Entrega:** Una sola persona del equipo entrega ambos archivos
 
 ## Criterios de evaluación
 
