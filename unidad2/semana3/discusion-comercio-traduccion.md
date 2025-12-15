@@ -3,10 +3,10 @@ layout: default
 title: Discusión sobre Comercio y Traducción
 parent: Semana 3
 grand_parent: Unidad 2
-nav_order: 2
+nav_order: 3
 ---
 
-# Discusión: Comercio y Traducción
+# Discusión sobre Comercio y Traducción
 
 **Tiempo estimado**: 30 minutos
 
