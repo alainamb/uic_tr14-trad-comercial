@@ -135,14 +135,11 @@ Cada entrada del glosario debe unir la información terminológica requirida par
 
 ### Recursos Terminológicos Recomendados
 
-**WIPO Pearl - Organización Mundial de la Propiedad Intelectual**
-**URL**: [www.wipo.int/reference/en/wipopearl/](https://www.wipo.int/reference/en/wipopearl/)
+- **WIPO Pearl - Organización Mundial de la Propiedad Intelectual:** [www.wipo.int/reference/en/wipopearl/](https://www.wipo.int/reference/en/wipopearl/)
 
-**Banco Mundial - Glosario**
-**URL**: [datatopics.worldbank.org/consumption/glosario](https://datatopics.worldbank.org/consumption/glosario)
+- **Banco Mundial - Glosario:** [datatopics.worldbank.org/consumption/glosario](https://datatopics.worldbank.org/consumption/glosario)
 
-**OMC - Glosario de Términos Comerciales**
-**URL**: [www.wto.org/english/thewto_e/glossary_e/glossary_e.htm](https://www.wto.org/english/thewto_e/glossary_e/glossary_e.htm)
+- **OMC - Glosario de Términos Comerciales:** [www.wto.org/english/thewto_e/glossary_e/glossary_e.htm](https://www.wto.org/english/thewto_e/glossary_e/glossary_e.htm)
 
 ### Cronograma Sugerido
 
