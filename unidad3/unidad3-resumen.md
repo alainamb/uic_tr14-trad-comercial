@@ -5,7 +5,7 @@ nav_order: 5
 has_children: true
 ---
 
-# Unidad 3: Comunicaciones Publicitarias
+# Unidad 3: Comunicaciones Persuasivas y la Transcreación
 
 ## Bienvenida
 
@@ -57,7 +57,7 @@ Definición y evolución histórica de la publicidad, principios fundamentales, 
 ### [Semana 10: Publicidad impresa y marketing digital](semana10/semana10-resumen.md)  
 Publicidad impresa y marketing digital: características y formatos, tipología de textos para medios impresos y digitales, estrategias de adaptación para diferentes medios.
 
-### [Semana 11: Redes sociales y contenido web + Examen Parcial 2](semana11/semana11-resumen.md)
+### [Semana 11: SEO, blogs y redes sociales + Examen Parcial 2](semana11/semana11-resumen.md)
 Características del contenido para redes sociales y sitios web, campañas en redes sociales, medios en sitios web, optimización para motores de búsqueda (SEO), restricciones de espacio y formato.
 
 ### [Semana 12: Boletines informativos y correos electrónicos promocionales](semana12/semana12-resumen.md)
