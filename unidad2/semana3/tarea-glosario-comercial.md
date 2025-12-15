@@ -150,13 +150,9 @@ Cada entrada del glosario debe unir la información terminológica requirida par
 ### Preguntas Frecuentes
 
 - **¿Puedo usar términos del análisis de documentos de clase?** Sí, siempre que proporciones investigación y análisis independientes.
-
 - **¿Qué hago si encuentro definiciones contradictorias?** Perfecto - documenta esta situación en tu sección de "Preguntas e investigación" y explica cómo la resolviste.
-
 - **¿Las fuentes deben ser académicas?** No necesariamente. Fuentes institucionales y profesionales especializadas son apropiadas y a menudo más actualizadas.
-
 - **¿Cómo nos organizamos para el trabajo en equipo?** Cada estudiante debe contribuir una entrada completa. Pueden dividir la responsabilidad de introducción, conclusión y formato final.
-
 - **¿Puedo incluir términos en otros idiomas además del francés?** Sí, debes incluir el inglés y el español, y puedes incluir un tercer idioma como el francés según tus competencias.
 
 ### Consejos Finales
