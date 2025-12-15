@@ -7,15 +7,14 @@ nav_order: 4
 ---
 
 # Tarea: Glosario de Términos Comerciales
-<br>
-
-**Valor**: 3 puntos
-
-**Modalidad**: Trabajo individual o en equipo
 
 ## Descripción del Proyecto
 
 Desarrollarás un glosario especializado de términos del comercio internacional siguiendo la metodología de diario terminológico. Este glosario debe demostrar tu comprensión de la terminología comercial especializada y tu habilidad para crear recursos terminológicos de calidad profesional que sirvan como herramienta de referencia tanto para tu propio uso como para otros traductores especializados.
+
+**Valor**: 3 puntos
+
+**Modalidad**: Trabajo individual o en equipo
 
 ## Contexto Profesional
 
