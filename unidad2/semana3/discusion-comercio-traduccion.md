@@ -103,9 +103,6 @@ Al final de la actividad, revisaremos juntos:
 - **Qué recursos adicionales** podrían ser útiles para profundización
 - **Cómo prepararse** para los ejercicios prácticos de traducción que vienen
 
-### Preparación para la Próxima Actividad
-La discusión de hoy te prepara directamente para el [Análisis de Documentos Comerciales](analisis-documentos-comerciales.md), donde aplicarás estos conceptos a textos reales para identificar patrones, desafíos y estrategias de traducción específicas.
-
 ---
 
 ## 📥 Descarga esta Actividad
