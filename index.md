@@ -30,10 +30,10 @@ El curso se estructura en **cuatro unidades temáticas** que ofrecen una progres
 **Unidad 1: Introducción al Curso (Semanas 1-2)**  
 Fundamentos de la traducción comercial y publicitaria, conceptos de voz de marca, perfiles de audiencia y propósito comunicativo
 
-**Unidad 2: Comunicaciones Informativas (Semanas 3-8)**  
+**Unidad 2: Comunicaciones Informativas y la Traducción (Semanas 3-8)**  
 Traducción de documentos empresariales, desde comunicaciones internas hasta contratos comerciales y manuales técnicos, con énfasis en la precisión terminológica
 
-**Unidad 3: Comunicaciones Publicitarias (Semanas 9-14)**  
+**Unidad 3: Comunicaciones Persuasivas y la Transcreación (Semanas 9-14)**  
 Transcreación de materiales promocionales para diferentes medios y plataformas, desde anuncios impresos hasta contenido digital y eslóganes, con enfoque en la adaptación cultural
 
 **Unidad 4: Conclusiones y Proyectos Finales (Semanas 15-17)**  
