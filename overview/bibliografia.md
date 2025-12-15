@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Bibliografía
+title: Bibliografía Selecta
 parent: Descripción General
 nav_order: 4
 ---
 
-# Bibliografía del Curso
+# Bibliografía Selecta
 
 **Nota:** Esta bibliografía se construirá de manera colaborativa a lo largo del semestre conforme descubramos contenido de calidad a través de nuestra investigación y trabajo del curso. Como esta es la primera iteración de TR14, añadiremos recursos valiosos semana a semana conforme los encontremos en discusiones de clase, tareas e investigación independiente.
 
