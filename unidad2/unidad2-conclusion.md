@@ -5,7 +5,7 @@ parent: Unidad 2
 nav_order: 7
 ---
 
-# Conclusión de la Unidad 2: Comunicaciones Informativas
+# Conclusión de la Unidad 2: Comunicaciones Informativas y la Traducción
 
 ## Lo Que Has Logrado
 
