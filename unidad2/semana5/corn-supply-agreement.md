@@ -76,6 +76,8 @@ Date: January 15, 2025<br>
 
 ## Source Attribution
 
+**Subject Field Selection:** This subject field of this text was selected based on students' interest in the fact that Mexico imports so much of its corn from the United States. We discovered this fact when doing the subject field survey activity in week 3 in our fall 2026 rendition of this class at UIC, Mexico City.
+
 **Contract Adaptation**: This educational contract is adapted from the Ethanol Supply Agreement between VeraSun Energy Corporation and Cargill, Incorporated, filed with the SEC on August 11, 2006. The original agreement has been substantially modified for educational purposes, changing the commodity from ethanol to corn and updating terms to reflect current market conditions and regulatory environment.
 
 **Sources Consulted**:
