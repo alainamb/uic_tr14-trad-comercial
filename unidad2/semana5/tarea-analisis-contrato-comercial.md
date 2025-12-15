@@ -10,7 +10,7 @@ nav_order: 3
 
 **Valor**: 10 puntos (Examen Parcial 1)
 
-**Modalidad**: Trabajo individual o en equipo (máximo 3 estudiantes)
+**Modalidad**: Trabajo individual o en equipo
 
 ## Introducción
 
@@ -64,14 +64,12 @@ Proporcionen la traducción meta a la que llegaron para la sección completa.
 
 Estructuren su trabajo como un informe con las siguientes secciones:
 
-### 1. Portada
+### 1. Información Administrativa
 
-Incluyan:
 - Título del trabajo
 - Nombre(s) de estudiante(s)
 - Curso: TR14: Traducción Comercial y Publicitaria B>A
 - Fecha de entrega
-- **Para equipos**: Identificación clara de quién contribuyó con qué análisis
 
 ### 2. Introducción
 
@@ -80,6 +78,8 @@ Presenten al equipo y lo que se propusieron aprender al completar esta tarea. Es
 ### 3. Análisis
 
 Cada estudiante del grupo debe contribuir con una sección de análisis para la sección específica con la que trabajó. Los grupos deben presentar su análisis de manera consistente siguiendo el formato establecido arriba.
+
+**Importante:** Dentro del reporte, hay que identificar claramente quién contribuyó el análisis para cada sección.
 
 ### 4. Conclusiones
 
@@ -104,39 +104,35 @@ Incluyan todas las fuentes que consultaron al realizar su análisis.
 
 ## Entregables
 
-### Nomenclatura de Archivos
-- **Individual**: PrimerApellido_Analisis-Contrato-Comercial.docx
-  - Ejemplo: Hernandez_Analisis-Contrato-Comercial.docx
-- **Equipos**: Apellido1_Apellido2_Analisis-Contrato-Comercial.docx
-  - Ejemplo: Hernandez_Rodriguez_Analisis-Contrato-Comercial.docx
-
-### Especificaciones de Formato
-- **Formato**: Arial 12pt, interlineado 1.5, márgenes normales
-- **Extensión esperada**: 4-8 páginas (dependiendo del número de estudiantes)
+- **Individual**: Apellidos_Analisis-Contrato-Comercial.docx
+  - Ejemplo: Hernandez_ContratoComercial.docx
+- **Equipos**: Apellidos1_Apellidos2_ContratoComercial.docx
+  - Ejemplo: Hernandez_AguileraRodriguez_ContratoComercial.docx
 
 ## Preguntas Frecuentes
 
-**¿Puedo usar recursos en línea como DeepL para verificar?**
+- **¿Puedo usar recursos en línea como DeepL para verificar?** Sí, pero documenta todas las fuentes consultadas y explica por qué elegiste una traducción sobre otra.
 
-Sí, pero documenta todas las fuentes consultadas y explica por qué elegiste una traducción sobre otra.
+- **¿Qué hago si encuentro términos contradictorios en diferentes fuentes?** Excelente - documenta esta situación en tu análisis y explica cómo resolviste la contradicción.
 
-**¿Qué hago si encuentro términos contradictorios en diferentes fuentes?**
+- **¿Debo enfocarme en términos técnicos o en aspectos legales?** Ambos son importantes. Selecciona el enfoque que más te interese pero justifica tu elección.
 
-Excelente - documenta esta situación en tu análisis y explica cómo resolviste la contradicción.
+- **¿Cómo me organizo para el trabajo en equipo?** Cada estudiante debe contribuir con un análisis completo de su sección. Pueden colaborar en introducción, conclusiones y formato final.
 
-**¿Debo enfocarme en términos técnicos o en aspectos legales?**
-
-Ambos son importantes. Selecciona el enfoque que más te interese pero justifica tu elección.
-
-**¿Cómo me organizo para el trabajo en equipo?**
-
-Cada estudiante debe contribuir con un análisis completo de su sección. Pueden colaborar en introducción, conclusiones y formato final.
-
-**¿Las fuentes deben ser académicas?**
-
-No necesariamente. Fuentes institucionales, gubernamentales y profesionales especializadas son apropiadas y a menudo más actualizadas.
+- **¿Las fuentes deben ser académicas?** No necesariamente. Fuentes institucionales, gubernamentales y profesionales especializadas son apropiadas y a menudo más actualizadas.
 
 ## Consejos para el Éxito
+
+### Trabajo en Equipo
+- **Dividan el trabajo equitativamente** - cada estudiante contribuye un análisis completo
+- **Mantengan comunicación constante** para asegurar coherencia
+- **Revisen el trabajo del grupo** - todas las personas son responsables de la calidad final
+
+### Errores Comunes a Evitar
+- **No subestimar la investigación terminológica** - dedica tiempo suficiente
+- **Evitar traducciones literales** sin considerar convenciones del género
+- **No omitir justificaciones** - siempre explica por qué elegiste una opción
+- **Para equipos**: Evitar inconsistencias de formato o enfoque entre análisis
 
 ### Investigación Efectiva
 - **Comienza con fuentes oficiales** (gobiernos, organizaciones internacionales)
@@ -148,36 +144,13 @@ No necesariamente. Fuentes institucionales, gubernamentales y profesionales espe
 - **Considera el contexto específico** del comercio México-Estados Unidos
 - **Evalúa implicaciones legales** cuando la precisión sea crítica
 
-### Trabajo en Equipo
-- **Dividan el trabajo equitativamente** - cada estudiante contribuye un análisis completo
-- **Mantengan comunicación constante** para asegurar coherencia
-- **Revisen el trabajo de otros** - todos son responsables de la calidad final
-
-### Errores Comunes a Evitar
-- **No subestimar la investigación terminológica** - dedica tiempo suficiente
-- **Evitar traducciones literales** sin considerar convenciones del género
-- **No omitir justificaciones** - siempre explica por qué elegiste una opción
-- **Para equipos**: Evitar inconsistencias de formato o enfoque entre análisis
-
-## Preparación para Evaluación
-
-Antes de entregar, verifica que tu trabajo incluya:
-- [ ] Sección claramente identificada con justificación
-- [ ] Tabla terminológica completa siguiendo el formato requerido
-- [ ] Traducción completa de la sección
-- [ ] Análisis reflexivo de decisiones de traducción
-- [ ] Introducción que explique intereses del equipo
-- [ ] Conclusiones substantivas sobre aprendizajes
-- [ ] Fuentes citadas en una manera consistente
-- [ ] **Para equipos**: Identificación clara de quién contribuyó cada análisis
-
 ---
 
-## 📥 Descarga esta Tarea
+## 📥 Descarga este Contenido
 
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad2/semana5/tarea-analisis-contrato-comercial.md) y descárgalo.
 
-### 🤖 Prompts de Estudio con IA
+### 🤖 Prompts de Estudio con IAG
 
 Copia el contenido descargado y prueba estos prompts:
 
