@@ -94,7 +94,7 @@ Cada entrada del glosario debe unir la información terminológica requirida par
 ### Entregables
 
 - **Proyecto individual**: Apellidos_GlosarioComercial.docx
-  - Ejemplo: Hernandez_GlosarioComercial.docx
+  - Ejemplo: Brandt_GlosarioComercial.docx
 - **Para equipos**: Apellidos1_Apellidos2_GlosarioComercial.docx
   - Ejemplo: Brandt_GuerreraFlores_GlosarioComercial.docx
 
