@@ -10,13 +10,7 @@ nav_order: 4
 
 **Valor**: 3 puntos
 
-**Modalidad**: Trabajo individual o en equipo (máximo 3 estudiantes)
-
-**Formato de entrega**: MS Word (.docx) 
-
-**Fecha de entrega**: Martes, 2 de septiembre
-
-**Lugar de entrega**: Asignación "Glosario Comercial" en Teams
+**Modalidad**: Trabajo individual o en equipo
 
 ## Descripción del Proyecto
 
@@ -296,8 +290,6 @@ La presentación se considera **Completa** cuando incluye:
 - **Extensión esperada**: 4-8 páginas (dependiendo del número de estudiantes)
 
 ## Cronograma Sugerido
-
-### Semana del 26 de agosto - 2 de septiembre
 
 #### Para Trabajo Individual
 - **Lunes-Martes**: Selección de 2 términos y investigación inicial
