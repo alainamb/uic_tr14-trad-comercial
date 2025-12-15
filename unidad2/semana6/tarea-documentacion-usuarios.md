@@ -40,8 +40,8 @@ Adicionalmente, las limitaciones de caracteres representan un desafío significa
 
 Antes de comenzar la traducción, es esencial que comprendas cómo el formato markdown se convierte en la página web final. Realiza una comparación detallada entre:
 
-- **Página en nuestro wiki:** [https://alainamb.github.io/uic_tr14-trad-comercial/unidad2/semana7/lilt-translate-toolbar.html](https://alainamb.github.io/uic_tr14-trad-comercial/unidad2/semana7/lilt-translate-toolbar.html)
-- **Archivo markdown crudo:** [https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad2/semana7/lilt-translate-toolbar.md](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad2/semana7/lilt-translate-toolbar.md)
+- **Página en nuestro wiki:** [https://alainamb.github.io/uic_tr14-trad-comercial/unidad2/semana6/lilt-translate-toolbar.html](https://alainamb.github.io/uic_tr14-trad-comercial/unidad2/semana6/lilt-translate-toolbar.html)
+- **Archivo markdown crudo:** [https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad2/semana6/lilt-translate-toolbar.md](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad2/semana6/lilt-translate-toolbar.md)
 
 Hay que descargar el archivo .md y abrirlo para ver el markdown crudo.
 
