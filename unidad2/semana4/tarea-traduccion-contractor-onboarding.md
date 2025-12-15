@@ -42,11 +42,12 @@ Después de haber firmado todos los acuerdos necesarios (ICAs, NDAs y sus equiva
 3. **Planificación estratégica:** Acuerden enfoques para términos técnicos específicos (quality reviews, workflows, rework, etc.)
 
 ```
-NOTA IMPORTANTE PARA LA TRADUCCIÓN DE CONCEPTOS ESPECIALIZADOS: Para estudiantes de traducción, el campo de trabajo profesional
-en servicios lingüísticos al que se refiere este contenido puede parecer bastante fácil de traducir. Sin embargo, el contenido
-hace referencia a conceptos muy amplios y ambiguos, como "accuracy, consistency, and completeness", y al traducir estos conceptos
-al español hay que tener en mente cómo se relacionan con conceptos importantes no mencionados en este documento (cohesion, coherence),
- para nombrar todos los conceptos de una manera complementaria.
+NOTA IMPORTANTE PARA LA TRADUCCIÓN DE CONCEPTOS ESPECIALIZADOS: Para estudiantes de traducción,
+el campo de trabajo profesional en servicios lingüísticos al que se refiere este contenido puede
+parecer bastante fácil de traducir. Sin embargo, el contenido hace referencia a conceptos muy
+amplios y ambiguos, como "accuracy, consistency, and completeness", y al traducir estos conceptos
+al español hay que tener en mente cómo se relacionan con conceptos importantes no mencionados
+en este documento (cohesion, coherence), para nombrar todo de una manera complementaria.
 ```
 
 ### Fase 2: Traducción colaborativa
