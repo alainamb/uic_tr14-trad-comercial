@@ -12,10 +12,6 @@ nav_order: 4
 
 Desarrollarás un glosario especializado de términos del comercio internacional siguiendo la metodología de diario terminológico. Este glosario debe demostrar tu comprensión de la terminología comercial especializada y tu habilidad para crear recursos terminológicos de calidad profesional que sirvan como herramienta de referencia tanto para tu propio uso como para otros traductores especializados.
 
-**Valor**: 3 puntos
-
-**Modalidad**: Trabajo individual o en equipo
-
 ## Contexto Profesional
 
 Los glosarios terminológicos son herramientas fundamentales en la traducción especializada. Profesionalmente, los traductores comerciales:
@@ -24,20 +20,26 @@ Los glosarios terminológicos son herramientas fundamentales en la traducción e
 - **Consultan recursos especializados** para verificar equivalencias
 - **Actualizan terminología** constantemente según evolución del sector
 
-## Modalidades de Trabajo
+---
 
-### Trabajo Individual
+## Especificaciones para el Proyecto
+
+**Valor**: 3 puntos
+
+**Modalidad**: Trabajo individual o en equipo
+
+### Modalidades de Trabajo
+
+#### Trabajo Individual
 - **2 términos especializados** del comercio internacional
 - Cada estudiante completa ambas entradas terminológicas
 
-### Trabajo en Equipo (máximo 3 estudiantes)
+#### Trabajo en Equipo (máximo 3 estudiantes)
 - **2 términos por estudiante** (4 términos para equipo de 2, 6 términos para equipo de 3)
 - Cada estudiante contribuye con 2 entradas terminológicas completas
 - **Responsabilidad compartida** por la presentación final del documento
 
-## Especificaciones del Glosario
-
-### Contenido Requerido por Término
+### Información Terminológica en el Glosario
 
 Siguiendo la metodología de diario terminológico, cada entrada debe incluir:
 
@@ -59,39 +61,20 @@ Siguiendo la metodología de diario terminológico, cada entrada debe incluir:
 - **Reflexión sobre problemas de traducción**: Dificultades de comprensión, denotación, connotación, variaciones regionales, etc.
 - **Fuentes consultadas**: Referencias bibliográficas completas de todos los recursos utilizados
 
-## Estructura de Entrada Terminológica
+### Estructura de Entrada Terminológica
 
-### Formato Requerido
+| Campo | Inglés | Español | Francés - opcional |
+| ----- | ------ | --------| -------------------|
+| **Campo temático** | [Campo temático en inglés] | [Campo temático en español] | [Campo temático en francés] |
+| **Término** | [Término en inglés] | [Término en español] | [Término en francés - opcional] |
+| **Origen** | [Contexto donde encontraste el término - documento específico, clase, lectura, etc.] | [Contexto donde encontraste el término] | [Contexto donde encontraste el término] |
+| **Definición en inglés** | [Definición completa y precisa] | [Definición equivalente y completa] | [Definición equivalente y completa - opcional] |
+| **Ejemplo de uso** | [Oración en inglés que demuestre uso en contexto profesional] | [Oración en español que demuestre uso en contexto profesional] | [Oración en francés (si aplica) que demuestre uso en contexto profesional] | 
+| **Preguntas e investigación** | [¿Qué dudas tuviste? ¿Qué investigaste para resolverlas?] | [Dudas e investigaciónes] | [Dudas e investigaciónes] | 
+| **Reflexión sobre problemas de traducción** | [Análisis de dificultades potenciales: comprensión, denotación, connotación, variaciones regionales, falsos amigos, implicaciones legales, etc.] | [Análisis de dificultades potenciales] |  [Análisis de dificultades potenciales] |
+| **Fuentes consultadas** | [Referencias bibliográficas completas en formato _Chicago Manual of Style_] | [Referencias bibliográficas completas en formato _Chicago MOS_] | [Referencias bibliográficas completas en formato _Chicago MOS_] | 
 
----
-
-**Término**: [TÉRMINO EN INGLÉS]
-
-**Término en español**: [TÉRMINO EN ESPAÑOL]
-
-**Término en francés**: [TÉRMINO EN FRANCÉS - opcional]
-
-**Campo temático**: Comercio internacional
-
-**Origen**: [Contexto donde encontraste el término - documento específico, clase, lectura, etc.]
-
-**Definición en inglés**: [Definición completa y precisa]
-
-**Definición en español**: [Definición equivalente y completa]
-
-**Definición en francés**: [Definición equivalente y completa - opcional]
-
-**Ejemplo de uso**: [Oración en inglés y español (y francés si aplica) que demuestre uso en contexto profesional]
-
-**Preguntas e investigación**: [¿Qué dudas tuviste? ¿Qué investigaste para resolverlas?]
-
-**Reflexión sobre problemas de traducción**: [Análisis de dificultades potenciales: comprensión, denotación, connotación, variaciones regionales, falsos amigos, implicaciones legales, etc.]
-
-**Fuentes consultadas**: [Referencias bibliográficas completas en formato APA]
-
----
-
-### Ejemplo de Entrada Completa
+#### Ejemplo de Entrada Completa
 
 ---
 
@@ -130,69 +113,14 @@ Siguiendo la metodología de diario terminológico, cada entrada debe incluir:
 
 ## Recursos Terminológicos Recomendados
 
-### Bases de Datos Especializadas
-
-#### WIPO Pearl - Organización Mundial de la Propiedad Intelectual
+### WIPO Pearl - Organización Mundial de la Propiedad Intelectual
 **URL**: [www.wipo.int/reference/en/wipopearl/](https://www.wipo.int/reference/en/wipopearl/)
 
-**Mejor para**: Términos de propiedad intelectual, comercio de tecnología, acuerdos internacionales
-
-#### IATE - Base de Datos Terminológica de la Unión Europea  
-**URL**: [iate.europa.eu](https://iate.europa.eu)
-
-**Mejor para**: Comercio europeo, regulaciones comerciales, terminología financiera
-
-#### Linguee
-**URL**: [linguee.com](https://www.linguee.com)
-
-**Mejor para**: Verificar uso en contexto, comparar traducciones
-
-### Glosarios Institucionales
-
-#### Banco Mundial - Glosario
+### Banco Mundial - Glosario
 **URL**: [datatopics.worldbank.org/consumption/glosario](https://datatopics.worldbank.org/consumption/glosario)
 
-#### OMC - Glosario de Términos Comerciales
+### OMC - Glosario de Términos Comerciales
 **URL**: [www.wto.org/english/thewto_e/glossary_e/glossary_e.htm](https://www.wto.org/english/thewto_e/glossary_e/glossary_e.htm)
-
-#### Cámara de Comercio Internacional
-**URL**: [iccwbo.org](https://iccwbo.org)
-
-## Selección de Términos
-
-### Categorías Sugeridas
-
-Selecciona términos de diferentes categorías para demostrar amplitud de conocimiento:
-
-#### Documentación Comercial
-- Bill of Lading / Conocimiento de Embarque
-- Commercial Invoice / Factura Comercial  
-- Certificate of Origin / Certificado de Origen
-- Packing List / Lista de Empaque
-
-#### Términos de Pago y Financiamiento
-- Letter of Credit / Carta de Crédito
-- Documentary Collection / Cobranza Documentaria
-- Wire Transfer / Transferencia Bancaria
-- Trade Finance / Financiamiento Comercial
-
-#### Incoterms y Logística
-- Free on Board (FOB) / Franco a Bordo
-- Cost, Insurance, and Freight (CIF) / Costo, Seguro y Flete
-- Delivered Duty Paid (DDP) / Entregado Derechos Pagados
-- Ex Works (EXW) / En Fábrica
-
-#### Regulaciones y Aduanas
-- Harmonized System / Sistema Armonizado
-- Tariff Classification / Clasificación Arancelaria
-- Customs Clearance / Despacho Aduanal
-- Import License / Licencia de Importación
-
-#### Contratos y Acuerdos
-- Purchase Agreement / Acuerdo de Compra
-- Distribution Agreement / Acuerdo de Distribución
-- Force Majeure / Fuerza Mayor
-- Liquidated Damages / Daños Liquidados
 
 ## Estructura del Documento Final
 
