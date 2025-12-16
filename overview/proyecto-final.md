@@ -2,7 +2,7 @@
 layout: default
 title: Proyecto Final
 parent: Descripción General
-nav_order: 3
+nav_order: 1
 ---
 
 # Proyecto Final: Traducción y Evaluación Profesionales - Ciclo Completo
