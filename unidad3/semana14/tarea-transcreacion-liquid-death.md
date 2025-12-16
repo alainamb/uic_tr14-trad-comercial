@@ -10,9 +10,7 @@ nav_order: 3
 
 **Valor**: 3 puntos
 
-**Modalidad**: Trabajo en equipo (2-3 personas)
-
-**Fecha de entrega**: Martes, 18 de noviembre
+**Modalidad**: Trabajo individual o en equipo
 
 ## Descripción del Proyecto
 
@@ -69,10 +67,10 @@ El nombre del producto "The Flasket" combina "Flask" (petaca) + "Casket" (ataúd
 
 ### 1. Contenido Transcreado (1 archivo .md)
 
-**Archivo**: `PrimerosApellidos_liquid-death.md`
+**Archivo**: `Apellidos_liquid-death.md`
 
-**Nomenclatura**: Primer apellido de cada integrante, separados por guiones  
-**Ejemplo**: `Garcia-Martinez-Lopez_liquid-death.md`
+**Nomenclatura**: Apellidos de cada integrante, separados por guiones bajos
+**Ejemplo**: `Brandt_RodríguezMorales_liquid-death.md`
 
 #### Elementos a Transcrear
 
@@ -84,7 +82,7 @@ El nombre del producto "The Flasket" combina "Flask" (petaca) + "Casket" (ataúd
 
 ### 2. Reflexión del Proceso (1 archivo .docx)
 
-**Archivo**: `PrimerosApellidos_liquid-death-reflexion.docx`
+**Archivo**: `Apellidos_liquid-death-reflexion.docx`
 
 **Extensión**: 1-2 páginas máximo (sin portada necesaria)
 
@@ -132,6 +130,8 @@ Mínimo: **8-10 decisiones clave**
 | **Aceptable** | Comunica mensaje pero pierde algo del edge característico; adaptaciones culturales básicas pero funcionales |
 | **Insuficiente** | Traducción literal que no captura voz de marca; falla en navegar consideraciones culturales; no funciona como transcreación |
 
+---
+
 ## Consideraciones Especiales
 
 ### Sobre Humor y Muerte en México
@@ -160,21 +160,14 @@ El mensaje #DeathToPlastic es central para Liquid Death. En México, la concienc
 
 ## Preguntas Frecuentes
 
-**¿Podemos cambiar "Murder Your Thirst" completamente?**  
-Sí, si encuentran una solución más efectiva culturalmente. Justifiquen su decisión.
-
-**¿Qué hacemos con "Sir Killington Von Murderberg"?**  
-Es un nombre absurdo inventado. Pueden transcrearlo creativamente o mantenerlo si funciona como humor por lo ridículo.
-
-**¿Debemos adaptar el guion del video para reflejar mayor tolerancia al picante?**  
-Esa es TU decisión estratégica. Justifica qué hiciste y por qué.
-
-**¿El tono debe ser tan edgy como el original?**  
-Sí, pero "edgy" se traduce diferente culturalmente. No diluyan la marca, pero tampoco forcen humor que no funciona en español mexicano.
+- **¿Podemos cambiar "Murder Your Thirst" completamente?** Sí, si encuentran una solución más efectiva culturalmente. Justifiquen su decisión.
+- **¿Qué hacemos con "Sir Killington Von Murderberg"?** Es un nombre absurdo inventado. Pueden transcrearlo creativamente o mantenerlo si funciona como humor por lo ridículo.
+- **¿Debemos adaptar el guion del video para reflejar mayor tolerancia al picante?** Esa es TU decisión estratégica. Justifica qué hiciste y por qué.
+- **¿El tono debe ser tan edgy como el original?** Sí, pero "edgy" se traduce diferente culturalmente. No diluyan la marca, pero tampoco forcen humor que no funciona en español mexicano.
 
 ---
 
-## 📥 Descarga este Archivo
+## 📥 Descarga este Contenido
 
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-comercial-publicitaria/blob/main/unidad3/semana14/tarea-transcreacion-liquid-death.md) y descárgalo.
 
