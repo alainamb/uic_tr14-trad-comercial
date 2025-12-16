@@ -155,6 +155,10 @@ Brief → Análisis de Sentido → Transcreación → Grupos Focales → Lectura
 
 **Por qué es punto de no retorno**: Una vez en producción, los cambios son costosos y demorados. De ahí la importancia de todas las validaciones previas.
 
+---
+
+## Desafíos y Objetivos de la Transcreación Publicitaria
+
 ### La Naturaleza de Alto Riesgo de Este Trabajo
 
 > ⚠️ **CRÍTICO**: Tu texto se integrará en archivos de diseño profesional (InDesign, Photoshop, After Effects). Los cambios posteriores implican:
@@ -170,10 +174,6 @@ Brief → Análisis de Sentido → Transcreación → Grupos Focales → Lectura
 - Debes verificar ortografía y gramática meticulosamente
 - Debes confirmar culturalmente apropiado **antes** de entregar
 - Una vez entregado, asume que tu texto es "permanente"
-
----
-
-## Desafíos y Objetivos de la Transcreación Publicitaria
 
 ### Desafíos Principales
 
