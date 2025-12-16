@@ -57,8 +57,6 @@ Demostrarás competencias adquiridas mediante la traducción o transcreación de
 - **Regla de 30 minutos**: Investiga independientemente, consulta compañeros, luego contacta al profesor
 - **Comunicación activa**: La profesora responde Teams/correo en días hábiles
 
----
-
 ## 🤖 Uso de Materiales del Curso con Herramientas de IAG
 
 Todo el contenido del curso está escrito en [**formato Markdown**](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) para facilitar la integración con herramientas de aprendizaje de IA. El contenido en formato markdown puede ser mejor "entendido" por las herramientas de IA generativa, ya que la jerarquía y el énfasis del contenido se comunica claramente a través de símbolos. Aprende más sobre la filosofía detras del diseño con Markdown aquí: [Cómo Usar los Contenidos de este Curso](cómo-usar.md).
