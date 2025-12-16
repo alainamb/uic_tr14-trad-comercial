@@ -148,7 +148,7 @@ Considerando tus puntuaciones de correspondencia y legibilidad, puedes determina
 
 ---
 
-## 📥 Descarga esta Tarea
+## 📥 Descarga este Contenido
 
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-comercial-publicitaria/blob/main/unidad2/semana4/tarea-traduccion-contractor-onboarding.md) y descárgalo.
 
