@@ -290,7 +290,7 @@ Tu comentario final debe ofrecer una evaluación holística:
 
 ## 📥 Descarga este Contenido
 
-Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/proyecto-final/proyecto-final-evaluacion.md) y descárgalo.
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/proyecto-final/proyectos-finales-evaluaciones.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IAG
 
