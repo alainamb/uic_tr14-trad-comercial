@@ -48,7 +48,7 @@ El curso se estructura en **cuatro unidades temáticas** que ofrecen una progres
 **Semanas 3-8**
 - Semana 3: Fundamentos Teóricos de las Comunicaciones Empresariales Internacionales
 - Semana 4: Correspondencia con Proveedores
-- Semana 5: Contratos Comerciales + Examen Parcial 1
+- Semana 5: Contratos Comerciales (Examen Parcial 1)
 - Semana 6: Documentación Técnica y Comunicaciones de Servicio al Cliente
 - Semana 7: Comunicaciones Internas (políticas, correos, memorandos, informes, presentaciones)
 - Semana 8: Resumen y Proyecto Comercial Informativo
@@ -57,7 +57,7 @@ El curso se estructura en **cuatro unidades temáticas** que ofrecen una progres
 **Semanas 9-14**
 - Semana 9: Fundamentos Teóricos de la Publicidad y el Marketing (recorrido del comprador, empresas B2C y B2B)
 - Semana 10: Publicidad Impresa y Marketing Digital
-- Semana 11: SEO, blogs y redes sociales + Examen Parcial 2
+- Semana 11: SEO, blogs y redes sociales (Examen Parcial 2)
 - Semana 12: Boletines Informativos y Correos Electrónicos Promocionales
 - Semana 13: Eslóganes, Lemas y Textos Creativos
 - Semana 14: Resumen y Proyecto de Transcreación Persuasiva
