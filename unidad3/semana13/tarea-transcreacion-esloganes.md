@@ -10,9 +10,7 @@ nav_order: 3
 
 **Valor**: 3 puntos
 
-**Modalidad**: Trabajo en equipo (1-3 personas)
-
-**Fecha de entrega**: Martes, 11 de noviembre
+**Modalidad**: Trabajo individual o en equipo
 
 ## Descripción del Proyecto
 
@@ -166,7 +164,7 @@ Para cada opción final, proporciona:
 
 **Tiempo estimado**: Restante
 
-En 1-2 párrafos, reflexiona sobre:
+En 1 párrafo, reflexiona sobre:
 
 **Preguntas guía**:
 - ¿Por qué tu traducción literal inicial es menos efectiva que tus propuestas de transcreación?
@@ -181,12 +179,12 @@ En 1-2 párrafos, reflexiona sobre:
 
 ### Documento: Reporte de Transcreación de Eslogan
 
-**Archivo**: `PrimerosApellidos_Transcreacion-Eslogan.docx`  
-**Ejemplo**: `Garcia-Martinez-Lopez_Transcreacion-Eslogan.docx`
+**Archivo**: `Apellidos_Eslogan.docx`  
+**Ejemplo**: `Brandt_RodríguezMorales_Eslogan.docx`
 
 ### Estructura del Reporte
 
-**Portada** (no cuenta en extensión):
+**Información Administrativa**:
 - Nombre de la empresa seleccionada
 - Eslogan original en inglés
 - Nombres de integrantes del equipo
@@ -216,7 +214,7 @@ Para cada opción (3 opciones):
 - Ventajas (2-3 puntos)
 - Desventajas (2-3 puntos)
 
-**Sección 5: Conclusiones** (1-2 párafos):
+**Sección 5: Conclusiones** (1 párafo):
 - Reflexión sobre traducción literal vs. transcreación
 - Aprendizajes principales del proceso
 - Recomendación final: ¿Cuál de tus opciones recomendarías y por qué?
@@ -232,6 +230,8 @@ Para cada opción (3 opciones):
 | **Trabajo de Refinamiento** | 1.0 | **Brainstorming extensivo**: 20-30 opciones que demuestran exploración creativa diversa<br>**Refinamiento por criterios**: Aplicación clara de criterios estratégicos<br>**Validación** (si se incluye): Hallazgos documentados que informan decisiones finales |
 | **Entrega y Conclusiones** | 1.0 | **Opciones finales**: 3 propuestas con análisis completo (retrotraducción, características técnicas, ventajas/desventajas)<br>**Conclusiones**: Reflexión analítica sólida sobre traducción vs. transcreación<br>**Profesionalismo**: Formato claro, redacción impecable, presentación efectiva |
 | **Total** | **3.0** | |
+
+---
 
 ## Consideraciones Importantes
 
@@ -262,24 +262,15 @@ Identifica qué recursos usa el original y considera si puedes recrearlos o usar
 
 ## Preguntas Frecuentes
 
-**¿Qué pasa si el eslogan ya tiene traducción oficial al español en otro país?**  
-Ignora la traducción oficial. Tu trabajo es crear tus propias propuestas como ejercicio académico de transcreación.
-
-**¿Podemos cambiar completamente el concepto del eslogan?**  
-Sí, siempre que mantengas los atributos esenciales de marca. La transcreación permite libertad creativa significativa.
-
-**¿Cómo sabemos cuál es la "mejor" opción final?**  
-No hay una respuesta única. Tu recomendación debe basarse en resonancia cultural, memorabilidad, alineación con marca y viabilidad. Defiende tu elección con argumentos sólidos.
-
-**¿Necesitamos hacer mockups visuales del eslogan?**  
-No es requerido, pero si quieres incluir visualizaciones simples (tipografía, colores de marca), puede fortalecer tu presentación.
-
-**¿Qué pasa si generamos menos de 20 opciones en brainstorming?**  
-Esfuérzate por llegar a 20-30. Si después de esfuerzo genuino llegas a 15-18 opciones sólidas, documenta por qué y continúa el proceso.
+- **¿Qué pasa si el eslogan ya tiene traducción oficial al español en otro país?** Ignora la traducción oficial. Tu trabajo es crear tus propias propuestas como ejercicio académico de transcreación.
+- **¿Podemos cambiar completamente el concepto del eslogan?** Sí, siempre que mantengas los atributos esenciales de marca. La transcreación permite libertad creativa significativa.
+- **¿Cómo sabemos cuál es la "mejor" opción final?** No hay una respuesta única. Tu recomendación debe basarse en resonancia cultural, memorabilidad, alineación con marca y viabilidad. Defiende tu elección con argumentos sólidos.
+- **¿Necesitamos hacer mockups visuales del eslogan?** No es requerido, pero si quieres incluir visualizaciones simples (tipografía, colores de marca), puede fortalecer tu presentación.
+- **¿Qué pasa si generamos menos de 20 opciones en brainstorming?** Esfuérzate por llegar a 20-30. Si después de esfuerzo genuino llegas a 15-18 opciones sólidas, documenta por qué y continúa el proceso.
 
 ---
 
-## 📥 Descarga este Archivo
+## 📥 Descarga este Contenido
 
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-comercial-publicitaria/blob/main/unidad3/semana13/tarea-transcreacion-esloganes.md) y descárgalo.
 
