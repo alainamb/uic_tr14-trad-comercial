@@ -34,9 +34,8 @@ Esta semana nos enfocamos en las características específicas del contenido par
 - **Asistencia y participación** (2 puntos)
 
 ## Recursos para el Aprendizaje
-- Lecturas selectas sobre marketing vía sitios web y redes sociales para mercados hispanohablantes
-- Guía sobre la optimización para motores de búsqueda
-- Ejemplos de campañas exitosas
+- [Predictions for how the language industry might evolve in the next 5 to 10 years](https://locessentials.com/blog/2024/09/19/predictions-for-how-the-language-industry-might-evolve-in-the-next-5-to-10-years) por Alaina Brandt
+- [Free SEO training: SEO for beginners by Yoast](https://yoast.com/academy/free-seo-training-seo-for-beginners/)
 
 ---
 
