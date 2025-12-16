@@ -76,11 +76,11 @@ El curso concluye con un proyecto integrador de evaluación por pares que te per
 
 ---
 
-## 📥 Descargar Descripción General del Curso
+## 📥 Descargar este Contenido
 
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/overview/overview.md) y descárgalo!
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/overview/overview.md) y descárgalo.
 
-### 🤖 Prompts de Estudio con IA
+### 🤖 Prompts de Estudio con IAG
 Copia la descripción general descargada y prueba estos prompts:
 - "Ayúdame a crear un horario de estudio para este curso de traducción comercial de 17 semanas"
 - "Explica cómo la progresión de traducción informativa a transcreación publicitaria se construye a lo largo del curso"
