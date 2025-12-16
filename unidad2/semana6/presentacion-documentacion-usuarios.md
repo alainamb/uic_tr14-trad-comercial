@@ -8,7 +8,7 @@ nav_order: 1
 
 # Terminología y Documentación para Usuarios
 
-**Tiempo estimado**: 50 minutos
+**Tiempo estimado**: 1 hora
 
 **Modalidad**: Presentación interactiva con análisis de audio y ejercicios prácticos
 
@@ -16,11 +16,47 @@ Esta semana exploraremos los desafíos específicos de traducir contenido inform
 
 ## Introducción: Documentación de Usuarios en el Ecosistema Comercial
 
-La documentación para usuarios representa uno de los géneros más complejos en la traducción comercial, ya que debe:
+La documentación para usuarios representa uno de los géneros más complejos en la traducción comercial. Antes de explorar los desafíos específicos que enfrentan las traductoras y traductores al trabajar con este tipo de contenido, primero examinaremos el contexto más amplio de la gestión terminológica en empresas que producen documentación técnica.
+
+### Video Pregrabada: Gestión Terminológica Exitosa en Empresas
+
+> **[Ver conferencia en YouTube ↗](https://www.youtube.com/watch?v=hlf4MRD_tjE&list=PLwdpu8genXZanCIWP2mY6p-G8lk7KodIY&index=10&t=8s)**
+> 
+> *Duración: ~12 minutos | Presentadora: Maestra Brandt*
+>
+> Esta conferencia resume hallazgos clave del estudio de TEKOM (European Association for Technical Communication) sobre gestión terminológica en empresas. TEKOM es la asociación profesional más grande del mundo para comunicación técnica, con aproximadamente 9,500 miembros. En 2010, TEKOM publicó la primera edición de su estudio "Successful Terminology Management in Companies" basado en una encuesta de 940 profesionales en empresas que trabajan en campos técnicos.
+>
+> **Cita del estudio:** *"El trabajo terminológico es un requisito de la globalización. El progreso técnico siempre ha dejado su huella en el lenguaje. Para cada nuevo invento, se deben acuñar e introducir nuevas palabras y términos. Lo que es nuevo... es el ritmo cada vez mayor de los desarrollos tecnológicos y la necesidad de nuevos términos."*
+
+#### Actividades Interactivas Durante la Conferencia
+
+La conferencia incluye **cinco pausas de reflexión** donde se te invita a pensar críticamente sobre los temas presentados. Mientras ves el video, considera estas preguntas:
+
+- ¿Cuáles son los objetivos de la comunicación técnica?
+- ¿En qué sectores adicionales es importante la gestión terminológica?
+- ¿Qué otros departamentos necesitan usar terminología consistente?
+- ¿Qué otros tipos de productos informativos requieren terminología consistente?
+- ¿Qué otros aspectos de las organizaciones impactan el trabajo terminológico?
+
+### Hallazgos Clave del Estudio TEKOM
+
+La encuesta de 940 profesionales reveló datos reveladores sobre la gestión terminológica:
+
+**Reconocimiento de beneficios vs. valoración organizacional:**
+- 88% de profesionales ven que la terminología estandarizada reduce su carga de trabajo significativamente
+- 84% creen que mejora mucho la calidad de los productos
+- 79% piensan que simplifica mucho el flujo de trabajo para las clientelas
+- **PERO** solo 8% reportan que sus empresas le dan gran importancia a la gestión terminológica
+
+**Implicación:** Profesionales de la traducción y localización tenemos que abogar por la gestión terminológica exitosa dentro de las empresas, tal como tenemos que abogar por la localización en general.
+
+### Documentación de Usuarios en Contexto
+
+Con este entendimiento del ecosistema más amplio de gestión terminológica, ahora podemos apreciar mejor por qué la documentación para usuarios presenta desafíos tan complejos. Este tipo de documentación debe:
 
 - **Facilitar la adopción de productos** eliminando barreras lingüísticas y culturales
 - **Reducir costos de soporte** al proporcionar información clara y accesible
-- **Mantener consistencia terminológica** a través de múltiples productos y actualizaciones
+- **Mantener consistencia terminológica** a través de múltiples productos, departamentos y actualizaciones
 - **Adaptar estructuras informativas** a convenciones culturales de organización de contenido
 - **Balancear precisión técnica** con usabilidad práctica
 
@@ -28,7 +64,7 @@ La documentación para usuarios representa uno de los géneros más complejos en
 
 | **Documentación para Consumidores** | **Documentación Técnica Especializada** |
 |-------------------------------------|-----------------------------------------|
-| • **Manuales de productos**: Electrodomésticos, tecnología personal, automóviless<br>• **Guías de instalación**: Software, aplicaciones móviles, equipos domésticos<br>• **Documentación de seguridad**: Advertencias, precauciones, procedimientos de emergencia | • **Manuales de equipos industriales**: Maquinaria, herramientas profesionales<br>• **Documentación de software empresarial**: Plataformas, sistemas de gestión<br>• **Protocolos de mantenimiento**: Procedimientos técnicos, especificaciones |
+| • **Manuales de productos**: Electrodomésticos, tecnología personal, automóviles<br>• **Guías de instalación**: Software, aplicaciones móviles, equipos domésticos<br>• **Documentación de seguridad**: Advertencias, precauciones, procedimientos de emergencia | • **Manuales de equipos industriales**: Maquinaria, herramientas profesionales<br>• **Documentación de software empresarial**: Plataformas, sistemas de gestión<br>• **Protocolos de mantenimiento**: Procedimientos técnicos, especificaciones |
 
 ## Actividad 1: Análisis de Experto - Gestión Terminológica Empresarial
 
@@ -38,7 +74,7 @@ Escucharemos la experiencia de Monika Aeschbacher, Arquitecta de Contenido Globa
 
 > **[Reproducir entrevista en SoundCloud ↗](https://soundcloud.com/locessentials/industry-expert-qa-with-monika-aeschbacher-she-who-names-all-things-netapp-june-28-2018)** | [Transcripción Completa de la Entrevista](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad2/semana6/Aeschbacher_SheWhoNamesAllThingsNetApp_Transcript.md)
 > 
-> *Duración: ~30 minutos | Entrevistadora: Alaina Brandt | Entrevistada: Monike Aeschabacher, NetApp Global Content Architect*
+> *Duración: ~30 minutos | Entrevistadora: Alaina Brandt | Entrevistada: Monika Aeschbacher, NetApp Global Content Architect*
 
 ### Preguntas de Escucha Dirigida
 Mientras escuchas la entrevista, presta atención específica a estos temas relacionados con la traducción comercial:
