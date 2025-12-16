@@ -18,13 +18,13 @@ Esta semana exploraremos los desafíos específicos de traducir contenido inform
 
 La documentación para usuarios representa uno de los géneros más complejos en la traducción comercial. Antes de explorar los desafíos específicos que enfrentan las traductoras y traductores al trabajar con este tipo de contenido, primero examinaremos el contexto más amplio de la gestión terminológica en empresas que producen documentación técnica.
 
-### Video Pregrabada: Gestión Terminológica Exitosa en Empresas
+### Video: Gestión Terminológica Exitosa en Empresas
 
 > **[Ver conferencia en YouTube ↗](https://www.youtube.com/watch?v=hlf4MRD_tjE&list=PLwdpu8genXZanCIWP2mY6p-G8lk7KodIY&index=10&t=8s)**
 > 
 > *Duración: ~12 minutos | Presentadora: Maestra Brandt*
 >
-> Esta conferencia resume hallazgos clave del estudio de TEKOM (European Association for Technical Communication) sobre gestión terminológica en empresas. TEKOM es la asociación profesional más grande del mundo para comunicación técnica, con aproximadamente 9,500 miembros. En 2010, TEKOM publicó la primera edición de su estudio "Successful Terminology Management in Companies" basado en una encuesta de 940 profesionales en empresas que trabajan en campos técnicos.
+> Este video resume hallazgos clave del estudio de TEKOM (European Association for Technical Communication) sobre gestión terminológica en empresas. En 2010, TEKOM publicó la primera edición de su estudio "Successful Terminology Management in Companies" basado en una encuesta de 940 profesionales en empresas que trabajan en campos técnicos.
 >
 > **Cita del estudio:** *"El trabajo terminológico es un requisito de la globalización. El progreso técnico siempre ha dejado su huella en el lenguaje. Para cada nuevo invento, se deben acuñar e introducir nuevas palabras y términos. Lo que es nuevo... es el ritmo cada vez mayor de los desarrollos tecnológicos y la necesidad de nuevos términos."*
 
