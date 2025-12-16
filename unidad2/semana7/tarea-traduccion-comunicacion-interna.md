@@ -40,9 +40,10 @@ Traducirás materiales dirigidos a empleadas y empleados de NetApp, una empresa 
 3. **Planificación estratégica:** Acuerden enfoques para elementos específicos (nombres de programas, valores corporativos, etc.)
 
 ```
-NOTA SOBRE LA TERMINOLOGÍA: La semana pasada, se les presentó una entrevista con Monika Aeschbacher, "She Who Names All Things NetApp".
-Al trabajar con terminología de NetApp en esta tarea, se les invita a reflexionar sobre cómo sus decisiones terminológicas
-se alinean con lo que aprendieron sobre los flujos de trabajo terminológicos en NetApp la semana pasada.
+NOTA SOBRE LA TERMINOLOGÍA: La semana pasada, se les presentó una entrevista con Monika Aeschbacher,
+"She Who Names All Things NetApp". Al trabajar con terminología de NetApp en esta tarea, se les invita
+a reflexionar sobre cómo sus decisiones terminológicas se alinean con lo que aprendieron sobre
+los flujos de trabajo terminológicos en NetApp la semana pasada.
 ```
 
 ### Fase 2: Traducción colaborativa
