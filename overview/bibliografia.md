@@ -9,13 +9,12 @@ nav_order: 3
 
 [Introduction]
 
-## Recursos por Unidad
+## Recursos Primarios para cada Unidad
 
 ### Unidad 1: Introducción a la Traducción Comercial y Publicitaria
 - [Standards-Based Structured Translation Specifications](https://www.tranquality.info/specs/) por Tranquality
 - [ASTM F2575: Standard Practice for Language Translation](https://store.astm.org/f2575-23e02.html) por ASTM International
 - [Generador de buyer personas](https://www.hubspot.es/make-my-persona) de HubSpot
-
 
 ### Unidad 2: Comunicaciones Informativas  
 - [Caveat Translator: Understanding the Legal Consequences of Errors in Professional Translation](https://www.jostrans.org/article/view/7291/6601) por Jody Byrne
@@ -54,48 +53,6 @@ Conforme trabajemos en el curso, puedes descubrir recursos excelentes que benefi
 2. **Incluye:** Cita completa, breve descripción de relevancia, y qué unidad apoya
 3. **Línea de asunto:** "TR14 Sugerencia Bibliográfica - [Unidad/Tema]"
 
-**Ejemplo de envío:**
-```
-Asunto: TR14 Sugerencia Bibliográfica - Unidad 3 Transcreación
-
-Cita: Munday, Jeremy (2016). "Transcreation: The New Creative Translation." 
-En Introducing Translation Studies, 4ª ed. Routledge.
-
-Relevancia: Explica las diferencias entre traducción literal y transcreación, presentando casos donde la adaptación cultural es esencial para mantener el impacto persuasivo en textos publicitarios.
-
-Accesible: Disponible en biblioteca universitaria y formato digital.
-```
-
-## Actualizaciones Semanales de Bibliografía
-
-*Revisa cada semana para recursos nuevos específicos al contenido actual del curso.*
-
-**Última actualización:** [Se actualizará durante el semestre]
-
-## Consejos de Investigación para Traducción Comercial y Publicitaria
-
-### Bases de Datos Recomendadas
-- **Translation Studies Bibliography** - Base de datos completa de estudios de traducción
-- **JSTOR** - Artículos académicos multidisciplinarios
-- **Google Scholar** - Motor de búsqueda académico
-- **ResearchGate** - Red de investigación académica
-- **EBSCO Academic Search** - Recursos académicos multidisciplinarios
-
-### Publicaciones Especializadas Confiables
-- **Translation and Interpreting Studies** - Revista académica de traducción
-- **The Translator** - Estudios de traducción y cultura
-- **Target** - Revista internacional de estudios de traducción
-- **Harvard Business Review** - Perspectivas empresariales actuales
-- **McKinsey Insights** - Investigación en marketing y negocios
-- **Asociaciones Profesionales:** ATA (American Translators Association), FIT (Fédération Internationale des Traducteurs) publications
-
-### Recursos Específicos de Marketing y Publicidad
-- **Google Ads Research** - Tendencias en publicidad digital
-- **Facebook IQ** - Insights de marketing en redes sociales
-- **HubSpot Research** - Marketing de contenidos y buyer personas
-- **Kantar** - Investigación de mercado y comportamiento del consumidor
-- **Nielsen** - Análisis de audiencias y efectividad publicitaria
-
 ---
 
 ## 📥 Descargar este Contenido
@@ -113,4 +70,3 @@ Copia el contenido descargado y prueba estos prompts:
 ---
 
 **Siguiente:** Conoce la [Diseñadora del Curso](sobre-la-diseñadora.md) y sobre sus deseos para ti como estudiante.
-
