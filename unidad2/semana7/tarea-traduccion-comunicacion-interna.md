@@ -41,9 +41,10 @@ Traducirás materiales dirigidos a empleadas y empleados de NetApp, una empresa 
 3. **Planificación estratégica:** Acuerden enfoques para elementos específicos (nombres de programas, valores corporativos, etc.)
 
 ```
-INSIDER'S NOTE: Think back to the 
+NOTA SOBRE LA TERMINOLOGÍA: La semana pasada, se les presentó una entrevista con Monika Aeschbacher, "She Who Names All Things NetApp".
+Al trabajar con terminología de NetApp en esta tarea, se les invita a reflexionar sobre cómo sus decisiones terminológicas
+se alinean con lo que aprendieron sobre los flujos de trabajo terminológicos en NetApp la semana pasada.
 ```
-
 
 ### Fase 2: Traducción colaborativa
 1. **Investigación terminológica:** Investiguen términos especializados de employer branding y diversidad corporativa
@@ -59,7 +60,7 @@ INSIDER'S NOTE: Think back to the
 
 ### 1. Traducción completa (Archivo .md)
 
-**Archivo:** `PrimerosApellidos_life-at-netapp.md`
+**Archivo:** `Apellidos_life-at-netapp.md`
 
 - **Traducción completa** del contenido de "Life at NetApp"
 - **Formato markdown** conservado exactamente como el original
@@ -68,7 +69,7 @@ INSIDER'S NOTE: Think back to the
 
 ### 2. Documentación del proceso grupal (Documento MS Word)
 
-**Archivo:** `PrimerosApellidos_netapp-reflexion.docx`
+**Archivo:** `Apellidos_netapp-reflexión.docx`
 
 #### Información del equipo
 Los nombres completos de todas las traductoras y traductores, con roles específicos asignados durante el proyecto.
@@ -97,11 +98,11 @@ Párrafo de 150-200 palabras que incluya:
 
 ### Formato de entrega
 - **Archivos:** 
-  - `PrimerosApellidos_life-at-netapp.md`
-  - `PrimerosApellidos_life-at-netapp-reflexion.docx`
-- **Nomenclatura:** Primer apellido de cada integrante, separados por guiones
-- **Ejemplo:** `Aguilera-Brandt-Morales_life-at-netapp.md`
-- **Entrega:** Una sola persona del equipo sube ambos archivos
+  - `Apellidos_life-at-netapp.md`
+  - `Apellidos_netapp-reflexión.docx`
+- **Nomenclatura:** Apellido de cada integrante, separados por guiones bajos
+- **Por ejemplo:** `Brandt_MoralesVega_life-at-netapp.md`
+- **Entrega:** Una sola persona del equipo entrega ambos archivos
 
 ## Criterios de evaluación
 
@@ -138,7 +139,7 @@ Considerando tus puntuaciones de correspondencia y legibilidad, puedes determina
 
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-comercial-publicitaria/blob/main/unidad2/semana4/tarea-traduccion-comunicacion-interna.md) y descárgalo.
 
-### 🤖 Prompts de Estudio con IA
+### 🤖 Prompts de Estudio con IAG
 
 Copia el contenido descargado y prueba estos prompts para preparación grupal:
 
