@@ -115,4 +115,4 @@ Copia el contenido descargado y prueba estos prompts:
 
 ---
 
-**¿Listas y listos para el primero desafío?** Comienza con [Unidad 1: Introducción a la Traducción Comercial y Publicitaria](../unidad1/unidad1-resumen.md) para iniciar tu viaje en el mundo de la traducción comercial.
+**Siguiente:** 
