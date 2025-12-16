@@ -15,8 +15,6 @@ Todo el contenido instruccional está escrito en Markdown y está disponible gra
 
 Como señaló Andrej Karpathy en su charla de [Y Combinator 2025](https://youtu.be/LCEmiRjPEtQ?si=mF66ukvERR6BPUc7), escribir contenido instruccional en Markdown se está convirtiendo en una mejor práctica. En lugar de hacer que la información sea difícil de acceder a través de PDFs o sistemas de visualización complejos, este enfoque proporciona contenido optimizado para interpretación tanto por humanos como por máquinas.
 
-### Filosofía Educativa Abierta
-
 Este proyecto refleja la creencia de que las barreras educativas deben ser minimizadas. Los estudiantes encontrarán maneras de acceder y usar contenido con asistencia de IAG de todos modos—mejor diseñemos la experiencia para que sea excelente para todos y cada sistema involucrado.
 
 ## Estructura del Curso
