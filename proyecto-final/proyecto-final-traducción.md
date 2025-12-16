@@ -301,4 +301,4 @@ Copia el contenido descargado y prueba estos prompts:
 
 ---
 
-**Próxima página**: [Proyecto Final - Evaluaciones](proyecto-final-evaluacion.md) donde revisarás el trabajo de tus compañeras y compañeros.
+**Próxima página**: [Proyectos Finales - Evaluaciones](proyectos-finals-evaluaciones.md) donde revisarás el trabajo de tus compañeras y compañeros.
