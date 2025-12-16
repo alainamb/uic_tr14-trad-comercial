@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Conclusión del Curso
-nav_order: 7
+nav_order: 8
 ---
 
 # Conclusión del Curso: Tu Trayectoria en Traducción Comercial y Publicitaria
