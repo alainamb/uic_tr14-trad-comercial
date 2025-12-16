@@ -6,12 +6,12 @@ nav_order: 1
 
 # TR14: Traducción Comercial y Publicitaria B>A (Inglés > Español)
 
-Te damos la más cordial bienvenida a la asignatura de Traducción Comercial y Publicitaria B>A (Inglés-Español). Este curso está diseñado para brindarte las competencias necesarias para abordar la traducción y la transcreación de textos empresariales y publicitarios del inglés al español, un campo especializado con gran demanda en el mercado laboral actual.
+Te damos la más cordial bienvenida a la asignatura de Traducción Comercial y Publicitaria B>A (Inglés-Español). Este curso está diseñado para brindarte las competencias necesarias para abordar la traducción y la transcreación de textos empresariales y publicitarios del inglés al español, un campo especializado con gran demanda en el mercado laboral actual. En este curso, trabajamos específicamente con inglés para los Estados Unidos y el español de México
 
-## 📱 Comunicación del Curso
-**Profesora**: Alaina Brandt  
+## 📱 Diseñadora del Curso
+**Instructora**: Alaina Brandt  
 **LinkedIn**: [linkedin.com/in/alainambrandt/](https://www.linkedin.com/in/alainambrandt/)<br>
-**Plataforma**: Teams para preguntas rápidas y anuncios
+**Plataforma Sugerida**: Teams para preguntas rápidas y anuncios
 
 ## 🎯 Objetivos del Aprendizaje
 Al finalizar esta asignatura, podrás:
@@ -27,37 +27,29 @@ Al finalizar esta asignatura, podrás:
 ## 📚 Estructura del Curso
 El curso se estructura en **cuatro unidades temáticas** que ofrecen una progresión lógica en el aprendizaje:
 
-**Unidad 1: Introducción al Curso (Semanas 1-2)**  
-Fundamentos de la traducción comercial y publicitaria, conceptos de voz de marca, perfiles de audiencia y propósito comunicativo
+| **Unidad** | **Semanas** | **Descripción** |
+| ---------- | ----------- | --------------- |
+| Unidad 1: Introducción al Curso | Semanas 1-2 | Fundamentos de la traducción comercial y publicitaria, conceptos de voz de marca, perfiles de audiencia y propósito comunicativo |
+| Unidad 2: Comunicaciones Informativas y la Traducción | Semanas 3-8 | Traducción de documentos empresariales, desde comunicaciones internas hasta contratos comerciales y manuales técnicos, con énfasis en la precisión terminológica |
+| Unidad 3: Comunicaciones Persuasivas y la Transcreación | Semanas 9-14 | Transcreación de materiales promocionales para diferentes medios y plataformas, desde anuncios impresos hasta contenido digital y eslóganes, con enfoque en la adaptación cultural |
+| Unidad 4: Conclusiones y Proyectos Finales | Semanas 15-17 | Integración de conocimientos mediante proyectos de traducción especializados y evaluación por compañeros para desarrollar habilidades críticas |
 
-**Unidad 2: Comunicaciones Informativas y la Traducción (Semanas 3-8)**  
-Traducción de documentos empresariales, desde comunicaciones internas hasta contratos comerciales y manuales técnicos, con énfasis en la precisión terminológica
+## 🎓 Evaluaciones Finales: Proyectos Integradores
+Demostrarás competencias adquiridas mediante la traducción o transcreación de un proyecto de tu elección (evaluación parcial final) y unas evaluaciones de la calidad de los proyectos de tus compañeras y compañeros en el curso.
 
-**Unidad 3: Comunicaciones Persuasivas y la Transcreación (Semanas 9-14)**  
-Transcreación de materiales promocionales para diferentes medios y plataformas, desde anuncios impresos hasta contenido digital y eslóganes, con enfoque en la adaptación cultural
+### Componentes de los Proyectos Finales
+- **Traducción/Transcreación**: Reporte, Contenido Fuente, Traducción/Transcreación, Publicación sobre el Proyecto en Teams (10 puntos)
+- **Evaluaciones**: Análisis de tres proyectos de traducción de compañeros + un informe de reflexión (10 puntos)
 
-**Unidad 4: Conclusiones y Proyectos Finales (Semanas 15-17)**  
-Integración de conocimientos mediante proyectos de traducción especializados y evaluación por compañeros para desarrollar habilidades críticas
+| **Proceso de Traducción** | **Proceso de Evaluación** |
+| ------------------------- | ------------------------- |
+| 1. Seleccionar grupos y contenido fuente para el proyecto<br>2. Establecer las especificaciones para la traducción<br>3. Investigar y documentar equivalencias para la terminologío<br>4. Traducir el contenido y hacer las revisiones necesarias<br>5. Escribir un reporte sobre lo que debemos saber sobre tu proyecto | 1. Analizar cada proyecto usando la rúbrica proporcionada<br>2. Identificar fortalezas y áreas de mejora en cada traducción<br>3. Redactar comentarios específicos y detallados<br>4. Proporcionar sugerencias constructivas<br>5. Elaborar un informe de reflexión sobre lo aprendido |
 
-## 🎓 Evaluación Final: Proyecto Integrado
-Demostrarás competencias adquiridas mediante la **evaluación crítica de traducciones especializadas**, aplicando criterios profesionales y proporcionando retroalimentación constructiva.
-
-### Componentes del Proyecto Final
-- **Evaluaciones**: Análisis de tres proyectos de traducción de compañeros (9 puntos)
-- **Informe de reflexión**: Análisis de enfoques observados y aplicación a tu desarrollo profesional (1 punto)
-
-### Proceso de Evaluación
-1. Analizar cada proyecto usando la rúbrica proporcionada
-2. Identificar fortalezas y áreas de mejora en cada traducción
-3. Redactar comentarios específicos y detallados
-4. Proporcionar sugerencias constructivas
-5. Elaborar un informe de reflexión sobre lo aprendido
-
-## 📋 Evaluación General
-- **Asistencia y participación**: 30% (2 puntos semanales, 15 semanas requeridas de 16 disponibles)
-- **Tareas generales**: 30% (10 tareas × 3 puntos cada una de 11 disponibles)
+## 📋 Puntuación Total
+- **Asistencia y participación**: 30% (2 puntos semanales, 15 semanas requeridas)
+- **Tareas generales**: 30% (10 tareas × 3 puntos cada una)
 - **Evaluaciones parciales**: 30% (3 evaluaciones × 10 puntos cada una)
-- **Evaluación final**: 10% (Proyecto integrado de evaluación por pares)
+- **Evaluación final**: 10% (1 evaluación X 10 puntos)
 
 ## 💡 Consejos para el Éxito
 - **2-4 horas semanales** de trabajo fuera de clase
@@ -70,23 +62,7 @@ Demostrarás competencias adquiridas mediante la **evaluación crítica de tradu
 
 ## 🤖 Uso de Materiales del Curso con Herramientas de IAG
 
-Todo el contenido del curso está escrito en [**formato Markdown**](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) para facilitar la integración con herramientas de aprendizaje de IA. El contenido en formato markdown puede ser mejor "entendido" por las herramientas de IA generativa, ya que la jerarquía y el énfasis del contenido se comunica claramente a través de símbolos.
-
-Para descargar cualquier lección como archivo markdown para usar con herramientas de IAG:
-
-1. **Visita nuestro repositorio del curso**: [github.com/alainamb/uic_tr14-trad-comercial](https://github.com/alainamb/uic_tr14-trad-comercial)
-2. **Navega a cualquier archivo de lección** (archivos que terminan en `.md`)
-3. **Haz clic en el nombre del archivo** para abrirlo
-4. **Haz clic en los tres puntos** en la esquina superior derecha
-5. **Haz clic en descargar**
-6. **Haz doble clic en el archivo descargado** para abrirlo en un editor de texto
-
-### 📓 Consejo de Estudio con IAG
-Una vez descargado, copia todo el contenido del archivo y pégalo en ChatGPT/Claude o tu herramienta de IAG preferida con prompts como:
-- "Explica las diferencias entre traducción comercial y transcreación publicitaria"
-- "Crea ejercicios para identificar voz de marca en textos corporativos"
-- "Genera ejemplos de adaptación cultural en publicidad hispanohablante"
-- "Ayúdame a planificar mi estrategia de transcreación para [tipo de texto]"
+Todo el contenido del curso está escrito en [**formato Markdown**](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) para facilitar la integración con herramientas de aprendizaje de IA. El contenido en formato markdown puede ser mejor "entendido" por las herramientas de IA generativa, ya que la jerarquía y el énfasis del contenido se comunica claramente a través de símbolos. Aprende más sobre la filosofía detras del diseño con Markdown aquí: [Cómo Usar los Contenidos de este Curso](cómo-usar.md).
 
 ---
 
