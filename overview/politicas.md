@@ -127,5 +127,5 @@ Copia el contenido descargado y prueba estos prompts:
 
 ---
 
-**Siguiente:** Explora la [Bibliografía](bibliografia.md) para recursos del curso y lecturas recomendadas.
+**Siguiente:** Explora la [Bibliografía Selecta](bibliografia.md) para recursos del curso y lecturas recomendadas.
 
