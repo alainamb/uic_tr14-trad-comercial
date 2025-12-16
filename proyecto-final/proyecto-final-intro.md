@@ -19,10 +19,10 @@ A lo largo de esta unidad final, presentarás un proyecto integrador (tercer exa
 
 ### Componentes del Proyecto
 
-| **Componentes** | **La traducción** | **La evaluación** |
+| **Componentes** | **Entregables** | **Modo de trabajo** |
 | --------------- | ----------------- | ----------------- |
-| **Entregables** | - Texto fuente<br>- Texto meta<br>- Reporte | - Tres evaluaciones<br>- Una reflexión<br> |
-| **Modo de trabajo** | Grupos pequeños (no más de 3 personas) | Individualmente | 
+| **La traducción** | - Texto fuente<br>- Texto meta<br>- Reporte | Grupos pequeños (no más de 3 personas) |
+| **La evaluación** | - Tres evaluaciones<br>- Una reflexión | Individualmente | 
 
 ### Temas
 Durante esta unidad, cubrirás estos temas:
