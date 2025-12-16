@@ -8,9 +8,9 @@ nav_order: 3
 
 # Tarea: Traducción de Comunicado de Prensa
 
-**Puntos:** 3
+**Valor**: 3 puntos
 
-**Modalidad:** Grupos de 3 personas (algunas excepciones de grupos de 2)
+**Modalidad**: Trabajo individual o en equipo
 
 ## Descripción del proyecto
 
@@ -38,14 +38,15 @@ Los comunicados de prensa son textos comerciales informativos altamente demandad
 - [Près d'1,4 gigawatt (GW) de projets Amérique latine chez EDF Energies Nouvelles](https://france.edf-powersolutions.com/communiques/pres-d14-gigawatt-gw-de-projets-amerique-latine-edf-energies-nouvelles)
 - [EDF Energies Nouvelles met en service un parc éolien de 164 MW au Mexique](https://france.edf-powersolutions.com/communiques/edf-energies-nouvelles-met-service-parc-eolien-de-164-mw-mexique)
 
-**¿Por qué importa?** Las traducciones de pivote son controvertidas porque imponen una lente lingüística intermedia sobre el contenido original. Consultar las versiones francesas te permite identificar si el inglés introdujo cambios o interpretaciones que podrías querer ajustar en tu versión española.
+**¿Por qué importa?** Las traducciones de pivote son controvertidas porque imponen una lente lingüística intermedia sobre el contenido original. Consultar las versiones francesas te permite identificar si el inglés introdujo cambios o interpretaciones que podrías querer ajustar en tu versión española. Un bonus es que este contenido se alinea muy bien con los requisitos de los programas de traducción en México, donde es obligatorio estudiar inglés, español y francés.
 
 ## Preparación para el proyecto
 
 ### Organización grupal
-- **Grupos asignados en clase:** No pueden cambiar de grupo sin autorización
-- **Tamaño:** 3 personas (algunas excepciones de 2 personas)
-- **Roles:** Deben cambiar su rol de las asignaciones anteriores
+- **Tamaño sugerido:** 2 o 3 personas
+- **Asignación de roles:**
+  - Se sugiere cambiar de rol respecto al que tuvieron en la asignación anterior, o bien
+  - Establecer especializaciones según lo que han aprendido sobre las fortalezas del equipo en asignaciones anteriores
 
 ### Archivo para traducir
 
@@ -79,7 +80,7 @@ Los comunicados de prensa son textos comerciales informativos altamente demandad
 
 ### 1. Traducción completa (Archivo .md)
 
-**Archivo:** `PrimerosApellidos_edf-press-release.md`
+**Archivo:** `Apellidos_edf-press-release.md`
 
 - **Traducción completa** del comunicado de prensa de EDF Renewables
 - **Formato markdown** conservado exactamente como el original
@@ -88,7 +89,7 @@ Los comunicados de prensa son textos comerciales informativos altamente demandad
 
 ### 2. Documentación del proceso grupal (Documento MS Word)
 
-**Archivo:** `PrimerosApellidos_edf-press-release-reflexion.docx`
+**Archivo:** `Apellidos_edf-reflexión.docx`
 
 #### Información del equipo
 Nombres completos de todas las personas traductoras, con roles específicos asignados durante el proyecto.
@@ -140,10 +141,10 @@ Párrafo de 150-200 palabras que incluya:
 
 ### Formato de entrega
 - **Archivos:** 
-  - `PrimerosApellidos_edf-press-release.md`
-  - `PrimerosApellidos_edf-press-release-reflexion.docx`
-- **Nomenclatura:** Primer apellido de cada integrante, separados por guiones
-- **Ejemplo:** `Aguilera-Brandt-Morales_edf-press-release.md`
+  - `Apellidos_edf-press-release.md`
+  - `Apellidos_edf-reflexión.docx`
+- **Nomenclatura:** Primer apellido de cada integrante, separados por guiones bajos
+- **Ejemplo:** `Chen_Brandt_edf-press-release.md`
 - **Entrega:** Una sola persona del equipo sube ambos archivos en la fecha indicada
 
 ## Criterios de evaluación
@@ -185,11 +186,11 @@ La traducción será evaluada usando criterios adaptados del **Marco MQM (Multid
 
 ---
 
-## 📥 Descarga esta Tarea
+## 📥 Descarga este Contenido
 
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-comercial-publicitaria/blob/main/unidad2/semana8/tarea-press-release.md) y descárgalo.
 
-### 🤖 Prompts de Estudio con IA
+### 🤖 Prompts de Estudio con IAG
 
 Copia el contenido descargado y prueba estos prompts para preparación grupal:
 
