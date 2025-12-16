@@ -249,4 +249,4 @@ Copia el contenido descargado y prueba estos prompts:
 
 ---
 
-**Próxima actividad**: [Análisis de Publicidad Impresa y Digital](publicidad-impresa-digital.md)
+**Próxima actividad**: [Análisis de Publicidad Impresa y Digital](analisis-publicidad-impresa-digital.md)
