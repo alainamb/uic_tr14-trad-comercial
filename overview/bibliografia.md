@@ -7,9 +7,7 @@ nav_order: 3
 
 # Bibliografía Selecta
 
-Esta bibliografía selecta reúne los recursos fundamentales que estructuran nuestro curso de traducción comercial y publicitaria. A diferencia de una bibliografía exhaustiva, esta colección prioriza materiales **accesibles, actuales y directamente aplicables** a tu desarrollo profesional.
-
-Cada recurso ha sido seleccionado por su capacidad para conectar teoría con práctica profesional. Encontrarás estándares internacionales, ejemplos auténticos de la industria, marcos conceptuales y herramientas prácticas que las empresas utilizan diariamente. Esta bibliografía vive y evoluciona—tus sugerencias pueden enriquecerla para futuras generaciones de traductoras y traductores.
+Esta bibliografía selecta reúne los recursos fundamentales que estructuran nuestro curso de traducción comercial y publicitaria. Cada recurso ha sido seleccionado por su capacidad para conectar teoría con práctica profesional. Encontrarás estándares internacionales, ejemplos auténticos de la industria, marcos conceptuales y herramientas prácticas que las empresas utilizan diariamente. Esta bibliografía vive y evoluciona—tus sugerencias pueden enriquecerla para futuras generaciones.
 
 ---
 
