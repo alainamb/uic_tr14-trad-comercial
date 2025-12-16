@@ -171,6 +171,8 @@ Brief → Análisis de Sentido → Transcreación → Grupos Focales → Lectura
 - Debes confirmar culturalmente apropiado **antes** de entregar
 - Una vez entregado, asume que tu texto es "permanente"
 
+---
+
 ## Desafíos y Objetivos de la Transcreación Publicitaria
 
 ### Desafíos Principales
