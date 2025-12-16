@@ -15,8 +15,6 @@ Hola, mi nombre es Alaina Brandt y diseñé los contenidos de este curso. Soy tr
 
 Puedes conectar conmigo en LinkedIn: [https://www.linkedin.com/in/alainambrandt/](https://www.linkedin.com/in/alainambrandt/)
 
-<br clear="left">
-
 ## Agradecimientos
 
 El curso TR14: Traducción Comercial y Publicitaria B>A (Inglés > Español) fue comisionado originalmente para ser impartido en el programa de licenciatura en Traducción, Localización e Interpretación de la Universidad Intercontinental en Ciudad de México. Se diseñó con la ayuda de Claude Sonnet 4-4.5, y el esquema se estableció basándose en versiones anteriores del curso, junto con retroalimentación de estudiantes de TLI UIC sobre la necesidad de más práctica en transcreación.
