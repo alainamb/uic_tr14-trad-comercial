@@ -44,7 +44,7 @@ Esta semana nos enfocamos en la transcreación de eslóganes, lemas y textos cre
 ## 📥 Descargar Contenido de la Semana 13
 ¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad3/semana13/semana13-resumen.md) y descárgalo!
 
-### 🤖 Prompts de Estudio con IA
+### 🤖 Prompts de Estudio con IAG
 Copia el contenido descargado de la semana y prueba estos prompts:
 - "Ayúdame a analizar aspectos lingüísticos, culturales y persuasivos en la transcreación de eslóganes"
 - "¿Cómo manejo metáforas lexicalizadas al transcreear eslóganes del inglés al español?"
