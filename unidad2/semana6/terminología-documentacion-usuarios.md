@@ -10,13 +10,15 @@ nav_order: 1
 
 **Tiempo estimado**: 1 hora
 
-**Modalidad**: Presentación interactiva con análisis de audio y ejercicios prácticos
+**Modalidad**: Un video interactivo, un podcast y ejercicios prácticos
 
-Esta semana exploraremos los desafíos específicos de traducir contenido informativo en documentación para usuarios. A través del análisis de casos reales y la experiencia de profesionales de la industria, identificaremos las competencias clave necesarias para traducir efectivamente manuales, guías de usuario, y documentación técnica que facilite la experiencia del usuario final.
+Esta semana exploraremos los desafíos específicos de traducir documentación para usuarios. A través del análisis de casos reales y la experiencia de profesionales de la industria, exploraremos la competencia clave de la gestión terminológica, una habilidad crucial para traducir efectivamente manuales, guías de usuario y documentación técnica que facilite la experiencia del usuario final.
+
+---
 
 ## Introducción: Documentación de Usuarios en el Ecosistema Comercial
 
-La documentación para usuarios representa uno de los géneros más complejos en la traducción comercial. Antes de explorar los desafíos específicos que enfrentan las traductoras y traductores al trabajar con este tipo de contenido, primero examinaremos el contexto más amplio de la gestión terminológica en empresas que producen documentación técnica.
+La documentación para usuarios es el conjunto de materiales informativos diseñados para ayudar a las clientelas a utilizar un producto de manera efectiva después de haberlo adquirido. Antes de explorar los desafíos específicos que enfrentan las traductoras y traductores al trabajar con este tipo de contenido, primero examinaremos el contexto más amplio de la gestión terminológica en empresas que producen documentación técnica, ya que el uso correcto de la terminología puede determinar el éxito o el fracaso de la experiencia del usuario al utilizar productos recién adquiridos.
 
 ### Video: Gestión Terminológica Exitosa en Empresas
 
@@ -24,21 +26,11 @@ La documentación para usuarios representa uno de los géneros más complejos en
 > 
 > *Duración: ~12 minutos | Presentadora: Maestra Brandt*
 >
-> Este video resume hallazgos clave del estudio de TEKOM (European Association for Technical Communication) sobre gestión terminológica en empresas. En 2010, TEKOM publicó la primera edición de su estudio "Successful Terminology Management in Companies" basado en una encuesta de 940 profesionales en empresas que trabajan en campos técnicos.
+> Este video resume hallazgos clave del estudio de TEKOM (European Association for Technical Communication) sobre gestión terminológica en empresas. En 2010, TEKOM publicó la primera edición de su estudio "Successful Terminology Management in Companies" basado en una encuesta de 940 profesionales en empresas que trabajan en campos técnicos. Su estudio cubre elementos relacionados con lo que se nominan "productos de información" o los tipos de textos que se escriben para apoyar a las clientelas en su uso de un producto, como los dominios o sectores empresariales, los departamentos que contribuyen terminología, y el número de idiomas a los que las empresas típicamente traducen este contenido, además de complejidades adicionales relacionadas con la gestión terminológica para documentación de usuarios.
 >
 > **Cita del estudio:** *"El trabajo terminológico es un requisito de la globalización. El progreso técnico siempre ha dejado su huella en el lenguaje. Para cada nuevo invento, se deben acuñar e introducir nuevas palabras y términos. Lo que es nuevo... es el ritmo cada vez mayor de los desarrollos tecnológicos y la necesidad de nuevos términos."*
 
-#### Actividades Interactivas Durante la Conferencia
-
-La conferencia incluye **cinco pausas de reflexión** donde se te invita a pensar críticamente sobre los temas presentados. Mientras ves el video, considera estas preguntas:
-
-- ¿Cuáles son los objetivos de la comunicación técnica?
-- ¿En qué sectores adicionales es importante la gestión terminológica?
-- ¿Qué otros departamentos necesitan usar terminología consistente?
-- ¿Qué otros tipos de productos informativos requieren terminología consistente?
-- ¿Qué otros aspectos de las organizaciones impactan el trabajo terminológico?
-
-### Hallazgos Clave del Estudio TEKOM
+#### Hallazgos Clave del Estudio TEKOM
 
 La encuesta de 940 profesionales reveló datos reveladores sobre la gestión terminológica:
 
@@ -66,9 +58,13 @@ Con este entendimiento del ecosistema más amplio de gestión terminológica, ah
 |-------------------------------------|-----------------------------------------|
 | • **Manuales de productos**: Electrodomésticos, tecnología personal, automóviles<br>• **Guías de instalación**: Software, aplicaciones móviles, equipos domésticos<br>• **Documentación de seguridad**: Advertencias, precauciones, procedimientos de emergencia | • **Manuales de equipos industriales**: Maquinaria, herramientas profesionales<br>• **Documentación de software empresarial**: Plataformas, sistemas de gestión<br>• **Protocolos de mantenimiento**: Procedimientos técnicos, especificaciones |
 
+---
+
 ## Actividad 1: Análisis de Experto - Gestión Terminológica Empresarial
 
-Escucharemos la experiencia de Monika Aeschbacher, Arquitecta de Contenido Global en NetApp, quien gestiona terminología para más de 10,000 empleados y empleadas en una empresa tecnológica multinacional. 
+Now that we've had a chance to learn about this type of technical documentation broadly through survey results, escucharemos la experiencia de Monika Aeschbacher, Arquitecta de Contenido Global en NetApp, quien gestiona terminología para esta empresa tecnológica multinacional con más de 10,000 empleados y empleadas. 
+
+Ahora que hemos tenido la oportunidad de aprender sobre la gestión de terminología en de documentación técnica de manera amplia a través de los resultados de la encuesta, escucharemos la experiencia de Monika Aeschbacher, Arquitecta de Contenido Global en NetApp, quien gestiona terminología para esta empresa tecnológica multinacional con más de 10,000 empleados y empleadas.
 
 ### Podcast: Interview with Monika Aeschbacher, "She Who Names All Things NetApp"
 
@@ -202,11 +198,11 @@ Mientras completas las actividades, considera:
 
 ---
 
-## 📥 Descarga esta Presentación
+## 📥 Descarga este Contenido
 
-Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-comercial-publicitaria/blob/main/unidad2/semana6/presentacion-documentacion-usuarios.md) y descárgalo.
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-comercial-publicitaria/blob/main/unidad2/semana6/terminología-documentacion-usuarios.md) y descárgalo.
 
-### 🤖 Prompts de Estudio con IA
+### 🤖 Prompts de Estudio con IAG
 
 Copia el contenido descargado y prueba estos prompts:
 
