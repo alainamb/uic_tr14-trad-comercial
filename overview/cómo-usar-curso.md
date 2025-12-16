@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Cómo Usar este Curso
+title: Cómo Usar los Contenidos del Curso
+parent: Descripción General
 nav_order: 5
-has_children: false
 ---
 
-# Cómo Usar los Contenidos de este Curso
+# Cómo Usar los Contenidos del Curso
