@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Proyecto Final - Evaluaciones
+title: Proyectos Finales - Evaluaciones
 parent: Proyecto Final
 nav_order: 2
 ---
 
-# Proyecto Final: Evaluaciones de Traducciones Comerciales (Examen Final)
+# Proyectos Finales: Evaluaciones de Traducciones Comerciales (Examen Final)
 
 **Valor:** 10 puntos 
 
