@@ -2,7 +2,7 @@
 layout: default
 title: Políticas Sugeridas
 parent: Descripción General
-nav_order: 3
+nav_order: 4
 ---
 
 # Políticas Sugeridas para el Curso
