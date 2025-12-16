@@ -10,15 +10,15 @@ nav_order: 3
 
 **Valor**: 3 puntos
 
-**Modalidad**: Trabajo en equipo (1-3 personas)
-
-**Fecha de entrega**: Martes, 21 de octubre
+**Modalidad**: Trabajo individual o en equipo
 
 ## Descripción del Proyecto
 
 Coca-Cola es una marca icónica en la historia de la publicidad. El producto fue nombrado a finales del siglo XIX por sus dos ingredientes principales (en ese entonces): extracto de hojas de coca y nueces de cola. Desde sus inicios, la marca ha necesitado reposicionarse estratégicamente, evolucionando desde sus asociaciones tempranas con cocaína hasta convertirse en una marca familiar global. (El artículo de Snopes [Did Coca-Cola Ever Contain Cocaine?](https://www.snopes.com/fact-check/cocaine-coca-cola) explica esta historia temprana.)
 
 Para este proyecto, tu equipo seleccionará un anuncio publicitario de Coca-Cola y producirá un **reporte profesional de transcreación** dirigido a ejecutivos de marketing. Este reporte documentará tu proceso de transcreación, presentará múltiples propuestas creativas, y justificará tus decisiones estratégicas.
+
+**Utilizaremos la metodología de reportes profesionales de transcreación desarrollada por Ben Karl**, traductor profesional especializado en transcreación, quien generosamente compartió ejemplos de reportes reales de transcreación para proyectos comerciales. La plantilla profesional basada en su trabajo (disponible en la próxima página) es una herramienta pedagógica esencial que te enseñará cómo estructurar y presentar trabajo de transcreación de manera que refleje las expectativas de la industria.
 
 ## Contexto Profesional
 
@@ -111,7 +111,8 @@ Cada equipo debe elegir **uno de los siguientes anuncios de Coca-Cola** para tra
 - "SINCE 1886"
 
 **Desafíos de transcreación**:
-- Nostalgia: ¿resuena la misma nostalgia por "lo antiguo" en México?
+- Uso de figura histórica icónica: ¿Elvis resuena igual en México?
+- Nostalgia: ¿Resuena la misma nostalgia por "lo antiguo" en México? Si es así, ¿existe alguna relación entre el romanticismo de "lo antiguo" y cuestiones de racismo o exclusión social, como ocurre en algunos contextos estadounidenses?
 - Contraste "They/We": ¿cómo mantener el impacto en español?
 - "'Em" - contracción coloquial que crea tono específico
 - "Original taste" vs. competencia que también afirma autenticidad
@@ -122,7 +123,7 @@ Tu equipo debe seguir la estructura de reporte profesional que se presenta en la
 
 Las secciones principales son:
 
-1. **Portada Profesional**
+1. **Información Administrativa**
 2. **Análisis del Anuncio Original** (contexto, análisis de sentido, atributos de marca)
 3. **Análisis Competitivo** (cómo se posiciona Coca-Cola vs. competencia en ambos mercados)
 4. **Proceso de Adaptación** (tus pasos creativos)
@@ -134,10 +135,8 @@ Las secciones principales son:
 
 ### Documento Principal: Reporte de Transcreación
 
-- **Archivo**: ApellidosEquipo_TranscreacionCocaCola.docx
-  - Ejemplo: Garcia-Martinez-Lopez_TranscreacionCocaCola.docx
-- **Extensión**: 4-6 páginas (sin incluir portada y referencias)
-- **Formato**: Arial o Calibri 11pt, interlineado 1.5, márgenes normales
+- **Archivo**: Apellidos_TranscreacionCocaCola.docx
+  - Ejemplo: Brandt_RodríguezMorales_TranscreacionCocaCola.docx
 - **Contenido visual**: Incluye la imagen del anuncio original y mockups visuales de tus propuestas si es posible
 
 ### Elementos Requeridos
@@ -157,6 +156,8 @@ Las secciones principales son:
 | **Calidad de Propuestas** | 1.0 | Mínimo 3 propuestas viables y creativas. Cada propuesta incluye: texto transcreado, características técnicas, ventajas, desventajas. Las propuestas demuestran comprensión de transcreación vs. traducción |
 | **Profesionalismo y Formato** | 1 | Presentación profesional, estructura clara siguiendo la plantilla, redacción impecable, referencias completas, mockups visuales si son incluidos |
 | **Total** | **3.0** | |
+
+---
 
 ## Consideraciones Importantes
 
@@ -182,29 +183,30 @@ El **análisis de sentido** (del inglés *sense analysis*) es crucial en transcr
 - **Referencias culturales**: ¿Hay alusiones a eventos, personas, expresiones conocidas?
 - **Recursos retóricos**: ¿Aliteración, rima, juegos de palabras, paralelismo?
 
+### Sobre Adaptación Visual y Cultural
+
+Si bien este proyecto se enfoca en la transcreación del texto, en la práctica profesional también deberías considerar la **localización de elementos visuales**. Por ejemplo:
+
+- **Opción 3 (Einstein)**: ¿Es Einstein igualmente reconocible y resonante en México? ¿Hay figuras mexicanas de la ciencia o cultura popular que podrían funcionar mejor?
+- **Opción 5 (Elvis)**: ¿Tiene Elvis el mismo estatus icónico en México? ¿Hay equivalentes culturales mexicanos que evoquen nostalgia similar?
+- **Todas las opciones**: ¿Los colores, tipografía, o composición visual necesitan ajustes para el mercado mexicano?
+
+**Para este proyecto académico**: No necesitas crear nuevos diseños visuales completos, pero **sí debes comentar** en tu reporte si tu transcreación funcionaría mejor con adaptaciones visuales específicas. Incluye estas observaciones en tu sección de "Recomendación Final" bajo "Consideraciones para Implementación" cuando sean relevantes.
+
+En proyectos profesionales de transcreación, estas recomendaciones visuales son parte integral del reporte, permitiendo que el cliente vea el alcance completo de la adaptación cultural necesaria.
+
 ## Preguntas Frecuentes
 
-**¿Podemos crear propuestas completamente diferentes al original?**  
-Sí, siempre que mantengan la esencia de marca de Coca-Cola y cumplan la misma función publicitaria. La transcreación permite libertad creativa significativa.
-
-**¿Necesitamos hacer encuestas como en el ejemplo profesional?**  
-No para este proyecto estudiantil. Sin embargo, puedes consultar informalmente con amigos/familiares y mencionar sus reacciones en tu reporte.
-
-**¿Qué pasa si el anuncio ya existe traducido?**  
-Ignora las traducciones oficiales existentes. Tu trabajo es crear tu propia transcreación como ejercicio académico.
-
-**¿Podemos cambiar el concepto visual?**  
-Tu enfoque debe ser el texto, pero puedes sugerir adaptaciones visuales si son necesarias para que tu transcreación funcione.
-
-**¿Todas las propuestas deben ser igual de largas que el original?**  
-No necesariamente. La transcreación puede ser más larga o más corta si es más efectiva. Justifica tu decisión.
-
-**¿Cómo sabemos cuál es la "mejor" propuesta?**  
-No hay una respuesta única. Tu recomendación final debe basarse en: resonancia cultural, memorabilidad, alineación con marca, viabilidad de implementación. Defiende tu elección con argumentos sólidos.
+- **¿Podemos crear propuestas completamente diferentes al original?** Sí, siempre que mantengan la esencia de marca de Coca-Cola y cumplan la misma función publicitaria. La transcreación permite libertad creativa significativa.
+- **¿Necesitamos hacer encuestas como en el ejemplo profesional?** No para este proyecto estudiantil. Sin embargo, puedes consultar informalmente con amigos/familiares y mencionar sus reacciones en tu reporte.
+- **¿Qué pasa si el anuncio ya existe traducido?** Ignora las traducciones oficiales existentes. Tu trabajo es crear tu propia transcreación como ejercicio académico.
+- **¿Podemos cambiar el concepto visual?** Tu enfoque debe ser el texto, pero puedes sugerir adaptaciones visuales si son necesarias para que tu transcreación funcione.
+- **¿Todas las propuestas deben ser igual de largas que el original?** No necesariamente. La transcreación puede ser más larga o más corta si es más efectiva. Justifica tu decisión.
+- **¿Cómo sabemos cuál es la "mejor" propuesta?** No hay una respuesta única. Tu recomendación final debe basarse en: resonancia cultural, memorabilidad, alineación con marca, viabilidad de implementación. Defiende tu elección con argumentos sólidos.
 
 ---
 
-## 📥 Descarga este Archivo
+## 📥 Descarga este Contenido
 
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-comercial-publicitaria/blob/main/unidad3/semana10/tarea-transcreacion-publicidad.md) y descárgalo.
 
