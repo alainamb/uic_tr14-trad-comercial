@@ -24,17 +24,15 @@ Esta semana nos enfocamos en los fundamentos de la traducción comercial y publi
 - Dinámica de presentación: Las y los estudiantes compartirán su experiencia previa y expectativas en el campo
 - Discusión grupal: Los desafíos y oportunidades en este campo especializado
 
-### Tareas Asignadas y Evaluaciones
+## Tareas Asignadas y Evaluaciones
 - **Revisión detallada de la guía de aprendizaje** (0 puntos - preparación)
 - **Familiarización con las políticas del curso** y criterios de evaluación
 - **Preparación conceptual** para la Semana 2 sobre voz de marca y perfiles de audiencia
 - **Asistencia y participación** (2 puntos)
 
 ## Recursos para el Aprendizaje
-- Guía de aprendizaje del curso TR14
-- Presentación sobre fundamentos de la traducción comercial y publicitaria
-- Ejemplos introductorios de textos comerciales y publicitarios
-- Casos de estudio de oportunidades profesionales en el mercado
+- [Standards-Based Structured Translation Specifications](https://www.tranquality.info/specs/) por Tranquality
+- [ASTM F2575: Standard Practice for Language Translation](https://store.astm.org/f2575-23e02.html) por ASTM International
 
 ---
 
