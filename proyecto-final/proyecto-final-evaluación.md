@@ -5,13 +5,11 @@ parent: Proyecto Final
 nav_order: 2
 ---
 
-# Proyecto Final: Evaluaciones de Traducciones Comerciales
+# Proyecto Final: Evaluaciones de Traducciones Comerciales (Examen Final)
 
-**Valor:** 10 puntos (Examen Final)
+**Valor:** 10 puntos 
 
-**Modalidad**: Evaluación individual de proyectos colaborativos
-
-**Fecha de entrega**: Lunes, 8 de diciembre
+**Modalidad**: Trabajo individual evaluando proyectos colaborativos
 
 ## Descripción del Proyecto
 
@@ -22,14 +20,12 @@ La evaluación de los proyectos finales de tus compañeras y compañeros del cur
 Al finalizar este proyecto, podrás:
 
 - **Evaluar críticamente** traducciones especializadas utilizando criterios profesionales
-
 - **Identificar fortalezas y áreas de mejora** en el trabajo de otras personas traductoras
-
 - **Proporcionar retroalimentación constructiva**, específica y útil para el desarrollo profesional
-
 - **Reconocer diferentes enfoques y estrategias** para resolver problemas de traducción
-
 - **Reflexionar sobre tu propio proceso de aprendizaje** a partir de la observación del trabajo de otras personas
+
+---
 
 ## Parte 1: Selección de proyectos para evaluar
 
@@ -80,7 +76,7 @@ Utiliza la **función de comentarios de MS Word** para dejar **2 comentarios esp
 - Si estás de acuerdo con un comentario existente, puedes responder al comentario en lugar de crear uno nuevo
 - Enfócate en aspectos que aún no han sido mencionados
 
-**Firma todos tus comentarios con tu nombre** para que quien tradujo sepa quién proporcionó cada retroalimentación.
+**Asegura que todos tus comentarios llevan tu nombre** para que quien tradujo sepa quién proporcionó cada retroalimentación.
 
 #### 3. Comentario general (obligatorio)
 
@@ -114,26 +110,20 @@ Para cada una de las 3 evaluaciones:
 **Reflexión sobre los comentarios** (párrafo de no más que 7 oraciones que aborde):
 
 1. **Patrones observados:** ¿Qué aspectos específicos llamaron tu atención repetidamente en este proyecto? ¿Por qué decidiste enfocarte en esos elementos?
-
 2. **Criterios de evaluación:** ¿Qué criterios utilizaste para evaluar la calidad del proyecto? ¿Cómo determinaste qué aspectos eran fortalezas y cuáles eran áreas de oportunidad?
-
 3. **Fortalezas identificadas:** ¿Cuáles fueron los logros más significativos de este proyecto? ¿Qué aspectos funcionaron especialmente bien?
-
 4. **Áreas de oportunidad:** ¿Qué aspectos podrían mejorarse? ¿Por qué identificaste esos elementos específicamente?
-
 5. **Impacto de tu retroalimentación:** ¿Cómo podrían tus observaciones ayudar a quienes tradujeron a mejorar su práctica profesional?
-
 6. **Tu aprendizaje:** ¿Qué aprendiste al analizar este proyecto que puedes aplicar a tu propio trabajo de traducción?
 
 #### Preguntas generales (al final de la hoja)
 
 **Pregunta 1:** ¿Cuáles fueron los desafíos más comunes que observaste en los proyectos que evaluaste? ¿Cómo se relacionan estos desafíos con los conceptos del curso?
-
 **Pregunta 2:** ¿Qué aprendiste al evaluar los proyectos de tus compañeras y compañeros que te será útil para tus propios proyectos de traducción futuros?
 
 ### Entrega de la hoja de trabajo
 
-- Nombra tu archivo: `TuApellido_ProyectoFinal_Evaluaciones.docx`
+- Nombra tu archivo: `TusApellidos_ProyectosFinales-Evaluaciones.docx`
 - Sube el archivo en la tarea correspondiente en Teams antes de la fecha límite
 
 ---
@@ -232,29 +222,10 @@ Tu comentario final debe ofrecer una evaluación holística:
 
 | **Componente** | **Descripción** | **Puntos** |
 |----------------|-----------------|------------|
-| **Evaluación 1** | Rúbrica completa con 2 comentarios específicos + 1 comentario general reflexivo | 3 puntos |
-| **Evaluación 2** | Rúbrica completa con 2 comentarios específicos + 1 comentario general reflexivo | 3 puntos |
-| **Evaluación 3** | Rúbrica completa con 2 comentarios específicos + 1 comentario general reflexivo | 3 puntos |
+| **Evaluación 1** | 2 comentarios específicos + 1 comentario general reflexivo | 3 puntos |
+| **Evaluación 2** | 2 comentarios específicos + 1 comentario general reflexivo | 3 puntos |
+| **Evaluación 3** | 2 comentarios específicos + 1 comentario general reflexivo | 3 puntos |
 | **Hoja de trabajo** | Reflexiones completas para cada evaluación + respuestas a preguntas generales | 1 punto |
-
-### Desglose detallado por evaluación (3 puntos cada una)
-
-**Comentarios especificos:**
-- Excelente: Todos los criterios evaluados con puntuaciones justificadas y comentarios específicos que explican cada calificación
-- Satisfactorio: Rúbrica completa pero algunos comentarios carecen de especificidad o profundidad
-- Básico: Puntuaciones asignadas pero comentarios vagos ("buen trabajo", "esto necesita mejora") sin elaboración
-- Insuficiente: Rúbrica incompleta o comentarios que no aportan valor
-
-**Comentario general:**
-- Excelente: Evaluación holística bien desarrollada que sintetiza fortalezas y áreas de oportunidad, demuestra comprensión del tipo de proyecto y sus objetivos específicos
-- Satisfactorio: Comentario general presente pero incompleto—omite elementos clave o carece de profundidad
-- Básico: Comentario muy breve o superficial que no ofrece evaluación significativa del proyecto completo
-- Insuficiente: Sin comentario general o comentario inadecuado
-
-### Hoja de trabajo (1 punto)
-- Completa: Reflexiones sustantivas para cada evaluación que demuestran aprendizaje genuino + respuestas completas y reflexivas a preguntas generales
-- Parcial: Algunos elementos faltantes o respuestas superficiales que no demuestran análisis profundo
-- Insuficiente: Hoja de trabajo sustancialmente incompleta o reflexiones que no aportan valor
 
 ---
 
@@ -307,62 +278,21 @@ Tu comentario final debe ofrecer una evaluación holística:
 
 ## Preguntas frecuentes
 
-### Sobre la preparación
-
-**P: ¿Qué pasa si trabajé en grupo en la traducción?**  
-R: Todas las personas del grupo deben aparecer como traductoras en la publicación del canal. Sin embargo, cada persona debe completar las evaluaciones de manera individual.
-
-**P: ¿Puedo evaluar el proyecto de mi compañera o compañero de grupo?**  
-R: No, debes seleccionar proyectos de otras personas para mantener la objetividad.
-
-**P: ¿Tengo que evaluar tanto proyectos informativos como persuasivos?**
-R: No es obligatorio, pero es recomendable para exponerte a diferentes tipos de traducción comercial. La distribución equitativa es más importante que la variedad de tipos.
-
-### Sobre la selección
-
-**P: ¿Qué hago si todos los proyectos que me interesan ya tienen muchos evaluadores?**  
-R: Explora otras opciones—esta es una oportunidad de exponerte a industrias o tipos de contenido que no habrías elegido inicialmente. A menudo, estas evaluaciones resultan ser las más instructivas.
-
-**P: ¿Puedo cambiar mi selección después de registrarme?**  
-R: Contacta a tu instructora lo antes posible si necesitas hacer un cambio. Los cambios solo se permiten en circunstancias excepcionales y deben hacerse temprano para no afectar la distribución equitativa.
-
-### Sobre los comentarios
-
-**P: ¿Qué hago si ya hay muchos comentarios en el documento?**  
-R: Busca aspectos que aún no se hayan abordado. Puedes enfocarte en elementos diferentes: análisis del reporte, decisiones terminológicas, coherencia, resonancia cultural, etc. Siempre hay algo nuevo que aportar.
-
-**P: ¿Está bien estar en desacuerdo con un comentario de otra persona?**  
-R: Sí, pero hazlo respetuosamente. Puedes responder al comentario explicando tu perspectiva alternativa fundamentada. Las diferencias de opinión profesionales enriquecen el aprendizaje.
-
-**P: ¿Qué tan crítico puedo ser?**  
-R: Sé honesto pero constructivo. El objetivo es ayudar a quien tradujo a mejorar, no desalentar. Equilibra crítica específica con reconocimiento de fortalezas. Recuerda que estás evaluando trabajo de colegas en formación, no profesionales con años de experiencia.
-
-**P: ¿Debo comentar cada decisión en la tabla de terminología/decisiones del reporte?**
-R: No necesariamente. En la rúbrica, evalúa la calidad general de estas secciones. En comentarios específicos, enfócate en elementos particularmente efectivos o que necesitan mejora.
-
-### Sobre la rúbrica
-
-**P: ¿Qué hago si un proyecto tiene fortalezas en algunos criterios pero debilidades en otros?**
-R: Evalúa cada criterio independientemente según las descripciones en la rúbrica. Un proyecto puede tener puntuación alta en "Reporte" pero más baja en "Calidad de Traducción", por ejemplo. Esto proporciona retroalimentación más útil.
-
-**P: ¿Cómo decido entre puntuaciones intermedias (por ejemplo, entre 2 y 3)?**
-R: Lee cuidadosamente las descripciones en la rúbrica. Si el trabajo cumple la mayoría de criterios del nivel superior pero tiene algunas lagunas, generalmente corresponde al nivel más alto. Si cumple el nivel inferior pero muestra algunos elementos del superior, corresponde al nivel inferior. Tus comentarios específicos deben explicar tu razonamiento.
-
-### Sobre la hoja de trabajo
-
-**P: ¿Qué tan extensas deben ser mis reflexiones?**  
-R: Cada reflexión sobre una evaluación debe ser un párrafo sustantivo (200-300 palabras) que aborde todas las preguntas guía. Las respuestas a las preguntas generales deben ser al menos un párrafo completo cada una.
-
-**P: ¿Puedo usar las mismas observaciones para varios proyectos si noté patrones similares?**
-R: Puedes mencionar patrones en las preguntas generales, pero cada reflexión individual debe enfocarse específicamente en ese proyecto. Cada uno tiene contexto, fortalezas y desafíos únicos.
+- **¿Qué pasa si trabajé en grupo en la traducción?** Todas las personas del grupo deben aparecer como traductoras en la publicación del canal. Sin embargo, cada persona debe completar las evaluaciones de manera individual.
+- **¿Puedo evaluar el proyecto de mi compañera o compañero de grupo?** No, debes seleccionar proyectos de otras personas para mantener la objetividad.
+- **¿Tengo que evaluar tanto proyectos informativos como persuasivos?** No es obligatorio, pero es recomendable para exponerte a diferentes tipos de traducción comercial. La distribución equitativa es más importante que la variedad de tipos.
+- **¿Qué hago si ya hay muchos comentarios en el documento?** Busca aspectos que aún no se hayan abordado. Puedes enfocarte en elementos diferentes: análisis del reporte, decisiones terminológicas, coherencia, resonancia cultural, etc. Siempre hay algo nuevo que aportar.
+- **¿Está bien estar en desacuerdo con un comentario de otra persona?** Sí, pero hazlo respetuosamente. Puedes responder al comentario explicando tu perspectiva alternativa fundamentada. Las diferencias de opinión profesionales enriquecen el aprendizaje.
+- **¿Qué tan crítico puedo ser?** Sé honesto pero constructivo. El objetivo es ayudar a quien tradujo a mejorar, no desalentar. Equilibra crítica específica con reconocimiento de fortalezas. Recuerda que estás evaluando trabajo de colegas en formación, no profesionales con años de experiencia.
+- **¿Qué tan extensas deben ser mis reflexiones?** Cada reflexión sobre una evaluación debe ser un párrafo sustantivo (200-300 palabras) que aborde todas las preguntas guía. Las respuestas a las preguntas generales deben ser al menos un párrafo completo cada una.
 
 ---
 
-## 📥 Descarga las Instrucciones de Evaluación
+## 📥 Descarga este Contenido
 
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/proyecto-final/proyecto-final-evaluacion.md) y descárgalo.
 
-### 🤖 Prompts de Estudio con IA
+### 🤖 Prompts de Estudio con IAG
 
 Copia las instrucciones descargadas y prueba estos prompts:
 
