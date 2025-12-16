@@ -10,9 +10,7 @@ nav_order: 3
 
 **Valor**: 3 puntos
 
-**Modalidad**: Trabajo en equipo (1-3 personas)
-
-**Fecha de entrega**: Martes, 4 de noviembre
+**Modalidad**: Trabajo individual o en equipo
 
 ## Descripción del Proyecto
 
@@ -62,12 +60,12 @@ Usa estos materiales para entender el contexto visual y diseño original, pero t
 ### 1. El Newsletter Transcreado (1 archivo .md)
 
 **Archivo**: 
-- `PrimerosApellidos_email1.md` (nombre si el primer email es transcreado)
-- `PrimerosApellidos_email2.md` (nombre si el segundo email es transcreado)
-- `PrimerosApellidos_email3.md` (nombre si el tercer email es transcreado)
+- `Apellidos_email1.md` (nombre si el primer email es transcreado)
+- `Apellidos_email2.md` (nombre si el segundo email es transcreado)
+- `Apellidos_email3.md` (nombre si el tercer email es transcreado)
 
 **Nomenclatura**: Usa el primer apellido de cada integrante, separados por guiones  
-**Ejemplo**: `Garcia-Martinez-Lopez_email1.md`
+**Ejemplo**: `Brandt_RodríguezMorales_email1.md`
 
 #### Elementos a Transcrear
 
@@ -87,7 +85,7 @@ Cada newsletter incluye:
 
 ### 2. Reflexión del Proceso (1 archivo .docx)
 
-**Archivo**: `PrimerosApellidos_email-reflexion.docx`
+**Archivo**: `Apellidos_email-reflexión.docx`
 
 **Extensión**: Máximo 1 página (idealmente media página)
 
@@ -161,25 +159,18 @@ Los newsletters de Matthew Hussey son relativamente largos comparados con emails
 
 ## Preguntas Frecuentes
 
-**¿Podemos cambiar ejemplos específicos que da Matthew?**  
-Sí, si un ejemplo cultural no resuena en México (ej. referencias a costumbres estadounidenses), pueden adaptar o reemplazar con algo equivalente culturalmente.
-
-**¿Qué tan literales debemos ser con las metáforas?**  
-No literales—si una metáfora funciona en español, úsala; si no, encuentra otra que comunique el mismo insight emocional.
-
-**¿Debemos traducir los enlaces (links)?**  
-No—mantén los enlaces en su URL original. Solo traduce el texto del anchor que describe el enlace.
-
-**¿Cómo mantenemos el "P.S." al final?**  
-Puedes usar "P.D." (Posdata) que es el equivalente español estándar, o mantener "P.S." si tu equipo decide que suena más auténtico a la voz de Matthew.
+- **¿Podemos cambiar ejemplos específicos que da Matthew?** Sí, si un ejemplo cultural no resuena en México (ej. referencias a costumbres estadounidenses), pueden adaptar o reemplazar con algo equivalente culturalmente.
+- **¿Qué tan literales debemos ser con las metáforas?** No literales—si una metáfora funciona en español, úsala; si no, encuentra otra que comunique el mismo insight emocional.
+- **¿Debemos traducir los enlaces (links)?** No—mantén los enlaces en su URL original. Solo traduce el texto del anchor que describe el enlace.
+- **¿Cómo mantenemos el "P.S." al final?** Puedes usar "P.D." (Posdata) que es el equivalente español estándar, o mantener "P.S." si tu equipo decide que suena más auténtico a la voz de Matthew.
 
 ---
 
-## 📥 Descarga este Archivo
+## 📥 Descarga este Contenido
 
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-comercial-publicitaria/blob/main/unidad3/semana12/tarea-transcreacion-newsletters-hussey.md) y descárgalo.
 
-### 🤖 Prompts de Estudio con IA
+### 🤖 Prompts de Estudio con IAG
 
 Copia el contenido descargado y prueba estos prompts:
 
