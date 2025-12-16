@@ -6,9 +6,9 @@ grand_parent: Unidad 2
 nav_order: 3
 ---
 
-# Tarea: Análisis de Contrato Comercial
+# Tarea: Análisis de Contrato Comercial (Examen Parcial 1)
 
-**Valor**: 10 puntos (Examen Parcial 1)
+**Valor**: 10 puntos 
 
 **Modalidad**: Trabajo individual o en equipo
 
@@ -105,20 +105,16 @@ Incluyan todas las fuentes que consultaron al realizar su análisis.
 ## Entregables
 
 - **Individual**: Apellidos_Analisis-Contrato-Comercial.docx
-  - Ejemplo: Hernandez_ContratoComercial.docx
+  - Ejemplo: Brandt_ContratoComercial.docx
 - **Equipos**: Apellidos1_Apellidos2_ContratoComercial.docx
-  - Ejemplo: Hernandez_AguileraRodriguez_ContratoComercial.docx
+  - Ejemplo: Brandt_RodríguezMorales_ContratoComercial.docx
 
 ## Preguntas Frecuentes
 
 - **¿Puedo usar recursos en línea como DeepL para verificar?** Sí, pero documenta todas las fuentes consultadas y explica por qué elegiste una traducción sobre otra.
-
 - **¿Qué hago si encuentro términos contradictorios en diferentes fuentes?** Excelente - documenta esta situación en tu análisis y explica cómo resolviste la contradicción.
-
 - **¿Debo enfocarme en términos técnicos o en aspectos legales?** Ambos son importantes. Selecciona el enfoque que más te interese pero justifica tu elección.
-
 - **¿Cómo me organizo para el trabajo en equipo?** Cada estudiante debe contribuir con un análisis completo de su sección. Pueden colaborar en introducción, conclusiones y formato final.
-
 - **¿Las fuentes deben ser académicas?** No necesariamente. Fuentes institucionales, gubernamentales y profesionales especializadas son apropiadas y a menudo más actualizadas.
 
 ## Consejos para el Éxito
