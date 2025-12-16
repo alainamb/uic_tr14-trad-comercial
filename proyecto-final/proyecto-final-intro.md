@@ -66,7 +66,7 @@ Es decir, el proyecto final constituye 20 puntos, 20 por ciento de tu nota final
 
 ---
 
-## 📥 Descargar esta Introducción al Proyecto Final
+## 📥 Descargar este Contenido
 ¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/proyecto-final/proyecto-final-intro.md) y descárgalo!
 
 ### 🤖 Prompts de Estudio con IA
