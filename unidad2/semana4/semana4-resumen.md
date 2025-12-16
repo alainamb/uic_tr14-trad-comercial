@@ -31,10 +31,9 @@ Esta semana nos enfocamos en la traducción de correspondencia con proveedores, 
   - Elaborar un glosario específico con los términos clave de la organización y su proceso de incorporación de proveedores
   - **Fecha de entrega**: Martes, 23 de septiembre
 - **Asistencia y participación** (2 puntos)
-- 
+
 ## Recursos para el Aprendizaje
-- Ejemplos de guías de procesos de onboarding de empresas multinacionales
-- Plantillas de este tipo de documentación en inglés y español
+- Ejemplos: Independent Contractor Agreements
 
 ---
 
