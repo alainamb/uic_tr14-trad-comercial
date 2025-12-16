@@ -36,11 +36,9 @@ Escucharemos la experiencia de Monika Aeschbacher, Arquitecta de Contenido Globa
 
 ### 🎧 Escucha: Entrevista con Monika Aeschbacher, "She Who Names All Things NetApp"
 
-> **[Reproducir entrevista en SoundCloud ↗](https://soundcloud.com/locessentials/industry-expert-qa-with-monika-aeschbacher-she-who-names-all-things-netapp-june-28-2018)**
+> **[Reproducir entrevista en SoundCloud ↗](https://soundcloud.com/locessentials/industry-expert-qa-with-monika-aeschbacher-she-who-names-all-things-netapp-june-28-2018)** | [Transcripción Completa de la Entrevista](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad2/semana6/Aeschbacher_SheWhoNamesAllThingsNetApp_Transcript.md)
 > 
 > *Duración: ~30 minutos | Entrevistadora: Alaina Brandt | Entrevistada: Monike Aeschabacher, NetApp Global Content Architect*
->
-> [Transcripción Completa de la Entrevista](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad2/semana6/Aeschbacher_SheWhoNamesAllThingsNetApp_Transcript.md)
 
 ### Preguntas de Escucha Dirigida
 
