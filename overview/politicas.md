@@ -119,7 +119,7 @@ El plagio de trabajos de otros estudiantes o de recursos en línea, así como la
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/overview/politicas.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IAG
-Copia las políticas descargadas y prueba estos prompts:
+Copia el contenido descargado y prueba estos prompts:
 - "Explica la diferencia entre uso apropiado e inapropiado de IA para este curso de traducción"
 - "¿Qué estrategias puedo usar para estar mejor preparado para la participación en clase?"
 - "¿Cómo debo organizar mi trabajo para maximizar mis oportunidades de crédito extra?"
