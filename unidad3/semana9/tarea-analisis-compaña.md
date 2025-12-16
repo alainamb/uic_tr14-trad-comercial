@@ -10,7 +10,7 @@ nav_order: 4
 
 **Valor**: 3 puntos
 
-**Modalidad**: Trabajo en equipo (2-3 personas)
+**Modalidad**: Trabajo individual o en equipo
 
 ## Descripción del Proyecto
 
@@ -46,13 +46,13 @@ Tu campaña debe cumplir estos requisitos:
 
 ## Estructura del Reporte
 
-### 1. Portada Profesional
+### 1. Información Administrativa
 
 Incluye:
 - **Título descriptivo** (ej. "Análisis de Adaptación Publicitaria: [Marca] en Mercados EE.UU. y México")
 - Nombres del equipo
 - Fecha
-- Curso: TR14, Universidad Intercontinental
+- Curso: TR14 Traducción Comercial
 
 ### 2. Introducción: Contexto de la Campaña
 
@@ -107,11 +107,10 @@ Tu página de obras consultadas debe incluir lo siguiente:
 
 ## Entregables
 
-- **Archivo**: ApellidosEquipo_AnalisisCampaña.docx
-  - Ejemplo: Garcia-Martinez-Lopez_AnalisisCampaña.docx
-- **Extensión**: 2 páginas de texto (sin incluir portada y referencias)
+- **Archivo**: Apellidos_AnalisisCampaña.docx
+  - Ejemplo: Brandt_RodríguezMorales_AnalisisCampaña.docx
+- **Extensión**: 2 páginas de texto (sin incluir las referencias)
 - **Capturas de pantalla** o imágenes de las piezas publicitarias analizadas
-- **Formato**: Arial o Calibri 11pt, interlineado 1.5, márgenes normales
 
 ## Criterios de Evaluación
 
@@ -124,24 +123,15 @@ Tu página de obras consultadas debe incluir lo siguiente:
 
 ## Preguntas Frecuentes
 
-**¿Podemos analizar una campaña en redes sociales solamente?**  
-Sí, pero asegúrense de tener variedad de tipos de contenido (posts, stories, reels, anuncios pagados) para poder analizar diferentes estrategias.
-
-**¿Qué pasa si la marca usa exactamente la misma campaña en ambos mercados sin traducir?**  
-Perfecto para análisis. Evalúen si esta decisión es apropiada y propongan cómo podría mejorarse con localización o transcreación.
-
-**¿Debemos proponer traducciones completas de todos los textos?**  
-No. Enfóquense en 2-3 ejemplos específicos para sus recomendaciones. La calidad del análisis es más importante que la cantidad.
-
-**¿Cómo sabemos qué etapa del recorrido del comprador es?**  
-Revisen el contenido: ¿Educa sobre un problema (Conciencia)? ¿Compara soluciones (Consideración)? ¿Tiene CTA directo para comprar (Decisión)?
-
-**¿Podemos usar el mismo análisis de voz de marca de la Tarea de Semana 2?**  
-Si analizaron la misma empresa, pueden referenciar ese análisis brevemente, pero el enfoque aquí es diferente: estrategias de traducción, no solo voz de marca.
+- **¿Podemos analizar una campaña en redes sociales solamente?** Sí, pero asegúrense de tener variedad de tipos de contenido (posts, stories, reels, anuncios pagados) para poder analizar diferentes estrategias.
+- **¿Qué pasa si la marca usa exactamente la misma campaña en ambos mercados sin traducir?** Perfecto para análisis. Evalúen si esta decisión es apropiada y propongan cómo podría mejorarse con localización o transcreación.
+- **¿Debemos proponer traducciones completas de todos los textos?** No. Enfóquense en 2-3 ejemplos específicos para sus recomendaciones. La calidad del análisis es más importante que la cantidad.
+- **¿Cómo sabemos qué etapa del recorrido del comprador es?** Revisen el contenido: ¿Educa sobre un problema (Conciencia)? ¿Compara soluciones (Consideración)? ¿Tiene CTA directo para comprar (Decisión)?
+- **¿Podemos usar el mismo análisis de voz de marca de la Tarea de Semana 2?**  Si analizaron la misma empresa, pueden referenciar ese análisis brevemente, pero el enfoque aquí es diferente: estrategias de traducción, no solo voz de marca.
 
 ---
 
-## 📥 Descarga esta Tarea
+## 📥 Descarga este Contenido
 
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-comercial-publicitaria/blob/main/unidad3/semana9/tarea-analisis-campaña.md) y descárgalo.
 
