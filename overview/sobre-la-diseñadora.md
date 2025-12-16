@@ -21,4 +21,4 @@ El curso TR14: Traducción Comercial y Publicitaria B>A (Inglés > Español) fue
 
 ---
 
-**Siguiente:** Descubre [Cómo Usar este Curso](../uso-del-curso/cómo-usar-estos-contenidos.md) para aprovecer al máximo estos materiales compatibles con IAG.
+**Siguiente:** Descubre [Cómo Usar estos Contenidos](cómo-usar-curso.md) para aprovechar al máximo estos materiales compatibles con IAG.
