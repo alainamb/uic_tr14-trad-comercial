@@ -38,9 +38,8 @@ Esta semana nos enfocamos en los fundamentos teóricos del comercio internaciona
 - **Asistencia y participación** (2 puntos)
 
 ## Recursos para el Aprendizaje
-- Presentación sobre comercio internacional
-- Ejemplos de documentos comerciales
-- Recursos terminológicos especializados en comercio internacional
+- "[Caveat Translator: Understanding the Legal Consequences of Errors in Professional Translation](https://www.jostrans.org/article/view/7291/6601)" por Jody Byrne
+- [Bilateral Trade Statistics for Mexico/United States](https://oec.world/en/profile/bilateral-country/mex/partner/usa) por OEC
 
 ---
 
