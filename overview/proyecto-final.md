@@ -102,4 +102,4 @@ Copia el contenido descargado y prueba estos prompts:
 
 ---
 
-**Siguiente:** Revisa las [Políticas del Curso](politicas.md) para entender las expectativas sobre asistencia, entrega de tareas, e integridad académica.
+**Siguiente:** Revisa las [Políticas Sugeridas del Curso](politicas.md) para entender las expectativas sobre asistencia, entrega de tareas, e integridad académica.
