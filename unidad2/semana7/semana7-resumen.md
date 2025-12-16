@@ -34,7 +34,7 @@ Esta semana nos enfocamos en la traducción de comunicaciones internas empresari
 - **Asistencia y participación** (2 puntos)
 
 ## Recursos para el Aprendizaje
-- Varios artículos sobre “employer branding”
+- Varios artículos sobre "employer branding"
 
 ---
 
