@@ -31,39 +31,6 @@ Esta primera tipología presenta los elementos básicos que conforman la mayorí
 
 **Tipos Adicionales de Contenido Web**: Infografías, videos (con subtítulos), podcasts embebidos, ebooks/recursos descargables, enlaces a cuentas sociales, formularios de contacto, testimonios de clientes, FAQs
 
-### Tipología 2: Tipos de Anuncios para Sitios Web
-
-Esta segunda tipología presenta formatos publicitarios específicos que aparecen en entornos digitales, desde banners estáticos hasta contenido patrocinado.
-
-| **Tipo de Anuncio** | **Descripción** | **Propósito** | **Desafíos** | **Dónde Encontrarlo** |
-|---------------------|-----------------|---------------|--------------|----------------------|
-| **Banners Display** | Anuncios rectangulares con elementos visuales y texto que aparecen en superior, laterales o inferior del sitio | Aumentar visibilidad de marca, generar clics, dirigir tráfico | Sufren de "ceguera de banner", CTR bajo (0.07%) | Superior, lateral, inferior de páginas web |
-| **Leaderboard** | Banner horizontal (728x90 px) en parte superior | Máxima visibilidad, alta tasa de impresiones | Precio elevado, espacio limitado | Parte superior de sitios web |
-| **Skyscraper** | Banner vertical (160x600 px) en lateral | Acompaña contenido, permanece visible al hacer scroll | Puede ser intrusivo | Barra lateral derecha o izquierda |
-| **Rectángulo Mediano** | Banner 300x250 px integrado en contenido | Balance entre visibilidad y no intrusión | Competencia por ubicación | Dentro del contenido o sidebar |
-| **Anuncios Intersticiales** | Anuncios de pantalla completa que aparecen en puntos de transición dentro de aplicación o sitio web | Alto impacto visual, captar atención completa | Muy intrusivos, Google los penaliza si son excesivos, aumentan tasa de rebote | Entre páginas, cambios de nivel en apps |
-| **Pop-ups** | Ventanas emergentes que aparecen al acceder a página web o realizar acción | Captura de emails, promociones urgentes, lead generation | Percibidos como molestos, bloqueados por navegadores | Sobre contenido de la página |
-| **Pop-unders** | Ventanas que se abren detrás de la ventana activa del navegador | Menos intrusivo que pop-ups, alta tasa de visualización | Difícil determinar origen, puede confundir usuario | Detrás de ventana principal |
-| **Publicidad Nativa** | Anuncios que se adaptan al diseño y estilo de la plataforma donde aparecen, integrándose naturalmente | Mayor aceptación, no interrumpen experiencia, mejor engagement | Debe etiquetarse claramente como patrocinado, requiere mayor inversión creativa | Feed de contenido, artículos recomendados |
-| **In-Feed Ads** | Anuncios que aparecen en flujo de contenido como parte de lista de publicaciones | Integración natural, alta relevancia contextual | Puede confundirse con contenido editorial | Redes sociales, sitios de noticias |
-| **Content Ads** | Contenido patrocinado que se muestra como lectura sugerida en medios editoriales | Atraer tráfico con contenido de valor, no venta directa | Requiere contenido de alta calidad, inversión en producción | Blogs, medios digitales |
-| **Anuncios de Búsqueda (SEM)** | Anuncios de texto en resultados de motores de búsqueda | Alta intención de compra, segmentación por keywords | Competencia por palabras clave, costo por clic elevado | Google, Bing resultados de búsqueda |
-| **Rich Media Ads** | Anuncios interactivos con video, audio, animación | Alto engagement, experiencia inmersiva | Tamaño de archivo grande, requiere mayor ancho de banda | Sitios premium, apps móviles |
-| **Video Ads In-Stream** | Anuncios de video que se muestran antes (pre-roll), durante (mid-roll) o después (post-roll) del contenido de video | Alto engagement, transmitir mensaje complejo | Usuario puede saltarlos, producción costosa | YouTube, plataformas de streaming |
-| **Video Ads Outstream** | Anuncios de video que aparecen fuera de reproductores de video, integrados en contenido de página | Expandir alcance más allá de contenido de video | Puede ser menos efectivo que in-stream | Artículos, feeds de noticias |
-| **Anuncios con Recompensa** | Usuarios ven voluntariamente anuncio de 15-30 segundos a cambio de incentivo dentro de app | Alto engagement voluntario, buena experiencia de usuario | Solo efectivo en apps con sistema de recompensas | Apps de juegos, microdramas |
-| **Retargeting/Remarketing** | Anuncios dirigidos a usuarios que ya interactuaron con la marca | Alta tasa de conversión, público cualificado | Puede percibirse como invasivo si es excesivo | Red de display, redes sociales |
-| **Anuncios en Redes Sociales** | Publicaciones promocionadas en plataformas sociales | Segmentación demográfica precisa, social proof | Algoritmos cambiantes, requiere contenido constante | Facebook, Instagram, LinkedIn, TikTok, X |
-| **Sponsored Content** | Publireportajes o contenido editorial patrocinado por marca específica | Brand awareness, posicionamiento como autoridad | Debe ser claramente identificado como patrocinado | Medios digitales, blogs especializados |
-
-### Lecturas Recomendadas
-
-- [46 Parts of a Website: From Header to Footer and Everything in Between](https://wordpress.com/blog/2025/03/25/parts-of-a-website) via WordPress.com
-- [What is display advertising? A beginner's guide](https://advertising.amazon.com/es-mx/library/guides/display-advertising#2) via Amazon Ads
-- [Los mejores ejemplos de anuncios de display](https://advertising.amazon.com/es-mx/library/guides/display-ads-examples#3) via Amazon Ads
-- [¿Qué es la publicidad en banners?](https://advertising.amazon.com/es-mx/library/guides/banner-advertising#1) via Amazon Ads
-- [Anuncio publicitario: qué es, tipos y ejemplos](https://www.tiendanube.com/blog/anuncios-publicitarios) via Tiendanube
-
 **Bonus - Historia del Internet en México** 🇲🇽
 
 - "[Los inicios de Internet en México](https://www.libros.unam.mx/digital/v6/59.pdf)" by Gloria Koenigsberger - Koenigsberger fue una de las pioneras que trajo internet a México en 1989 a través del Instituto de Astronomía
