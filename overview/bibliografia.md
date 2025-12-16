@@ -32,10 +32,13 @@ nav_order: 3
 - ISO 24495 on Plain Language
 
 ### Unidad 3: Comunicaciones Publicitarias
-**Recursos se añadirán durante las Semanas 9-14**
 
 ### Unidad 4: Conclusiones y Proyectos Finales
-**Recursos se añadirán durante las Semanas 15-17**
+- [Position Paper on Translation, Localization and Transcreation](https://en.fit-ift.org/position-and-discussion-papers/) por FIT
+- [Campaigns of the World](https://campaignsoftheworld.com/) website
+- Varios artículos sobre "marketing" y el "recorrido del comprador"
+- Varios artículos sobre la publicidad en el web
+- [Plantilla de Reporte de Transcreación Profesional](../unidad3/semana10/plantilla-reporte-transcreacion.md) adaptado de una plantilla en inglés por Ben Karl
 
 ## Cómo Contribuir a Nuestra Bibliografía
 
