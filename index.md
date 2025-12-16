@@ -55,7 +55,7 @@ Demostrarás competencias adquiridas mediante la traducción o transcreación de
 - **Revisa materiales antes de las clases** para participar efectivamente
 - **Comienza las tareas con anticipación** para resolver dudas
 - **Regla de 30 minutos**: Investiga independientemente, consulta compañeros, luego contacta al profesor
-- **Comunicación activa**: La profesora responde Teams/correo en días hábiles
+- **Comunicación activa**: El o la instructor responde en Teams/por correo en días hábiles
 
 ## 🤖 Uso de Materiales del Curso con Herramientas de IAG
 
