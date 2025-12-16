@@ -7,37 +7,17 @@ has_children: true
 
 # Descripción General del Curso
 
-Esta sección contiene información esencial del curso incluyendo la descripción completa del curso, objetivos de aprendizaje, estructura del curso, detalles del proyecto final, políticas y bibliografía. Esta página se enfoca en los primeros tres de estos elementos.
-
-## Descripción del Curso
-
-Te damos la más cordial bienvenida a la asignatura de Traducción Comercial y Publicitaria B>A (Inglés-Español). Este curso está diseñado para brindarte las competencias necesarias para abordar la traducción de textos empresariales y publicitarios del inglés al español, un campo especializado con gran demanda en el mercado laboral actual.
-
 A lo largo del semestre, exploraremos desde comunicaciones empresariales internas hasta campañas publicitarias, desarrollando habilidades tanto en traducción informativa como en transcreación. La asignatura combina fundamentos teóricos con una intensa práctica de traducción, permitiéndote comprender los conceptos de voz de marca, perfiles de audiencia y propósito comunicativo, elementos clave para tomar decisiones estratégicas en la traducción.
 
 Aprenderás a identificar y resolver problemas terminológicos, morfosintácticos y pragmáticos específicos de estos textos especializados, adaptando tus estrategias según el tipo de documento y su audiencia. Este curso representa una oportunidad para desarrollar competencias altamente valoradas por empresas internacionales, agencias de traducción y departamentos de marketing global, preparándote para ofrecer servicios profesionales de calidad en un mercado globalizado.
 
-## Objetivos del Aprendizaje
-
-Al finalizar esta asignatura, podrás:
-
-- **Traducir textos comerciales y publicitarios** del inglés al español, aplicando estrategias específicas según el tipo de documento y su función comunicativa
-
-- **Analizar la voz de marca, perfiles de audiencia y propósito comunicativo** como factores determinantes en la traducción especializada
-
-- **Resolver problemas terminológicos, morfosintácticos y pragmáticos** propios de textos empresariales y publicitarios
-
-- **Aplicar técnicas de transcreación** para adaptar mensajes publicitarios considerando aspectos culturales y emocionales
-
-- **Evaluar críticamente traducciones especializadas** utilizando criterios profesionales
-
-- **Desarrollar proyectos de traducción comercial y publicitaria** que cumplan con estándares profesionales
-
-- **Manejar adecuadamente recursos tecnológicos y documentales** específicos para este campo de especialización
-
 ## Estructura del Curso
 
-El curso se estructura en **cuatro unidades temáticas** que ofrecen una progresión lógica en el aprendizaje desde los fundamentos conceptuales hasta la aplicación práctica avanzada. Cada unidad combina fundamentos teóricos con ejercicios prácticos, análisis de casos reales y proyectos de traducción.
+El curso se estructura en **cuatro unidades temáticas** que ofrecen una progresión lógica en el aprendizaje desde los fundamentos conceptuales hasta la aplicación práctica avanzada. Cada unidad combina fundamentos teóricos con ejercicios prácticos, análisis de casos reales y proyectos de traducción/transcreación.
+
+**Duración del Curso**
+- **4 meses en total**  
+- **4 unidades** con un proyecto integrador de evaluación
 
 ### Unidad 1: Introducción a la Traducción Comercial y Publicitaria
 **Semanas 1-2**
@@ -66,13 +46,9 @@ El curso se estructura en **cuatro unidades temáticas** que ofrecen una progres
 **Semanas 15-17**
 - Semana 15: Introducción a los Proyectos Finales
 - Semana 16: Proyecto Final - Traducción (Examen Parcial 3)
-- Semana 17: Proyecto Final - Evaluaciones por Compañeros (Examen Final)
+- Semana 17: Proyectoos Finales - Evaluaciones de Compañeros (Examen Final)
 
-El curso concluye con un proyecto integrador de evaluación por pares que te permitirá desarrollar habilidades críticas fundamentales para tu crecimiento profesional mientras analizas el trabajo de tus compañeros y proporcionas retroalimentación constructiva.
-
-## Duración del Curso
-**4 meses en total**  
-**4 unidades** con un proyecto integrador de evaluación
+El curso concluye con un proyecto integrador de evaluación por pares que te permitirá desarrollar habilidades críticas fundamentales para tu crecimiento profesional mientras desarrollas un proyecto de tu elección y luego analizas el trabajo de tus compañeros y proporcionas retroalimentación constructiva.
 
 ---
 
