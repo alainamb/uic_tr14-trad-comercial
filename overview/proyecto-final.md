@@ -87,11 +87,11 @@ Esta unidad contiene:
 
 ---
 
-## 📥 Descargar Información del Proyecto Final
+## 📥 Descargar este Contenido
 
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/overview/proyecto-final.md) y descárgalo!
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/overview/proyecto-final.md) y descárgalo.
 
-### 🤖 Prompts de Estudio con IA
+### 🤖 Prompts de Estudio con IAG
 Copia la información del proyecto final y prueba estos prompts:
 - "Ayúdame a planificar mi cronograma personal para completar ambos componentes del proyecto final"
 - "¿Cómo puedo seleccionar un proyecto de traducción que demuestre mejor mis fortalezas?"
