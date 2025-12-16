@@ -115,4 +115,5 @@ Copia el contenido descargado y prueba estos prompts:
 
 ---
 
-**Siguiente:** 
+**Siguiente:** Conoce la [Diseñadora del Curso](sobre-la-diseñadora.md) y sobre sus deseos para ti como estudiante.
+
