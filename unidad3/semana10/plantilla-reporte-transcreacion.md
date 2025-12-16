@@ -397,7 +397,7 @@ Imagina que este reporte será leído por ejecutivos de Coca-Cola que tienen que
 
 ---
 
-## 📥 Descarga este Archivo
+## 📥 Descarga este Contenido
 
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-comercial-publicitaria/blob/main/unidad3/semana10/plantilla-reporte-transcreacion.md) y descárgalo.
 
