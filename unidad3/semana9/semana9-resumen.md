@@ -37,8 +37,8 @@ Esta semana nos enfocamos en los fundamentos teóricos de la publicidad y el mar
 - **Asistencia y participación** (2 puntos)
 
 ## Recursos para el Aprendizaje
-- Presentación sobre fundamentos de la publicidad y transcreación
-- Ejemplos de campañas publicitarias internacionales y sus adaptaciones
+- [Position Paper on Translation, Localization and Transcreation](https://en.fit-ift.org/position-and-discussion-papers/) por FIT
+- Varios artículos sobre "marketing" y el "recorrido del comprador"
 
 ---
 
