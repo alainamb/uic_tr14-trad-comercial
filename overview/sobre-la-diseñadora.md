@@ -15,9 +15,7 @@ Hola, mi nombre es Alaina Brandt y diseñé los contenidos de este curso. Soy tr
 
 Puedes conectar conmigo en LinkedIn: [https://www.linkedin.com/in/alainambrandt/](https://www.linkedin.com/in/alainambrandt/)
 
-## Un Mensaje para Estudiantes
-
-¡Mucho éxito en este curso! Espero que aprendan mucho sobre la traducción comercial, tanto en términos de traducción informativa como de transcreación persuasiva. Estas competencias les abrirán puertas en el mercado laboral y les permitirán trabajar con una amplia variedad de textos especializados. Disfruten el proceso de aprendizaje y no duden en experimentar con diferentes enfoques traductológicos.
+¡Mucho éxito en este curso! Espero que aprendan mucho sobre la traducción comercial, tanto en términos de traducción informativa como de transcreación persuasiva.
 
 ## Agradecimientos
 
