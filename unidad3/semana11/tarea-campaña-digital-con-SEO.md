@@ -10,9 +10,7 @@ nav_order: 3
 
 **Valor**: 10 puntos
 
-**Modalidad**: Trabajo en equipo (1-3 personas)
-
-**Fecha de entrega**: Martes, 28 de octubre
+**Modalidad**: Trabajo individual o en equipo
 
 ## Descripción del Proyecto
 
@@ -124,9 +122,9 @@ Lista todas las fuentes consultadas en formato consistente, incluyendo:
 ## Formato de Entrega
 
 ### Nomenclatura de Archivos
-- **Archivo**: PrimerosApellidos_digital-adaptation.docx
-  - Ejemplo para equipo de 3: Garcia-Martinez-Lopez_digital-adaptation.docx
-  - Ejemplo individual: Hernandez_digital-adaptation.docx
+- **Archivo**: Apellidos_digital-adaptation.docx
+  - Ejemplo para equipo de 3: Brandt_RodríguezMorales_Hernández_digital-adaptation.docx
+  - Ejemplo individual: Brandt_digital-adaptation.docx
 
 ### Especificaciones de Formato
 - **Formato**: MS Word (.docx)
@@ -135,8 +133,7 @@ Lista todas las fuentes consultadas en formato consistente, incluyendo:
 - **Márgenes**: Normales (2.54 cm)
 - **Extensión esperada**: 6-8 páginas (incluye portada y referencias)
 
-### Incluye una Portada Profesional con:
-- Logo de Whatnot (si es posible)
+### Incluye información administrativa como:
 - Título del proyecto
 - Nombres completos de integrantes del equipo
 - Curso: TR14: Traducción Comercial y Publicitaria B>A
@@ -190,7 +187,7 @@ Considera estas preguntas conforme trabajas en el proyecto:
 
 ---
 
-## 📥 Descarga este Archivo
+## 📥 Descarga este Contenido
 
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-comercial-publicitaria/blob/main/unidad3/semana11/tarea-campaña-digital-con-SEO.md) y descárgalo.
 
