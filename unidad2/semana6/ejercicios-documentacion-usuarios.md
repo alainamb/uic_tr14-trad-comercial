@@ -22,6 +22,8 @@ Al completar esta actividad, podrás:
 - **Utilizar** guías de estilo para mantener coherencia en traducciones técnicas
 - **Evaluar** la efectividad de diferentes enfoques para presentar información a usuarios
 
+---
+
 ## Lenguaje Claro en Documentación de Usuarios
 
 Cuando trabajamos en documentación para usuarios, un objetivo clave es presentar el contenido siguiendo los principios de lenguaje claro establecidos en [ISO 24495](https://www.iso.org/obp/ui/en/#iso:std:iso:24495:-1:ed-1:v1:en). Estos principios garantizan que la información sea verdaderamente útil para las personas usuarias.
@@ -70,6 +72,8 @@ A) Es posible que encuentre errores ocasionalmente
 B) Si aparece un mensaje de error, contacte al soporte técnico  
 C) Si ve "Error 404", verifique la URL y actualice la página. Si persiste, contacte soporte en ayuda@empresa.com  
 D) Los errores pueden resolverse siguiendo los procedimientos estándar
+
+---
 
 ## Pre-edición del Texto Fuente
 
@@ -124,6 +128,8 @@ B) Ambigüedades
 C) Errores gramaticales  
 D) Referencias culturalmente específicas
 
+---
+
 ## Guías de Estilo para Traducción
 
 Un aspecto importante para lograr los objetivos de lenguaje claro y hacer que el texto sea legible para las personas usuarias meta es que todo el texto presentado siga una guía de estilo de manera consistente.
@@ -143,11 +149,11 @@ Esta semana traducirás documentación para usuarios del software de traducción
 
 ---
 
-## 📥 Descarga esta Actividad
+## 📥 Descarga este Contenido
 
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad2/semana6/ejercicios-documentacion-usuarios.md) y descárgalo.
 
-### 🤖 Prompts de Estudio con IA
+### 🤖 Prompts de Estudio con IAG
 
 Copia el contenido descargado y prueba estos prompts:
 
