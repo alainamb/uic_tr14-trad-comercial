@@ -11,7 +11,6 @@ Te damos la más cordial bienvenida a la asignatura de Traducción Comercial y P
 ## 📱 Diseñadora del Curso
 **Instructora**: Alaina Brandt  
 **LinkedIn**: [linkedin.com/in/alainambrandt/](https://www.linkedin.com/in/alainambrandt/)<br>
-**Plataforma Sugerida**: Teams para preguntas rápidas y anuncios
 
 ## 🎯 Objetivos del Aprendizaje
 Al finalizar esta asignatura, podrás:
@@ -66,8 +65,5 @@ Todo el contenido del curso está escrito en [**formato Markdown**](https://docs
 
 ---
 
-### 🚀 ¿Listas y listos para aprender más sobre el curso?
+## 🚀 ¿Listas y listos para aprender más sobre el curso?
 Revisa la [Descripción General del Curso](overview/overview.md) incluyendo políticas y bibliografía, o comienza directamente con la [Unidad 1: Introducción a la Traducción Comercial y Publicitaria](unidad1/unidad1-resumen.md).
-
----
-*Esta guía de aprendizaje está sujeta a cambios. La profesora comunicará cualquier modificación a los estudiantes de manera oportuna.*
