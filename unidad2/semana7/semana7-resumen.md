@@ -34,8 +34,7 @@ Esta semana nos enfocamos en la traducción de comunicaciones internas empresari
 - **Asistencia y participación** (2 puntos)
 
 ## Recursos para el Aprendizaje
-- Lecturas seleccionadas sobre convenciones textuales en comunicación empresarial
-- Ejemplos de guías de estilo para comunicaciones corporativas
+- Varios artículos sobre “employer branding”
 
 ---
 
