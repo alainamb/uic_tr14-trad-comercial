@@ -86,8 +86,8 @@ Tu capacidad demostrada para integrar análisis de voz de marca, perfiles de aud
 
 ---
 
-## 📥 Descargar Conclusión del Proyecto Final
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/proyecto-final/proyecto-final-conclusion.md) y descárgalo!
+## 📥 Descargar este Contenido
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/proyecto-final/proyecto-final-conclusion.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IAG
 Copia la conclusión descargada y prueba estos prompts:
