@@ -34,8 +34,9 @@ Esta semana nos enfocamos en la traducción de contratos comerciales, explorando
 - **Asistencia y participación** (2 puntos)
 
 ## Recursos para el Aprendizaje
-- Lecturas selectas sobre traducción jurídica en el ámbito comercial
-- Glosarios de terminología jurídica bilingüe
+- "[Families of Law](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad2/semana5/referencias/Dammer_Albaneses_FamiliesOfLaw_2005.pdf)" por Dammer y Albanese
+- "[Clasificación y traducción al español de los binomios contractuales estadounidenses](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad2/semana5/referencias/Hernandez_Rodriguez_TraduccionDeBinomiosContractualesEEUU_2024.pdf)" por Hernández García y Rodríguez Muñoz
+- [T-MEC/USMCA](https://www.gob.mx/t-mec/acciones-y-programas/textos-finales-del-tratado-entre-mexico-estados-unidos-y-canada-t-mec-202730)
 
 ---
 
