@@ -8,9 +8,9 @@ nav_order: 3
 
 # Tarea: Traducción de Comunicación Interna
 
-**Puntos:** 3
+**Valor**: 3 puntos
 
-**Modalidad:** Grupos de 3 personas (algunas excepciones de grupos de 2)
+**Modalidad**: Trabajo individual o en equipo
 
 ## Descripción del proyecto
 
@@ -39,6 +39,11 @@ Traducirás materiales dirigidos a empleadas y empleados de NetApp, una empresa 
 1. **Revisión grupal:** Analicen juntos el contenido de "Life at NetApp"
 2. **Identificación de desafíos:** Detecten elementos culturales, terminológicos y estilísticos problemáticos
 3. **Planificación estratégica:** Acuerden enfoques para elementos específicos (nombres de programas, valores corporativos, etc.)
+
+```
+INSIDER'S NOTE: Think back to the 
+```
+
 
 ### Fase 2: Traducción colaborativa
 1. **Investigación terminológica:** Investiguen términos especializados de employer branding y diversidad corporativa
