@@ -16,6 +16,7 @@ nav_order: 3
 - [ASTM F2575: Standard Practice for Language Translation](https://store.astm.org/f2575-23e02.html) por ASTM International
 - [Generador de buyer personas](https://www.hubspot.es/make-my-persona) de HubSpot
 
+
 ### Unidad 2: Comunicaciones Informativas  
 - [Caveat Translator: Understanding the Legal Consequences of Errors in Professional Translation](https://www.jostrans.org/article/view/7291/6601) por Jody Byrne
 - [Bilateral Trade Statistics for Mexico/United States](https://oec.world/en/profile/bilateral-country/mex/partner/usa) por OEC
@@ -26,6 +27,7 @@ nav_order: 3
 - [Resumen de "Successful Terminology Management in Companies" por TEKOM](https://www.youtube.com/watch?v=hlf4MRD_tjE&list=PLwdpu8genXZanCIWP2mY6p-G8lk7KodIY&index=10&t=8s)
 - [Interview with Monika Aeschbacher, "She Who Names All Things NetApp"](https://soundcloud.com/locessentials/industry-expert-qa-with-monika-aeschbacher-she-who-names-all-things-netapp-june-28-2018) [podcast]
 - [Translation and localization project and process managers](https://www.degruyterbrill.com/document/doi/10.1515/9783110716047-008/html) por Alaina Brandt
+- [Tipología de errores de la traducción MQM (Multidimensional Quality Metrics)](https://themqm.org)
 - Software Lilt: Style Guide Template y contenido de su Knowledge Base
 - Varios artículos sobre "employer branding"
 - ISO 24495 on Plain Language
