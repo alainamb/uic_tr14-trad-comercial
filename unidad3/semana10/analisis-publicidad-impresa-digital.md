@@ -80,7 +80,7 @@ Al analizar tu campaña, reflexiona sobre:
 
 ---
 
-## Actividad 2: Análisis de Transcreación Internacional (Opcional) 🌍
+## Actividad 2: Análisis de Transcreación Internacional 🌍
 
 **Modalidad**: Exploración independiente con presentación opcional en clase
 
@@ -171,7 +171,7 @@ Cada campaña que analizas te prepara mejor para enfrentar tus propios desafíos
 
 ---
 
-## 📥 Descarga este Archivo
+## 📥 Descarga este Contenido
 
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-comercial-publicitaria/blob/main/unidad3/semana10/analisis-contrastivo.md) y descárgalo.
 
@@ -188,4 +188,4 @@ Copia el contenido descargado y prueba estos prompts:
 
 ---
 
-**Próxima actividad**: [Trabajo Asignado - Transcreación de Material Publicitario](tarea-transcreacion-coca-cola.md)
+**Próxima actividad**: [Tarea - Transcreación de Material Publicitario](tarea-transcreacion-coca-cola.md)
