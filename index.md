@@ -31,7 +31,7 @@ El curso se estructura en **cuatro unidades temáticas** que ofrecen una progres
 | Unidad 1: Introducción al Curso | 1-2 | Fundamentos de la traducción comercial y publicitaria, conceptos de voz de marca, perfiles de audiencia y propósito comunicativo |
 | Unidad 2: Comunicaciones Informativas y la Traducción | 3-8 | Traducción de documentos empresariales, desde comunicaciones internas hasta contratos comerciales y manuales técnicos, con énfasis en la precisión terminológica |
 | Unidad 3: Comunicaciones Persuasivas y la Transcreación | 9-14 | Transcreación de materiales promocionales para diferentes medios y plataformas, desde anuncios impresos hasta contenido digital y eslóganes, con enfoque en la adaptación cultural |
-| Unidad 4: Conclusiones y Proyectos Finales | 15-16 | Integración de conocimientos mediante proyectos de traducción especializados y evaluación por compañeros para desarrollar habilidades críticas |
+| Unidad 4: Conclusiones y Proyectos Finales | 15-17 | Integración de conocimientos mediante proyectos de traducción especializados y evaluación por compañeros para desarrollar habilidades críticas |
 
 ## 🎓 Evaluaciones Finales: Proyectos Integradores
 Demostrarás competencias adquiridas mediante la traducción o transcreación de un proyecto de tu elección (evaluación parcial final) y unas evaluaciones de la calidad de los proyectos de tus compañeras y compañeros en el curso.
