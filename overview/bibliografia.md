@@ -7,7 +7,11 @@ nav_order: 3
 
 # Bibliografía Selecta
 
-[Introduction]
+Esta bibliografía selecta reúne los recursos fundamentales que estructuran nuestro curso de traducción comercial y publicitaria. A diferencia de una bibliografía exhaustiva, esta colección prioriza materiales **accesibles, actuales y directamente aplicables** a tu desarrollo profesional.
+
+Cada recurso ha sido seleccionado por su capacidad para conectar teoría con práctica profesional. Encontrarás estándares internacionales, ejemplos auténticos de la industria, marcos conceptuales y herramientas prácticas que las empresas utilizan diariamente. Esta bibliografía vive y evoluciona—tus sugerencias pueden enriquecerla para futuras generaciones de traductoras y traductores.
+
+---
 
 ## Recursos Primarios para cada Unidad
 
@@ -29,20 +33,28 @@ nav_order: 3
 - [Tipología de errores de la traducción MQM (Multidimensional Quality Metrics)](https://themqm.org)
 - Software Lilt: Style Guide Template y contenido de su Knowledge Base
 - Varios artículos sobre "employer branding"
-- ISO 24495 on Plain Language
+- ISO 24495 sobre Lenguaje Claro
 
 ### Unidad 3: Comunicaciones Publicitarias
+- [Position Paper on Translation, Localization and Transcreation](https://en.fit-ift.org/position-and-discussion-papers/) por FIT
+- [Plantilla de Reporte de Transcreación Profesional](../unidad3/semana10/plantilla-reporte-transcreacion.md) adaptada de una plantilla en inglés por Ben Karl
+- [Free SEO training: SEO for beginners by Yoast](https://yoast.com/academy/free-seo-training-seo-for-beginners/)
+- [Predictions for how the language industry might evolve in the next 5 to 10 years](https://locessentials.com/blog/2024/09/19/predictions-for-how-the-language-industry-might-evolve-in-the-next-5-to-10-years) por Alaina Brandt
+- [Campaigns of the World](https://campaignsoftheworld.com/) website
+- Varios artículos sobre marketing y el recorrido del comprador
+- Varios artículos sobre métricas relacionadas con email marketing
+- Varios artículos sobre la publicidad en la web
+- Ejemplos de eslóganes
 
 ### Unidad 4: Conclusiones y Proyectos Finales
-- [Position Paper on Translation, Localization and Transcreation](https://en.fit-ift.org/position-and-discussion-papers/) por FIT
-- [Campaigns of the World](https://campaignsoftheworld.com/) website
-- Varios artículos sobre "marketing" y el "recorrido del comprador"
-- Varios artículos sobre la publicidad en el web
-- [Plantilla de Reporte de Transcreación Profesional](../unidad3/semana10/plantilla-reporte-transcreacion.md) adaptado de una plantilla en inglés por Ben Karl
+- Proyectos informativos y persuasivos de la elección de la clase
+- Plantilla para guiar la evaluación de los proyectos
+
+---
 
 ## Cómo Contribuir a Nuestra Bibliografía
 
-Conforme trabajemos en el curso, puedes descubrir recursos excelentes que beneficiarían a tus compañeros. Aquí te explicamos cómo sugerir adiciones:
+Conforme trabajemos en el curso, puedes descubrir recursos excelentes que beneficiarían a tus compañeras y compañeros. Aquí te explicamos cómo sugerir adiciones:
 
 ### Criterios de Calidad para Sugerencias
 - **Relevante:** Se conecta directamente con el contenido del curso y objetivos de aprendizaje
@@ -53,7 +65,7 @@ Conforme trabajemos en el curso, puedes descubrir recursos excelentes que benefi
 
 ### Cómo Enviar Sugerencias
 1. **Contacta a la Profesora Brandt** con tu sugerencia vía Teams o correo electrónico
-2. **Incluye:** Cita completa, breve descripción de relevancia, y qué unidad apoya
+2. **Incluye:** Cita completa, breve descripción de relevancia y qué unidad apoya
 3. **Línea de asunto:** "TR14 Sugerencia Bibliográfica - [Unidad/Tema]"
 
 ---
@@ -72,4 +84,4 @@ Copia el contenido descargado y prueba estos prompts:
 
 ---
 
-**Siguiente:** Conoce la [Diseñadora del Curso](sobre-la-diseñadora.md) y sobre sus deseos para ti como estudiante.
+**Siguiente:** Conoce la [Diseñadora del Curso](sobre-la-diseñadora.md) y sus deseos para ti como estudiante.
