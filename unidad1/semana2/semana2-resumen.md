@@ -25,7 +25,7 @@ Esta semana nos enfocamos en los conceptos fundamentales que guían la traducci�
 - Ejercicios prácticos: Creación de buyer personas para diferentes sectores empresariales
 - Presentación del trabajo: Perfil Corporativo (proyecto de la semana)
 
-### Tareas Asignadas y Evaluaciones
+## Tareas Asignadas y Evaluaciones
 - **Perfil Corporativo** (3 puntos)
   - Seleccionar una empresa internacional con presencia en mercados hispanohablantes
   - Analizar su voz de marca identificando características distintivas
@@ -37,11 +37,7 @@ Esta semana nos enfocamos en los conceptos fundamentales que guían la traducci�
 - **Asistencia y participación** (2 puntos)
 
 ## Recursos para el Aprendizaje
-- Presentación sobre voz de marca y perfiles de audiencia
-- HubSpot Buyer Personas: Guía y plantillas
-- Casos de estudio de voz de marca en empresas multinacionales
-- Ejemplos de análisis de propósito comunicativo
-- Plantillas para creación de buyer personas
+- [Generador de buyer personas](https://www.hubspot.es/make-my-persona) de HubSpot
 
 ---
 
