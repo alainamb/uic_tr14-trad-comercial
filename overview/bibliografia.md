@@ -101,11 +101,11 @@ Accesible: Disponible en biblioteca universitaria y formato digital.
 
 ---
 
-## 📥 Descargar Bibliografía
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/overview/bibliografia.md) y descárgalo!
+## 📥 Descargar este Contenido
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/overview/bibliografia.md) y descárgalo.
 
-### 🤖 Prompts de Estudio con IA
-Copia la bibliografía descargada y prueba estos prompts:
+### 🤖 Prompts de Estudio con IAG
+Copia el contenido descargado y prueba estos prompts:
 - "Ayúdame a encontrar recursos confiables sobre transcreación para [tema específico de la unidad]"
 - "¿Qué bases de datos debo priorizar para investigación en traducción comercial?"
 - "¿Cómo puedo evaluar si un artículo sobre publicidad es confiable y actual?"
