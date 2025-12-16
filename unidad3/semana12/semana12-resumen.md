@@ -34,8 +34,7 @@ Esta semana nos enfocamos en las características específicas de los boletines 
 - **Asistencia y participación** (2 puntos)
 
 ## Recursos para el Aprendizaje
-- Guía de redacción persuasiva para correos electrónicos
-- Recursos sobre normativas y mejores prácticas en marketing digital
+-	Varios artículos sobre métricos relacionados con email marketing
 
 ---
 
