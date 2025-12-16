@@ -7,33 +7,28 @@ nav_order: 3
 
 # Bibliografía Selecta
 
-**Nota:** Esta bibliografía se construirá de manera colaborativa a lo largo del semestre conforme descubramos contenido de calidad a través de nuestra investigación y trabajo del curso. Como esta es la primera iteración de TR14, añadiremos recursos valiosos semana a semana conforme los encontremos en discusiones de clase, tareas e investigación independiente.
-
-Se anima a los estudiantes a sugerir recursos de alta calidad que descubran durante su trabajo, y las adiciones más valiosas se incorporarán a nuestra colección en crecimiento.
-
-## Bibliografía Básica
-
-### Recursos Fundamentales
-- Presentaciones instructivas que explican conceptos fundamentales del curso de manera estructurada y didáctica
-- Muestras reales o modelos de diversos tipos de documentos comerciales y publicitarios que ilustran la aplicación práctica de los conceptos
-- Textos académicos o profesionales seleccionados que profundizan en aspectos teóricos y prácticos de la traducción comercial y publicitaria
-
-## Bibliografía Complementaria
-
-### Recursos Especializados
-- Compilaciones de términos especializados bilingües que facilitan la precisión y consistencia en las traducciones del ámbito comercial
-- Documentos instructivos y formatos prediseñados que ofrecen directrices metodológicas y estructuras para crear traducciones efectivas
-- Herramientas y materiales complementarios que apoyan aspectos específicos del proceso de traducción y adaptación en contextos comerciales
+[Introduction]
 
 ## Recursos por Unidad
 
-*Esta sección se actualizará semanalmente con recursos específicos para cada unidad conforme progresemos en el curso.*
-
 ### Unidad 1: Introducción a la Traducción Comercial y Publicitaria
-**Recursos se añadirán durante las Semanas 1-2**
+- [Standards-Based Structured Translation Specifications](https://www.tranquality.info/specs/) por Tranquality
+- [ASTM F2575: Standard Practice for Language Translation](https://store.astm.org/f2575-23e02.html) por ASTM International
+- [Generador de buyer personas](https://www.hubspot.es/make-my-persona) de HubSpot
 
 ### Unidad 2: Comunicaciones Informativas  
-**Recursos se añadirán durante las Semanas 3-8**
+- [Caveat Translator: Understanding the Legal Consequences of Errors in Professional Translation](https://www.jostrans.org/article/view/7291/6601) por Jody Byrne
+- [Bilateral Trade Statistics for Mexico/United States](https://oec.world/en/profile/bilateral-country/mex/partner/usa) por OEC
+- Ejemplos: [Independent Contractor Agreements](https://github.com/alainamb/uic_tr14-trad-comercial/tree/main/unidad2/semana4/referencias)
+- [Families of Law](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad2/semana5/referencias/Dammer_Albaneses_FamiliesOfLaw_2005.pdf) por Dammer y Albanese
+- [Clasificación y traducción al español de los binomios contractuales estadounidenses](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad2/semana5/referencias/Hernandez_Rodriguez_TraduccionDeBinomiosContractualesEEUU_2024.pdf) por Hernández García y Rodríguez Muñoz
+- [T-MEC/USMCA](https://www.gob.mx/t-mec/acciones-y-programas/textos-finales-del-tratado-entre-mexico-estados-unidos-y-canada-t-mec-202730)
+- [Resumen de "Successful Terminology Management in Companies" por TEKOM](https://www.youtube.com/watch?v=hlf4MRD_tjE&list=PLwdpu8genXZanCIWP2mY6p-G8lk7KodIY&index=10&t=8s)
+- [Interview with Monika Aeschbacher, "She Who Names All Things NetApp"](https://soundcloud.com/locessentials/industry-expert-qa-with-monika-aeschbacher-she-who-names-all-things-netapp-june-28-2018) [podcast]
+- [Translation and localization project and process managers](https://www.degruyterbrill.com/document/doi/10.1515/9783110716047-008/html) por Alaina Brandt
+- Software Lilt: Style Guide Template y contenido de su Knowledge Base
+- Varios artículos sobre "employer branding"
+- ISO 24495 on Plain Language
 
 ### Unidad 3: Comunicaciones Publicitarias
 **Recursos se añadirán durante las Semanas 9-14**
