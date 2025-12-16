@@ -36,9 +36,9 @@ Esta semana nos enfocamos en la traducción de documentación técnica y comunic
 ## Recursos para el Aprendizaje
 - [Resumen de "Successful Terminology Management in Companies" por TEKOM](https://www.youtube.com/watch?v=hlf4MRD_tjE&list=PLwdpu8genXZanCIWP2mY6p-G8lk7KodIY&index=10&t=8s)
 - [Interview with Monika Aeschbacher, "She Who Names All Things NetApp"](https://soundcloud.com/locessentials/industry-expert-qa-with-monika-aeschbacher-she-who-names-all-things-netapp-june-28-2018) [podcast]
-- ISO 24495 on Plain Language
 - [Translation and localization project and process managers](https://www.degruyterbrill.com/document/doi/10.1515/9783110716047-008/html) por Alaina Brandt
 - Software Lilt: Style Guide Template y contenido de su Knowledge Base
+- ISO 24495 on Plain Language
 
 ---
 
