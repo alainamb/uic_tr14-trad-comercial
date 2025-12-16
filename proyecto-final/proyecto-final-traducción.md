@@ -5,13 +5,11 @@ parent: Proyecto Final
 nav_order: 1
 ---
 
-# Proyecto Final: Traducción Profesional
+# Proyecto Final: Traducción Profesional (Examen Parcial 3)
 
-**Valor**: 10 puntos (Tercer Examen Parcial)
+**Valor**: 10 puntos
 
-**Modalidad**: Trabajo en equipo (2-3 personas)
-
-**Fecha de entrega**: Jueves, 27 de noviembre
+**Modalidad**: Trabajo individual o en equipo
 
 ## Descripción del Proyecto
 
@@ -79,7 +77,7 @@ Tu reporte debe funcionar como **introducción a tu proyecto**—cuando se eval�
 
 #### Estructura del Reporte
 
-**Portada**
+**Información Administrativa**
 - Nombre de la empresa/proyecto
 - Tipo de proyecto (Informativo o Persuasivo)
 - Nombres completos de integrantes del equipo
@@ -186,15 +184,15 @@ Empresa Proyecto - Apellidos
 ```
 
 **Ejemplos**:
-- `Stripe Informativo - Hernandez-Lopez-Ruiz`
-- `Eight Sleep Persuasivo - Garcia-Martinez`
+- `Stripe Informativo - Brandt_RodríguezMorales`
+- `Eight Sleep Persuasivo - Brandt_RodríguezMorales_Hernández`
 
 **Paso 2: Subir tus archivos a la carpeta**
 
 Tu carpeta debe contener:
 
 1. **Contenido fuente en contexto** (PDF o imágenes)
-   - Ejemplo: `EightSleep_SourceContext.pdf`
+   - Ejemplo: `EightSleep_ContextoFuente.pdf`
 
 2. **Texto fuente editable** (Word o markdown)
    - Ejemplo: `EightSleep_TextoFuente_EN-US.docx`
@@ -207,7 +205,7 @@ Tu carpeta debe contener:
 
 **Nombres de archivo sugeridos**:
 ```
-NombreEmpresa_SourceContext.pdf
+NombreEmpresa_ContextoFuente.pdf
 NombreEmpresa_TextoFuente_EN-US.docx
 NombreEmpresa_Traduccion_ES-MX.docx
 NombreEmpresa_Reporte.docx
@@ -256,7 +254,7 @@ Una vez que tu carpeta esté completa, crea una publicación en el canal `Proyec
 | **Reporte** | 3 | **Justificación clara** de selección de contenido<br>**Análisis completo** de especificaciones/audiencia apropiado al tipo de proyecto<br>**Tabla terminológica** con justificaciones sólidas<br>**Explicación fundamentada** de decisiones de traducción<br>**Reflexión genuina** sobre aprendizajes<br>**Obras consultadas** documentadas apropiadamente |
 | **Contenido Fuente** | 3 | **Preparación profesional** que facilita evaluación<br>**Contexto visual** proporcionado (PDF/capturas)<br>**Archivo editable** limpio y organizado<br>**Alcanza requisito de extensión** (900 palabras informativo / 300-500 persuasivo)<br>**Coherencia temática** (para proyectos persuasivos con múltiples textos) |
 | **Traducción/Transcreación** | 3 | **Para informativos**: Precisión terminológica, claridad, legibilidad profesional<br>**Para persuasivos**: Impacto emocional equivalente, voz de marca consistente, resonancia cultural<br>**Correspondencia general** con propósito comunicativo<br>**Calidad técnica** apropiada al tipo de texto |
-| **Pulido Profesional** | 1 | **Organización clara** de carpeta y archivos<br>**Nomenclatura consistente** y profesional<br>**Libre de errores** obvios (typos, formato inconsistente)<br>**Sin evidencia** de copy-paste descuidado de IA<br>**Presentación** que inspira confianza profesional |
+| **Organización y Pulido Profesional** | 1 | **Publicación en Teams** completa y llamativa<br>**Organización clara** de carpeta y archivos<br>**Nomenclatura consistente** y profesional<br>**Libre de errores** obvios (typos, formato inconsistente)<br>**Sin evidencia** de copy-paste descuidado de IA<br>**Presentación** que inspira confianza profesional |
 | **Total** | **10** | |
 
 ### Notas sobre Evaluación
@@ -277,31 +275,20 @@ Una vez que tu carpeta esté completa, crea una publicación en el canal `Proyec
 
 ## Preguntas Frecuentes
 
-**¿Podemos cambiar de tipo de proyecto después de empezar?**  
-Preferiblemente no, pero consulta con la profesora si surge un problema significativo.
-
-**¿Qué pasa si queremos trabajar con una empresa que ya tiene contenido en español?**  
-Evita empresas con presencia hispana establecida. El objetivo es practicar creación de localización nueva.
-
-**¿Podemos usar contenido que ya tradujimos en tareas anteriores?**  
-No. Este debe ser contenido nuevo que no hayas trabajado previamente en el curso.
-
-**¿Necesitamos permiso de la empresa para traducir su contenido?**  
-No para propósitos educativos. Sin embargo, no publiques tu trabajo fuera del contexto del curso sin permiso.
-
-**¿Qué tan formal debe ser el reporte?**  
-Profesional pero directo. Escribe como si presentaras tu metodología a un cliente o empleador.
-
-**¿Podemos incluir mockups visuales de nuestro trabajo?**  
-Sí, si agregas valor—pero no es requerido. Prioriza la calidad del contenido sobre elementos visuales.
+- **¿Podemos cambiar de tipo de proyecto después de empezar?** Preferiblemente no, pero consulta con la profesora si surge un problema significativo.
+- **¿Qué pasa si queremos trabajar con una empresa que ya tiene contenido en español?** Evita empresas con presencia hispana establecida. El objetivo es practicar creación de localización nueva.
+- **¿Podemos usar contenido que ya tradujimos en tareas anteriores?** No. Este debe ser contenido nuevo que no hayas trabajado previamente en el curso.
+- **¿Necesitamos permiso de la empresa para traducir su contenido?** No para propósitos educativos. Sin embargo, no publiques tu trabajo fuera del contexto del curso sin permiso.
+- **¿Qué tan formal debe ser el reporte?** Profesional pero directo. Escribe como si presentaras tu metodología a un cliente o empleador.
+- **¿Podemos incluir mockups visuales de nuestro trabajo?** Sí, si agregas valor—pero no es requerido. Prioriza la calidad del contenido sobre elementos visuales.
 
 ---
 
-## 📥 Descarga esta Página
+## 📥 Descarga este Contenido
 
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/proyecto-final/proyecto-final-traduccion.md) y descárgalo.
 
-### 🤖 Prompts de Estudio con IA
+### 🤖 Prompts de Estudio con IAG
 
 Copia el contenido descargado y prueba estos prompts:
 
