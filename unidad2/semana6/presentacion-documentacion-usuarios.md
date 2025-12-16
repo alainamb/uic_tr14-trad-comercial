@@ -34,21 +34,24 @@ La documentación para usuarios representa uno de los géneros más complejos en
 
 Escucharemos la experiencia de Monika Aeschbacher, Arquitecta de Contenido Global en NetApp, quien gestiona terminología para más de 10,000 empleados y empleadas en una empresa tecnológica multinacional. 
 
-### 🎧 Escucha: Entrevista con Monika Aeschbacher, "She Who Names All Things NetApp"
+### Podcast: Interview with Monika Aeschbacher, "She Who Names All Things NetApp"
 
 > **[Reproducir entrevista en SoundCloud ↗](https://soundcloud.com/locessentials/industry-expert-qa-with-monika-aeschbacher-she-who-names-all-things-netapp-june-28-2018)** | [Transcripción Completa de la Entrevista](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad2/semana6/Aeschbacher_SheWhoNamesAllThingsNetApp_Transcript.md)
 > 
 > *Duración: ~30 minutos | Entrevistadora: Alaina Brandt | Entrevistada: Monike Aeschabacher, NetApp Global Content Architect*
 
 ### Preguntas de Escucha Dirigida
-
 Mientras escuchas la entrevista, presta atención específica a estos temas relacionados con la traducción comercial:
-
 1. ¿Cómo describe Monika la importancia de la consistencia terminológica para los objetivos empresariales?
 2. ¿Qué departamentos y roles participan en las decisiones terminológicas según Monika?
 3. ¿Qué herramientas y sistemas utilizan para gestionar la terminología a nivel empresarial?
 4. ¿Cuáles son los mayores desafíos que menciona en la gestión de terminología para una empresa de 10,000 empleados?
 5. ¿Qué consejos específicos ofrece para quienes trabajan con gestión terminológica?
+
+### Mirando Hacia Adelante
+La próxima semana traducirás contenido dirigido a empleados potenciales y actuales de NetApp. Este contenido pondrá a prueba los límites entre la comunicación informativa y la persuasiva, dada la creatividad empleada en la denominación de programas para el personal en NetApp y el deseo de cultivar relaciones que resulten en empleados que se conviertan en embajadores de marca. Esto va más allá de la traducción de comunicaciones informativas que buscan transmitir información hacia comunicaciones que pretenden persuadir.
+
+**Pregunta clave:** Mientras escuchas a Monika, considera: ¿Cómo podrían adaptarse los flujos de trabajo terminológicos utilizados para contenido informativo cuando se trabaja con terminología más creativa la próxima semana?
 
 ### 🗳️ Encuesta Post-Entrevista
 
