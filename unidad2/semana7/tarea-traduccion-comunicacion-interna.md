@@ -19,9 +19,8 @@ Traducirás materiales dirigidos a empleadas y empleados de NetApp, una empresa 
 ## Preparación para el proyecto
 
 ### Organización grupal
-- **Grupos asignados en clase:** No pueden cambiar de grupo sin autorización
-- **Tamaño máximo:** 3 personas (algunas excepciones de 2 personas)
-- **Asignación:** Asignan roles teniendo en cuenta que cambiarán sus roles para cada proyecto (investigación terminológica, traducción, revisión)
+- **Tamaño sugerido:** 2 o 3 personas
+- **Asignación de roles:** Seguir cambiándose de rol del que tuvieron en la asignación anterior  (investigación terminológica, traducción, revisión)
 
 ### Archivo para traducir
 
