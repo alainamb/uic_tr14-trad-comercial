@@ -37,8 +37,7 @@ Esta semana nos enfocamos en la transcreación de eslóganes, lemas y textos cre
 - **Asistencia y participación** (2 puntos)
 
 ## Recursos para el Aprendizaje
-- Lecturas selectas sobre la transcreación de eslóganes
-- Colección de eslóganes internacionales y sus adaptaciones
+- Ejemplos de eslóganes
 
 ---
 
