@@ -33,8 +33,9 @@ Esta semana nos enfocamos en las características distintivas de la publicidad i
 - **Asistencia y participación** (2 puntos)
 
 ## Recursos para el Aprendizaje
-- Lecturas selectas sobre el marketing y la transcreación
-- Ejemplos de materiales de marketing en forma impreso y digital
+- [Plantilla de Reporte de Transcreación Profesional](../unidad3/semana10/plantilla-reporte-transcreacion.md) adaptado de una plantilla en inglés por Ben Karl
+- [Campaigns of the World](https://campaignsoftheworld.com/) website
+- Varios artículos sobre la publicidad en el web
 
 ---
 
