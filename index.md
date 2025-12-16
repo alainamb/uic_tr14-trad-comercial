@@ -68,7 +68,7 @@ Demostrarás competencias adquiridas mediante la **evaluación crítica de tradu
 
 ---
 
-## 🤖 Uso de Materiales del Curso con Herramientas de IA
+## 🤖 Uso de Materiales del Curso con Herramientas de IAG
 
 Todo el contenido del curso está escrito en [**formato Markdown**](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) para facilitar la integración con herramientas de aprendizaje de IA. El contenido en formato markdown puede ser mejor "entendido" por las herramientas de IA generativa, ya que la jerarquía y el énfasis del contenido se comunica claramente a través de símbolos.
 
