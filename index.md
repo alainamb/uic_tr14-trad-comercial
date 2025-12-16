@@ -6,7 +6,7 @@ nav_order: 1
 
 # TR14: Traducción Comercial y Publicitaria B>A (Inglés > Español)
 
-Te damos la más cordial bienvenida a la asignatura de Traducción Comercial y Publicitaria B>A (Inglés-Español). Este curso está diseñado para brindarte las competencias necesarias para abordar la traducción de textos empresariales y publicitarios del inglés al español, un campo especializado con gran demanda en el mercado laboral actual.
+Te damos la más cordial bienvenida a la asignatura de Traducción Comercial y Publicitaria B>A (Inglés-Español). Este curso está diseñado para brindarte las competencias necesarias para abordar la traducción y la transcreación de textos empresariales y publicitarios del inglés al español, un campo especializado con gran demanda en el mercado laboral actual.
 
 ## 📱 Comunicación del Curso
 **Profesora**: Alaina Brandt  
