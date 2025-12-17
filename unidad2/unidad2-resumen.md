@@ -35,17 +35,11 @@ Durante esta unidad, cubriremos estos temas:
 Al finalizar esta unidad, podrás:
 
 - **Identificar y clasificar** los diferentes tipos de textos comerciales informativos
-
 - **Reconocer la terminología especializada** del comercio internacional
-
 - **Aplicar estrategias específicas** para la traducción de documentos comerciales
-
 - **Traducir comunicaciones internas empresariales** manteniendo su función y propósito
-
 - **Manejar adecuadamente los aspectos legales y formales** de contratos comerciales
-
 - **Adaptar la terminología y el estilo** según el tipo de documento y su audiencia
-
 - **Resolver problemas morfosintácticos específicos** de la traducción comercial inglés-español
 
 ## Cronograma Semanal

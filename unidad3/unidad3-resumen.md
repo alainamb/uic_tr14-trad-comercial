@@ -34,19 +34,12 @@ Durante esta unidad, cubriremos estos temas:
 Al finalizar esta unidad, podrás:
 
 - **Comprender y aplicar el concepto de transcreación** en textos publicitarios
-
 - **Identificar las características específicas** de los distintos tipos de textos publicitarios
-
 - **Adaptar mensajes publicitarios** considerando aspectos culturales y emocionales
-
 - **Desarrollar propuestas creativas** que mantengan la función persuasiva del texto original
-
 - **Aplicar estrategias específicas** para la traducción de eslóganes, lemas y textos creativos
-
 - **Adaptar contenidos** según las necesidades del recorrido del comprador
-
 - **Manejar adecuadamente** los recursos retóricos y persuasivos en español
-
 - **Evaluar la efectividad** de una traducción publicitaria según su propósito comunicativo
 
 ## Cronograma Semanal

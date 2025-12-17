@@ -34,15 +34,10 @@ Durante esta unidad, cubriremos estos temas:
 Al finalizar esta unidad, podrás:
 
 - **Identificar las características distintivas** de la traducción comercial y publicitaria como campos especializados
-
 - **Reconocer oportunidades profesionales** en este campo especializado con gran demanda laboral
-
 - **Analizar la voz de marca** en textos corporativos y publicitarios, comprendiendo su función estratégica
-
 - **Identificar los perfiles de audiencia** y su importancia crucial en la traducción especializada
-
 - **Determinar el propósito comunicativo** de un texto empresarial o publicitario
-
 - **Relacionar estos elementos conceptuales** con las decisiones estratégicas en la traducción especializada
 
 ## Cronograma Semanal
