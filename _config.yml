@@ -5,7 +5,7 @@ description: "TR14: Traducción Comercial ENG>ESP"
 remote_theme: just-the-docs/just-the-docs
 
 # Color scheme (optional)
-color_scheme: dark
+color_scheme: uic
 
 # Enable search
 search_enabled: true

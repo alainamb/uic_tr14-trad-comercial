@@ -1,0 +1,46 @@
+// Universidad Intercontinental Color Scheme
+
+// Primary colors - UIC green
+$body-background-color: #fdfcf8;           // Warm off-white background
+$sidebar-color: #1a472a;                   // Deep UIC green
+$link-color: #2d5f3f;                      // Lighter green for links
+$btn-primary-color: #1a472a;               // Primary button green
+
+// Accent and secondary
+$border-color: #e5e1d8;                    // Subtle warm border
+$code-background-color: #fdfcf8;           // Matches body background
+$table-background-color: #ffffff;          // Clean white for tables
+
+// Text colors
+$body-text-color: #2c2c2c;                 // Primary text
+$body-heading-color: #1a472a;              // Headings in UIC green
+$nav-child-link-color: #5a5a5a;            // Secondary navigation text
+
+// Interactive elements
+$focus-color: #d4af37;                     // Gold accent for focus states
+$btn-primary-color: #1a472a;
+$base-button-color: #2d5f3f;
+
+// Feedback colors
+$green-000: #e8f5e9;                       // Success background
+$green-100: #2d5f3f;                       // Success text
+$red-000: #fce4e4;                         // Error background
+$red-100: #c7493a;                         // Error text
+
+// Search and navigation
+$search-background-color: #ffffff;
+$search-result-preview-color: #5a5a5a;
+
+// Custom typography
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@400;600;700&family=Crimson+Pro:ital,wght@0,400;0,600;1,400&display=swap');
+
+body {
+  font-family: 'Crimson Pro', 'Georgia', serif;
+  line-height: 1.7;
+}
+
+h1, h2, h3, h4, h5, h6,
+.site-title,
+.site-nav {
+  font-family: 'Archivo', -apple-system, sans-serif;
+}
