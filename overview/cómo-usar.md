@@ -7,13 +7,13 @@ nav_order: 5
 
 # Cómo Usar los Contenidos de este Curso
 
-Este sitio del curso representa un nuevo enfoque para la entrega de contenido educativo en la era de la IA. En lugar de luchar contra la realidad de que los estudiantes utilizan cada vez más sistemas de IA generativa para tutoría y apoyo al aprendizaje, este proyecto lo abraza.
+Este curso ha sido diseñado para minimizar las barreras educativas y promover el acceso abierto al conocimiento en la era de la inteligencia artificial generativa (IAG).
 
 ---
 
 ## Diseñando para Consumo Humano y de IAG
 
-Todo el contenido instruccional está escrito en Markdown y está disponible gratuitamente por varias razones clave:
+Todo el contenido instruccional está escrito en [**formato Markdown**](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) y está disponible gratuitamente por varias razones clave:
 
 - **Realidad de Integración con IAG**: Los estudiantes copiarán el contenido del curso en sistemas de IAG independientemente de las restricciones de formato
 - **Accesibilidad**: La información debe ser fácilmente accesible tanto para humanos que leen en la web como para sistemas de IAG que procesan el contenido
@@ -28,7 +28,7 @@ Este proyecto refleja la creencia de que las barreras educativas deben ser minim
 
 ## Uso de Materiales del Curso SIN una Cuenta de GitHub
 
-Todo el contenido del curso está escrito en [**formato Markdown**](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) para facilitar la integración con herramientas de aprendizaje de IA. El contenido en formato markdown puede ser mejor "entendido" por las herramientas de IA generativa, ya que la jerarquía y el énfasis del contenido se comunica claramente a través de símbolos.
+Como se ha indicado anteriormente, todo el contenido del curso está escrito en formato Markdown (.md) para facilitar la integración con herramientas de aprendizaje de IA. El contenido en formato markdown puede ser mejor "entendido" por las herramientas de IA generativa, ya que la jerarquía y el énfasis del contenido se comunica claramente a través de símbolos.
 
 Para descargar cualquier lección como archivo markdown para usar con herramientas de IAG:
 
