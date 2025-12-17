@@ -15,7 +15,7 @@ Hola, mi nombre es Alaina Brandt y diseñé los contenidos de este curso. Soy tr
 
 Puedes conectar conmigo en LinkedIn: [https://www.linkedin.com/in/alainambrandt/](https://www.linkedin.com/in/alainambrandt/)
 
-¡Mucho éxito en este curso! Espero que aprendan mucho sobre la traducción comercial, tanto en términos de traducción informativa como de transcreación persuasiva.
+¡Les deseo mucho éxito en este curso! Espero que aprendan mucho sobre la traducción comercial, tanto en términos de traducción informativa como de transcreación persuasiva.
 
 ## Agradecimientos
 
