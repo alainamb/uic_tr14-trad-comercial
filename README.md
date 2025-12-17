@@ -30,6 +30,8 @@ Este proyecto refleja la creencia de que las barreras educativas deben ser minim
 │   ├── overview.md          # Descripción y estructura del curso
 │   ├── proyecto-final.md    # Proyecto final de evaluación por pares
 │   ├── politicas.md         # Asistencia, trabajos tardíos, uso de IA
+│   ├── la-diseñadora.md     # Biografía de la diseñadora del curso
+│   ├── cómo-usar.md         # Cómo usar los contenidos sin o con GitHub
 │   └── bibliografia.md      # Recursos y lecturas especializadas
 ├── unidad1/                 # Introducción a la Traducción Comercial y Publicitaria
 │   ├── unidad1-resumen.md   # Fundamentos y conceptos clave
@@ -42,7 +44,7 @@ Este proyecto refleja la creencia de que las barreras educativas deben ser minim
 │   │   └── trabajos-trad-comercial.md
 │   └── semana2/             # Voz de marca y perfiles de audiencia
 │       ├── semana2-resumen.md
-│       └── analisis-voz-marca.md
+│       └── presentacion-voz-audiencia.md
 ├── unidad2/                 # Comunicaciones Informativas (Semanas 3-8)
 │   ├── unidad2-resumen.md   # Textos comerciales informativos
 │   ├── semana3/             # Fundamentos del comercio internacional
@@ -51,19 +53,19 @@ Este proyecto refleja la creencia de que las barreras educativas deben ser minim
 │   ├── semana6/             # Documentación técnica y servicio al cliente
 │   ├── semana7/             # Comunicaciones internas
 │   └── semana8/             # Resumen y Proyecto Comercial Informativo
-├── unidad3/                 # Comunicaciones Publicitarias (Semanas 9-14)
-│   ├── unidad3-resumen.md   # Fundamentos de transcreación
+├── unidad3/                 # Comunicaciones Persuasivas (Semanas 9-14)
+│   ├── unidad3-resumen.md   # Textos comerciales persuasivos
 │   ├── semana9/             # Fundamentos teóricos de publicidad y marketing
 │   ├── semana10/            # Publicidad impresa y marketing digital
-│   ├── semana11/            # Redes sociales y contenido web + Examen Parcial 2
-│   ├── semana12/            # Boletines informativos y email marketing
+│   ├── semana11/            # SEO, blogs y redes sociales + Examen Parcial 2
+│   ├── semana12/            # Boletines informativos y correos electrónicos promocionales
 │   ├── semana13/            # Eslóganes, lemas y textos creativos
 │   └── semana14/            # Resumen y Proyecto de Transcreación Persuasiva
-└── unidad4/                 # Conclusiones y Proyectos Finales (Semanas 15-17)
-    ├── unidad4-resumen.md   # Integración de conocimientos
-    ├── semana15/            # Introducción a proyectos finales
-    ├── semana16/            # Proyecto Final: Traducción (Examen Parcial 3)
-    └── semana17/            # Proyecto Final: Evaluaciones por compañeros (Examen Final)
+└── proyecto-final/          # Conclusiones y Proyectos Finales (Semanas 15-17)
+    ├── proyecto-final-intro.md         # Introducción a proyectos finales
+    ├── proyecto-final-traducción.md    # Proyecto Final: Traducción (Examen Parcial 3)
+    ├── proyecto-final-evaluaciones.md  # Proyecto Final: Evaluaciones (Examen Final)
+    └── proyecto-final-conclusion.md    # Proyecto Final: Conclusiones
 ```
 
 ### Navegación
