@@ -5,7 +5,7 @@ description: "TR14: Traducción Comercial ENG>ESP"
 remote_theme: just-the-docs/just-the-docs
 
 # Color scheme (optional)
-color_scheme: light
+color_scheme: dark
 
 # Enable search
 search_enabled: true
@@ -19,7 +19,7 @@ search:
 nav_sort: case_insensitive
 
 # Footer
-footer_content: "Copyright &copy; 2025 Alaina Brandt. Course materials for educational use."
+footer_content: "Copyright &copy; 2025 Alaina Brandt. Materiales del curso para uso educativo."
 
 # Plugins
 plugins:
