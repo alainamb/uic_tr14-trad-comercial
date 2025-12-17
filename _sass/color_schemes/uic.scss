@@ -1,31 +1,40 @@
 // Universidad Intercontinental Color Scheme
 
 // Primary colors - UIC green
-$body-background-color: #fdfcf8;           // Warm off-white background
-$sidebar-color: #1a472a;                   // Deep UIC green
-$link-color: #2d5f3f;                      // Lighter green for links
-$btn-primary-color: #1a472a;               // Primary button green
+$body-background-color: #fdfcf8;
+$sidebar-color: #1a472a;                   // Deep UIC green background
 
-// Accent and secondary
-$border-color: #e5e1d8;                    // Subtle warm border
-$code-background-color: #fdfcf8;           // Matches body background
-$table-background-color: #ffffff;          // Clean white for tables
+// Navigation colors - HIGH CONTRAST
+$nav-list-link-color: #ffffff;             // White text for nav links
+$nav-list-link-color-hover: #d4af37;       // Gold on hover
+$nav-list-link-color-active: #d4af37;      // Gold for active page
+$nav-child-link-color: #e5e1d8;            // Lighter for nested items
 
-// Text colors
-$body-text-color: #2c2c2c;                 // Primary text
-$body-heading-color: #1a472a;              // Headings in UIC green
-$nav-child-link-color: #5a5a5a;            // Secondary navigation text
-
-// Interactive elements
-$focus-color: #d4af37;                     // Gold accent for focus states
+// Main content
+$link-color: #2d5f3f;                      // Lighter green for body links
 $btn-primary-color: #1a472a;
 $base-button-color: #2d5f3f;
 
+// Accent and secondary
+$border-color: #e5e1d8;
+$code-background-color: #fdfcf8;
+$table-background-color: #ffffff;
+
+// Text colors
+$body-text-color: #2c2c2c;
+$body-heading-color: #1a472a;
+
+// Site title
+$site-title-color: #ffffff;                // White site title
+
+// Interactive elements
+$focus-color: #d4af37;
+
 // Feedback colors
-$green-000: #e8f5e9;                       // Success background
-$green-100: #2d5f3f;                       // Success text
-$red-000: #fce4e4;                         // Error background
-$red-100: #c7493a;                         // Error text
+$green-000: #e8f5e9;
+$green-100: #2d5f3f;
+$red-000: #fce4e4;
+$red-100: #c7493a;
 
 // Search and navigation
 $search-background-color: #ffffff;
