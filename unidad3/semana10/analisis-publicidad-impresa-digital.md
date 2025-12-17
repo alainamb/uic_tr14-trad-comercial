@@ -172,13 +172,10 @@ Cada campaña que analizas te prepara mejor para enfrentar tus propios desafíos
 ---
 
 ## 📥 Descarga este Contenido
-
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-comercial-publicitaria/blob/main/unidad3/semana10/analisis-contrastivo.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IAG
-
 Copia el contenido descargado y prueba estos prompts:
-
 - "Ayúdame a analizar esta campaña de [marca] según el modelo de análisis crítico del curso"
 - "¿Qué desafíos de transcreación presenta este eslogan [pega el eslogan] y cómo lo resolverías?"
 - "Compara las campañas de [marca] en México vs. EE.UU. - ¿qué estrategia transcreativa usaron?"

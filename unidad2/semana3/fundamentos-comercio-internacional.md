@@ -248,14 +248,11 @@ Algunos elementos requieren adaptación cultural mientras otros deben mantener e
 
 ---
 
-## Descarga esta Presentación
-
+## 📥 Descarga este Contenido
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad2/semana3/presentacion-comercio-internacional.md) y descárgalo.
 
-### Prompts de Estudio con IA
-
+### 🤖 Prompts de Estudio con IAG
 Copia el contenido descargado y prueba estos prompts:
-
 - "Explica las diferencias entre traducir documentos para el sector primario vs. terciario en comercio internacional"
 - "¿Cuáles son los errores más comunes al traducir Incoterms y cómo evitarlos?"
 - "Crea ejemplos de cómo el Sistema Armonizado afecta las decisiones de traducción de descripciones de productos"

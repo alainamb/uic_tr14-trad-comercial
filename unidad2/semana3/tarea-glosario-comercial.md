@@ -178,13 +178,10 @@ Los glosarios terminológicos son herramientas fundamentales en la traducción e
 ---
 
 ## 📥 Descarga este Contenido
-
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad2/semana3/tarea-glosario-comercial.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IAG
-
 Copia el contenido descargado y prueba estos prompts:
-
 - "Ayúdame a analizar este término comercial desde la perspectiva de un diario terminológico: [término específico]"
 - "¿Qué preguntas de investigación debería hacer sobre [término específico] para entender sus problemas de traducción?"
 - "Ayúdame a reflexionar sobre los problemas de traducción potenciales para [término específico] entre inglés y español"

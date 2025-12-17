@@ -285,13 +285,10 @@ Una vez que tu carpeta esté completa, crea una publicación en el canal `Proyec
 ---
 
 ## 📥 Descarga este Contenido
-
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/proyecto-final/proyecto-final-traduccion.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IAG
-
 Copia el contenido descargado y prueba estos prompts:
-
 - "Ayúdame a evaluar si [nombre de empresa] sería una buena opción para un proyecto final de traducción comercial/publicitaria"
 - "¿Cómo estructuro un análisis de buyer persona para [tipo de proyecto] considerando el mercado mexicano?"
 - "Revisa mi justificación de selección [pega tu borrador] - ¿es lo suficientemente clara y convincente?"

@@ -52,8 +52,7 @@ El curso concluye con un proyecto integrador de evaluación por pares que te per
 
 ---
 
-## 📥 Descargar este Contenido
-
+## 📥 Descarga este Contenido
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/overview/overview.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IAG

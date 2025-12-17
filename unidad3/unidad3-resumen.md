@@ -83,10 +83,10 @@ Esta unidad te llevará desde la comprensión teórica de la publicidad hasta la
 
 ---
 
-## 📥 Descargar Resumen de la Unidad 3
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad3/unidad3-resumen.md) y descárgalo!
+## 📥 Descarga este Contenido
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad3/unidad3-resumen.md) y descárgalo.
 
-### 🤖 Prompts de Estudio con IA
+### 🤖 Prompts de Estudio con IAG
 Copia el resumen descargado de la unidad y prueba estos prompts:
 - "Ayúdame a entender cómo la transcreación difiere de la traducción tradicional en contextos publicitarios"
 - "Crea un plan de estudio para dominar las técnicas de adaptación cultural en publicidad en 6 semanas"  

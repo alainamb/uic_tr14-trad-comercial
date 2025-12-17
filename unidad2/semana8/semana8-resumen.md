@@ -40,10 +40,10 @@ Esta semana integramos todos los conocimientos adquiridos durante la Unidad 2, r
 
 ---
 
-## 📥 Descargar Contenido de la Semana 8
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad2/semana8/semana8-resumen.md) y descárgalo!
+## 📥 Descarga este Contenido
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad2/semana8/semana8-resumen.md) y descárgalo.
 
-### 🤖 Prompts de Estudio con IA
+### 🤖 Prompts de Estudio con IAG
 Copia el contenido descargado de la semana y prueba estos prompts:
 - "Ayúdame a crear un informe de traducción completo que incluya análisis, justificaciones y glosario"
 - "¿Cuáles son los problemas morfosintácticos más comunes en traducción comercial inglés-español y cómo resolverlos?"

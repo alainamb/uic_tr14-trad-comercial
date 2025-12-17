@@ -150,13 +150,10 @@ Esta semana traducirás documentación para usuarios del software de traducción
 ---
 
 ## 📥 Descarga este Contenido
-
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad2/semana6/ejercicios-documentacion-usuarios.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IAG
-
 Copia el contenido descargado y prueba estos prompts:
-
 - "Ayúdame a analizar este fragmento de documentación de usuarios aplicando los principios de ISO 24495: [texto específico]"
 - "¿Qué problemas de pre-edición identificas en este texto fuente antes de traducirlo?"
 - "Evalúa si esta traducción de documentación técnica cumple con los principios de lenguaje claro"

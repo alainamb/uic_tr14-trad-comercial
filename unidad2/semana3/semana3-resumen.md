@@ -43,10 +43,10 @@ Esta semana nos enfocamos en los fundamentos teóricos del comercio internaciona
 
 ---
 
-## 📥 Descargar Contenido de la Semana 3
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad2/semana3/semana3-resumen.md) y descárgalo!
+## 📥 Descarga este Contenido
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad2/semana3/semana3-resumen.md) y descárgalo.
 
-### 🤖 Prompts de Estudio con IA
+### 🤖 Prompts de Estudio con IAG
 Copia el contenido descargado de la semana y prueba estos prompts:
 - "Ayúdame a crear un glosario de 10 términos comerciales internacionales con definiciones precisas"
 - "Explica las diferencias entre incoterms más comunes y sus implicaciones para la traducción"

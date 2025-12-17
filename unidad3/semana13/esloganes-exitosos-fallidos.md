@@ -201,14 +201,11 @@ Estas preguntas te preparan para las próximas actividades donde exploraremos lo
 
 ---
 
-## 📥 Descarga esta Actividad
-
+## 📥 Descarga este Contenido
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-comercial-publicitaria/blob/main/unidad3/semana13/esloganes-exitosos-fallidos.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IAG
-
 Copia el contenido descargado y prueba estos prompts:
-
 - "Ayúdame a analizar este caso de eslogan fallido/exitoso que encontré: [describe el caso]"
 - "¿Qué otros casos famosos de fracaso en transcreación de eslóganes debería investigar?"
 - "Explica por qué el caso de [marca específica] es considerado un éxito/fracaso en transcreación"

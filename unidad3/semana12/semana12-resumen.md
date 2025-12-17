@@ -38,10 +38,10 @@ Esta semana nos enfocamos en las características específicas de los boletines 
 
 ---
 
-## 📥 Descargar Contenido de la Semana 12
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad3/semana12/semana12-resumen.md) y descárgalo!
+## 📥 Descarga este Contenido
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad3/semana12/semana12-resumen.md) y descárgalo.
 
-### 🤖 Prompts de Estudio con IA
+### 🤖 Prompts de Estudio con IAG
 Copia el contenido descargado de la semana y prueba estos prompts:
 - "Ayúdame a adaptar elementos persuasivos en correos electrónicos para mercados hispanohablantes"
 - "¿Cómo mantengo la coherencia y progresión lógica al transcreear una campaña de email marketing?"

@@ -132,14 +132,11 @@ Este ejercicio te prepara directamente para tu [Tarea: Perfil Corporativo](tarea
 
 ---
 
-## 📥 Descarga esta Actividad
-
+## 📥 Descarga este Contenido
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad1/semana2/ejercicios-buyer-personas.md) y descárgalo.
 
-### 🤖 Prompts de Estudio con IA
-
+### 🤖 Prompts de Estudio con IAG
 Copia el contenido descargado y prueba estos prompts:
-
 - "Analiza las diferencias culturales en buyer personas entre [mercado fuente] y [mercado objetivo] para [empresa específica]"
 - "¿Cómo debería adaptar la estrategia de comunicación de [empresa] basándome en las diferencias de buyer personas identificadas?"
 - "Crea recomendaciones específicas para traducir contenido de [empresa] considerando tanto su voz de marca como su buyer persona objetivo"

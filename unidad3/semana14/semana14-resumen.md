@@ -40,10 +40,10 @@ Esta semana consolidamos los conocimientos de toda la unidad, enfocándonos en l
 
 ---
 
-## 📥 Descargar Contenido de la Semana 14
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad3/semana14/semana14-resumen.md) y descárgalo!
+## 📥 Descarga este Contenido
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad3/semana14/semana14-resumen.md) y descárgalo.
 
-### 🤖 Prompts de Estudio con IA
+### 🤖 Prompts de Estudio con IAG
 Copia el contenido descargado de la semana y prueba estos prompts:
 - "Ayúdame a integrar todos los conceptos de transcreación publicitaria en mi proyecto final"
 - "¿Cómo analizo el discurso persuasivo y las funciones expresiva y apelativa en textos publicitarios?"

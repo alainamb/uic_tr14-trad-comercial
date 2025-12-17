@@ -119,14 +119,11 @@ En la próxima página exploraremos cómo estos principios se aplican específic
 
 ---
 
-## 📥 Descarga este Archivo
-
+## 📥 Descarga este Contenido
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-comercial-publicitaria/blob/main/unidad3/semana11/medios-en-sitios-web.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IAG
-
 Copia el contenido descargado y prueba estos prompts:
-
 - "Explica las diferencias principales entre publicidad nativa y banners display tradicionales, con ejemplos"
 - "¿Cómo debo adaptar palabras clave del inglés al español mexicano para optimización SEO?"
 - "Analiza este sitio web [pega URL] e identifica qué tipos de contenido web están presentes"

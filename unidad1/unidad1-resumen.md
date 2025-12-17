@@ -67,10 +67,10 @@ Esta unidad establece los cimientos conceptuales para todo el curso, proporcion�
 
 ---
 
-## 📥 Descargar Resumen de la Unidad 1
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad1/unidad1-resumen.md) y descárgalo!
+## 📥 Descarga este Contenido
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad1/unidad1-resumen.md) y descárgalo.
 
-### 🤖 Prompts de Estudio con IA
+### 🤖 Prompts de Estudio con IAG
 Copia el resumen descargado de la unidad y prueba estos prompts:
 - "Ayúdame a entender cómo la voz de marca influye en las decisiones de traducción comercial"
 - "Crea un plan de estudio para dominar los conceptos de audiencia y propósito comunicativo en 2 semanas"  

@@ -215,14 +215,11 @@ El análisis de voz que completaste hoy te servirá como guía constante durante
 
 ---
 
-## 📥 Descarga este Archivo
-
+## 📥 Descarga este Contenido
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-comercial-publicitaria/blob/main/unidad3/semana12/transcreacion-email-marketing.md) y descárgalo.
 
-### 🤖 Prompts de Estudio con IA
-
+### 🤖 Prompts de Estudio con IAG
 Copia el contenido descargado y prueba estos prompts:
-
 - "Ayúdame a analizar la voz de marca de Matthew Hussey usando las dimensiones de personalidad que identifiqué en mi análisis"
 - "Genera 5 opciones de transcreación para esta línea de asunto [pega ejemplo] considerando audiencia mexicana"
 - "¿Cómo transcreo este CTA [pega ejemplo] manteniendo el equilibrio entre invitación y acción?"

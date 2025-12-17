@@ -132,14 +132,11 @@ Esta síntesis prepara el terreno para la siguiente actividad, donde aplicarás 
 
 ---
 
-## 📥 Descarga esta Actividad
-
+## 📥 Descarga este Contenido
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-comercial-publicitaria/blob/main/unidad2/semana8/traduccion-comercial-informativa.md) y descárgalo.
 
-### 🤖 Prompts de Estudio con IA
-
+### 🤖 Prompts de Estudio con IAG
 Copia el contenido descargado y prueba estos prompts:
-
 - "Analiza las diferencias en estrategias de traducción entre comunicaciones internas corporativas y documentación contractual"
 - "¿Cómo puedo identificar rápidamente el tipo de audiencia y ajustar mi enfoque de traducción en consecuencia?"
 - "Explica cómo el mismo concepto técnico debe comunicarse diferentemente para usuarios finales vs. partes contractuales"

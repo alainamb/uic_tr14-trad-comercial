@@ -39,10 +39,10 @@ Esta semana nos enfocamos en las características específicas del contenido par
 
 ---
 
-## 📥 Descargar Contenido de la Semana 11
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad3/semana11/semana11-resumen.md) y descárgalo!
+## 📥 Descarga este Contenido
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad3/semana11/semana11-resumen.md) y descárgalo.
 
-### 🤖 Prompts de Estudio con IA
+### 🤖 Prompts de Estudio con IAG
 Copia el contenido descargado de la semana y prueba estos prompts:
 - "Ayúdame a entender cómo integrar SEO en español en mi proyecto de transcreación digital"
 - "¿Cómo mantengo la coherencia de voz de marca al adaptar contenido para diferentes redes sociales?"

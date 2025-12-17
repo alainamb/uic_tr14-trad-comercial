@@ -192,13 +192,10 @@ La traducción será evaluada usando criterios adaptados del **Marco MQM (Multid
 ---
 
 ## 📥 Descarga este Contenido
-
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad2/semana6/tarea-documentacion-usuarios.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IAG
-
 Copia el contenido descargado y prueba estos prompts para preparación grupal:
-
 - "Ayúdanos a crear 5 guías de estilo específicas para traducir documentación técnica de software del inglés al español mexicano"
 - "¿Cuáles son las mejores estrategias para manejar la expansión del texto en traducciones de documentación de interfaz de usuario?"
 - "Explica cómo mantener el formato markdown intacto mientras se traduce contenido técnico"

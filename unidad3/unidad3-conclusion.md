@@ -96,10 +96,10 @@ Tu dominio de la transcreación publicitaria te prepara para la Unidad 4, donde 
 
 ---
 
-## 📥 Descargar Conclusión de la Unidad 3
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad3/unidad3-conclusion.md) y descárgalo!
+## 📥 Descarga este Contenido
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad3/unidad3-conclusion.md) y descárgalo.
 
-### 🤖 Prompts de Estudio con IA
+### 🤖 Prompts de Estudio con IAG
 Copia la conclusión descargada y prueba estos prompts:
 - "Ayúdame a reflexionar sobre mi desarrollo en transcreación publicitaria e identificar fortalezas y áreas de mejora"
 - "Crea un plan para aplicar mis competencias de transcreación en proyectos profesionales futuros"

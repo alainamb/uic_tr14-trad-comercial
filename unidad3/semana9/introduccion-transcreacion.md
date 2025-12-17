@@ -119,14 +119,11 @@ Reflexiona sobre:
 
 ---
 
-## 📥 Descarga este Archivo
-
+## 📥 Descarga este Contenido
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-comercial-publicitaria/blob/main/unidad3/semana9/introduccion-transcreacion.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IAG
-
 Copia el contenido descargado y prueba estos prompts:
-
 - "Ayúdame a entender las diferencias prácticas entre traducción, localización y transcreación con ejemplos específicos de publicidad"
 - "¿Cómo decido qué estrategia usar (traducción/localización/transcreación) para diferentes tipos de textos publicitarios?"
 - "Explica el espectro de servicios lingüísticos de FIT y dame ejemplos de textos para cada categoría"

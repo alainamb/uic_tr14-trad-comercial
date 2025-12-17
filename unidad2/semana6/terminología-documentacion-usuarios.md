@@ -199,13 +199,10 @@ Mientras completas las actividades, considera:
 ---
 
 ## 📥 Descarga este Contenido
-
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-comercial-publicitaria/blob/main/unidad2/semana6/terminología-documentacion-usuarios.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IAG
-
 Copia el contenido descargado y prueba estos prompts:
-
 - "Analiza las diferencias entre gestión terminológica para empresas grandes vs. pequeñas basándote en la entrevista de Monika"
 - "¿Cómo puedo aplicar los principios de NetApp para gestionar terminología en un proyecto de traducción de manual de usuario?"
 - "Explica las mejores prácticas para traducir documentación técnica manteniendo consistencia terminológica"

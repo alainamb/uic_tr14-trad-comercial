@@ -289,13 +289,10 @@ Tu comentario final debe ofrecer una evaluación holística:
 ---
 
 ## 📥 Descarga este Contenido
-
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/proyecto-final/proyectos-finales-evaluaciones.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IAG
-
 Copia las instrucciones descargadas y prueba estos prompts:
-
 - "Ayúdame a entender las diferencias entre evaluar proyectos informativos vs. persuasivos en traducción comercial"
 - "¿Cómo puedo proporcionar retroalimentación específica y constructiva usando la rúbrica del curso?"
 - "Genera preguntas que puedo hacerme al evaluar [terminología/decisiones de transcreación/análisis de audiencia]"

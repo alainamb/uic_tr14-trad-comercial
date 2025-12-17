@@ -68,7 +68,7 @@ Conforme trabajemos en el curso, puedes descubrir recursos excelentes que benefi
 
 ---
 
-## 📥 Descargar este Contenido
+## 📥 Descarga este Contenido
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/overview/bibliografia.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IAG

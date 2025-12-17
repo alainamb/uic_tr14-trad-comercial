@@ -112,14 +112,11 @@ Lee el resumen y la introducción del capítulo "[Families of Law](https://githu
 
 ---
 
-## Descarga esta Presentación
-
+## 📥 Descarga este Contenido
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad2/semana5/presentacion-contratos-comerciales.md) y descárgalo.
 
-### Prompts de Estudio con IA
-
+### 🤖 Prompts de Estudio con IAG
 Copia el contenido descargado y prueba estos prompts:
-
 - "Explica las diferencias entre sistemas de Common Law y Civil Law y cómo afectan la traducción de contratos comerciales"
 - "¿Cuáles son las convenciones textuales específicas que debo identificar en contratos comerciales inglés-español?"
 - "Analiza las diferencias terminológicas entre contratos comerciales estadounidenses y mexicanos para [sector específico]"

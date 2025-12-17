@@ -131,14 +131,11 @@ Esta síntesis prepara el terreno para tu proyecto final de la unidad, donde apl
 
 ---
 
-## 📥 Descarga esta Actividad
-
+## 📥 Descarga este Contenido
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-comercial-publicitaria/blob/main/unidad3/semana14/transcreacion-publicitaria-sintesis.md) y descárgalo.
 
-### 🤖 Prompts de Estudio con IA
-
+### 🤖 Prompts de Estudio con IAG
 Copia el contenido descargado y prueba estos prompts:
-
 - "Ayúdame a identificar patrones en mis estrategias de transcreación a través de diferentes formatos publicitarios"
 - "¿Cómo puedo determinar rápidamente qué nivel de transcreación requiere cada formato publicitario?"
 - "Analiza las diferencias en restricciones creativas entre eslóganes, email marketing y publicidad impresa"

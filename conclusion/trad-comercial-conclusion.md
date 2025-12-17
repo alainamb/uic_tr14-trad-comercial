@@ -145,10 +145,10 @@ El mundo empresarial global necesita profesionales capacitadas que puedan tender
 
 ---
 
-## 📥 Descargar Conclusión del Curso
+## 📥 Descarga este Contenido
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-comercial-publicitaria/blob/main/conclusion/trad-comercial-conclusion.md) y descárgalo.
 
-### 🤖 Prompts de Estudio con IA
+### 🤖 Prompts de Estudio con IAG
 Copia la conclusión descargada y prueba estos prompts:
 - "Ayúdame a crear un portafolio profesional destacando mi especialización en traducción comercial y publicitaria"
 - "¿Cómo puedo posicionarme efectivamente en el mercado como especialista en transcreación?"

@@ -146,14 +146,11 @@ Después de revisar las publicaciones de otros grupos, considera:
 
 ---
 
-## 📥 Descarga esta Actividad
-
+## 📥 Descarga este Contenido
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad2/semana3/analisis-contenido-informativo.md) y descárgalo.
 
-### 🤖 Prompts de Estudio con IA
-
+### 🤖 Prompts de Estudio con IAG
 Copia el contenido descargado y prueba estos prompts:
-
 - "Ayúdame a analizar las características específicas de [tipo de documento] y sus implicaciones para traducción comercial"
 - "¿Cuáles son los recursos terminológicos más confiables para traducir [documento específico] en el sector [industria específica]?"
 - "Crea ejemplos de cómo la audiencia afecta las decisiones de traducción en documentos comerciales similares a [documento analizado]"

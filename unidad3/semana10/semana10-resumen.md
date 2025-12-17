@@ -39,10 +39,10 @@ Esta semana nos enfocamos en las características distintivas de la publicidad i
 
 ---
 
-## 📥 Descargar Contenido de la Semana 10
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad3/semana10/semana10-resumen.md) y descárgalo!
+## 📥 Descarga este Contenido
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad3/semana10/semana10-resumen.md) y descárgalo.
 
-### 🤖 Prompts de Estudio con IA
+### 🤖 Prompts de Estudio con IAG
 Copia el contenido descargado de la semana y prueba estos prompts:
 - "Ayúdame a entender las diferencias entre transcreación para medios impresos vs. digitales"
 - "¿Cómo adapto elementos creativos considerando aspectos culturales en mi proyecto de transcreación?"

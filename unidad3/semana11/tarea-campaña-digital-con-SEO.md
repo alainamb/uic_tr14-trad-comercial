@@ -188,13 +188,10 @@ Considera estas preguntas conforme trabajas en el proyecto:
 ---
 
 ## 📥 Descarga este Contenido
-
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-comercial-publicitaria/blob/main/unidad3/semana11/tarea-campaña-digital-con-SEO.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IAG
-
 Copia el contenido descargado y prueba estos prompts:
-
 - "Ayúdame a identificar la mejor audiencia potencial para Whatnot en México basándome en el material de Labubu"
 - "¿Cómo puedo extraer un concepto central fuerte del proyecto Labubus que sea adaptable al mercado mexicano?"
 - "Genera 10 palabras clave potenciales en español mexicano para una plataforma de livestream shopping de coleccionables"

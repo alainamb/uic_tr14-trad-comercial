@@ -207,13 +207,10 @@ En proyectos profesionales de transcreación, estas recomendaciones visuales son
 ---
 
 ## 📥 Descarga este Contenido
-
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-comercial-publicitaria/blob/main/unidad3/semana10/tarea-transcreacion-publicidad.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IAG
-
 Copia el contenido descargado y prueba estos prompts:
-
 - "Ayúdame a hacer un análisis de sentido profundo para el anuncio de Coca-Cola [describe el anuncio]"
 - "Genera 20 opciones de transcreación para el eslogan [pega el eslogan] considerando el mercado mexicano"
 - "¿Cómo justifico que mi propuesta de transcreación es mejor que una traducción literal?"

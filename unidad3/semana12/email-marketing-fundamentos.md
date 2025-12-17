@@ -172,14 +172,11 @@ Más allá del cumplimiento legal mínimo, las marcas respetadas siguen principi
 
 ---
 
-## 📥 Descarga este Archivo
-
+## 📥 Descarga este Contenido
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-comercial-publicitaria/blob/main/unidad3/semana12/email-marketing-fundamentos.md) y descárgalo.
 
-### 🤖 Prompts de Estudio con IA
-
+### 🤖 Prompts de Estudio con IAG
 Copia el contenido descargado y prueba estos prompts:
-
 - "Ayúdame a analizar la estructura de este newsletter [pega ejemplo] identificando todos los componentes clave"
 - "¿Qué hace que una línea de asunto sea efectiva en mercados hispanohablantes vs. angloparlantes?"
 - "Explica las diferencias entre CAN-SPAM Act y la Ley Federal de Protección de Datos de México"

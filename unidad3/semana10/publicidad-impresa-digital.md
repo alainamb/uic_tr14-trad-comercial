@@ -232,14 +232,11 @@ El trabajo es de **alto riesgo** porque los errores son costosos, pero también 
 
 ---
 
-## 📥 Descarga este Archivo
-
+## 📥 Descarga este Contenido
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-comercial-publicitaria/blob/main/unidad3/semana10/publicidad-impresa-digital.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IAG
-
 Copia el contenido descargado y prueba estos prompts:
-
 - "Ayúdame a entender las diferencias entre transcreación para publicidad impresa vs. digital con ejemplos específicos"
 - "Explica cada etapa del flujo de trabajo transcreativo profesional y por qué es importante"
 - "¿Cómo manejo las limitaciones de espacio cuando el español es más largo que el inglés en publicidad?"

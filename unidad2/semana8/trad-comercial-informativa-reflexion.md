@@ -194,14 +194,11 @@ Este análisis te prepara para:
 
 ---
 
-## 📥 Descarga esta Actividad
-
+## 📥 Descarga este Contenido
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-comercial-publicitaria/blob/main/unidad2/semana8/trad-comercial-informativa-reflexion.md) y descárgalo.
 
-### 🤖 Prompts de Estudio con IA
-
+### 🤖 Prompts de Estudio con IAG
 Copia el contenido descargado y prueba estos prompts:
-
 - "Ayúdame a analizar retroactivamente mi traducción de [proyecto específico] usando los marcos de especificaciones, buyer persona y voz de marca"
 - "¿Cómo puedo identificar mejor las necesidades de audiencia al inicio de un proyecto de traducción comercial?"
 - "Evalúa si mi traducción de [proyecto] logró el balance apropiado entre formalidad y accesibilidad para [audiencia específica]"

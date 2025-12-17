@@ -82,10 +82,10 @@ Esta unidad te proporciona las competencias técnicas y terminológicas fundamen
 
 ---
 
-## 📥 Descargar Resumen de la Unidad 2
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad2/unidad2-resumen.md) y descárgalo!
+## 📥 Descarga este Contenido
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad2/unidad2-resumen.md) y descárgalo.
 
-### 🤖 Prompts de Estudio con IA
+### 🤖 Prompts de Estudio con IAG
 Copia el resumen descargado de la unidad y prueba estos prompts:
 - "Ayúdame a crear un plan de estudio para dominar la terminología del comercio internacional"
 - "¿Cuáles son las principales diferencias entre traducir comunicaciones internas vs. contratos comerciales?"

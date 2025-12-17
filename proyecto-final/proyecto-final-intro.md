@@ -66,10 +66,10 @@ Es decir, el proyecto final constituye 20 puntos, 20 por ciento de tu nota final
 
 ---
 
-## 📥 Descargar este Contenido
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/proyecto-final/proyecto-final-intro.md) y descárgalo!
+## 📥 Descarga este Contenido
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/proyecto-final/proyecto-final-intro.md) y descárgalo.
 
-### 🤖 Prompts de Estudio con IA
+### 🤖 Prompts de Estudio con IAG
 Copia el resumen descargado de la unidad y prueba estos prompts:
 - "Ayúdame a seleccionar entre un proyecto de traducción informativa y persuasiva"
 - "Crea un plan para mi proyecto final dado que voy a trabajar con [descripción breve del contenido]"

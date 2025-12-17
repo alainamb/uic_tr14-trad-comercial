@@ -41,10 +41,10 @@ Esta semana nos enfocamos en los conceptos fundamentales que guían la traducci�
 
 ---
 
-## 📥 Descargar Contenido de la Semana 2
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad1/semana2/semana2-resumen.md) y descárgalo!
+## 📥 Descarga este Contenido
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad1/semana2/semana2-resumen.md) y descárgalo.
 
-### 🤖 Prompts de Estudio con IA
+### 🤖 Prompts de Estudio con IAG
 Copia el contenido descargado de la semana y prueba estos prompts:
 - "Ayúdame a analizar la voz de marca de [empresa específica] para mi proyecto Perfil Corporativo"
 - "¿Cómo puedo crear buyer personas efectivas para mercados hispanohablantes?"

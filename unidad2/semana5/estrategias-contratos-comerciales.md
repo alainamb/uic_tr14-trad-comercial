@@ -186,14 +186,11 @@ Después de las presentaciones, considera:
 
 ---
 
-## 📥 Descarga esta Actividad
-
+## 📥 Descarga este Contenido
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad2/semana5/estrategias-contratos-comerciales.md) y descárgalo.
 
-### 🤖 Prompts de Estudio con IA
-
+### 🤖 Prompts de Estudio con IAG
 Copia el contenido descargado y prueba estos prompts:
-
 - "Ayúdame a analizar los binomios contractuales en este fragmento: [texto específico]"
 - "¿Cuáles son las mejores estrategias para traducir cláusulas de garantía en contratos comerciales?"
 - "Explica las diferencias terminológicas entre contratos de distribución y contratos de servicios profesionales"

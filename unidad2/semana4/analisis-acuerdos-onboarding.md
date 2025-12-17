@@ -106,14 +106,11 @@ Publica tu análisis en el canal **"Documentación Proveedores"** de Teams:
 
 ---
 
-## 📥 Descarga esta Actividad
-
+## 📥 Descarga este Contenido
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-comercial-publicitaria/blob/main/unidad2/semana4/analisis-acuerdos-onboarding.md) y descárgalo.
 
-### 🤖 Prompts de Estudio con IA
-
+### 🤖 Prompts de Estudio con IAG
 Copia el contenido descargado y prueba estos prompts:
-
 - "Ayúdame a identificar las diferencias más comunes entre contratos estadounidenses y mexicanos de servicios independientes"
 - "¿Cuáles son las consideraciones legales clave que afectan la traducción de contratos del inglés al español mexicano?"
 - "Explica las convenciones lingüísticas típicas de la redacción contractual en español vs. inglés"

@@ -129,14 +129,11 @@ A lo largo del semestre podemos discutir:
 
 ---
 
-## 📥 Descarga esta Actividad
-
+## 📥 Descarga este Contenido
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad1/semana1/trabajos-trad-comercial.md) y descárgalo.
 
-### 🤖 Prompts de Estudio con IA
-
+### 🤖 Prompts de Estudio con IAG
 Copia el contenido descargado de la actividad y prueba estos prompts:
-
 - "Analiza las tendencias del mercado laboral en traducción comercial basándome en [la oportunidad que encontré]: ¿qué competencias debería priorizar desarrollar?"
 - "Compara los requisitos de [puesto específico que encontré] con las competencias que desarrollaremos en este curso"
 - "¿Cómo puedo destacar como candidato para puestos de traducción comercial considerando las tendencias que observé en [tipo de empresa/sector]?"

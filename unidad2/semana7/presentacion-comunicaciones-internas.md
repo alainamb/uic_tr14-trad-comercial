@@ -190,14 +190,11 @@ Mientras avanzas en las actividades, considera:
 
 ---
 
-## 📥 Descarga esta Presentación
-
+## 📥 Descarga este Contenido
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad2/semana4/presentacion-comunicaciones-internas.md) y descárgalo.
 
-### 🤖 Prompts de Estudio con IA
-
+### 🤖 Prompts de Estudio con IAG
 Copia el contenido descargado y prueba estos prompts:
-
 - "Ayúdame a analizar cómo el employer branding de [empresa específica] se refleja en sus comunicaciones internas"
 - "¿Qué estrategias de traducción son más efectivas para mantener la cultura corporativa en comunicaciones internas?"
 - "Explica las diferencias entre traducir para audiencias internas vs. externas en el contexto empresarial"

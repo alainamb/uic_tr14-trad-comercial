@@ -94,10 +94,10 @@ Tu sólida base en traducción de comunicaciones informativas te prepara para la
 
 ---
 
-## 📥 Descargar Conclusión de la Unidad 2
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad2/unidad2-conclusion.md) y descárgalo!
+## 📥 Descarga este Contenido
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad2/unidad2-conclusion.md) y descárgalo.
 
-### 🤖 Prompts de Estudio con IA
+### 🤖 Prompts de Estudio con IAG
 Copia la conclusión descargada y prueba estos prompts:
 - "Ayúdame a reflexionar sobre mi progreso en terminología comercial especializada e identificar áreas de mejora"
 - "Crea un plan de repaso para consolidar mis competencias en traducción de comunicaciones internas"

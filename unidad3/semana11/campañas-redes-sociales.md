@@ -260,14 +260,11 @@ El éxito en este campo combina habilidades lingüísticas con comprensión cult
 
 ---
 
-## 📥 Descarga este Archivo
-
+## 📥 Descarga este Contenido
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-comercial-publicitaria/blob/main/unidad3/semana11/campañas-redes-sociales.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IAG
-
 Copia el contenido descargado y prueba estos prompts:
-
 - "Ayúdame a analizar esta campaña de redes sociales [pega ejemplos] según los principios del curso"
 - "¿Cómo adapto este hashtag en inglés [#ejemplo] para el mercado mexicano de manera efectiva?"
 - "Genera 3 variantes transcreadas de esta publicación [pega texto] optimizadas para Instagram México"

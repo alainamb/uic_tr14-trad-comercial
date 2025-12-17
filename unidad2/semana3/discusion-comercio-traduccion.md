@@ -105,14 +105,11 @@ Al final de la actividad, revisaremos juntos:
 
 ---
 
-## 📥 Descarga esta Actividad
-
+## 📥 Descarga este Contenido
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad2/semana3/discusion-comercio-traduccion.md) y descárgalo.
 
-### 🤖 Prompts de Estudio con IA
-
+### 🤖 Prompts de Estudio con IAG
 Copia el contenido descargado y prueba estos prompts:
-
 - "Ayúdame a reflexionar sobre las competencias que necesito desarrollar para especializarme en traducción de [sector específico]"
 - "¿Cuáles son los principales desafíos éticos y profesionales al traducir documentos comerciales internacionales?"
 - "Crea un plan de desarrollo profesional para especializarme en traducción comercial durante los próximos 2 años"

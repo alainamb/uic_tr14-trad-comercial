@@ -128,14 +128,11 @@ Esto explica por qué la transcreación de eslóganes es tan compleja - debes ma
 
 ---
 
-## 📥 Descarga esta Actividad
-
+## 📥 Descarga este Contenido
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-comercial-publicitaria/blob/main/unidad3/semana13/fundamentos-esloganes-lemas.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IAG
-
 Copia el contenido descargado y prueba estos prompts:
-
 - "Ayúdame a identificar qué recursos retóricos usa este eslogan: [pega el eslogan]"
 - "Analiza este eslogan según las características de efectividad: [pega el eslogan]"
 - "¿Qué tipo de función cumple este eslogan (descriptivo, emocional, aspiracional, etc.)? [pega el eslogan]"

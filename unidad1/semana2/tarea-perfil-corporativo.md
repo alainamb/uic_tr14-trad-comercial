@@ -144,14 +144,11 @@ Referencias en formato profesional:
 
 ---
 
-## 📥 Descarga esta Tarea
-
+## 📥 Descarga este Contenido
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad1/semana2/tarea-perfil-corporativo.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IAG
-
 Copia el contenido descargado y prueba estos prompts:
-
 - "Ayúdame a estructurar un reporte profesional sobre voz de marca para [empresa específica] dirigido a un Director de Localización"
 - "¿Cómo puedo integrar efectivamente análisis de voz de marca y buyer personas en recomendaciones accionables?"
 - "Crea un esquema detallado para mi Perfil Corporativo de [empresa] incluyendo puntos clave para cada sección"

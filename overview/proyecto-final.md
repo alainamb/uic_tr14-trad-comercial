@@ -87,8 +87,7 @@ Esta unidad contiene:
 
 ---
 
-## 📥 Descargar este Contenido
-
+## 📥 Descarga este Contenido
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/overview/proyecto-final.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IAG

@@ -167,13 +167,10 @@ Los newsletters de Matthew Hussey son relativamente largos comparados con emails
 ---
 
 ## 📥 Descarga este Contenido
-
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-comercial-publicitaria/blob/main/unidad3/semana12/tarea-transcreacion-newsletters-hussey.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IAG
-
 Copia el contenido descargado y prueba estos prompts:
-
 - "Ayúdame a crear un mini-glosario de términos psicológicos clave de Matthew Hussey para mantener consistencia entre mis dos newsletters"
 - "Revisa esta transcreación [pega fragmento] - ¿mantiene la voz empática pero directiva de Matthew Hussey?"
 - "¿Cómo transcreo esta metáfora [pega ejemplo] para que resuene con audiencia mexicana?"

@@ -142,14 +142,11 @@ Publica tu análisis preliminar en el canal **"Comunicaciones Internas"** de Tea
 
 ---
 
-## 📥 Descarga esta Actividad
-
+## 📥 Descarga este Contenido
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad2/semana4/traduccion-comunicaciones-internas.md) y descárgalo.
 
-### 🤖 Prompts de Estudio con IA
-
+### 🤖 Prompts de Estudio con IAG
 Copia el contenido descargado y prueba estos prompts:
-
 - "Ayúdame a analizar la audiencia objetivo del contenido 'Life at NetApp' para optimizar mi traducción al español mexicano"
 - "¿Cuáles son las mejores estrategias para traducir nombres de programas de diversidad e inclusión del inglés al español?"
 - "Explica las diferencias culturales que debo considerar al traducir contenido de employer branding de una empresa estadounidense para audiencia mexicana"

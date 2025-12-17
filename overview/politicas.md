@@ -113,7 +113,7 @@ En este curso la mayoría de las tareas son individuales y debes entregar trabaj
 
 ---
 
-## 📥 Descargar este Contenido
+## 📥 Descarga este Contenido
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/overview/politicas.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IAG

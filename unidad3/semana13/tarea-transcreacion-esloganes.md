@@ -271,13 +271,10 @@ Identifica qué recursos usa el original y considera si puedes recrearlos o usar
 ---
 
 ## 📥 Descarga este Contenido
-
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-comercial-publicitaria/blob/main/unidad3/semana13/tarea-transcreacion-esloganes.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IAG
-
 Copia el contenido descargado y prueba estos prompts:
-
 - "Ayúdame a identificar categorías conceptuales para el eslogan [pega el eslogan] de [nombre de empresa]"
 - "Genera 20 opciones de transcreación para [eslogan] considerando el mercado mexicano"
 - "¿Qué recursos retóricos tiene este eslogan [pega eslogan] y cómo puedo recrearlos en español?"

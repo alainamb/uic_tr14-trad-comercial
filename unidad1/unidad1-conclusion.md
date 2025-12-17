@@ -84,10 +84,10 @@ Tu sólida base conceptual en traducción comercial y publicitaria te prepara pa
 
 ---
 
-## 📥 Descargar Conclusión de la Unidad 1
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad1/unidad1-conclusion.md) y descárgalo!
+## 📥 Descarga este Contenido
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad1/unidad1-conclusion.md) y descárgalo.
 
-### 🤖 Prompts de Estudio con IA
+### 🤖 Prompts de Estudio con IAG
 Copia la conclusión descargada y prueba estos prompts:
 - "Ayúdame a reflexionar sobre mi comprensión de voz de marca e identificar áreas de mejora"
 - "Crea un plan de estudio para reforzar mis habilidades conceptuales mientras aprendo aplicaciones prácticas en la Unidad 2"

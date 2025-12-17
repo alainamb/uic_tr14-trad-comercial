@@ -36,10 +36,10 @@ Esta semana nos enfocamos en los fundamentos de la traducción comercial y publi
 
 ---
 
-## 📥 Descargar Contenido de la Semana 1
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad1/semana1/semana1-resumen.md) y descárgalo!
+## 📥 Descarga este Contenido
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad1/semana1/semana1-resumen.md) y descárgalo.
 
-### 🤖 Prompts de Estudio con IA
+### 🤖 Prompts de Estudio con IAG
 Copia el contenido descargado de la semana y prueba estos prompts:
 - "Ayúdame a entender las diferencias entre traducción comercial y publicitaria como especializaciones"
 - "Explica las oportunidades profesionales específicas en traducción comercial para el mercado México-Estados Unidos"

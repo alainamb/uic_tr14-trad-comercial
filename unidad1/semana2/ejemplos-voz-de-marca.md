@@ -134,14 +134,11 @@ Los conceptos teóricos utilizados en esta actividad provienen de:
 
 ---
 
-## 📥 Descarga esta Actividad
-
+## 📥 Descarga este Contenido
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad1/semana2/ejemplos-voz-de-marca.md) y descárgalo.
 
-### 🤖 Prompts de Estudio con IA
-
+### 🤖 Prompts de Estudio con IAG
 Copia el contenido descargado y prueba estos prompts:
-
 - "Analiza la voz de marca de [empresa que seleccionaste] usando las dimensiones de personalidad mexicanas identificadas por Toldos Romero"
 - "¿Cómo puede [empresa específica] mejorar su adaptación cultural en México basándose en los elementos analizados?"
 - "Compara las estrategias de localización de voz de marca entre [dos empresas de tu análisis]"

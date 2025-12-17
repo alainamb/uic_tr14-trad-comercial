@@ -132,13 +132,10 @@ Tu página de obras consultadas debe incluir lo siguiente:
 ---
 
 ## 📥 Descarga este Contenido
-
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-comercial-publicitaria/blob/main/unidad3/semana9/tarea-analisis-campaña.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IAG
-
 Copia el contenido descargado y prueba estos prompts:
-
 - "Ayúdame a estructurar el análisis de la campaña publicitaria de [marca] comparando sus estrategias en EE.UU. y México"
 - "¿Cómo identifico si una pieza publicitaria pertenece a la etapa de Conciencia, Consideración o Decisión del buyer's journey?"
 - "Analiza este texto publicitario [pega el texto] y dime qué estrategia de FIT (traducción/localización/transcreación) debería usarse"

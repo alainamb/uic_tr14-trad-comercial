@@ -149,13 +149,10 @@ Considerando tus puntuaciones de correspondencia y legibilidad, puedes determina
 ---
 
 ## 📥 Descarga este Contenido
-
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-comercial-publicitaria/blob/main/unidad2/semana4/tarea-traduccion-contractor-onboarding.md) y descárgalo.
 
-### 🤖 Prompts de Estudio con IA
-
+### 🤖 Prompts de Estudio con IAG
 Copia el contenido descargado y prueba estos prompts para preparación grupal:
-
 - "Ayúdanos a crear un plan de trabajo colaborativo eficiente para traducir documentación técnica de control de calidad en localización del inglés al español mexicano"
 - "¿Cuáles son los términos especializados más importantes en la industria de traducción y localización que debemos investigar para este proyecto?"
 - "Explica las mejores prácticas para traducir documentos de capacitación técnica manteniendo claridad y precisión terminológica"

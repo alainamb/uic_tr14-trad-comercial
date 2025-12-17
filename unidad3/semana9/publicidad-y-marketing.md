@@ -143,14 +143,11 @@ Como traductoras y traductores especializados, deben recordar:
 
 ---
 
-## 📥 Descarga este Archivo
-
+## 📥 Descarga este Contenido
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-comercial-publicitaria/blob/main/unidad3/semana9/publicidad-y-marketing.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IAG
-
 Copia el contenido descargado y prueba estos prompts:
-
 - "Ayúdame a entender las diferencias prácticas entre marketing y publicidad con ejemplos específicos de campañas reales"
 - "Explica cómo las 4 P's del marketing afectan las decisiones de traducción en textos publicitarios"
 - "¿Qué desafíos específicos presenta la traducción de cada tipo de publicidad (B2B, B2C, emocional, informativa)?"

@@ -155,12 +155,11 @@ Esta actividad te prepara para:
 
 ---
 
-## 📥 Descarga esta Actividad
-
+## 📥 Descarga este Contenido
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad1/semana1/trad-comercial-case-studies.md) y descárgalo.
 
-Para profundizar en tu análisis después de la clase, prueba estos prompts con tu herramienta de IA preferida:
-
+### 🤖 Prompts de Estudio con IAG
+Copia el contenido descargado de la semana y prueba estos prompts:
 - "Analiza las diferencias entre comunicación informativa y persuasiva en [la empresa que seleccionaste]: ¿qué estrategias de traducción serían más efectivas para cada tipo?"
 - "¿Cómo afecta el sector empresarial [tecnología/retail/alimentario/etc.] a las especificaciones de traducción comercial?"
 - "Compara las especificaciones de traducción para [tipo específico de comunicación que analizaste] versus otros tipos de textos empresariales"

@@ -398,13 +398,10 @@ Imagina que este reporte será leído por ejecutivos de Coca-Cola que tienen que
 ---
 
 ## 📥 Descarga este Contenido
-
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-comercial-publicitaria/blob/main/unidad3/semana10/plantilla-reporte-transcreacion.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IAG
-
 Copia el contenido descargado y prueba estos prompts:
-
 - "Ayúdame a estructurar mi análisis de sentido siguiendo esta plantilla para el anuncio [describe el anuncio]"
 - "Revisa mi sección de [nombre de sección] y sugiere cómo mejorarla según la plantilla profesional"
 - "¿Cómo escribo justificaciones estratégicas convincentes para mi recomendación final?"

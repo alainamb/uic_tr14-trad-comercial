@@ -202,13 +202,10 @@ Como traductoras y traductores especializados, deben recordar:
 ---
 
 ## 📥 Descarga este Archivo
-
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-comercial-publicitaria/blob/main/unidad3/semana9/recorrido-del-comprador.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IAG
-
 Copia el contenido descargado y prueba estos prompts:
-
 - "Ayúdame a identificar en qué etapa del recorrido del comprador se ubican diferentes tipos de anuncios que encuentro en redes sociales"
 - "Explica cómo cambian las estrategias de traducción para un mismo producto según la etapa del buyer's journey"
 - "¿Qué diferencias culturales existen entre el recorrido del comprador en México vs. Estados Unidos?"

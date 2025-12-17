@@ -42,10 +42,10 @@ Esta semana nos enfocamos en los fundamentos teóricos de la publicidad y el mar
 
 ---
 
-## 📥 Descargar Contenido de la Semana 9
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad3/semana9/semana9-resumen.md) y descárgalo!
+## 📥 Descarga este Contenido
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad3/semana9/semana9-resumen.md) y descárgalo.
 
-### 🤖 Prompts de Estudio con IA
+### 🤖 Prompts de Estudio con IAG
 Copia el contenido descargado de la semana y prueba estos prompts:
 - "Ayúdame a analizar una campaña publicitaria internacional para mi proyecto, explicando las diferencias entre mercados angloparlantes e hispanohablantes"
 - "Explica las diferencias entre traducción convencional y transcreación con ejemplos específicos de publicidad"

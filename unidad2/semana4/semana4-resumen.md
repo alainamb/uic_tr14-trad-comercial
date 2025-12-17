@@ -37,10 +37,10 @@ Esta semana nos enfocamos en la traducción de correspondencia con proveedores, 
 
 ---
 
-## 📥 Descargar Contenido de la Semana 4
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad2/semana4/semana4-resumen.md) y descárgalo!
+## 📥 Descarga este Contenido
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad2/semana4/semana4-resumen.md) y descárgalo.
 
-### 🤖 Prompts de Estudio con IA
+### 🤖 Prompts de Estudio con IAG
 Copia el contenido descargado de la semana y prueba estos prompts:
 - "Ayúdame a comprender el proceso de vendor onboarding y su terminología especializada"
 - "¿Cuáles son las diferencias clave entre cotizaciones, pedidos y órdenes de compra en terminología comercial?"

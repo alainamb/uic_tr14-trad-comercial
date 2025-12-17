@@ -38,10 +38,10 @@ Esta semana nos enfocamos en la traducción de comunicaciones internas empresari
 
 ---
 
-## 📥 Descargar Contenido de la Semana 7
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad2/semana7/semana7-resumen.md) y descárgalo!
+## 📥 Descarga este Contenido
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad2/semana7/semana7-resumen.md) y descárgalo.
 
-### 🤖 Prompts de Estudio con IA
+### 🤖 Prompts de Estudio con IAG
 Copia el contenido descargado de la semana y prueba estos prompts:
 - "Ayúdame a identificar las diferencias clave entre políticas empresariales, memorandos y correos corporativos"
 - "¿Cuáles son las convenciones de registro y estilo para comunicaciones internas en español empresarial?"

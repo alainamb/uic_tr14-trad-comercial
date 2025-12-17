@@ -132,14 +132,11 @@ Mientras avanzas en las actividades, considera:
 
 ---
 
-## 📥 Descarga esta Presentación
-
+## 📥 Descarga este Contenido
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad1/semana2/presentacion-voz-audiencia.md) y descárgalo.
 
-### 🤖 Prompts de Estudio con IA
-
+### 🤖 Prompts de Estudio con IAG
 Copia el contenido descargado y prueba estos prompts:
-
 - "Ayúdame a analizar cómo la voz de marca de [empresa específica] se adapta a diferentes audiencias sin perder coherencia"
 - "Explica las implicaciones éticas de usar buyer personas en traducción comercial para mercados hispanohablantes"
 - "¿Cómo pueden los hallazgos sobre personalidad de marca en México influir en mis decisiones de traducción?"

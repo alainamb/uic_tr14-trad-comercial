@@ -80,12 +80,11 @@ Después de completar la presentación y las encuestas, considera estas pregunta
 
 ---
 
-## 📥 Descarga esta Actividad
-
+## 📥 Descarga este Contenido
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad1/semana1/exposicion-introductoria.md) y descárgalo.
 
-Para profundizar en los conceptos después de la clase, prueba estos prompts con tu herramienta de IA preferida:
-
+### 🤖 Prompts de Estudio con IAG
+Copia el contenido descargado de la semana y prueba estos prompts:
 - "Explica las diferencias clave entre traducción comercial informativa y transcreación publicitaria con ejemplos específicos"
 - "¿Qué competencias específicas necesito desarrollar para destacar en [traducción informativa/transcreación publicitaria]?"
 - "Analiza cómo la voz de marca influye diferentemente en textos informativos vs. publicitarios"

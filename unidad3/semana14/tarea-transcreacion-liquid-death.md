@@ -168,13 +168,10 @@ El mensaje #DeathToPlastic es central para Liquid Death. En México, la concienc
 ---
 
 ## 📥 Descarga este Contenido
-
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-comercial-publicitaria/blob/main/unidad3/semana14/tarea-transcreacion-liquid-death.md) y descárgalo.
 
-### 🤖 Prompts de Estudio con IA
-
+### 🤖 Prompts de Estudio con IAG
 Copia el contenido descargado y prueba estos prompts:
-
 - "Analiza la voz de marca de Liquid Death y cómo traducirla efectivamente al español mexicano"
 - "¿Cómo puedo adaptar humor irreverente sobre muerte para audiencia mexicana sin perder edge?"
 - "Genera 3 opciones de transcreación para 'Murder Your Thirst' considerando cultura mexicana"

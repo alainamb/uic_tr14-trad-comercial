@@ -378,14 +378,11 @@ Esta semana aplicarás todo lo aprendido a la transcreación real de eslóganes.
 
 ---
 
-## 📥 Descarga esta Actividad
-
+## 📥 Descarga este Contenido
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-comercial-publicitaria/blob/main/unidad3/semana13/estrategias-transcreacion-esloganes.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IAG
-
 Copia el contenido descargado y prueba estos prompts:
-
 - "Ayúdame a hacer un análisis de sentido profundo para este eslogan: [pega el eslogan]"
 - "Genera 20 opciones de transcreación para [eslogan] usando las categorías conceptuales: [lista categorías]"
 - "¿Qué estrategia de manejo de metáforas lexicalizadas debo usar para [eslogan específico]?"

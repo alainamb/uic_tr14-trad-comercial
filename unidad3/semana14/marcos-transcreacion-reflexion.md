@@ -204,14 +204,11 @@ Este análisis te prepara para:
 
 ---
 
-## 📥 Descarga esta Actividad
-
+## 📥 Descarga este Contenido
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-comercial-publicitaria/blob/main/unidad3/semana14/marcos-transcreacion-reflexion.md) y descárgalo.
 
-### 🤖 Prompts de Estudio con IA
-
+### 🤖 Prompts de Estudio con IAG
 Copia el contenido descargado y prueba estos prompts:
-
 - "Ayúdame a analizar retroactivamente mi transcreación de [proyecto específico] usando el marco de Ben Karl"
 - "¿Cómo puedo identificar si mi trabajo fue traducción, localización o transcreación total?"
 - "Evalúa si mi transcreación de [proyecto] logró el balance apropiado entre las dimensiones lingüística, cultural y emocional"

@@ -42,10 +42,10 @@ Esta semana nos enfocamos en la traducción de documentación técnica y comunic
 
 ---
 
-## 📥 Descargar Contenido de la Semana 6
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad2/semana6/semana6-resumen.md) y descárgalo!
+## 📥 Descarga este Contenido
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr14-trad-comercial/blob/main/unidad2/semana6/semana6-resumen.md) y descárgalo.
 
-### 🤖 Prompts de Estudio con IA
+### 🤖 Prompts de Estudio con IAG
 Copia el contenido descargado de la semana y prueba estos prompts:
 - "Ayúdame a entender los principios del lenguaje claro aplicados a manuales de usuario"
 - "¿Cuáles son las diferencias culturales clave en expectativas de documentación técnica entre mercados anglófonos e hispanohablantes?"
