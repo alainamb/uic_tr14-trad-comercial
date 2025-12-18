@@ -1,44 +1,24 @@
-// Universidad Intercontinental Color Scheme - Light & Clean
-// Simple approach: light green sidebar, dark green text
+// Green color scheme for TR35 Business English
 
-// Sidebar - Light sage green
-$sidebar-color: #e8f5e9;                   // Very light green background
+// Sidebar background - light green
+$sidebar-color: #e8f5e9;  // Very light green, adjust as needed
 
-// Navigation - Dark green text
-$nav-list-link-color: #1a472a;             // Dark UIC green for links
-$nav-list-link-color-hover: #2d5f3f;       // Medium green on hover
-$nav-list-link-color-active: #2d5f3f;      // Medium green for active page
-$nav-child-link-color: #2a4a3a;            // Slightly muted for nested items
+// Link colors - dark green
+$link-color: #2e7d32;  // Dark green for links
+$link-hover-color: #1b5e20;  // Even darker on hover
 
-// Site title - Dark green
-$site-title-color: #1a472a;
+// Apply to Just the Docs variables
+$nav-list-link-color: $link-color;
+$nav-list-link-color-hover: $link-hover-color;
+$nav-list-link-color-active: $link-hover-color;
 
-// Main content area (keep light)
-$body-background-color: #ffffff;           // Pure white
-$content-background-color: #ffffff;          // Pure white
-$main-content-background-color: #ffffff;   // Pure white
-$body-text-color: #2c2c2c;                 // Dark gray text
-$body-heading-color: #1a472a;              // Green headings
-$link-color: #2d5f3f;                      // Green links
+// Body link colors
+$body-text-color: #424242;  // Keep default text color
+$body-link-color: $link-color;
+$body-link-hover-color: $link-hover-color;
 
-// Buttons
-$btn-primary-color: #1a472a;
-$base-button-color: #2d5f3f;
+// Search results
+$search-result-preview-color: $body-text-color;
 
-// Borders and backgrounds
-$border-color: #C0C0C0;
-$code-background-color: #f5f5f5;
-$table-background-color: #ffffff;
-
-// Interactive elements
-$focus-color: #d4af37;                     // Gold focus state
-
-// Search
-$search-background-color: #ffffff;
-$search-result-preview-color: #5a5a5a;
-
-// Feedback colors
-$green-000: #e8f5e9;
-$green-100: #2d5f3f;
-$red-000: #fce4e4;
-$red-100: #c7493a;
+// Buttons (optional - keeps them green themed)
+$btn-primary-color: $link-color;
